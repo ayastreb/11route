@@ -14,8 +14,10 @@ MIT License http://opensource.org/licenses/MIT
 */
 
 html, body {
-  height: auto;
+  height: 100%;
   min-height: 100%;
+  margin: 0px;
+  padding: 0px
 }
 
 img {

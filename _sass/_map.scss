@@ -1,0 +1,25 @@
+#container {
+  width: 100%;
+  height: 100%
+}
+
+#back {
+  z-index: 100;
+  position: absolute;
+  margin: 10px 0px 0px 110px;
+  background-color: #f9f9f9;
+  border: 1px #d7d7d7 Solid;
+  padding: 0px 10px 0px 10px;
+  a {
+    font-size: 13px;
+  }
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+
+  .map-marker {
+    display: none;
+  }
+}
