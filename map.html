@@ -9,7 +9,7 @@ layout: map
     <a href="{{ site.url }}">Home</a>
   </div>
   <div id="map"></div>
-  
+
   {% for post in site.posts %}
   <div class="map-marker"
        data-lat="{{ post.latitude }}"
@@ -26,14 +26,16 @@ layout: map
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       zoom: 3
     };
-    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
-    var markers = document.getElementsByClassName("map-marker");
-    for (var i = 0; i < markers.length; i++) {
-      var lat = markers[i].getAttribute("data-lat"),
-          lon = markers[i].getAttribute("data-lon"),
-          title = markers[i].getAttribute("data-title"),
-          url = markers[i].getAttribute("data-url");
+    var map = new google.maps.Map(document.getElementById("map"), mapOptions),
+        markerElements = document.getElementsByClassName("map-marker"),
+        markers = [];
+
+    for (var i = 0; i < markerElements.length; i++) {
+      var lat = markerElements[i].getAttribute("data-lat"),
+          lon = markerElements[i].getAttribute("data-lon"),
+          title = markerElements[i].getAttribute("data-title"),
+          url = markerElements[i].getAttribute("data-url");
 
       var marker = new google.maps.Marker({
         position: new google.maps.LatLng(lat, lon),
@@ -41,11 +43,14 @@ layout: map
         title: title,
         url: url
       });
-      
+
       marker.addListener('click', function () {
         window.location.href = this.url;
       });
+
+      markers.push(marker);
     }
+    var markerCluster = new MarkerClusterer(map, markers, {gridSize: 25});
   }
 </script>
 
