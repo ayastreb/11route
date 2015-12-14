@@ -1,20 +1,16 @@
 <div class="pagination clearfix mb1 mt4">
   <div class="left">
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ site.baseurl }}/">Предыдущие</a>
-      {% else %}
-        <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Предыдущие</a>
-      {% endif %}
-    {% else %}
-      <span class="pagination-item disabled">Предыдущие</span>
+    {% if paginator.next_page %}
+      <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Предыдущие</a>
     {% endif %}
   </div>
   <div class="right">
-    {% if paginator.next_page %}
-      <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Следующие</a>
-    {% else %}
-      <span class="pagination-item disabled">Следующие</span>
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="pagination-item" href="{{ site.baseurl }}/">Следующие</a>
+      {% else %}
+        <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Следующие</a>
+      {% endif %}
     {% endif %}
   </div>
 </div>
