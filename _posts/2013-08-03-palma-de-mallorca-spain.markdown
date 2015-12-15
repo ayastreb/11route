@@ -1,0 +1,39 @@
+---
+layout:     post
+permalink:  palma-de-mallorca-spain
+title:      Майорка, Испания
+date:       2013-08-03 12:00:00
+image:      http://images.11route.com/mallorca.jpg
+summary:    Выходные на Майорке
+categories: travel spain palma de mallorca
+latitude:   39.57119
+longitude:  2.6466339999999
+---
+
+Решили слетать на выходные на Майорку, и дабы сэкономить нашли почти самый дешевый отель на острове.
+
+<a href="http://www.flickr.com/photos/118782975@N05/12874634553/" title="IMAG0290 by elevenroute, on Flickr"><img src="http://farm4.staticflickr.com/3707/12874634553_d282628fc7_c.jpg" width="800" height="479" alt="IMAG0290"></a>
+<iframe width="800" height="450" src="//www.youtube.com/embed/BrYZcnA2YuU" frameborder="0" allowfullscreen></iframe>
+
+Вид с балкона.
+
+<a href="http://www.flickr.com/photos/118782975@N05/12862098513/" title="2013-08-03 15.07.18 by elevenroute, on Flickr"><img src="http://farm3.staticflickr.com/2805/12862098513_4cea1dabbf_c.jpg" width="800" height="598" alt="2013-08-03 15.07.18"></a>
+
+Кондиционера небыло.
+
+<a href="http://www.flickr.com/photos/118782975@N05/12862111403/" title="2013-08-03 15.07.06 by elevenroute, on Flickr"><img src="http://farm8.staticflickr.com/7372/12862111403_7cb5c45db3_c.jpg" width="800" height="598" alt="2013-08-03 15.07.06"></a>
+
+А под окном до 2-3 ночи играл хард-рок 80-х на местной дискотеке.<br/>
+Я Дип-пёрпл, конечно, уважаю, но не в 3 часа ночи же!
+
+Кафеха на пляже.
+
+<a href="http://www.flickr.com/photos/118782975@N05/12874974334/" title="IMAG0292 by elevenroute, on Flickr"><img src="http://farm8.staticflickr.com/7393/12874974334_bff52e6fce_c.jpg" width="800" height="479" alt="IMAG0292"></a>
+
+Дети строят замки из песка.
+
+<a href="http://www.flickr.com/photos/118782975@N05/12874628863/" title="IMAG0294 by elevenroute, on Flickr"><img src="http://farm3.staticflickr.com/2873/12874628863_2a5ac3a9ce_c.jpg" width="800" height="479" alt="IMAG0294"></a>
+
+Взрослые не отстают.
+
+<a href="http://www.flickr.com/photos/118782975@N05/12874534025/" title="IMAG0299 by elevenroute, on Flickr"><img src="http://farm4.staticflickr.com/3689/12874534025_c3bf2ce924_c.jpg" width="800" height="479" alt="IMAG0299"></a>
