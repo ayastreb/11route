@@ -3,7 +3,7 @@ layout:     post
 permalink:  madrid-spain-day-one
 title:      Мадрид - день 1
 date:       2014-04-11 12:00:00
-image:      http://images.11route.com/madrid-1.jpg
+image:      https://images.11route.com/madrid-1.jpg
 summary:    Первый день в Мадриде
 categories: travel spain madrid
 latitude:   40.4166889
@@ -50,13 +50,13 @@ A Nuestra Señora de la Paloma - 56 евро за ночь на двоих, од
 из отеля на площадь Майор, там обед. Потом в собор Альмудена и королевский дворец.<br/>
 Вечером тапас и в кино на нового Капитана Америка. 
 
-<a href="http://images.11route.com/madrid-map-1.png"><img src="http://images.11route.com/madrid-map-1.png" alt="map-1" width="800" height="543" /></a>
+<a href="https://images.11route.com/madrid-map-1.png"><img src="https://images.11route.com/madrid-map-1.png" alt="map-1" width="800" height="543" /></a>
 
 Площадь Майор.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13846936664" title="DSC00751 by Elevenroute, on Flickr"><img src="https://farm3.staticflickr.com/2935/13846936664_ebcc5f6b46_c.jpg" width="800" height="531" alt="DSC00751"></a>
 
-На площади очень много кафе-рестаранов. Мы выбрали тот, в котором было больше всего людей - <a href="http://www.tripadvisor.ru/Attraction_Review-g187514-d246523-Reviews-Museo_del_Jamon-Madrid.html" title="Museo del Jamon">Museo del Jamon</a>, и не ошиблись.
+На площади очень много кафе-рестаранов. Мы выбрали тот, в котором было больше всего людей - <a href="https://www.tripadvisor.ru/Attraction_Review-g187514-d246523-Reviews-Museo_del_Jamon-Madrid.html" title="Museo del Jamon">Museo del Jamon</a>, и не ошиблись.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13846932314" title="DSC00761 by Elevenroute, on Flickr"><img src="https://farm4.staticflickr.com/3818/13846932314_fae0ec3a83_c.jpg" width="800" height="531" alt="DSC00761"></a>
 

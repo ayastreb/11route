@@ -3,7 +3,7 @@ layout:     post
 permalink:  barcelona-spain-2014
 title:      Барселона, Испания
 date:       2014-09-14 12:00:00
-image:      http://images.11route.com/barcelona-2014.jpg
+image:      https://images.11route.com/barcelona-2014.jpg
 summary:    Отпуск в Барселоне
 categories: travel spain barcelona vacation
 latitude:   41.3850639

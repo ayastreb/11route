@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-seattle
 title:      Road Trip, Сиэтл
 date:       2009-09-03 12:00:00
-image:      http://images.11route.com/road-trip-seattle.jpg
+image:      https://images.11route.com/road-trip-seattle.jpg
 summary:    Сиэтл
 categories: travel usa seattle
 latitude:   47.6062095
@@ -14,39 +14,39 @@ longitude:  -122.3320708
 
 Тут IBM.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836126825/" title="DSC02571 by elevenroute, on Flickr"><img src="https://farm3.staticflickr.com/2892/12836126825_09603b4070_c.jpg" width="800" height="535" alt="DSC02571"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836126825/" title="DSC02571 by elevenroute, on Flickr"><img src="https://farm3.staticflickr.com/2892/12836126825_09603b4070_c.jpg" width="800" height="535" alt="DSC02571"></a>
 
 И спэйс-нидл.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836552524/" title="DSC02583 by elevenroute, on Flickr"><img src="http://farm4.staticflickr.com/3737/12836552524_4c401bb784_c.jpg" width="800" height="535" alt="DSC02583"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836552524/" title="DSC02583 by elevenroute, on Flickr"><img src="https://farm4.staticflickr.com/3737/12836552524_4c401bb784_c.jpg" width="800" height="535" alt="DSC02583"></a>
 
 И просто много небоскребов.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836557444/" title="DSC02595 by elevenroute, on Flickr"><img src="http://farm8.staticflickr.com/7385/12836557444_7a526105bf_c.jpg" width="800" height="535" alt="DSC02595"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836557444/" title="DSC02595 by elevenroute, on Flickr"><img src="https://farm8.staticflickr.com/7385/12836557444_7a526105bf_c.jpg" width="800" height="535" alt="DSC02595"></a>
 
 Взобрались на иглу и наблюдали закат.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836558024/" title="DSC02623 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3686/12836558024_97496156f3_c.jpg" width="800" height="535" alt="DSC02623"></a>
-<a href="http://www.flickr.com/photos/118782975@N05/12836585884/" title="DSC02634 by elevenroute, on Flickr"><img src="http://farm4.staticflickr.com/3772/12836585884_651dce27e2_c.jpg" width="800" height="535" alt="DSC02634"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836558024/" title="DSC02623 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3686/12836558024_97496156f3_c.jpg" width="800" height="535" alt="DSC02623"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836585884/" title="DSC02634 by elevenroute, on Flickr"><img src="https://farm4.staticflickr.com/3772/12836585884_651dce27e2_c.jpg" width="800" height="535" alt="DSC02634"></a>
 
 И ночь над Сиэтлом.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836235353/" title="DSC02650 by elevenroute, on Flickr"><img src="http://farm4.staticflickr.com/3746/12836235353_033e9b298e_c.jpg" width="800" height="535" alt="DSC02650"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836235353/" title="DSC02650 by elevenroute, on Flickr"><img src="https://farm4.staticflickr.com/3746/12836235353_033e9b298e_c.jpg" width="800" height="535" alt="DSC02650"></a>
 
 Неспящие в Сиэтле.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836137995/" title="DSC02657 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3782/12836137995_193f7fbfae_c.jpg" width="800" height="535" alt="DSC02657"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836137995/" title="DSC02657 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3782/12836137995_193f7fbfae_c.jpg" width="800" height="535" alt="DSC02657"></a>
 
 Так же зашли в музей музыки (EMP Museum). Там такое гитарное дерево.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836231953/" title="P1070134 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3763/12836231953_6d386916ef_c.jpg" width="600" height="800" alt="P1070134"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836231953/" title="P1070134 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3763/12836231953_6d386916ef_c.jpg" width="600" height="800" alt="P1070134"></a>
 
 Сходили на бейсбол (довольно нудное действо).
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836140935/" title="P1070137 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3760/12836140935_fff84e4839_c.jpg" width="800" height="600" alt="P1070137"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836140935/" title="P1070137 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3760/12836140935_fff84e4839_c.jpg" width="800" height="600" alt="P1070137"></a>
 
 Встретили свинку на дороге.
 
-<a href="http://www.flickr.com/photos/118782975@N05/12836226093/" title="P1070155 by elevenroute, on Flickr"><img src="http://farm8.staticflickr.com/7433/12836226093_8811907025_c.jpg" width="800" height="600" alt="P1070155"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836226093/" title="P1070155 by elevenroute, on Flickr"><img src="https://farm8.staticflickr.com/7433/12836226093_8811907025_c.jpg" width="800" height="600" alt="P1070155"></a>
 
 И поехали спать. Впереди был <a href="/road-trip-yellowstone" title="Road Trip, Йеллоустоун">Йеллоустоун</a>...

@@ -3,7 +3,7 @@ layout:     post
 permalink:  madrid-spain-day-two
 title:      Мадрид - день 2
 date:       2014-04-12 12:00:00
-image:      http://images.11route.com/madrid-2.jpg
+image:      https://images.11route.com/madrid-2.jpg
 summary:    Второй день в Мадриде
 categories: travel spain madrid
 latitude:   40.4167215
@@ -59,7 +59,7 @@ longitude:  -3.7036267
 Так же нужно оставить залог 100 евро (либо заблокировать эту сумму на кредитной карточке).<br/>
 Мы взяли два велосипеда на 5 часов. Наш маршрут выглядел примерно так:
 
-<a href="http://images.11route.com/madird-map-2.png"><img src="http://images.11route.com/madird-map-2.png" alt="map-2" width="800" height="505" /></a>
+<a href="https://images.11route.com/madird-map-2.png"><img src="https://images.11route.com/madird-map-2.png" alt="map-2" width="800" height="505" /></a>
 
 Город очень холмистый, неподготовленным велосипедистам (типа нас) будет очень сложно.
 

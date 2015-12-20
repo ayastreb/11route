@@ -3,7 +3,7 @@ layout:     post
 permalink:  zurich-switzerland
 title:      Цюрих, Швейцария
 date:       2015-02-08 12:00:00
-image:      http://images.11route.com/zurich_cover.jpg
+image:      https://images.11route.com/zurich_cover.jpg
 summary:    Один день в Цюрихе
 categories: travel switzerland
 latitude:   47.3686498
@@ -11,7 +11,7 @@ longitude:  8.5391825
 ---
 
 Остановились на день в Цюрихе.
-Нашли неплохой <a href="http://www.booking.com/hotel/ch/anwand-lodges.html?sid=cd6a49d74df0e4189403b220aab01dcd;dcid=1;label=postbooking_directions" title="anwand-lodges">отель</a> за 75 евро.<br/>
+Нашли неплохой <a href="https://www.booking.com/hotel/ch/anwand-lodges.html?sid=cd6a49d74df0e4189403b220aab01dcd;dcid=1;label=postbooking_directions" title="anwand-lodges">отель</a> за 75 евро.<br/>
 В отеле нет ресепшена, ключ от номера выдает автомат по паролю из email.
 
 Рядом с отелем.

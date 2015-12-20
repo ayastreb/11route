@@ -4,7 +4,7 @@ email:       contact@11route.com
 author:      Anatoliy Yastreb
 description: "Travel Blog"
 baseurl:     ""
-url:         "http://ayastreb.github.io/11route"
+url:         "https://11route.com"
 date_format: "%b %-d, %Y"
 
 # Google analytics

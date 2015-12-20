@@ -3,7 +3,7 @@ layout:     post
 permalink:  brussels-belgium
 title:      Брюссель, Бельгия
 date:       2014-06-08 12:00:00
-image:      http://images.11route.com/brussels_cover.jpg
+image:      https://images.11route.com/brussels_cover.jpg
 summary:    Экскурсия в Брюссель
 categories: travel belgium
 latitude:   50.85
@@ -14,7 +14,7 @@ longitude:  4.35
 
 Приблизительно так выглядел наш пеший маршрут. Около 36,000 шагов.
 
-<a href="http://images.11route.com/brussels_map.png"><img src="http://images.11route.com/brussels_map.png" alt="map-brussels" width="800" height="520" /></a>
+<a href="https://images.11route.com/brussels_map.png"><img src="https://images.11route.com/brussels_map.png" alt="map-brussels" width="800" height="520" /></a>
 
 Возле вокзала Норт.
 
