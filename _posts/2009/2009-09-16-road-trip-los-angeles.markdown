@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-los-angeles
 title:      Road Trip, Лос Анджелес
 date:       2009-09-16 12:00:00
-image:      https://images.11route.com/road-trip-los-angeles.jpg
+image:      https://content.11route.com/road-trip-los-angeles.jpg
 summary:    Финал в Лос-Анджелесе
 categories: travel usa los angeles
 latitude:   34.0522342

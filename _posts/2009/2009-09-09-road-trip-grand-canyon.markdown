@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-grand-canyon
 title:      Road Trip, Гранд Каньон
 date:       2009-09-09 12:00:00
-image:      https://images.11route.com/road-trip-grand-canyon.jpg
+image:      https://content.11route.com/road-trip-grand-canyon.jpg
 summary:    Гранд каньон
 categories: travel usa grand canyon
 latitude:   36.2317194

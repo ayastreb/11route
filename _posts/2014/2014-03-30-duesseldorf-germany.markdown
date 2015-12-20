@@ -3,7 +3,7 @@ layout:     post
 permalink:  duesseldorf-germany
 title:      Дюссельдорф, Германия
 date:       2014-03-30 12:00:00
-image:      https://images.11route.com/duesseldorf.jpg
+image:      https://content.11route.com/duesseldorf.jpg
 summary:    Прогулка по Дюссельдорфу
 categories: home germany duesseldorf
 latitude:   51.2277411

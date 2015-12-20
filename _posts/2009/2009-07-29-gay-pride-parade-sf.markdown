@@ -3,7 +3,7 @@ layout:     post
 permalink:  gay-pride-parade-sf
 title:      Гей парад в Сан-Франциско
 date:       2009-07-29 12:00:00
-image:      https://images.11route.com/gay-pride.jpg
+image:      https://content.11route.com/gay-pride.jpg
 summary:    Ежегодный парад в Сан-Франциско
 categories: travel usa san francisco
 latitude:   37.782076381670585

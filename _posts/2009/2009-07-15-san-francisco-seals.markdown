@@ -3,7 +3,7 @@ layout:     post
 permalink:  san-francisco-seals
 title:      Сан-Франциско, США
 date:       2009-07-15 12:00:00
-image:      https://images.11route.com/san-francisco.jpg
+image:      https://content.11route.com/san-francisco.jpg
 summary:    Прогулка по Сан-Франциско
 categories: travel usa san francisco
 latitude:   37.80707987956129

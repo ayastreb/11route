@@ -3,7 +3,7 @@ layout:     post
 permalink:  paris-france
 title:      Париж, Франция
 date:       2014-07-08 12:00:00
-image:      https://images.11route.com/paris_cover.jpg
+image:      https://content.11route.com/paris_cover.jpg
 summary:    Отпуск в Париже
 categories: travel france paris
 latitude:   48.856614

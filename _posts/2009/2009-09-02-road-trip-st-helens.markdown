@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-st-helens
 title:      Road Trip, Святая Елена
 date:       2009-09-02 12:00:00
-image:      https://images.11route.com/road-trip-st-helens.jpg
+image:      https://content.11route.com/road-trip-st-helens.jpg
 summary:    Вулкан Святая Елена
 categories: travel usa st helens
 latitude:   46.1912

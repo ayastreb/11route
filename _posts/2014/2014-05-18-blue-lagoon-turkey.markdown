@@ -3,7 +3,7 @@ layout:     post
 permalink:  blue-lagoon-turkey
 title:      Голубая лагуна, Турция
 date:       2014-05-18 12:00:00
-image:      https://images.11route.com/blue_lagoon.jpg
+image:      https://content.11route.com/blue_lagoon.jpg
 summary:    Немного Турции
 categories: travel turkey
 latitude:   36.550041070257

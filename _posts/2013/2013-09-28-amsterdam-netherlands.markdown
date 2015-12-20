@@ -3,7 +3,7 @@ layout:     post
 permalink:  amsterdam-netherlands
 title:      Амстердам, Голландия
 date:       2013-09-28 12:00:00
-image:      https://images.11route.com/amsterdam.jpg
+image:      https://content.11route.com/amsterdam.jpg
 summary:    В Амстердам на поезде
 categories: travel netherlands
 latitude:   52.3702157

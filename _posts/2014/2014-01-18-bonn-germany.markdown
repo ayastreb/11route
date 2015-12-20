@@ -3,7 +3,7 @@ layout:     post
 permalink:  bonn-germany
 title:      Бонн, Германия
 date:       2014-01-18 12:00:00
-image:      https://images.11route.com/bonn.jpg
+image:      https://content.11route.com/bonn.jpg
 summary:    Экскурсия в Бонн
 categories: travel germany
 latitude:   50.73743

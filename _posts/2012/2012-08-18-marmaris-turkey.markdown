@@ -3,7 +3,7 @@ layout:     post
 permalink:  marmaris-turkey
 title:      Мармарис, Турция
 date:       2012-08-18 12:00:00
-image:      https://images.11route.com/marmaris.jpg
+image:      https://content.11route.com/marmaris.jpg
 summary:    Все включено в Турции
 categories: travel turkey
 latitude:   36.8505659

@@ -3,7 +3,7 @@ layout:     post
 permalink:  dali-cadaques-spain
 title:      Дом Дали - Кадакес, Испания
 date:       2012-04-03 12:00:00
-image:      https://images.11route.com/cadaques.jpg
+image:      https://content.11route.com/cadaques.jpg
 summary:    В дом-музей Дали
 categories: travel germany
 latitude:   42.2888975

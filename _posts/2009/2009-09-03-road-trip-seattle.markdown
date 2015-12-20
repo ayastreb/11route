@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-seattle
 title:      Road Trip, Сиэтл
 date:       2009-09-03 12:00:00
-image:      https://images.11route.com/road-trip-seattle.jpg
+image:      https://content.11route.com/road-trip-seattle.jpg
 summary:    Сиэтл
 categories: travel usa seattle
 latitude:   47.6062095

@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-yellowstone
 title:      Road Trip, Йеллоустоун
 date:       2009-09-05 12:00:00
-image:      https://images.11route.com/road-trip-yellowstone.jpg
+image:      https://content.11route.com/road-trip-yellowstone.jpg
 summary:    Национальный заповедник Йеллоустоун
 categories: travel usa yellowstone
 latitude:   44.4279628

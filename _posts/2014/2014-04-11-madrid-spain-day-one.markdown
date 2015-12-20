@@ -3,7 +3,7 @@ layout:     post
 permalink:  madrid-spain-day-one
 title:      Мадрид - день 1
 date:       2014-04-11 12:00:00
-image:      https://images.11route.com/madrid-1.jpg
+image:      https://content.11route.com/madrid-1.jpg
 summary:    Первый день в Мадриде
 categories: travel spain madrid
 latitude:   40.4166889
@@ -50,7 +50,7 @@ A Nuestra Señora de la Paloma - 56 евро за ночь на двоих, од
 из отеля на площадь Майор, там обед. Потом в собор Альмудена и королевский дворец.<br/>
 Вечером тапас и в кино на нового Капитана Америка. 
 
-<a href="https://images.11route.com/madrid-map-1.png"><img src="https://images.11route.com/madrid-map-1.png" alt="map-1" width="800" height="543" /></a>
+<a href="https://content.11route.com/madrid-map-1.png"><img src="https://content.11route.com/madrid-map-1.png" alt="map-1" width="800" height="543" /></a>
 
 Площадь Майор.
 

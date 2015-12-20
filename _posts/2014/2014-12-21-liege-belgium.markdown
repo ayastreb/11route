@@ -3,7 +3,7 @@ layout:     post
 permalink:  liege-belgium
 title:      Льеж, Бельгия
 date:       2014-12-21 12:00:00
-image:      https://images.11route.com/liege_cover.jpg
+image:      https://content.11route.com/liege_cover.jpg
 summary:    На машине в Бельгию
 categories: travel belgium
 latitude:   50.6325574

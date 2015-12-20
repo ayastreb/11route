@@ -3,7 +3,7 @@ layout:     post
 permalink:  apollo-dusseldorf
 title:      Аполло, Дюсельдорф
 date:       2014-03-15 12:00:00
-image:      https://images.11route.com/apollo-theatre.jpg
+image:      https://content.11route.com/apollo-theatre.jpg
 summary:    Вечер в кабаре Аполло
 categories: home germany duesseldorf
 latitude:   51.2194428

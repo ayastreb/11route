@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-crater-lake
 title:      Road Trip, Crater Lake
 date:       2009-09-01 12:00:00
-image:      https://images.11route.com/road-trip-crater-lake.jpg
+image:      https://content.11route.com/road-trip-crater-lake.jpg
 summary:    Озеро в кратере
 categories: travel usa crater lake
 latitude:   42.9446093

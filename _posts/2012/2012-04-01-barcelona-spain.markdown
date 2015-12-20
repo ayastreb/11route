@@ -3,7 +3,7 @@ layout:     post
 permalink:  barcelona-spain
 title:      Барселона - Ллорет де Мар, Испания
 date:       2012-04-01 12:00:00
-image:      https://images.11route.com/barcelona.jpg
+image:      https://content.11route.com/barcelona.jpg
 summary:    Отдых в Барселоне и Ллорет-де-Маре
 categories: travel spain
 latitude:   41.70048573433131

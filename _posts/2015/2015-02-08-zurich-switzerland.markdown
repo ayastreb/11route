@@ -3,7 +3,7 @@ layout:     post
 permalink:  zurich-switzerland
 title:      Цюрих, Швейцария
 date:       2015-02-08 12:00:00
-image:      https://images.11route.com/zurich_cover.jpg
+image:      https://content.11route.com/zurich_cover.jpg
 summary:    Один день в Цюрихе
 categories: travel switzerland
 latitude:   47.3686498

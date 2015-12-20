@@ -3,7 +3,7 @@ layout:     post
 permalink:  palma-de-mallorca-spain
 title:      Майорка, Испания
 date:       2013-08-03 12:00:00
-image:      https://images.11route.com/mallorca.jpg
+image:      https://content.11route.com/mallorca.jpg
 summary:    Выходные на Майорке
 categories: travel spain palma de mallorca
 latitude:   39.57119

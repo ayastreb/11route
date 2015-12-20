@@ -3,7 +3,7 @@ layout:     post
 permalink:  alkatraz
 title:      Алькатрас
 date:       2009-07-27 12:00:00
-image:      https://images.11route.com/alkatraz.jpg
+image:      https://content.11route.com/alkatraz.jpg
 summary:    Экскурсия на Алькатрас
 categories: travel usa alkatraz
 latitude:   37.8266636

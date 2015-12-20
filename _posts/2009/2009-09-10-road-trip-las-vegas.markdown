@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip-las-vegas
 title:      Road Trip, Лас Вегас
 date:       2009-09-10 12:00:00
-image:      https://images.11route.com/road-trip-las-vegas.jpg
+image:      https://content.11route.com/road-trip-las-vegas.jpg
 summary:    Казино Лас-Вегаса
 categories: travel usa las vegas
 latitude:   36.255123

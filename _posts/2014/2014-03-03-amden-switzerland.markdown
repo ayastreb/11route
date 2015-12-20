@@ -3,7 +3,7 @@ layout:     post
 permalink:  amden-switzerland
 title:      Амден, Швейцария
 date:       2014-03-03 12:00:00
-image:      https://images.11route.com/amden.jpg
+image:      https://content.11route.com/amden.jpg
 summary:    В горах Швейцарии...
 categories: travel switzerland
 latitude:   47.1491606

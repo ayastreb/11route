@@ -3,7 +3,7 @@ layout:     post
 permalink:  immenstadt-germany
 title:      Имменштадт, Германия
 date:       2012-08-09 12:00:00
-image:      https://images.11route.com/immenstadt.jpg
+image:      https://content.11route.com/immenstadt.jpg
 summary:    Прогулка в Альпах
 categories: travel germany
 latitude:   47.560012

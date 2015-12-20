@@ -3,7 +3,7 @@ layout:     post
 permalink:  road-trip
 title:      Road Trip, начало
 date:       2009-08-31 12:00:00
-image:      https://images.11route.com/road-trip.jpg
+image:      https://content.11route.com/road-trip.jpg
 summary:    Начало поездки
 categories: travel usa san francisco
 latitude:   37.8953689
