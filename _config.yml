@@ -57,7 +57,9 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
