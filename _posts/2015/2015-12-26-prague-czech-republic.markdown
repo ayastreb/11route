@@ -53,7 +53,7 @@ longitude:  14.3937384
 
 Мы начали с парка Летенские сады. Очень много пространства, но интересен он только хорошим видом на Старый Город.
 
-Мосты на Влатве.
+Мосты на Влтаве.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/23620887649/in/album-72157662839955545/" title="DSC03927"><img src="https://farm2.staticflickr.com/1610/23620887649_1bf6a30647_b.jpg" width="1024" height="712" alt="DSC03927"></a>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/23988756945/in/album-72157662839955545/" title="DSC03933"><img src="https://farm2.staticflickr.com/1542/23988756945_ce863a53d0_b.jpg" width="1024" height="712" alt="DSC03933"></a>
