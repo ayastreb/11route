@@ -45,3 +45,5 @@ longitude:  -4.564351
 Буддийская ступа просветления.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26005278972/in/album-72157666500890645/" title="Buddhist stupa of enlightment"><img src="https://farm2.staticflickr.com/1627/26005278972_8467434905_b.jpg" width="1024" height="683" alt="Buddhist stupa of enlightment"></a>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25507743633/" title="Buddhist stupa of enlightment"><img src="https://farm2.staticflickr.com/1552/25507743633_feeb6cc9c7_b.jpg" width="683" height="1024" alt="Buddhist stupa of enlightment"></a>
