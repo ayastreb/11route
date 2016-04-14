@@ -3,25 +3,28 @@ layout: default
 ---
 
 <div class="home">
+  <div class="measure">
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post py3">
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <div class="posts">
+      {% for post in paginator.posts %}
+      <div class="post-header py2">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <h3 class="h1 post-title">{{ post.title }}</h3>
-          <img src="{{ post.image }}" alt="{{ post.title }}"/>
-        </a>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
+          <div class="title">
+            <h3 class="h1 post-title">{{ post.title }}</h3>
 
-  {% include pagination.html %}
+            <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          </div>
+          <img src="{{ post.image }}"
+               alt="{% if post.summary %}{{ post.summary }}{% else %}{{ post.excerpt }}{% endif %}"
+               title="{% if post.summary %}{{ post.summary }}{% else %}{{ post.excerpt }}{% endif %}"/>
+        </a>
+
+        <div class="clearfix"></div>
+      </div>
+      <hr/>
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+  </div>
 </div>

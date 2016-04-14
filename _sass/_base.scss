@@ -20,15 +20,14 @@ html, body {
   padding: 0px
 }
 
-img {
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-}
-
 em img {
   max-width: 100%;
+  height: auto;
   margin-left: 0;
+}
+
+img {
+  height: auto;
 }
 
 body {

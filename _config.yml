@@ -1,11 +1,11 @@
 # Site settings
-title:       11route
+title:       ElevenRoute
 email:       contact@11route.com
 author:      Anatoliy Yastreb
 description: "Travel Blog"
 baseurl:     ""
 url:         "https://11route.com"
-date_format: "%b %-d, %Y"
+date_format: "%B %-d, %Y"
 
 # Google analytics
 # Google services
