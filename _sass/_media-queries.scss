@@ -44,6 +44,12 @@
   }
 }
 
+@media screen and (max-width: $viewport-medium) {
+  img {
+    height: auto;
+  }
+}
+
 @media screen and (min-width: $viewport-medium) {
   html {
     font-size: 18px;
