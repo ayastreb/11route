@@ -64,7 +64,7 @@ longitude:  1.7859532
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06371-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06371-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
           <img src="//content.11route.com/posts/2016/sitges-spain/DSC06371-500.jpg" width="333" height="500" itemprop="thumbnail" alt="Statue at Sitges" />
       </a>
     </figure>
