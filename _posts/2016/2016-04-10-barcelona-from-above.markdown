@@ -6,8 +6,8 @@ date:       2016-04-10 12:00:00
 image:      https://content.11route.com/posts/2016/barcelona-from-above/cover2-2000.jpg
 summary:    Барселона с высоты
 categories: travel travel spain
-latitude:   37.1810095
-longitude:  -3.6262912
+latitude:   41.4225152
+longitude:  2.1098562
 ---
 
 <section class="text-block">
