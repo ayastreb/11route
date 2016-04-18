@@ -12,12 +12,12 @@ longitude:  -113.0309112
 
 Из <a href="/road-trip-yellowstone" title="Road Trip, Йеллоустоун">Йеллоустоуна</a> мы направились к Гранд Каньйону через Glacier National Park.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836334495/" title="DSC03184 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/8/7395/12836334495_5c97ef7c95_b.jpg" width="800" height="535" alt="DSC03184"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836334495/" title="DSC03184 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/8/7395/12836334495_5c97ef7c95_b.jpg" width="800" height="535" alt="DSC03184"></a>
 
 Где-то здесь должны жить хоббиты.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836331745/" title="DSC03187 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3766/12836331745_cd7228fdfe_b.jpg" width="800" height="535" alt="DSC03187"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/12836782164/" title="DSC03194 by elevenroute, on Flickr"><img src="https://c2.staticflickr.com/4/3767/12836782164_b6a75b6a0a_b.jpg" width="535" height="800" alt="DSC03194"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836331745/" title="DSC03187 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/4/3766/12836331745_cd7228fdfe_b.jpg" width="800" height="535" alt="DSC03187"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836782164/" title="DSC03194 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/4/3767/12836782164_b6a75b6a0a_b.jpg" width="535" height="800" alt="DSC03194"></a>
 
 Гранд каньон это такие горы наооборот.
 

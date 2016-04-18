@@ -73,9 +73,14 @@ layout: default
 </div>
 
 {% include photoswipe.html %}
-<script type="text/javascript" src="/js/photoswipe-gallery.js" charset="utf-8"></script>
-<script type="text/javascript" src="/js/resize-images.js" charset="utf-8"></script>
 <script type="text/javascript">
-  resizeImages('.image-row');
-  initPhotoSwipeFromDOM();
+  $(document).ready(function() {
+    $(".post-content img").unveil(200, function() {
+      $(this).load(function() {
+        this.style.opacity = 1;
+      });
+    });
+    resizeImages('.image-row');
+    initPhotoSwipeFromDOM();
+  });
 </script>

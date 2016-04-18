@@ -1,6 +1,5 @@
 var resizeImages = function (selector) {
     var frameWidth = document.getElementsByClassName('measure')[0].clientWidth;
-    console.log(frameWidth);
     var rows = document.querySelectorAll(selector);
     for (var i = 0; i < rows.length; i++) {
         var images = rows[i].getElementsByTagName('img');

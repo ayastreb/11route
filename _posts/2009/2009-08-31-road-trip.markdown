@@ -18,26 +18,26 @@ longitude:  -122.5780709
 
 Заехали в Муир Вудс парк.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836490394/" title="Вот такое дупло."><img src="https://farm4.staticflickr.com/3709/12836490394_c218bb917a_b.jpg" width="800" height="535" alt="DSC02369"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836490394/" title="Вот такое дупло."><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3709/12836490394_c218bb917a_b.jpg" width="800" height="535" alt="DSC02369"></a>
 
 Там растут большие деревья.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836151273/" title="Секвои."><img src="https://farm8.staticflickr.com/7396/12836151273_3aac06fe95_b.jpg" width="535" height="800" alt="DSC02375"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836151273/" title="Секвои."><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7396/12836151273_3aac06fe95_b.jpg" width="535" height="800" alt="DSC02375"></a>
 
 Увидели пляж.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836601384/" title="DSC02382 by elevenroute, on Flickr"><img src="https://c1.staticflickr.com/3/2864/12836601384_5af7173cf0_b.jpg" width="800" height="535" alt="DSC02382"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836601384/" title="DSC02382 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c1.staticflickr.com/3/2864/12836601384_5af7173cf0_b.jpg" width="800" height="535" alt="DSC02382"></a>
 
 Решили заехать. Купаться, конечно, холодно, но пейзаж достойный.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836507624/" title="DSC02388 by elevenroute, on Flickr"><img src="https://farm4.staticflickr.com/3696/12836507624_144bc956b1_b.jpg" width="800" height="535" alt="DSC02388"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836507624/" title="DSC02388 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3696/12836507624_144bc956b1_b.jpg" width="800" height="535" alt="DSC02388"></a>
 
 Переночевали в мотеле.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836161673/" title="В таких маньяки людей на части разбирают."><img src="https://farm8.staticflickr.com/7361/12836161673_98c4e15870_b.jpg" width="800" height="535" alt="DSC02400"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836161673/" title="В таких маньяки людей на части разбирают."><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7361/12836161673_98c4e15870_b.jpg" width="800" height="535" alt="DSC02400"></a>
 
 И поехали дальше.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836249693/" title="DSC02402 by elevenroute, on Flickr"><img src="https://farm3.staticflickr.com/2840/12836249693_c2736c713c_b.jpg" width="800" height="535" alt="DSC02402"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12836249693/" title="DSC02402 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2840/12836249693_c2736c713c_b.jpg" width="800" height="535" alt="DSC02402"></a>
 
 Следующая остановка - <a href="/road-trip-crater-lake" title="Road Trip, Crater Lake">Crater Lake</a>
