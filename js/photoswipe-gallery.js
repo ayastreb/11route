@@ -47,7 +47,7 @@ var initPhotoSwipeFromDOM = function () {
     };
 
     // find nearest parent element
-    var closest = function closest(el, fn) {
+    var closest = function (el, fn) {
         return el && ( fn(el) ? el : closest(el.parentNode, fn) );
     };
 
