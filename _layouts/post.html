@@ -40,6 +40,9 @@ layout: default
     var disqus_shortname = '{{ site.disqus_shortname }}';
     var disqus_identifier = '{{ page.id }}';
     var disqus_title = '{{ page.title }}';
+    var disqus_config = function () {
+      this.language = "{{ page.lang }}";
+    };
 
     (function () {
       var dsq = document.createElement('script');
@@ -75,11 +78,6 @@ layout: default
 {% include photoswipe.html %}
 <script type="text/javascript">
   $(document).ready(function() {
-    $(".post-content img").unveil(200, function() {
-      $(this).load(function() {
-        this.style.opacity = 1;
-      });
-    });
     resizeImages('.image-row');
     initPhotoSwipeFromDOM();
   });

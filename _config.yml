@@ -6,7 +6,23 @@ description: "Travel Blog"
 baseurl:     ""
 url:         "https://11route.com"
 date_format: "%B %-d, %Y"
-
+languages:
+  en: "English"
+  ru: "Русский"
+navigation:
+  map:
+    url:
+      en: "en/map"
+      ru: "map"
+    label:
+      en: "Map"
+      ru: "Карта"
+  contact:
+    en: "Contact"
+    ru: "Контакт"
+feed:
+  en: "feed.en.xml"
+  ru: "feed.xml"
 # Google analytics
 # Google services
 google_analytics: "UA-48431990-1"
@@ -57,13 +73,9 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
 sass:
   compressed: true
