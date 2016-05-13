@@ -26,8 +26,11 @@ var justifyImages = function () {
     }
 
     function getImageMargin() {
-        var figure = document.querySelectorAll('.image-row figure')[0],
-            figureStyle = figure.currentStyle || window.getComputedStyle(figure);
+        var figure = document.querySelectorAll('.image-row figure')[0];
+        if (!figure) {
+            return 0;
+        }
+        var figureStyle = figure.currentStyle || window.getComputedStyle(figure);
 
         return parseInt(figureStyle.marginRight);
     }
