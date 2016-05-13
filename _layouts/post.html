@@ -36,8 +36,9 @@ layout: default
 <script src="//vjs.zencdn.net/5.9.2/video.js"></script>
 <script type="text/javascript">
   $(document).ready(function () {
-    resizeImages('.image-row');
+    justifyImages();
     initPhotoSwipeFromDOM();
+    // Start playing video when it's in the view, pause when it's not
     $(".post-content video").bind('inview', function (event, visible) {
       if (visible == true) {
         this.play();
