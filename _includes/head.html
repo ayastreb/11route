@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
+    <link href="//vjs.zencdn.net/5.9.2/video-js.css" rel="stylesheet">
 
     <!-- Fonts -->
     <link href='//fonts.googleapis.com/css?family=Roboto:400,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
@@ -29,7 +30,7 @@
     <meta property="og:locale" content="{{ page.lang }}">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
-    <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+    <meta property="og:description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
@@ -89,6 +90,7 @@
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jquery.unveil.js"></script>
+    <script type="text/javascript" src="/js/jquery.inview.js"></script>
     <script type="text/javascript" src="/js/photoswipe.min.js"></script>
     <script type="text/javascript" src="/js/photoswipe-ui-default.min.js"></script>
     <script type="text/javascript" src="/js/photoswipe-gallery.js" charset="utf-8"></script>

@@ -33,9 +33,17 @@ layout: default
 
 {% include photoswipe.html %}
 
+<script src="//vjs.zencdn.net/5.9.2/video.js"></script>
 <script type="text/javascript">
   $(document).ready(function () {
     resizeImages('.image-row');
     initPhotoSwipeFromDOM();
+    $(".post-content video").bind('inview', function (event, visible) {
+      if (visible == true) {
+        this.play();
+      } else {
+        this.pause();
+      }
+    });
   });
 </script>
