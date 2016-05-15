@@ -33,18 +33,24 @@ layout: default
 
 {% include photoswipe.html %}
 
-<script src="//vjs.zencdn.net/5.9.2/video.js"></script>
 <script type="text/javascript">
+  // Load the IFrame Player API code asynchronously.
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/player_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  function onYouTubeIframeAPIReady() {
+    $('.youtube-video').inViewAutoplay({
+      autohide: 1,
+      modestbranding: 1,
+      rel: 0,
+      quality: 'hd720'
+    });
+  }
+
   $(document).ready(function () {
     justifyImages();
     initPhotoSwipeFromDOM();
-    // Start playing video when it's in the view, pause when it's not
-    $(".post-content video").bind('inview', function (event, visible) {
-      if (visible == true) {
-        this.play();
-      } else {
-        this.pause();
-      }
-    });
   });
 </script>
