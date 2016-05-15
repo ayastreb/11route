@@ -18,6 +18,7 @@ var justifyImages = function () {
         }
 
         var commonHeight = (frameWidth - (images.length - 1) * imageMargin) / ratioSum;
+        rows[i].style.height = commonHeight + 'px';
         for (var k = 0; k < images.length; k++) {
             images[k].setAttribute('height', commonHeight + 'px');
             var width = commonHeight * images[k].getAttribute('data-ratio');
