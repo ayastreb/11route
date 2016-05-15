@@ -21,19 +21,19 @@ longitude:  3.9192015
 
 <section class="text-block">
 I once overheard someone discussing Thai and Caribbean beaches.
-One girl said that Menorca has not worse beaches and it's not necessary to fly to Caribbean.
+One girl said that beaches at Menorca weren't worse than Caribbean and it was not necessary to fly there.
 </section>
 <section class="text-block">
 Menorca (or Minorca) is one of three Balearic Islands - Mallorca, Menorca and Ibiza.
 It has its name because it is smaller than Mallorca (mallor - bigger, menor - smaller).
-At that moment we planed only one week ahead and were going to Barcelona.
-From Barcelona to Menorca there is regular flight from RyanAir and tickets cost around 20 EUR, so we decided to check if the beaches at Menorca are really that good :)
+At that moment we had planed only one week ahead and were going to Barcelona.
+There is a regular flight from Barcelona to Menorca from RyanAir and tickets cost around 20 EUR, so we decided to check whether the beaches at Menorca are really that good :)
 Besides RyanAir you can get to Menorca with Vueling and Air Europe. 
 It is also possible to take a ferry from Barcelona, but flying is cheaper and faster.
 </section>
 
 <section class="text-block">
-During the landing the plane is flying across almost the whole island, and if the weather is good you could see the most of the island from above. 
+During the landing the plane is flying across almost the whole island and if the weather is good you could see the most of the island from above. 
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -47,9 +47,9 @@ During the landing the plane is flying across almost the whole island, and if th
 <div class="youtube-video" id="menorca-landing" data-video-id="C6MEF25O1VM" width="1000" height="563"></div>
 
 <section class="text-block">
-We settled at the western part of island in the small town called Blanes, near to Ciutadella.
+We settled at the western part of the island in the small town called Blanes, near to Ciutadella.
 We started our first day from visiting the Faro de Artrutx lighthouse.
-It turned out to be a usual lighthouse, nobody around and everything is closed.
+It turned out to be a usual lighthouse, nobody around and everything was closed.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -76,7 +76,7 @@ It turned out to be a usual lighthouse, nobody around and everything is closed.
 <section class="text-block">
 After the lighthouse we visited our first beach - Cala Blanca.
 The sand part of the beach is pretty small, but the bay is straight and long.
-There is a small parking next to the beach, but during the high season it would be difficult to find a spot there.
+There is a small parking next to the beach, but during the high season it may be difficult to find a spot there.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -113,7 +113,7 @@ Here is also a free parking, but you have to walk 10-15 minutes to the beach its
 <section class="text-block">
 There are few picnic tables in the shades, but no WC or changing rooms. 
 The beach is small and surrounded by rocks. The water, same as everywhere on the island, is clear and transparent.
-The dark spots you see in the pictures are some kind of leaves from trees around, nothing dangerous :)
+The dark spots you see in the pictures are some kind of leaves from the trees around, nothing dangerous :)
 Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
 </section>
 
@@ -157,11 +157,11 @@ Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
 <div class="youtube-video" id="menorca-turqueta-02" data-video-id="F_QyK9FHovg" width="1000" height="563"></div>
 
 <section class="text-block">
-Between almost every beach and bay there is a hiking trail on Menorca.
-For example, from Turqueta beach you could hike to Cala des Tlaier beach or to Cala Macarella.
+There is a hiking trail between almost every beach and bay on Menorca.
+For example, from Turqueta beach you can hike to Cala des Tlaier beach or to Cala Macarella.
 Trails are marked well and there are route signs everywhere, it would be hard to get lost.
 We decided to hike to Macarella & Macarelleta beaches.
-The trail here goes partially in the pine woods and partially in the open field, it could be hot in the summer.
+The trail here goes partially in the pine woods and partially in the open field, it may be hot in the summer.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -192,8 +192,8 @@ But in April it was almost empty.
 </section>
 <section class="text-block">
 Macarelleta is a tiny beach with fenced dunes.
-From here you could get to the neighboring beach, Macarella, by the trail in the rocks.
-This trail goes up to the peak of the rock and there are stunning views of the beach and the sea from there.
+From here you can get to the neighboring beach, Macarella, by the trail in the rocks.
+This trail goes up to the peak of the rock and there are stunning views of the beach and the sea.
 </section>
 
 <div class="youtube-video" id="menorca-macarelleta" data-video-id="GGnSAi0yePc" width="1000" height="563"></div>
@@ -225,7 +225,7 @@ This trail goes up to the peak of the rock and there are stunning views of the b
 
 <section class="text-block">
 Right in the center of the island, not far away from the small town called <nobr>Es Mercadal</nobr>, there is the highest mountain on the island.
-From the top of this mountain you could see the whole island.
+From the top of this mountain you can see the whole island.
 Up there there is a church called Mare de Déu del Toro Santuario. There is also a big free parking lot and a few picnic tables with a nice view.
 </section>
 
@@ -257,15 +257,14 @@ Up there there is a church called Mare de Déu del Toro Santuario. There is also
 </section>
 
 <section class="text-block">
-One more beach on our list is Cala Tirant. It's located on the north near to the town called Fornells.
-Not far away from the beach there is a small parking lot, but we just left our car on the street as it was empty.
-In the high season it might be more difficult to find a parking spot.
+One more beach on our list was Cala Tirant. It's located on the north near to the town called Fornells.
+Not far away from the beach is a small parking lot, but we just left our car on the street as it was empty.
+In the high season it may be more difficult to find a parking spot.
 </section>
 <section class="text-block">
-Actually, there are two beaches here - the small one is right next to the road.
-To get to the second, bigger beach you need to walk the stairs on the left side of the first beach.
-On the bigger beach the dunes are surrounded by the fence, it is not allowed to go there.
-The beach is big, pretty and clean, but same as almost everywhere else on Menorca there is no WC, showers or changing rooms, so you need to be prepared :)
+Actually, there are two beaches - the small one is right next to the road and second, bigger beach, that can be reached via the stairs on the left side.
+The dunes on the bigger beach are surrounded by the fence and it is not allowed to go there.
+The beach is big, pretty and clean, but it has no WC, showers or changing rooms as almost everywhere else on Menorca, so you need to be prepared :)
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
