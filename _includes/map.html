@@ -47,7 +47,10 @@
 
       markers.push(marker);
     }
-    var markerCluster = new MarkerClusterer(map, markers, {gridSize: 25});
+    new MarkerClusterer(map, markers, {
+      gridSize: 25,
+      imagePath: 'https://raw.githubusercontent.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
+    });
   }
 </script>
 
