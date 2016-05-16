@@ -33,7 +33,7 @@ It is also possible to take a ferry from Barcelona, but flying is cheaper and fa
 </section>
 
 <section class="text-block">
-During the landing the plane is flying across almost the whole island and if the weather is good you could see the most of the island from above. 
+During the landing the plane is flying across almost the whole island and if the weather is good you can see the most of the island from above. 
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -47,7 +47,7 @@ During the landing the plane is flying across almost the whole island and if the
 <div class="youtube-video" id="menorca-landing" data-video-id="C6MEF25O1VM" width="1000" height="563"></div>
 
 <section class="text-block">
-We settled at the western part of the island in the small town called Blanes, near to Ciutadella.
+We settled in the western part of the island in the small town called Blanes, near to Ciutadella.
 We started our first day from visiting the Faro de Artrutx lighthouse.
 It turned out to be a usual lighthouse, nobody around and everything was closed.
 </section>
@@ -108,7 +108,7 @@ There is a small parking next to the beach, but during the high season it may be
 
 <section class="text-block">
 Next on our list was Cala Turqueta beach. It's about half an hour drive from Ciutadella.
-Here is also a free parking, but you have to walk 10-15 minutes to the beach itself.
+There is a free parking from which you have to walk 10-15 minutes to the beach itself.
 </section>
 <section class="text-block">
 There are few picnic tables in the shades, but no WC or changing rooms. 
@@ -157,7 +157,7 @@ Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
 <div class="youtube-video" id="menorca-turqueta-02" data-video-id="F_QyK9FHovg" width="1000" height="563"></div>
 
 <section class="text-block">
-There is a hiking trail between almost every beach and bay on Menorca.
+There is a hiking trail between almost every beach and every bay on Menorca.
 For example, from Turqueta beach you can hike to Cala des Tlaier beach or to Cala Macarella.
 Trails are marked well and there are route signs everywhere, it would be hard to get lost.
 We decided to hike to Macarella & Macarelleta beaches.
@@ -186,7 +186,7 @@ The trail here goes partially in the pine woods and partially in the open field,
 </section>
 
 <section class="text-block">
-These two beaches - Cala Macarella и Cala Macarelleta - are amongst the best beaches on the island.
+These two beaches, Cala Macarella and Cala Macarelleta, are amongst the best beaches on the island.
 If you check the images on Google Maps - it looks like it is very crowded in the summer.
 But in April it was almost empty.
 </section>
@@ -262,7 +262,7 @@ Not far away from the beach is a small parking lot, but we just left our car on 
 In the high season it may be more difficult to find a parking spot.
 </section>
 <section class="text-block">
-Actually, there are two beaches - the small one is right next to the road and second, bigger beach, that can be reached via the stairs on the left side.
+Actually, there are two beaches: the small one is right next to the road and second, bigger beach can be reached via the stairs on the left side.
 The dunes on the bigger beach are surrounded by the fence and it is not allowed to go there.
 The beach is big, pretty and clean, but it has no WC, showers or changing rooms as almost everywhere else on Menorca, so you need to be prepared :)
 </section>
@@ -334,7 +334,7 @@ The landscapes here are almost martian.
 <section class="text-block">
 Not far from Cavalleria beaches there is a Faro de Cavalleria lighthouse - the most northern point of the island.
 On the way to the lighthouse you could stop to walk around.
-There are a lot of ruins and old military constructions. The island was a military base in the past. 
+There are a lot of ruins and old military constructions. Menorca was a military base in the past. 
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -360,7 +360,7 @@ There are a lot of ruins and old military constructions. The island was a milita
 
 <div class="text-block">
 The western part of the island is a great place to spot the sunset.
-Not far from our house there is a street called Avinguda des Pont d'en Gil - you could see Mallorca from there and it has stunning sunset views.
+Not far from our house there is a street called Avinguda des Pont d'en Gil - you can see Mallorca from there and it has stunning sunset views.
 </div>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -488,7 +488,7 @@ At Son Saura we met some wild goats walking in the dunes.
 
 <section class="text-block">
 Visited one more lighthouse called Faro de Favaritx. The landscapes here were a bit more scenic than on previous ones. 
-This lighthouse stands on the rocks, and the waves crashing the rocks creating an interesting view.
+This lighthouse stands on the rocks, and the waves crashing the rocks, create an interesting view.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -503,7 +503,7 @@ This lighthouse stands on the rocks, and the waves crashing the rocks creating a
 
 <section class="text-block">
 After the lighthouse we drove to Albufera des Grau Natural Park.
-There is a big lake in this park in which a lot of brids are living.
+There is a big lake in this park where a lot of birds are living.
 During the migration season there are a lot of birds visiting Menorca and a lot of wildlife enthusiasts are coming here to watch them.
 There are special wooden hiding huts from where you can watch the birds.
 Unfortunately in April there were only ducks and seagulls in the park.
