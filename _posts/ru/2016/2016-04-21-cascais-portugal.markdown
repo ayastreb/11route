@@ -11,8 +11,8 @@ categories:
   - португалия 
   - атлантический океан
   - кашкаиш
-latitude:   38.7224405
-longitude:  -9.4673536
+latitude:   38.697051
+longitude:  -9.4231573
 ---
 
 <section class="text-block">
