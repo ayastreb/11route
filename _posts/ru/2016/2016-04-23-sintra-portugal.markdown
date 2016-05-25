@@ -91,7 +91,7 @@ longitude:  -9.3836876
 </section>
 
 <section class="text-block">
-В парке есть целая систем подземных тунелей и большой колодец с винтовой лестницей.  
+В парке есть целая систем подземных туннелей и большой колодец с винтовой лестницей.  
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
