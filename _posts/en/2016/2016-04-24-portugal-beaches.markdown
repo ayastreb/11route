@@ -22,8 +22,8 @@ Another destination on our list in Portugal was beaches on the south of the coun
 It's about 300km drive from Lisbon.
 </section>
 <section class="text-block">
-First we visited Praia de Marinha beach. It is on of the most emblematic and beautiful beaches of Portugal.
-It is also considered on of the 10 best beaches in Europe by the Michelin Guide.
+First, we visited Praia da Marinha beach. It is one of the most emblematic and beautiful beaches of Portugal.
+It is also considered one of the 10 best beaches in Europe by the Michelin Guide.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -87,7 +87,7 @@ It is also considered on of the 10 best beaches in Europe by the Michelin Guide.
 </section>
 
 <section class="text-block">
-Not far from Praia da Marinha there is a small beach and a town called Benagil.
+Not far away from Praia da Marinha there is a small beach and a town called Benagil.
 From this beach there is a boat trip around nearby caves.
 The tour is about one hour long and the boat visits around 20 caves.
 </section>
