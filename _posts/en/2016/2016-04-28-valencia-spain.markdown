@@ -4,7 +4,7 @@ permalink:  /en/valencia-spain
 ref:        valencia-spain
 lang:       en
 title:      Valencia, Spain
-date:       2016-04-25 12:00:00
+date:       2016-04-28 12:00:00
 image:      https://content.11route.com/posts/2016/valencia-spain/cover-2000.jpg
 summary:    Short stay in Valencia
 categories: 
