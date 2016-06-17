@@ -27,7 +27,7 @@ Another kind of Spanish is spoken here - Valencian, it's a variety of Catalan.
 The city is situated on the banks of the Turia.
 The river used to flood regularly, and after a particularly bad flood in 1957 approval was given for the river to be diverted away from the city centre.
 Since then the river bed has been transformed into a long urban park called Jardines del Turia.
-It is one of the biggest urban parks in Spain, it surrounds the city center and could be easily seen on the map.
+It is one of the biggest urban parks in Spain, it surrounds the city center and can be easily seen on the map.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -184,7 +184,7 @@ The prices here are higher than those in the supermarkets.
 <section class="text-block">
 City of Arts and Sciences is the most important modern tourist destination in Valencia.
 The construction of the city began in 1996 and completed in 2005.
-The complex is made up from museum of science, planetarium, opera house and open-air oceanographic park.
+The complex consists of museum of science, planetarium, opera house and open-air oceanographic park.
 The initial budget of the project was estimated at around €100 million but it ended up way over the budget and costed the city over €1 billion.
 And in 2014 the parts of opera house roof started to fall off just 8 years after completion.
 The city has sued lead architect of the project - Santiago Calatrava.
