@@ -64,7 +64,7 @@ Plaza de Santa Ana.
 
 На балконе дома спят голуби.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25943895690/in/album-72157666191191430/" title="Sleeping pigeons"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1576/25943895690_5d4a74e392_c.jpg" width="800" height="534" alt="Sleeping pigeons"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25943895690/in/album-72157666191191430/" title="Sleeping pigeons"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1576/25943895690_5d4a74e392_c.jpg" width="1000" height="667" alt="Sleeping pigeons"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <section class="text-block">
 Погуляв по городу мы зашли на обед в Bodegas Castañeda, недалеко от собора. Народу там было очень много и пришлось подождать свободного места у барной стойки.

@@ -20,7 +20,7 @@ longitude:  28.255586
 
 Остров Клеопатры.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12861964693/" title="2012-08-18 13.09.55 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7402/12861964693_cd502af4ff_b.jpg" width="800" height="598" alt="2012-08-18 13.09.55"></a>
+<a href="https://www.flickr.com/photos/118782975@N05/12861964693/" title="2012-08-18 13.09.55 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7402/12861964693_cd502af4ff_b.jpg" width="1000" height="748" alt="2012-08-18 13.09.55"></a>
 <a href="https://www.flickr.com/photos/118782975@N05/12862590144/" title="2012-08-18 13.03.37 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7351/12862590144_72e6c28196_b.jpg" width="598" height="800" alt="2012-08-18 13.03.37"></a>
 
 Вид на Мармарис.
