@@ -165,7 +165,7 @@ There were a lot of people willing to get a free entry, so we had to wait in lin
 </section>
 
 <section class="text-block">
-After Colosseum we wanted to visit Roman Forum, but it was closed for entry already.
+After Colosseum we wanted to visit Roman Forum, but it has been closed for entry already.
 So we only took a look on it from the outside.
 We walked a bit around Forum and went to the central museum - Museo Centrale del Risorgimento.
 </section>
@@ -198,7 +198,7 @@ We walked a bit around Forum and went to the central museum - Museo Centrale del
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/rome-italy/DSC08398-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Rome, Italy" />
     </a>
   </figure>
-  <p>Barbie exhibition and Alphonse Mucha exhibition are running at the same time.</p>
+  <p>Barbie exhibition and Alphonse Mucha exhibition were running at the same time.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/rome-italy/DSC08401-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/rome-italy/DSC08401-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Rome, Italy" />
@@ -207,8 +207,8 @@ We walked a bit around Forum and went to the central museum - Museo Centrale del
 </section>
 
 <section class="text-block">
-Entry to the museum was not free so we decided to skip it.
-On top of the museum there is a viewpoint. You can get there by elevator for 7.50 EUR.
+Entry to the museum was around 15 EUR, so we decided to skip it.
+On top of the museum is a viewpoint. You can get there by elevator for 7.50 EUR.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -289,9 +289,9 @@ Calzone and pizza were also gigantic and were bigger than a plate.
 After dinner we went to another local sightseeing - Trevi Fountain.
 It's the biggest fountain in Rome, it was built in 1732-1762.
 It is very popular tourist attraction, the crowd there is really huge.
-A lot of people are throwing coins into the fountain. An estimated 3,000 EUR are thrown into the fountain each day.
-The money has been used to subsidise a supermarket for Rome's needy. 
-However, there are regular attempts to steal coins from the fountain.
+A lot of people are throwing coins into the fountain. Around 3,000 EUR are thrown into the fountain every day.
+The money has been used by the government to subsidise food in Rome supermarkets for the people in need. 
+It is illegal to steal coins from the fountain, but there are regular attempts.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -317,7 +317,7 @@ However, there are regular attempts to steal coins from the fountain.
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/rome-italy/DSC08468-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Rome, Italy" />
     </a>
   </figure>
-  <p>Went by the Colosseum on our way back.</p>
+  <p>We went by the Colosseum on our way back.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/rome-italy/DSC08483-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/rome-italy/DSC08483-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Rome, Italy" />
@@ -330,7 +330,7 @@ On the next day we planned to visit Vatican.
 Once we got there we felt something was wrong.
 The crowds were huge and some strange people were selling "skip the line" tickets all over the place.
 The lines turned out to be really big - you have to wait 2-3 hours to enter St. Peter's Basilica.
-Vatican Gardens can be visited only with pre-booked tour which is sold out.
+Vatican Gardens can be visited only with pre-booked tour which sells out fast.
 We decided that we are not that much interested in Vatican and went for a walk towards the city. 
 </section>
 
@@ -378,7 +378,7 @@ We decided that we are not that much interested in Vatican and went for a walk t
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/rome-italy/DSC08513-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Rome, Italy" />
     </a>
   </figure>
-  <p>Went by Castel Sent'Angelo, but didn't go inside as well.</p>
+  <p>Next, we went by Castel Sent'Angelo, but didn't go inside as well.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/rome-italy/DSC08527-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -422,8 +422,8 @@ We decided that we are not that much interested in Vatican and went for a walk t
 </section>
 
 <section class="text-block">
-Next to Piazza Navona there is a small market and next to it there are few food stores.
-They sell delicious pizza, cheese and meats there.
+Next to Piazza Navona is a small market and next to it are few food stores.
+They sell delicious pizza, cheese and meats.
 We tried mozzarella bufala and smoked mozzarella, tasted really good.
 </section>
 
