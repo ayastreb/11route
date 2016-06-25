@@ -13,7 +13,7 @@ longitude:  1.837778
 ---
 
 <section class="text-block">
-We've been wanting to visit Montserrat for a long time, but didn't have a chance.
+We wanted to visit Montserrat for a long time, but didn't have a chance.
 This time in Barcelona we had a free day and decided to finally go there.
 Montserrat is a mountain near to Barcelona and on top of this mountain there is a monastery of Montserrat (Santa Maria de Montserrat)
 </section>
