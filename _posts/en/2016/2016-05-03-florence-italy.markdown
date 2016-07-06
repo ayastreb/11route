@@ -25,7 +25,7 @@ longitude:  11.2554846
   Our host gave us the city map and drew a plan of what we can see in Florence in one day.
   Main attraction in the city is Cathedral of Saint Mary of the Flower, better known as Duomo di Firenze.
   It is the tallest building in the city and one of the biggest churches of Italy.
-  It is also largest brick dome ever constructed in the world.
+  It is also the largest brick dome ever constructed in the world.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -48,7 +48,7 @@ longitude:  11.2554846
 
 <section class="text-block">
   There are many art museums and galleries in the city, mostly concentrated around Piazza della Signoria.
-  We had only one day in Florence so we decided to skip musums and just walked around the square.
+  We had only one day in Florence so we decided to skip museums and just walked around the square.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -166,7 +166,7 @@ longitude:  11.2554846
 <section class="text-block">
   After the lunch we went to Boboli Gardens.
   The gardens situated behind Pitti Palace, the main residence of Medici grand dukes of Tuscany at Florence.
-  There is an entry fee for the park and you would need a few hours to visit all of the gardens.
+  There is an entry fee for the park and you will need a few hours to visit all of the gardens.
   The weather started to change and it looked like it will rain, but we decided to visit it anyway.
 </section>
 
