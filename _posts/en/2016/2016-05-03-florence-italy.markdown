@@ -4,7 +4,7 @@ permalink:  /en/florence-italy
 ref:        florence-italy
 lang:       en
 title:      Florence, Italy
-date:       2016-05-01 12:00:00
+date:       2016-05-03 12:00:00
 image:      https://content.11route.com/posts/2016/florence-italy/cover-2000.jpg
 summary:    One day walk around Florence.
 categories:
