@@ -122,7 +122,7 @@ longitude:  11.2554846
 <section class="text-block">
   French artist Clet Abraham lives in Florence.
   He's famous for modifying road signs.
-  We also seen some of his works in Barcelona.
+  We've also seen some of his works in Barcelona.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
