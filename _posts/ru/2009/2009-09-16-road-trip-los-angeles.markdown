@@ -21,7 +21,7 @@ longitude:  -118.2436849
 
 <a href="https://www.flickr.com/photos/118782975@N05/12840047195/" title="DSC03463 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/8/7317/12840047195_ba63eb2b21_b.jpg" width="1000" height="669" alt="DSC03463"></a>
 <a href="https://www.flickr.com/photos/118782975@N05/12859330064/" title="DSC03467 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3764/12859330064_99358b84b7_b.jpg" width="1000" height="669" alt="DSC03467"></a>
-<a href="https://11route.com/wp-content/uploads/2009/09/road-trip-map.png"><img src="/images/bg.png" data-src="https://11route.com/wp-content/uploads/2009/09/road-trip-map.png" alt="road-trip-map" width="1000" height="522" class="alignnone size-full wp-image-180" /></a>
+<a href="https://content.11route.com/road-trip-map.png"><img src="/images/bg.png" data-src="https://content.11route.com/road-trip-map.png" alt="road-trip-map" width="1000" height="522" class="alignnone size-full wp-image-180" /></a>
 
 Вот так закончилось наше путешествие. 5500км, 19 дней и около $1,500 с носа.
 
