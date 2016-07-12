@@ -40,4 +40,4 @@ The next day we moved on.
 
 <a href="https://www.flickr.com/photos/118782975@N05/12836249693/"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2840/12836249693_c2736c713c_b.jpg" width="1000" height="669" alt="DSC02402"></a>
 
-Next stop - <a href="/road-trip-crater-lake" title="Road Trip, Crater Lake">Crater Lake</a>
+Next stop - <a href="/en/road-trip-crater-lake" title="Road Trip, Crater Lake">Crater Lake</a>
