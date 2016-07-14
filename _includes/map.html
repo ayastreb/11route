@@ -30,22 +30,20 @@
     ];
 
     var map = new google.maps.Map(document.getElementById("map"), mapOptions),
-        markers = [];
+        markers = posts.map(function(post) {
+          var marker = new google.maps.Marker({
+            position: new google.maps.LatLng(post.lat, post.lon),
+            map: map,
+            title: post.title,
+            url: post.url
+          });
 
-    posts.forEach(function (post) {
-      var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(post.lat, post.lon),
-        map: map,
-        title: post.title,
-        url: post.url
-      });
+          marker.addListener('click', function () {
+            window.location.href = this.url;
+          });
 
-      marker.addListener('click', function () {
-        window.location.href = this.url;
-      });
-
-      markers.push(marker);
-    });
+          return marker;
+        });
 
     new MarkerClusterer(map, markers, {
       gridSize: 25,
