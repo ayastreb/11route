@@ -7,13 +7,14 @@ title:      Пляжи Португалии
 date:       2016-04-24 12:00:00
 image:      https://content.11route.com/posts/2016/portugal-beaches/cover-2000.jpg
 summary:    Один день на лучших пляжах Португалии.
-categories: 
-  - португалия 
+categories:
+  - португалия
   - пляж
   - альбуфейра
   - прайя де маринья
-latitude:   37.089723
-longitude:  -8.4130512
+location:
+  latitude:   37.089723
+  longitude:  -8.4130512
 ---
 
 <section class="text-block">
@@ -21,8 +22,8 @@ longitude:  -8.4130512
 От Лиссабона ехать туда около 300 км.
 </section>
 <section class="text-block">
-Первым мы посетили пляж Praia da Marinha. Он считается самым красивым пляжем Португалии, 
-а так же входит в десятку лучших пляжей европы, согласно Michelin Guide. 
+Первым мы посетили пляж Praia da Marinha. Он считается самым красивым пляжем Португалии,
+а так же входит в десятку лучших пляжей европы, согласно Michelin Guide.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -36,7 +37,7 @@ longitude:  -8.4130512
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07790-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07790-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
       </a>
-    </figure>  
+    </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07793-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07793-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
@@ -102,7 +103,7 @@ longitude:  -8.4130512
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07866-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07866-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
       </a>
-    </figure>  
+    </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07872-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07872-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
@@ -163,7 +164,7 @@ Praia do Carvalho - интересны пляж. Вход на него возм
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07935-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07935-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
       </a>
-    </figure>  
+    </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07944-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07944-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />

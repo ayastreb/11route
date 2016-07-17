@@ -8,8 +8,9 @@ date:       2009-08-31 12:00:00
 image:      https://content.11route.com/road-trip.jpg
 summary:    The beginning of my three-weeks road trip across the western United States
 categories: travel usa san francisco
-latitude:   37.8953689
-longitude:  -122.5780709
+location:
+  latitude:   37.8953689
+  longitude:  -122.5780709
 ---
 
 <section class="text-block">

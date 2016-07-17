@@ -8,8 +8,9 @@ date:       2009-09-01 12:00:00
 image:      https://content.11route.com/road-trip-crater-lake.jpg
 summary:    Lake in the volcano crater
 categories: travel usa crater lake
-latitude:   42.9446093
-longitude:  -122.1092454
+location:
+  latitude:   42.9446093
+  longitude:  -122.1092454
 ---
 
 <section class="text-block">

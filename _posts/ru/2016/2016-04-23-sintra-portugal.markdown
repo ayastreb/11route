@@ -7,23 +7,24 @@ title:      Синтра, Португалия
 date:       2016-04-23 12:00:00
 image:      https://content.11route.com/posts/2016/sintra-portugal/cover-2000.jpg
 summary:    Поездка в парк и замки возле городка Синтра.
-categories: 
-  - португалия 
+categories:
+  - португалия
   - парк
   - замки
   - синтра
-latitude:   38.8030055
-longitude:  -9.3836876
+location:
+  latitude:   38.8030055
+  longitude:  -9.3836876
 ---
 
 <section class="text-block">
-Синтра это город недалеко к северу от Кашкайша. 
+Синтра это город недалеко к северу от Кашкайша.
 Он расположен рядом с горно-лесопарковой зоной, в которой находится множество достопримечательностей.
-Их то мы и собрались посетить. 
+Их то мы и собрались посетить.
 </section>
 
 <section class="text-block">
-Начали с дворца Кинта де Регалейра. Дворец и парк в течение веков принадлежали разным людям и в 1996 были выкуплены городом Синтра и превращены в музей. 
+Начали с дворца Кинта де Регалейра. Дворец и парк в течение веков принадлежали разным людям и в 1996 были выкуплены городом Синтра и превращены в музей.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -86,12 +87,12 @@ longitude:  -9.3836876
       <a href="//content.11route.com/posts/2016/sintra-portugal/DSC07598-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sintra-portugal/DSC07598-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Quinta da Regaleira, Portugal" />
       </a>
-    </figure>    
+    </figure>
   </div>
 </section>
 
 <section class="text-block">
-В парке есть целая систем подземных туннелей и большой колодец с винтовой лестницей.  
+В парке есть целая систем подземных туннелей и большой колодец с винтовой лестницей.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -125,7 +126,7 @@ longitude:  -9.3836876
 </section>
 
 <section class="text-block">
-Дальше мы поехали в Замок мавров. Этот замок был построен маврами в период 8-го и 9-го веков. 
+Дальше мы поехали в Замок мавров. Этот замок был построен маврами в период 8-го и 9-го веков.
 Крепостные стены замка хорошо сохранились, их общий периметр около 450 метров.
 Со стен замка открывается панорманый вид на Синтру и округи Лиссабона.
 </section>

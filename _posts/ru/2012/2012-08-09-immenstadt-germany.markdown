@@ -8,8 +8,9 @@ date:       2012-08-09 12:00:00
 image:      https://content.11route.com/immenstadt.jpg
 summary:    Прогулка в Альпах
 categories: travel germany
-latitude:   47.560012
-longitude:  10.2210235
+location:
+  latitude:   47.560012
+  longitude:  10.2210235
 ---
 
 Так в Имменштадте паркуют велосипеды.

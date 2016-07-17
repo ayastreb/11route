@@ -8,8 +8,9 @@ date:       2009-09-10 12:00:00
 image:      https://content.11route.com/road-trip-las-vegas.jpg
 summary:    Casinos of Las Vegas
 categories: travel usa las vegas
-latitude:   36.255123
-longitude:  -115.2383485
+location:
+  latitude:   36.255123
+  longitude:  -115.2383485
 ---
 
 From <a href="/road-trip-grand-canyon" title="Road Trip, Grand Canyon">Grand Canyon</a> we reached Las Vegas.

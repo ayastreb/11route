@@ -8,8 +8,9 @@ date:       2016-03-27 12:00:00
 image:      https://content.11route.com/benalmadena.jpg
 summary:    Небольшой городок рядом с Малагой
 categories: travel travel spain
-latitude:   36.5920935
-longitude:  -4.564351
+location:
+  latitude:   36.5920935
+  longitude:  -4.564351
 ---
 
 Бенальмадена - небольшой город недалеко от Малаги.

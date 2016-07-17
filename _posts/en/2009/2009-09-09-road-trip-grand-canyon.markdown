@@ -8,8 +8,9 @@ date:       2009-09-09 12:00:00
 image:      https://content.11route.com/road-trip-grand-canyon.jpg
 summary:    Trip to Grand Canyon
 categories: travel usa grand canyon
-latitude:   36.2317194
-longitude:  -113.0309112
+location:
+  latitude:   36.2317194
+  longitude:  -113.0309112
 ---
 
 From <a href="/road-trip-yellowstone" title="Road Trip, Yellowstone">Yellowstone</a> we headed to Grand Canyon through Glacier National Park.

@@ -8,8 +8,9 @@ date:       2009-07-29 12:00:00
 image:      https://content.11route.com/gay-pride.jpg
 summary:    Annual gay pride parade in San-Francisco, 2009
 categories: travel usa san francisco
-latitude:   37.782076381670585
-longitude:  -122.41056364013673
+location:
+  latitude:   37.782076381670585
+  longitude:  -122.41056364013673
 ---
 
 We had nothing to do on the weekend, so we decided to check out the famous Gay Pride Parade in San-Francisco.

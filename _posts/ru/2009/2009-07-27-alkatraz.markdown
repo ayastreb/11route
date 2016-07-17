@@ -8,8 +8,9 @@ date:       2009-07-27 12:00:00
 image:      https://content.11route.com/alkatraz.jpg
 summary:    Экскурсия на Алькатрас
 categories: travel usa alkatraz
-latitude:   37.8266636
-longitude:  -122.4230122
+location:
+  latitude:   37.8266636
+  longitude:  -122.4230122
 ---
 
 Алькатрас был тюрьмой для особо опасных представителей человечества до 1963 года.

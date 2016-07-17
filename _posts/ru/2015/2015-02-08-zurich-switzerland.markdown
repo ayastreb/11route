@@ -8,8 +8,9 @@ date:       2015-02-08 12:00:00
 image:      https://content.11route.com/zurich_cover.jpg
 summary:    Один день в Цюрихе
 categories: travel switzerland
-latitude:   47.3686498
-longitude:  8.5391825
+location:
+  latitude:   47.3686498
+  longitude:  8.5391825
 ---
 
 Остановились на день в Цюрихе.

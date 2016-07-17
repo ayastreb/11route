@@ -8,8 +8,9 @@ date:       2009-09-02 12:00:00
 image:      https://content.11route.com/road-trip-st-helens.jpg
 summary:    Volcano St. Helen's
 categories: travel usa st helens
-latitude:   46.1912
-longitude:  -122.1944
+location:
+  latitude:   46.1912
+  longitude:  -122.1944
 ---
 
 From <a href="/en/road-trip-crater-lake" title="Road Trip, Crater Lake">Crater Lake</a> we drove further.

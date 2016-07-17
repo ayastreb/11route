@@ -8,8 +8,9 @@ date:       2016-03-01 12:00:00
 image:      https://content.11route.com/cancun.jpg
 summary:    Lazy vacation in All-Inclusive hotel Grand Palladium, Riviera Maya
 categories: travel mexico cancun
-latitude:   20.4435397
-longitude:  -87.290246
+location:
+  latitude:   20.4435397
+  longitude:  -87.290246
 ---
 
 <section class="text-block">

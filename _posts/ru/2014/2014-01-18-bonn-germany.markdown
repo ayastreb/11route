@@ -8,8 +8,9 @@ date:       2014-01-18 12:00:00
 image:      https://content.11route.com/bonn.jpg
 summary:    Экскурсия в Бонн
 categories: travel germany
-latitude:   50.73743
-longitude:  7.0982068000001
+location:
+  latitude:   50.73743
+  longitude:  7.0982068000001
 ---
 
 В Бонне мы задержались ненадолго. Первое впечатление о городе положительное. Много старинных зданий, узенькие улочки, компактный центр.

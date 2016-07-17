@@ -7,26 +7,27 @@ title:      Менорка, Испания
 date:       2016-04-16 12:00:00
 image:      https://content.11route.com/posts/2016/menorca-spain/cover-2000-3.jpg
 summary:    Одна неделя на пляжах Менорки. Обзор лучших пляжей Менорки. Что посмотреть на Менорке.
-categories: 
-  - испания 
-  - менорка 
-  - пляж 
-  - песок 
+categories:
+  - испания
+  - менорка
+  - пляж
+  - песок
   - лучшие пляжи европы
-  - средиземное море 
+  - средиземное море
   - балеарские острова
-latitude:   39.949121
-longitude:  3.9192015
+location:
+  latitude:   39.949121
+  longitude:  3.9192015
 ---
 
 <section class="text-block">
-Как-то случайно услышал разговор, в котором обсуждали пляжи Тайланда и Карибских островов. 
+Как-то случайно услышал разговор, в котором обсуждали пляжи Тайланда и Карибских островов.
 Одна девушка сказала, что на Менорке пляжи не хуже и не обязательно лететь на Карибы.
 </section>
 <section class="text-block">
 Менорка это один из Балеарских островов - Майорка, Менорка и Ибица.
 Называется так потому, что меньше Майорки (майор - больший, менор - меньший).
-На тот момент у нас были планы только на неделю вперед и мы ехали в Барселону. 
+На тот момент у нас были планы только на неделю вперед и мы ехали в Барселону.
 Из Барселоны на Менорку летает RyanAir и билеты стоили около 20 евро, поэтому мы решили проверить, так ли хороши пляжи Менорки :)
 Кроме RyanAir туда еще летают Vueling и Air Europa. Так же можно добраться и на пароме из Барселоны, но самолет дешевле и быстрее.
 </section>
@@ -56,7 +57,7 @@ longitude:  3.9192015
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06931-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC06932-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -82,7 +83,7 @@ longitude:  3.9192015
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06968-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC06954-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -95,7 +96,7 @@ longitude:  3.9192015
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC06962-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06962-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
@@ -104,7 +105,7 @@ longitude:  3.9192015
 </section>
 
 <section class="text-block">
-Следующим в нашем списке был пляж Cala Turqueta. От Сьютаделлы к нему ехать около получаса. 
+Следующим в нашем списке был пляж Cala Turqueta. От Сьютаделлы к нему ехать около получаса.
 Здесь есть большая бесплатная парковка, но от парковки до самого пляжа прийдется идти пешком минут 10-15.
 </section>
 <section class="text-block">
@@ -120,7 +121,7 @@ longitude:  3.9192015
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06972-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
     </a>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07165-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07165-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
@@ -143,7 +144,7 @@ longitude:  3.9192015
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC06987-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06987-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
@@ -167,7 +168,7 @@ longitude:  3.9192015
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07156-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Hiking, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07157-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
@@ -187,7 +188,7 @@ longitude:  3.9192015
 Если посмотреть фото на Google Maps - летом на этих пляжах очень людно. В апреле здесь почти никого небыло.
 </section>
 <section class="text-block">
-Macarelleta - маленький пляж с огороженными дюнами. 
+Macarelleta - маленький пляж с огороженными дюнами.
 С этого пляжа можно попасть на соседний большой пляж Macarella по тропе в скалах.
 Тропа эта поднимается на самый верх скалы и с нее открывается красивый вид на оба пляжа.
 </section>
@@ -230,7 +231,7 @@ Macarelleta - маленький пляж с огороженными дюнам
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07028-1000.jpg" width="1000" height="282" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
           <a href="//content.11route.com/posts/2016/menorca-spain/DSC07021-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -243,7 +244,7 @@ Macarelleta - маленький пляж с огороженными дюнам
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07009-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07009-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
@@ -278,7 +279,7 @@ Macarelleta - маленький пляж с огороженными дюнам
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07037-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
     </a>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07046-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07046-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
@@ -287,7 +288,7 @@ Macarelleta - маленький пляж с огороженными дюнам
 </section>
 
 <section class="text-block">
-Playas de Cavalleria - обязательное место для посещения. 
+Playas de Cavalleria - обязательное место для посещения.
 Находится недалеко от Cala Tirant, здесь есть большая парковка, от нее до пляжей пешком 5-10 минут.
 Особенность этих пляжей в красной породе в окружающих горах, и сам песок на пляже немного красноватый.
 Пейзажы здесь почти марсианские.
@@ -318,7 +319,7 @@ Playas de Cavalleria - обязательное место для посещен
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07096-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07096-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
@@ -337,7 +338,7 @@ Playas de Cavalleria - обязательное место для посещен
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07123-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07107-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -354,7 +355,7 @@ Playas de Cavalleria - обязательное место для посещен
 
 <div class="text-block">
 Западная часть острова это отличная возможность наблюдать закаты.
-Недалеко от нашего дома была набережная Avinguda des Pont d'en Gil - оттуда видно Майорку и отличный вид на закат. 
+Недалеко от нашего дома была набережная Avinguda des Pont d'en Gil - оттуда видно Майорку и отличный вид на закат.
 </div>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -362,15 +363,15 @@ Playas de Cavalleria - обязательное место для посещен
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07279-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07279-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sunset at Menorca" />
     </a>
-  </figure>  
-  
+  </figure>
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07188-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07188-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Sunset at Menorca" />
       </a>
     </figure>
-  
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07202-2000.jpg" itemprop="contentUrl" data-size="2000x1125">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07202-750.jpg" width="750" height="422" itemprop="thumbnail" alt="Sunset at Menorca" />
@@ -400,7 +401,7 @@ Cala N'Brut - интересное место, это не совсем пляж
       </a>
     </figure>
   </div>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07236-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
@@ -413,7 +414,7 @@ Cala N'Brut - интересное место, это не совсем пляж
       </a>
     </figure>
   </div>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07243-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -441,7 +442,7 @@ Cala N'Brut - интересное место, это не совсем пляж
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07305-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07309-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
@@ -454,13 +455,13 @@ Cala N'Brut - интересное место, это не совсем пляж
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07318-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07318-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
     </a>
-  </figure> 
-  
+  </figure>
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07323-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
@@ -472,13 +473,13 @@ Cala N'Brut - интересное место, это не совсем пляж
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07325-750.jpg" width="750" height="566" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
       </a>
     </figure>
-  </div>  
-   
+  </div>
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07331-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07331-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
     </a>
-  </figure> 
+  </figure>
 </section>
 
 <section class="text-block">
@@ -538,7 +539,7 @@ Cala N'Brut - интересное место, это не совсем пляж
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07370-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07370-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />

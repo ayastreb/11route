@@ -8,8 +8,9 @@ date:       2014-04-12 12:00:00
 image:      https://content.11route.com/madrid-2.jpg
 summary:    Second day of our trip to Madrid
 categories: travel spain madrid
-latitude:   40.4167215
-longitude:  -3.7036267
+location:
+  latitude:   40.4167215
+  longitude:  -3.7036267
 ---
 
 <section class="text-block">
@@ -77,7 +78,7 @@ Almudena Cathedral view.
 
 <section class="text-block">
 Then we went to the Temple of Debod.
-It was originally built in Egypt, but in 1968 it was presented to Spain by the government of Egypt for their help in building Aswan High Dam. 
+It was originally built in Egypt, but in 1968 it was presented to Spain by the government of Egypt for their help in building Aswan High Dam.
 The temple was decomposed, transferred to Madrid and built back again.
 The line to get in was too big so we decided to go further.
 </section>
@@ -177,7 +178,7 @@ Scientology House. Bred Pitt must be somewhere around :)
 
 <a href="https://www.flickr.com/photos/118782975@N05/13846409575" title="DSC01090 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3757/13846409575_b57be27840_b.jpg" width="531" height="800" alt="DSC01090"></a>
 
-Hotel with a lizard made from CDs. 
+Hotel with a lizard made from CDs.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13846773784" title="DSC01091 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7240/13846773784_127a6fce6b_b.jpg" width="531" height="800" alt="DSC01091"></a>
 

@@ -7,12 +7,13 @@ title:      Lisbon, Portugal
 date:       2016-04-22 12:00:00
 image:      https://content.11route.com/posts/2016/lisbon-portugal/cover-2000.jpg
 summary:    Trip to the capital of Portugal.
-categories: 
-  - portugal 
+categories:
+  - portugal
   - lisbon
   - capital
-latitude:   38.7213381
-longitude:  -9.1414872
+location:
+  latitude:   38.7213381
+  longitude:  -9.1414872
 ---
 
 <section class="text-block">
@@ -91,7 +92,7 @@ Most of the time those trams are full of tourists.
     <a href="//content.11route.com/posts/2016/lisbon-portugal/DSC07522-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/lisbon-portugal/DSC07522-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lisbon, Portugal" />
     </a>
-  </figure>  
+  </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/lisbon-portugal/DSC07530-2000.jpg" itemprop="contentUrl" data-size="2000x1341">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/lisbon-portugal/DSC07530-1000.jpg" width="1000" height="671" itemprop="thumbnail" alt="Lisbon, Portugal" />
@@ -100,7 +101,7 @@ Most of the time those trams are full of tourists.
 </section>
 
 <section class="text-block">
-April 25th Bridge is a suspension bridge in Lisbon. 
+April 25th Bridge is a suspension bridge in Lisbon.
 Because it has similar coloring, it is often compared to Golden Gate Bridge in San Francisco.
 Actually, it was built by the same company which constructed San Francisco-Oakland Bay Bridge, but not the Golden Gate.
 </section>
@@ -117,7 +118,7 @@ Actually, it was built by the same company which constructed San Francisco-Oakla
     </a>
   </figure>
 </section>
-  
+
 <section class="text-block">
 On the next day the weather was better and we stopped by in Lisbon once more on our way to the beaches.
 The city left mixed impressions on us. There are many abandoned buildings right in the city center.

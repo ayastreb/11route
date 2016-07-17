@@ -8,8 +8,9 @@ date:       2016-04-10 12:00:00
 image:      https://content.11route.com/posts/2016/barcelona-from-above/cover2-2000.jpg
 summary:    Барселона с высоты
 categories: travel travel spain
-latitude:   41.4225152
-longitude:  2.1098562
+location:
+  latitude:   41.4225152
+  longitude:  2.1098562
 ---
 
 <section class="text-block">
@@ -34,14 +35,14 @@ longitude:  2.1098562
     </a>
     <figcaption itemprop="caption description">Отель на горе Тибидабо</figcaption>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06435-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06435-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sagrat Cor church" />
     </a>
     <figcaption itemprop="caption description">Храм Святого Сердца. Чтобы его сфотографировать, мне пришлось прокатиться на башне обозрения - это такая длинная палка, с двумя корзинами на каждом конце.</figcaption>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06423-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06423-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Ferris wheel at Tibidabo" />
@@ -56,14 +57,14 @@ longitude:  2.1098562
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06386-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06388-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06388-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06390-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06390-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
@@ -84,7 +85,7 @@ longitude:  2.1098562
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06512-500.jpg" width="500" height="281" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06513-2000.jpg" itemprop="contentUrl" data-size="2000x1190">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06513-500.jpg" width="500" height="298" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
@@ -97,7 +98,7 @@ longitude:  2.1098562
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06514-500.jpg" width="500" height="294" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06517-2000.jpg" itemprop="contentUrl" data-size="2000x1025">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06517-500.jpg" width="500" height="256" itemprop="thumbnail" alt="View on Barcelona from Tibidabo" />
@@ -110,13 +111,13 @@ longitude:  2.1098562
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06523-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Helicopter in Barcelona heliport" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06530-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06530-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Helicopter in Barcelona helicopter" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06529-2000.jpg" itemprop="contentUrl" data-size="2000x1398">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06529-500.jpg" width="500" height="350" itemprop="thumbnail" alt="Helicopter in Barcelona helicopter" />
@@ -137,36 +138,36 @@ longitude:  2.1098562
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06536-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Barcelonetta" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06538-2000.jpg" itemprop="contentUrl" data-size="2000x1262">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06538-500.jpg" width="500" height="316" itemprop="thumbnail" alt="Barcelonetta" />
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06540-2000.jpg" itemprop="contentUrl" data-size="2000x1230">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06540-1000.jpg" width="1000" height="615" itemprop="thumbnail" alt="Barcelona" />
     </a>
     <figcaption itemprop="caption description">Две арки по центру - вокзал Estación de Francia. Сюда мы приезжаем из Сиджеса</figcaption>
   </figure>
-    
-    
+
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06541-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06541-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Barcelona" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06542-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06542-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Barcelona" />
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06559-2000.jpg" itemprop="contentUrl" data-size="2000x1410">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06559-1000.jpg" width="1000" height="705" itemprop="thumbnail" alt="Pilot in Barcelona helicopter tour" />
@@ -185,21 +186,21 @@ longitude:  2.1098562
     </a>
     <figcaption itemprop="caption description">Возвращаемся обратно - по пути отель W Barcelona, а также порт и гора Монтжуик</figcaption>
   </figure>
- 
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06570-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06570-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Barcelona" />
       </a>
     </figure>
-    
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06571-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
           <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06571-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Barcelona" />
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/barcelona-from-above/DSC06574-2000.jpg" itemprop="contentUrl" data-size="2000x1208">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/barcelona-from-above/DSC06574-1000.jpg" width="1000" height="604" itemprop="thumbnail" alt="Barcelona heliport" />

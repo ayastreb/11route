@@ -8,8 +8,9 @@ date:       2016-03-30 12:00:00
 image:      https://content.11route.com/nerja.jpg
 summary:    Visiting Nerja in Spain, close to Malaga
 categories: travel travel spain
-latitude:   36.7446782
-longitude:  -3.8787985
+location:
+  latitude:   36.7446782
+  longitude:  -3.8787985
 ---
 
 <section class="text-block">
@@ -85,7 +86,7 @@ Next day we went to see the Caves of Nerja.
 
 <section class="text-block">
 These caves were discovered in 60-ies and since than there are some archeological studies going on.
-Part of the caves is open for public visits. According to scientists, there were ancient people living here around 10 000 years ago. 
+Part of the caves is open for public visits. According to scientists, there were ancient people living here around 10 000 years ago.
 </section>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26089112261/in/album-72157666057811980/" title="Caves of Nerja"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1667/26089112261_90e1e1a3ae_b.jpg" width="1024" height="682" alt="Caves of Nerja"></a>

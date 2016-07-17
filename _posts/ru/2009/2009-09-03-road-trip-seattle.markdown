@@ -8,8 +8,9 @@ date:       2009-09-03 12:00:00
 image:      https://content.11route.com/road-trip-seattle.jpg
 summary:    Сиэтл
 categories: travel usa seattle
-latitude:   47.6062095
-longitude:  -122.3320708
+location:
+  latitude:   47.6062095
+  longitude:  -122.3320708
 ---
 
 После <a href="/road-trip-st-helens" title="Road Trip, Святая Елена">Святой Елены</a> отправились в Сиэтл.

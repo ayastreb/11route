@@ -8,8 +8,9 @@ date:       2015-03-29 12:00:00
 image:      https://content.11route.com/sevilla.jpg
 summary:    2 дня проездом в Севилье
 categories: travel spain
-latitude:   37.3890924
-longitude:  -5.9844588999999
+location:
+  latitude:   37.3890924
+  longitude:  -5.9844588999999
 ---
 
 Прилетели мы в Малагу из Дюссельдорфа.
@@ -102,7 +103,7 @@ longitude:  -5.9844588999999
 
 <a href="https://www.flickr.com/photos/118782975@N05/16814068180" title="DSC03288 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8741/16814068180_d3429f621e_b.jpg" width="1000" height="694" alt="DSC03288"></a>
 
-Вход в Алькасар - наша цель на сегодня.<br/> 
+Вход в Алькасар - наша цель на сегодня.<br/>
 К сожалению он закрывался через 40 минут, а на посещение его нужно 2-3 часа. Так что мы пошли бродить по городу.
 
 <a href="https://www.flickr.com/photos/118782975@N05/16379145094" title="DSC03289 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8750/16379145094_0c601a9f4e_b.jpg" width="1000" height="691" alt="DSC03289"></a>

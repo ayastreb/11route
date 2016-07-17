@@ -8,8 +8,9 @@ date:       2014-05-18 12:00:00
 image:      https://content.11route.com/blue_lagoon.jpg
 summary:    A little bit of Turkey.
 categories: travel turkey
-latitude:   36.550041070257
-longitude:  29.112797186816
+location:
+  latitude:   36.550041070257
+  longitude:  29.112797186816
 ---
 
 While we were on vacation in Turkey we visited Blue Lagoon, which is located in Oludeniz.

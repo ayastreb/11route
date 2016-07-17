@@ -7,12 +7,13 @@ title:      Cascais, Portugal
 date:       2016-04-21 12:00:00
 image:      https://content.11route.com/posts/2016/cascais-portugal/cover-2000.jpg
 summary:    Trip to a small town Cascais not far away from Lisbon in Portugal.
-categories: 
-  - portugal 
+categories:
+  - portugal
   - atlantic ocean
   - cascais
-latitude:   38.697051
-longitude:  -9.4231573
+location:
+  latitude:   38.697051
+  longitude:  -9.4231573
 ---
 
 <section class="text-block">
@@ -20,7 +21,7 @@ A couple of friends from Dusseldorf suggested spending a vacation together in Po
 Portugal was on our list and tickets to Porto from both Barcelona and Dusseldorf were cheap.
 So we decided to meet in Porto, rent a car and drive to Lisbon.
 We've settled in a small town called Cascais, not far away from Lisbon.
-It was cheaper and more convenient to get to Sintra - another place we wanted to visit. 
+It was cheaper and more convenient to get to Sintra - another place we wanted to visit.
 </section>
 <section class="text-block">
 It is about 3.5 hours drive from Porto to Cascais, mostly on a toll highway.
@@ -46,7 +47,7 @@ There is not much to see in Cascais and the weather was cloudy, nevertheless we 
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07410-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
-</section>  
+</section>
 
 <div class="youtube-video" id="portugal-cascais" data-video-id="nyAzgs4AFRg" width="1000" height="563"></div>
 
@@ -120,7 +121,7 @@ When we got there it was terribly cold and terribly beautiful.
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07730-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07730-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />

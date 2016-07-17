@@ -8,8 +8,9 @@ date:       2016-04-11 12:00:00
 image:      https://content.11route.com/posts/2016/sitges-spain/cover-2000.jpg
 summary:    Отдых в Сиджесе
 categories: travel travel spain
-latitude:   41.2359192
-longitude:  1.7859532
+location:
+  latitude:   41.2359192
+  longitude:  1.7859532
 ---
 
 <section class="text-block">
@@ -27,7 +28,7 @@ longitude:  1.7859532
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06378-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sitges, Spain" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/sitges-spain/DSC06346-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
@@ -87,28 +88,28 @@ longitude:  1.7859532
     </a>
     <figcaption itemprop="caption description">Delice de volaille @ La Terrassa de Sitges - что-то вроде паштета из гусинной печени с фиговым вареньем</figcaption>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/sitges-spain/DSC06480-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06480-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Sports Bar, Sitges" />
     </a>
     <figcaption itemprop="caption description">Romesco i Julieta @ Sports Bar - мини-бургер с луковым соусом</figcaption>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/sitges-spain/DSC06485-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06485-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Platos Rotos, Sitges" />
     </a>
     <figcaption itemprop="caption description">Me Marcho Pa' Madrid @ Platos Rotos - несколько видом мяса с овощами и бульоном</figcaption>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/sitges-spain/DSC06489-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06489-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Tres Quarts, Sitges" />
     </a>
     <figcaption itemprop="caption description">Bikini de Maduixes @ Tres Quarts - сендвич-гриль с ветчиной, сыром, клубникой и йогуртом</figcaption>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/sitges-spain/DSC06503-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06503-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Taberna Guria, Sitges" />

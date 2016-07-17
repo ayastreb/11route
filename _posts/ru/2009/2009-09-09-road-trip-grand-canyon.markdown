@@ -8,8 +8,9 @@ date:       2009-09-09 12:00:00
 image:      https://content.11route.com/road-trip-grand-canyon.jpg
 summary:    Гранд каньон
 categories: travel usa grand canyon
-latitude:   36.2317194
-longitude:  -113.0309112
+location:
+  latitude:   36.2317194
+  longitude:  -113.0309112
 ---
 
 Из <a href="/road-trip-yellowstone" title="Road Trip, Йеллоустоун">Йеллоустоуна</a> мы направились к Гранд Каньйону через Glacier National Park.

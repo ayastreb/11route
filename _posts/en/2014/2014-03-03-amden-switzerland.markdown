@@ -8,8 +8,9 @@ date:       2014-03-03 12:00:00
 image:      https://content.11route.com/amden.jpg
 summary:    In the Swiss mountains
 categories: travel switzerland
-latitude:   47.1491606
-longitude:  9.141151
+location:
+  latitude:   47.1491606
+  longitude:  9.141151
 ---
 
 Amden is a small town in the swiss Alps with population of about 1,500.

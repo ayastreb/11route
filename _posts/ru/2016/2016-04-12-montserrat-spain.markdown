@@ -8,8 +8,9 @@ date:       2016-04-12 12:00:00
 image:      https://content.11route.com/posts/2016/montserrat-spain/cover-2000.jpg
 summary:    Экскурсия в монастырь на горе Монсеррат
 categories: travel spain
-latitude:   41.591667
-longitude:  1.837778
+location:
+  latitude:   41.591667
+  longitude:  1.837778
 ---
 
 <section class="text-block">
@@ -32,7 +33,7 @@ longitude:  1.837778
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/montserrat-spain/DSC06751-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="View from Montserrat" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/montserrat-spain/DSC06752-2000.jpg" itemprop="contentUrl" data-size="2000x1412">
@@ -45,7 +46,7 @@ longitude:  1.837778
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/montserrat-spain/DSC06755-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/montserrat-spain/DSC06755-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monastery de Montserrat" />

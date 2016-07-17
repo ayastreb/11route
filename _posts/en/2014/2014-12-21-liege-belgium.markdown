@@ -8,8 +8,9 @@ date:       2014-12-21 12:00:00
 image:      https://content.11route.com/liege_cover.jpg
 summary:    Short trip by car to Liege, Belgium
 categories: travel belgium
-latitude:   50.6325574
-longitude:  5.5796662
+location:
+  latitude:   50.6325574
+  longitude:  5.5796662
 ---
 
 On the weekend we decided to go somewhere with our new colleague.

@@ -8,8 +8,9 @@ date:       2015-12-26 12:00:00
 image:      https://content.11route.com/prague.jpg
 summary:    Рождество в Праге
 categories: travel czech
-latitude:   50.0855107
-longitude:  14.3937384
+location:
+  latitude:   50.0855107
+  longitude:  14.3937384
 ---
 
 Прилетели в Прагу 25-го вечером, и сразу же пошли гулять в центр.
@@ -45,7 +46,7 @@ longitude:  14.3937384
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/23360514304/in/album-72157662839955545/" title="DSC03924"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5728/23360514304_a5142d49b5_b.jpg" width="1024" height="681" alt="DSC03924"></a>
 
-В Котлете были интересные лампы. 
+В Котлете были интересные лампы.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/23360514244/in/album-72157662839955545/" title="DSC03925"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1524/23360514244_583c550cb6_b.jpg" width="1024" height="681" alt="DSC03925"></a>
 

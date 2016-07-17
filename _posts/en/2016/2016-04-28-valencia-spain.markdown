@@ -7,13 +7,14 @@ title:      Valencia, Spain
 date:       2016-04-28 12:00:00
 image:      https://content.11route.com/posts/2016/valencia-spain/cover-2000.jpg
 summary:    Short stay in Valencia
-categories: 
+categories:
   - spain
   - valencia
   - market
   - city of arts and science
-latitude:   39.469902
-longitude:  -0.3768654
+location:
+  latitude:   39.469902
+  longitude:  -0.3768654
 ---
 
 <section class="text-block">

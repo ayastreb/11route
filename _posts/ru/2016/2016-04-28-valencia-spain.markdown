@@ -7,13 +7,14 @@ title:      Валенсия, Испания
 date:       2016-04-28 12:00:00
 image:      https://content.11route.com/posts/2016/valencia-spain/cover-2000.jpg
 summary:    Остановка в Валенсии.
-categories: 
+categories:
   - испания
   - валенсия
   - рынок
   - город искусств и наук
-latitude:   39.469902
-longitude:  -0.3768654
+location:
+  latitude:   39.469902
+  longitude:  -0.3768654
 ---
 
 <section class="text-block">

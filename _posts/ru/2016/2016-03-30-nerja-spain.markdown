@@ -8,8 +8,9 @@ date:       2016-03-30 12:00:00
 image:      https://content.11route.com/nerja.jpg
 summary:    Экскурсия в Нерху
 categories: travel travel spain
-latitude:   36.7446782
-longitude:  -3.8787985
+location:
+  latitude:   36.7446782
+  longitude:  -3.8787985
 ---
 
 Нерха - город на востоке от Малаги, основные достопримечательности здесь это древние пещеры и балкон Европы - площадка на выступе скалы.

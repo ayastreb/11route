@@ -8,8 +8,9 @@ date:       2009-09-05 12:00:00
 image:      https://content.11route.com/road-trip-yellowstone.jpg
 summary:    Национальный заповедник Йеллоустоун
 categories: travel usa yellowstone
-latitude:   44.4279628
-longitude:  -110.5884552
+location:
+  latitude:   44.4279628
+  longitude:  -110.5884552
 ---
 
 Итак из <a href="/road-trip-seattle" title="Road Trip, Сиэтл">Сиэтла</a> мы направились в Йеллоустоун, национальный парк, где много гейзеров.

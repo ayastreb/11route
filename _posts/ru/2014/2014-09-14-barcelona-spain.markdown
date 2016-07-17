@@ -8,8 +8,9 @@ date:       2014-09-14 12:00:00
 image:      https://content.11route.com/barcelona-2014.jpg
 summary:    Отпуск в Барселоне
 categories: travel spain barcelona vacation
-latitude:   41.3850639
-longitude:  2.1734034999999
+location:
+  latitude:   41.3850639
+  longitude:  2.1734034999999
 ---
 
 В Барселону мы приехали вечером 10-го сентября. Решили сэкономить на жилье и нашли Shared Room на Airbnb.<br/>

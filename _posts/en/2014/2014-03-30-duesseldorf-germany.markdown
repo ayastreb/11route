@@ -3,13 +3,14 @@ layout:     post
 permalink:  /en/duesseldorf-germany
 ref:        duesseldorf-germany
 lang:       en
-title:      Düsseldorf, Germany 
+title:      Düsseldorf, Germany
 date:       2014-03-30 12:00:00
 image:      https://content.11route.com/duesseldorf.jpg
 summary:    A walk around Düsseldorf
 categories: home germany duesseldorf
-latitude:   51.2277411
-longitude:  6.7734556
+location:
+  latitude:   51.2277411
+  longitude:  6.7734556
 ---
 
 <section class="text-block">
@@ -18,9 +19,9 @@ We started our walk from Dusseldorf-Derendorf.<br/>
 We lived in this neighborhood for about a month when we moved in to Germany.
 </section>
 <section class="text-block">
-Derendorf is a nice place to live, but it took about 1 hour to get to our office from there.<br/> 
+Derendorf is a nice place to live, but it took about 1 hour to get to our office from there.<br/>
 </section>
- 
+
 <a href="https://www.flickr.com/photos/118782975@N05/13508986733" title="DSC00446 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2852/13508986733_3be567c6ae_b.jpg" width="1000" height="664" alt="DSC00446"></a>
 
 Then we headed to Altstadt and visited Hofgarten park.

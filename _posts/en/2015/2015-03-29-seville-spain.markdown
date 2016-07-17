@@ -8,8 +8,9 @@ date:       2015-03-29 12:00:00
 image:      https://content.11route.com/sevilla.jpg
 summary:    Two days trip to Seville
 categories: travel spain
-latitude:   37.3890924
-longitude:  -5.9844588999999
+location:
+  latitude:   37.3890924
+  longitude:  -5.9844588999999
 ---
 
 We've arrived to Malaga from Dusseldorf.
@@ -24,7 +25,7 @@ The car costed 175 EUR for 10 days with additional 80 EUR for full tank of gas.
 
 <section class="text-block">
 We booked a hotel in Seville for one night at Sevilla Center Hotel for 75 EUR.
-The hotel was in the city center and was very decent. In the price was included swimming pool and SPA with Jacuzzi. 
+The hotel was in the city center and was very decent. In the price was included swimming pool and SPA with Jacuzzi.
 Underground parking in the hotel for one and a half days supposed to cost 23 EUR, but the paying machine wasn't working and the girl on reception gave us a discount, so it only cost us 15 EUR.
 </section>
 
@@ -39,7 +40,7 @@ Swimming pool. The weather was quite chilling so we didn't swim.
 <a href="https://www.flickr.com/photos/118782975@N05/16813808978" title="DSC03242 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7606/16813808978_d345ec14af_b.jpg" width="1000" height="665" alt="DSC03242"></a>
 
 <section class="text-block">
-After checking into hotel and relaxing in jacuzzi we went for a lunch to a local restaurant close to our hotel - Mesón Guadalquivir. 
+After checking into hotel and relaxing in jacuzzi we went for a lunch to a local restaurant close to our hotel - Mesón Guadalquivir.
 It had good reviews on Tripadvisor, and as it turned our it was really good indeed.
 Lunch for two with drinks cost us 35 EUR.
 </section>
@@ -127,7 +128,7 @@ Nowadays city hall and museums are located here. Also here was filmed Star Wars 
 
 <section class="text-block">
 The square is surrounded with a channel in which you can ride in a boat.
-Even though it was +30C degrees outside, there were a lot of people paddling. 
+Even though it was +30C degrees outside, there were a lot of people paddling.
 </section>
 
 <a href="https://www.flickr.com/photos/118782975@N05/17001539025" title="DSC03312 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8716/17001539025_d305e5719c_b.jpg" width="1000" height="665" alt="DSC03312"></a>
@@ -140,7 +141,7 @@ Rainbow in the fountain.
 
 <a href="https://www.flickr.com/photos/118782975@N05/16379144554" title="DSC03322 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8685/16379144554_205420d1ab_b.jpg" width="1000" height="665" alt="DSC03322"></a>
 
-People are riding in such bikes. There's even a 4-seater option.  
+People are riding in such bikes. There's even a 4-seater option.
 
 <a href="https://www.flickr.com/photos/118782975@N05/17001538785" title="DSC03319 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7632/17001538785_ff752042ed_b.jpg" width="1000" height="665" alt="DSC03319"></a>
 

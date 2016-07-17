@@ -8,8 +8,9 @@ date:       2014-05-18 12:00:00
 image:      https://content.11route.com/blue_lagoon.jpg
 summary:    Немного Турции
 categories: travel turkey
-latitude:   36.550041070257
-longitude:  29.112797186816
+location:
+  latitude:   36.550041070257
+  longitude:  29.112797186816
 ---
 
 Пока отдыхали в Турции - съездили в Голубую лагуну, что в Олюденизе.

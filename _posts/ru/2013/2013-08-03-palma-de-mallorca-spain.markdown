@@ -8,8 +8,9 @@ date:       2013-08-03 12:00:00
 image:      https://content.11route.com/mallorca.jpg
 summary:    Выходные на Майорке
 categories: travel spain palma de mallorca
-latitude:   39.57119
-longitude:  2.6466339999999
+location:
+  latitude:   39.57119
+  longitude:  2.6466339999999
 ---
 
 Решили слетать на выходные на Майорку, и дабы сэкономить нашли почти самый дешевый отель на острове.

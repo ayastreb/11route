@@ -11,8 +11,9 @@ categories:
   - florence
   - italy
   - tuscany
-latitude:   43.7695649
-longitude:  11.2554846
+location:
+  latitude:   43.7695649
+  longitude:  11.2554846
 ---
 
 <section class="text-block">

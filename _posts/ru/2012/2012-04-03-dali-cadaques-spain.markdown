@@ -8,8 +8,9 @@ date:       2012-04-03 12:00:00
 image:      https://content.11route.com/cadaques.jpg
 summary:    В дом-музей Дали
 categories: travel germany
-latitude:   42.2888975
-longitude:  3.277874
+location:
+  latitude:   42.2888975
+  longitude:  3.277874
 ---
 
 Кадакес находится в испанской провинции с милым именем Жирона (или Херона, даже не знаю, что лучше).

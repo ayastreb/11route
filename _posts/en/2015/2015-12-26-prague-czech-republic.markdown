@@ -8,8 +8,9 @@ date:       2015-12-26 12:00:00
 image:      https://content.11route.com/prague.jpg
 summary:    Christmas eve in Prague
 categories: travel czech
-latitude:   50.0855107
-longitude:  14.3937384
+location:
+  latitude:   50.0855107
+  longitude:  14.3937384
 ---
 <section class="text-block">
 We've arrived to Prague on the evening of December 25th and went for a walk to the city center.

@@ -8,8 +8,9 @@ date:       2016-03-01 12:00:00
 image:      https://content.11route.com/cancun.jpg
 summary:    Отпуск в Ривьере Майа
 categories: travel mexico cancun
-latitude:   20.4435397
-longitude:  -87.290246
+location:
+  latitude:   20.4435397
+  longitude:  -87.290246
 ---
 
 Наш затяжной отпуск 2016 начался с отеля All-Inclusive в Мексике - Grand Palladium Colonial.

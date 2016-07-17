@@ -8,8 +8,9 @@ date:       2009-09-16 12:00:00
 image:      https://content.11route.com/road-trip-los-angeles.jpg
 summary:    Final destination - Los Angeles
 categories: travel usa los angeles
-latitude:   34.0522342
-longitude:  -118.2436849
+location:
+  latitude:   34.0522342
+  longitude:  -118.2436849
 ---
 
 Our last stop was the city of angels.

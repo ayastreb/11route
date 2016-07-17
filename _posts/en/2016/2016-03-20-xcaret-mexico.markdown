@@ -8,8 +8,9 @@ date:       2016-03-20 12:00:00
 image:      https://content.11route.com/xcaret.jpg
 summary:    Visiting Xcaret Natural Park in Riviera Maya
 categories: travel mexico xcaret
-latitude:   20.5809184
-longitude:  -87.1218867
+location:
+  latitude:   20.5809184
+  longitude:  -87.1218867
 ---
 
 <section class="text-block">
@@ -31,16 +32,16 @@ Green parrots are eating something.
 
 <section class="text-block">
 What's interesting is that all parrots are free and sitting outside, when all the other birds are closed in special aviary.
-Probably parrots don't want to leave :) 
+Probably parrots don't want to leave :)
 </section>
 
 Bird, looks like a turkey.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26071476996/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1519/26071476996_849fe37969_b.jpg" width="1024" height="680" alt="Bird"></a>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412805/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1458/26097412805_107f948fb3_b.jpg" width="1024" height="680" alt="Bird"></a> 
- 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412805/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1458/26097412805_107f948fb3_b.jpg" width="1024" height="680" alt="Bird"></a>
+
 Woodpecker.
- 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25492647394/in/album-72157664195952094/" title="Woodpecker"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1641/25492647394_2f29d5af97_b.jpg" width="1024" height="680" alt="Woodpecker"></a>
 
 <section class="text-block">
@@ -82,7 +83,7 @@ There is also a butterflies park there - a special closed building where the tem
 But apparently butterflies like that kind of weather :)
 </section>
 
-Butterflies are feed fruits and asked not to be touched. 
+Butterflies are feed fruits and asked not to be touched.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26031064821/in/album-72157664195952094/" title="Eating butterflies"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1478/26031064821_d704fe19ff_b.jpg" width="1024" height="680" alt="Eating butterflies"></a>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412485/in/album-72157664195952094/" title="Eating butterfly"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1505/26097412485_65c65e3cb4_b.jpg" width="1024" height="680" alt="Eating butterfly"></a>

@@ -7,16 +7,17 @@ title:      Menorca, Spain
 date:       2016-04-16 12:00:00
 image:      https://content.11route.com/posts/2016/menorca-spain/cover-2000-3.jpg
 summary:    One week on the beaches of Menorca Island. Menorca's best beaches review. What to see in Menorca.
-categories: 
-  - spain 
+categories:
+  - spain
   - menorca
   - minorca
   - beac
   - europe's best beaches
   - mediterranean sea
   - balearic islands
-latitude:   39.949121
-longitude:  3.9192015
+location:
+  latitude:   39.949121
+  longitude:  3.9192015
 ---
 
 <section class="text-block">
@@ -28,12 +29,12 @@ Menorca (or Minorca) is one of three Balearic Islands - Mallorca, Menorca and Ib
 It has its name because it is smaller than Mallorca (mallor - bigger, menor - smaller).
 At that moment we had planed only one week ahead and were going to Barcelona.
 There is a regular flight from Barcelona to Menorca from RyanAir and tickets cost around 20 EUR, so we decided to check whether the beaches at Menorca are really that good :)
-Besides RyanAir you can get to Menorca with Vueling and Air Europe. 
+Besides RyanAir you can get to Menorca with Vueling and Air Europe.
 It is also possible to take a ferry from Barcelona, but flying is cheaper and faster.
 </section>
 
 <section class="text-block">
-During the landing the plane is flying across almost the whole island and if the weather is good you can see the most of the island from above. 
+During the landing the plane is flying across almost the whole island and if the weather is good you can see the most of the island from above.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -58,7 +59,7 @@ It turned out to be a usual lighthouse, nobody around and everything was closed.
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06931-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC06932-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -85,7 +86,7 @@ There is a small parking next to the beach, but during the high season it may be
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06968-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC06954-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -98,7 +99,7 @@ There is a small parking next to the beach, but during the high season it may be
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC06962-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06962-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
@@ -111,7 +112,7 @@ Next on our list was Cala Turqueta beach. It's about half an hour drive from Ciu
 There is a free parking from which you have to walk 10-15 minutes to the beach itself.
 </section>
 <section class="text-block">
-There are few picnic tables in the shades, but no WC or changing rooms. 
+There are few picnic tables in the shades, but no WC or changing rooms.
 The beach is small and surrounded by rocks. The water, same as everywhere on the island, is clear and transparent.
 The dark spots you see in the pictures are some kind of leaves from the trees around, nothing dangerous :)
 Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
@@ -123,7 +124,7 @@ Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06972-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
     </a>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07165-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07165-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
@@ -146,7 +147,7 @@ Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC06987-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06987-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
@@ -170,7 +171,7 @@ The trail here goes partially in the pine woods and partially in the open field,
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07156-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Hiking, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07157-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
@@ -235,7 +236,7 @@ Up there there is a church called Mare de Déu del Toro Santuario. There is also
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07028-1000.jpg" width="1000" height="282" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
           <a href="//content.11route.com/posts/2016/menorca-spain/DSC07021-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -248,7 +249,7 @@ Up there there is a church called Mare de Déu del Toro Santuario. There is also
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07009-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07009-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
@@ -283,7 +284,7 @@ The beach is big, pretty and clean, but it has no WC, showers or changing rooms 
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07037-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
     </a>
   </figure>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07046-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07046-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
@@ -323,7 +324,7 @@ The landscapes here are almost martian.
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07096-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07096-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
@@ -334,7 +335,7 @@ The landscapes here are almost martian.
 <section class="text-block">
 Not far from Cavalleria beaches there is a Faro de Cavalleria lighthouse - the most northern point of the island.
 On the way to the lighthouse you could stop to walk around.
-There are a lot of ruins and old military constructions. Menorca was a military base in the past. 
+There are a lot of ruins and old military constructions. Menorca was a military base in the past.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -343,7 +344,7 @@ There are a lot of ruins and old military constructions. Menorca was a military 
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07123-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07107-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -368,15 +369,15 @@ Not far from our house there is a street called Avinguda des Pont d'en Gil - you
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07279-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07279-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sunset at Menorca" />
     </a>
-  </figure>  
-  
+  </figure>
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07188-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07188-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Sunset at Menorca" />
       </a>
     </figure>
-  
+
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07202-2000.jpg" itemprop="contentUrl" data-size="2000x1125">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07202-750.jpg" width="750" height="422" itemprop="thumbnail" alt="Sunset at Menorca" />
@@ -405,7 +406,7 @@ There are stairs to the water from the patios. It must be fun to jump into the w
       </a>
     </figure>
   </div>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07236-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
@@ -418,7 +419,7 @@ There are stairs to the water from the patios. It must be fun to jump into the w
       </a>
     </figure>
   </div>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07243-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
@@ -435,7 +436,7 @@ There are stairs to the water from the patios. It must be fun to jump into the w
 
 <section class="text-block">
 Later we visited another beach - Arenal d'en Castell located on the north of the island in the town with the same name.
-It is quite a big beach, there is a wooden walking promenade and some restaurants on the shore. 
+It is quite a big beach, there is a wooden walking promenade and some restaurants on the shore.
 From here you can hike to another beach called Arenal de Son Saura, it's a 30-40 minutes hike.
 At Son Saura we met some wild goats walking in the dunes.
 </section>
@@ -446,7 +447,7 @@ At Son Saura we met some wild goats walking in the dunes.
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07305-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
     </a>
   </figure>
-  
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07309-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
@@ -459,13 +460,13 @@ At Son Saura we met some wild goats walking in the dunes.
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07318-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07318-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
     </a>
-  </figure> 
-  
+  </figure>
+
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/menorca-spain/DSC07323-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
@@ -477,17 +478,17 @@ At Son Saura we met some wild goats walking in the dunes.
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07325-750.jpg" width="750" height="566" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
       </a>
     </figure>
-  </div>  
-   
+  </div>
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07331-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07331-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
     </a>
-  </figure> 
+  </figure>
 </section>
 
 <section class="text-block">
-Visited one more lighthouse called Faro de Favaritx. The landscapes here were a bit more scenic than on previous ones. 
+Visited one more lighthouse called Faro de Favaritx. The landscapes here were a bit more scenic than on previous ones.
 This lighthouse stands on the rocks, and the waves crashing the rocks, create an interesting view.
 </section>
 
@@ -510,7 +511,7 @@ Unfortunately in April there were only ducks and seagulls in the park.
 </section>
 <section class="text-block">
 From the park there is a hiking trail to the next town (Es Grau).
-The trail goes through the pine tree wood and ends at the beach. 
+The trail goes through the pine tree wood and ends at the beach.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -545,7 +546,7 @@ The trail goes through the pine tree wood and ends at the beach.
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/menorca-spain/DSC07370-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07370-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
@@ -588,5 +589,5 @@ Also we walked a bit around Mahon city and found a carrot cake :)
 
 <section class="text-block">
 We spent a great week at Menorca, the beaches here are really nice and it's not very crowded in April.
-Definitely, recommended location! 
+Definitely, recommended location!
 </section>

@@ -7,12 +7,13 @@ title:      Porto, Portugal
 date:       2016-04-25 12:00:00
 image:      https://content.11route.com/posts/2016/porto-portugal/cover2-2000.jpg
 summary:    Two days in Porto.
-categories: 
+categories:
   - portugal
   - porto
   - portwein
-latitude:   41.1621376
-longitude:  -8.6568725
+location:
+  latitude:   41.1621376
+  longitude:  -8.6568725
 ---
 
 <section class="text-block">
@@ -194,8 +195,8 @@ Also there was a shop with portuguese sweets.
 <section class="text-block">
 A single cod croquette was not enough for us so we visited one more place here on the square.
 The place is called Brick and located right in front of the tower.
-The food is served on wooden plates. The most popular dishes are tostadas. 
-We ordered salmon&avocado tostada and salmon sashimi with salad.   
+The food is served on wooden plates. The most popular dishes are tostadas.
+We ordered salmon&avocado tostada and salmon sashimi with salad.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">

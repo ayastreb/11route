@@ -8,8 +8,9 @@ date:       2014-01-18 12:00:00
 image:      https://content.11route.com/bonn.jpg
 summary:    Day tripp to Bonn
 categories: travel germany
-latitude:   50.73743
-longitude:  7.0982068000001
+location:
+  latitude:   50.73743
+  longitude:  7.0982068000001
 ---
 
 We didn't spend much time in Bonn. First impression about the city was positive.

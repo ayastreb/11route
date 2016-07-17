@@ -7,14 +7,15 @@ title:      Portugal beaches
 date:       2016-04-24 12:00:00
 image:      https://content.11route.com/posts/2016/portugal-beaches/cover-2000.jpg
 summary:    One day on the best beaches of Portugal.
-categories: 
-  - portugal 
+categories:
+  - portugal
   - beach
   - albufeira
   - praia de marinha
   - grutas de benagil
-latitude:   37.089723
-longitude:  -8.4130512
+location:
+  latitude:   37.089723
+  longitude:  -8.4130512
 ---
 
 <section class="text-block">
@@ -37,7 +38,7 @@ It is also considered one of the 10 best beaches in Europe by the Michelin Guide
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07790-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07790-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
       </a>
-    </figure>  
+    </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07793-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07793-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
@@ -103,7 +104,7 @@ The tour is about one hour long and the boat visits around 20 caves.
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07866-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07866-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
       </a>
-    </figure>  
+    </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07872-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07872-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
@@ -165,7 +166,7 @@ but still a lot of people manage to climb there.
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07935-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07935-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />
       </a>
-    </figure>  
+    </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/portugal-beaches/DSC07944-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/portugal-beaches/DSC07944-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Praia de Marinha, Portugal" />

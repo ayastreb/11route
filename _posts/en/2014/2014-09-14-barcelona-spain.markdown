@@ -8,15 +8,16 @@ date:       2014-09-14 12:00:00
 image:      https://content.11route.com/barcelona-2014.jpg
 summary:    Vacation in Barcelona
 categories: travel spain barcelona vacation
-latitude:   41.3850639
-longitude:  2.1734034999999
+location:
+  latitude:   41.3850639
+  longitude:  2.1734034999999
 ---
 
 <section class="text-block">
 We arrived in Barcelona on the evening of September 10th.
 We wanted to save some money and rented shared room on AirBnb.
 It turned out to be a room in some student's apartment and he had a cat there.
-I'm allergic to cats so we had to move out the next day. 
+I'm allergic to cats so we had to move out the next day.
 We found another apartment in Poble Nou district, close to the beach.
 </section>
 
@@ -58,7 +59,7 @@ The beach. A bit crowded.
 
 <a href="https://www.flickr.com/photos/118782975@N05/15309499362" title="DSC02356 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5576/15309499362_d2b9462499_b.jpg" width="1000" height="665" alt="DSC02356"></a>
 
-El Cap de Barcelona (The Head) - sculpture by Roy Lichtenstein 
+El Cap de Barcelona (The Head) - sculpture by Roy Lichtenstein
 
 <a href="https://www.flickr.com/photos/118782975@N05/15309499052" title="DSC02360 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3852/15309499052_544f3794bf_b.jpg" width="1000" height="665" alt="DSC02360"></a>
 
@@ -70,7 +71,7 @@ House with umbrellas on Rambla street.
 
 <a href="https://www.flickr.com/photos/118782975@N05/15286806276" title="DSC02371 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5586/15286806276_87a9aef151_b.jpg" width="1000" height="665" alt="DSC02371"></a>
 
-Rambla street. It's a pedestrian street where all the tourists go. 
+Rambla street. It's a pedestrian street where all the tourists go.
 
 <a href="https://www.flickr.com/photos/118782975@N05/15123268408" title="DSC02374 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3887/15123268408_1b47976a50_b.jpg" width="1000" height="665" alt="DSC02374"></a>
 
@@ -118,7 +119,7 @@ It was cloudy, but we went for a walk on the seafront.
 <a href="https://www.flickr.com/photos/118782975@N05/15309491942" title="DSC02473 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5587/15309491942_5ca58ff5dd_b.jpg" width="1000" height="665" alt="DSC02473"></a>
 <a href="https://www.flickr.com/photos/118782975@N05/15123262288" title="DSC02482 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3914/15123262288_2b5da176d5_b.jpg" width="1000" height="665" alt="DSC02482"></a>
 
-And after that went to the Ciutadella Park. 
+And after that went to the Ciutadella Park.
 
 <a href="https://www.flickr.com/photos/118782975@N05/15309845705" title="DSC02553 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3866/15309845705_d872a4ee17_b.jpg" width="1000" height="665" alt="DSC02553"></a>
 <a href="https://www.flickr.com/photos/118782975@N05/15123129760" title="DSC02554 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5556/15123129760_f2b7ae6609_b.jpg" width="1000" height="665" alt="DSC02554"></a>

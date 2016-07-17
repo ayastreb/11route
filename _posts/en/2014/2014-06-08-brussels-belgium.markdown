@@ -8,8 +8,9 @@ date:       2014-06-08 12:00:00
 image:      https://content.11route.com/brussels_cover.jpg
 summary:    Trip to Brussels by train
 categories: travel belgium
-latitude:   50.85
-longitude:  4.35
+location:
+  latitude:   50.85
+  longitude:  4.35
 ---
 
 We went to Brussels by bus "Dortmund-Paris"
@@ -28,7 +29,7 @@ Tramway stop. 1 hour ticket costs 2.10 EUR, 24 hour ticket costs 7 EUR.
 <a href="https://www.flickr.com/photos/118782975@N05/14406259422" title="DSC01451 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5586/14406259422_95e819dc24_b.jpg" width="532" height="800" alt="DSC01451"></a>
 
 Metro station.<br/>
-Interior work they decided to do later - inside it's just raw concrete and plywood. 
+Interior work they decided to do later - inside it's just raw concrete and plywood.
 
 <a href="https://www.flickr.com/photos/118782975@N05/14406259252" title="DSC01455 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2932/14406259252_e251e28dab_b.jpg" width="532" height="800" alt="DSC01455"></a>
 

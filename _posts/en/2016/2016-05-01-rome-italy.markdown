@@ -7,14 +7,15 @@ title:      Rome, Italy
 date:       2016-05-01 12:00:00
 image:      https://content.11route.com/posts/2016/rome-italy/cover-2000.jpg
 summary:    Walking tour around Rome.
-categories: 
+categories:
   - italy
   - rome
   - colosseum
   - ruins
   - pantheon
-latitude:   41.902720
-longitude:  12.496446
+location:
+  latitude:   41.902720
+  longitude:  12.496446
 ---
 
 <section class="text-block">
@@ -56,7 +57,7 @@ On the big square nearby was a free music concert.
 </section>
 
 <section class="text-block">
-Ancient ruins are seen from everywhere in Rome. You can find archaeological excavations, ancient columns and remains of old walls and aqueducts. 
+Ancient ruins are seen from everywhere in Rome. You can find archaeological excavations, ancient columns and remains of old walls and aqueducts.
 Also there are 13 Egyptian obelisks located in Rome. After conquering Egypt in 36 b.c. romans began to bring granite obelisks from there and placed them all around the city.
 </section>
 
@@ -290,7 +291,7 @@ After dinner we went to another local sightseeing - Trevi Fountain.
 It's the biggest fountain in Rome, it was built in 1732-1762.
 It is very popular tourist attraction, the crowd there is really huge.
 A lot of people are throwing coins into the fountain. Around 3,000 EUR are thrown into the fountain every day.
-The money has been used by the government to subsidise food in Rome supermarkets for the people in need. 
+The money has been used by the government to subsidise food in Rome supermarkets for the people in need.
 It is illegal to steal coins from the fountain, but there are regular attempts.
 </section>
 
@@ -331,7 +332,7 @@ Once we got there we felt something was wrong.
 The crowds were huge and some strange people were selling "skip the line" tickets all over the place.
 The lines turned out to be really big - you have to wait 2-3 hours to enter St. Peter's Basilica.
 Vatican Gardens can be visited only with pre-booked tour which sells out fast.
-We decided that we are not that much interested in Vatican and went for a walk towards the city. 
+We decided that we are not that much interested in Vatican and went for a walk towards the city.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">

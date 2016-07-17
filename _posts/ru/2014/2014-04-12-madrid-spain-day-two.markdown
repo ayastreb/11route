@@ -8,8 +8,9 @@ date:       2014-04-12 12:00:00
 image:      https://content.11route.com/madrid-2.jpg
 summary:    Второй день в Мадриде
 categories: travel spain madrid
-latitude:   40.4167215
-longitude:  -3.7036267
+location:
+  latitude:   40.4167215
+  longitude:  -3.7036267
 ---
 
 Второй день начался с завтрака в музее хамона на площади Майор.<br/>

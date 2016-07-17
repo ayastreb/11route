@@ -8,17 +8,18 @@ date:       2014-03-30 12:00:00
 image:      https://content.11route.com/duesseldorf.jpg
 summary:    Прогулка по Дюссельдорфу
 categories: home germany duesseldorf
-latitude:   51.2277411
-longitude:  6.7734556
+location:
+  latitude:   51.2277411
+  longitude:  6.7734556
 ---
 
 В Дюссельдорф пришла весна, +21 и солнце.<br/>
-Мы начали свою прогулку с района Dusseldorf-Derendorf.<br/> 
+Мы начали свою прогулку с района Dusseldorf-Derendorf.<br/>
 В этом районе мы жили целый месяц по приезду в Германию.
 
-Derendorf очень приятное место для жизни, но чтобы добраться до Hafen, где мы работаем, необходимы две пересадки.<br/> 
+Derendorf очень приятное место для жизни, но чтобы добраться до Hafen, где мы работаем, необходимы две пересадки.<br/>
 Местная достопримечательность в Дерендорфе - церковь Ev. Kreuzkirche, как раз в 2х минутах ходьбы от нашей бывшей квартиры.
- 
+
 <a href="https://www.flickr.com/photos/118782975@N05/13508986733" title="DSC00446 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2852/13508986733_3be567c6ae_b.jpg" width="1000" height="664" alt="DSC00446"></a>
 
 Далее мы поехали в Altstadt и вышли неподалеку от парка Hofgarten.
@@ -118,7 +119,7 @@ Kö-Bogen - новый торговый центр.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13508718535" title="DSC00533 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3794/13508718535_2f8043fd63_b.jpg" width="1000" height="664" alt="DSC00533"></a>
 
-Последней остановкой был музей керамики. Это второй музей керамики в Дюссельдорфе, который мы посетили. 
+Последней остановкой был музей керамики. Это второй музей керамики в Дюссельдорфе, который мы посетили.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13510512624" title="DSC00571 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7448/13510512624_d84f8ac2bd_b.jpg" width="1000" height="664" alt="DSC00571"></a>
 <a href="https://www.flickr.com/photos/118782975@N05/13510256463" title="DSC00567 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7251/13510256463_e6a4181a7c_b.jpg" width="1000" height="664" alt="DSC00567"></a>

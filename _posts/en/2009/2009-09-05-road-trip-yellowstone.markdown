@@ -8,8 +8,9 @@ date:       2009-09-05 12:00:00
 image:      https://content.11route.com/road-trip-yellowstone.jpg
 summary:    Visiting national park of Yellowstone
 categories: travel usa yellowstone
-latitude:   44.4279628
-longitude:  -110.5884552
+location:
+  latitude:   44.4279628
+  longitude:  -110.5884552
 ---
 
 From <a href="/road-trip-seattle" title="Road Trip, Seattle">Seattle</a> we drove to Yellowstone National Park.

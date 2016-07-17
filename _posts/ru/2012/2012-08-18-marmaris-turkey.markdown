@@ -8,8 +8,9 @@ date:       2012-08-18 12:00:00
 image:      https://content.11route.com/marmaris.jpg
 summary:    Все включено в Турции
 categories: travel turkey
-latitude:   36.8505659
-longitude:  28.255586
+location:
+  latitude:   36.8505659
+  longitude:  28.255586
 ---
 
 В самом Мармарисе делать было нечего, поэтому решили съездить на экскурсию по Егейскому морю на яхте.

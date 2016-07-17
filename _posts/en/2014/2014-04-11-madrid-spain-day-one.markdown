@@ -8,8 +8,9 @@ date:       2014-04-11 12:00:00
 image:      https://content.11route.com/madrid-1.jpg
 summary:    First day of our trip to Madrid
 categories: travel spain madrid
-latitude:   40.4166889
-longitude:  -3.7037688
+location:
+  latitude:   40.4166889
+  longitude:  -3.7037688
 ---
 
 <section class="text-block">
@@ -50,7 +51,7 @@ View from the windows.
 
 <section class="text-block">
 After a bit of rest in the hotel we went for a walk.
-Our route looked something like this: 
+Our route looked something like this:
 from hotel to Plaza Major, lunch there. Then visit Almudena Cathedral and Royal Palace.
 Tapas in the evening and new Captain America moview at night.
 </section>
@@ -61,7 +62,7 @@ Plaza Mayor.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13846936664" title="DSC00751 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2935/13846936664_ebcc5f6b46_b.jpg" width="1000" height="664" alt="DSC00751"></a>
 
-There were a lot of cafes and restaurants on the square, we chose the one whith most people - Museo del Jamon. 
+There were a lot of cafes and restaurants on the square, we chose the one whith most people - Museo del Jamon.
 
 <a href="https://www.flickr.com/photos/118782975@N05/13846932314" title="DSC00761 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3818/13846932314_fae0ec3a83_b.jpg" width="1000" height="664" alt="DSC00761"></a>
 

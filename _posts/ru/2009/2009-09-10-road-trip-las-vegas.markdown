@@ -8,8 +8,9 @@ date:       2009-09-10 12:00:00
 image:      https://content.11route.com/road-trip-las-vegas.jpg
 summary:    Казино Лас-Вегаса
 categories: travel usa las vegas
-latitude:   36.255123
-longitude:  -115.2383485
+location:
+  latitude:   36.255123
+  longitude:  -115.2383485
 ---
 
 Из <a href="/road-trip-grand-canyon" title="Road Trip, Гранд Каньон">Гранд Каньона</a> мы добрались до Лас-Вегаса.

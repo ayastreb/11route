@@ -7,12 +7,13 @@ title:      Порту, Португалия
 date:       2016-04-25 12:00:00
 image:      https://content.11route.com/posts/2016/porto-portugal/cover2-2000.jpg
 summary:    Два дня в Порту.
-categories: 
-  - португалия 
+categories:
+  - португалия
   - порту
   - портвейн
-latitude:   41.1621376
-longitude:  -8.6568725
+location:
+  latitude:   41.1621376
+  longitude:  -8.6568725
 ---
 
 <section class="text-block">

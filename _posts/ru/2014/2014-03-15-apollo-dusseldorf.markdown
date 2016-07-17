@@ -8,8 +8,9 @@ date:       2014-03-15 12:00:00
 image:      https://content.11route.com/apollo-theatre.jpg
 summary:    Вечер в кабаре Аполло
 categories: home germany duesseldorf
-latitude:   51.2194428
-longitude:  6.7656314
+location:
+  latitude:   51.2194428
+  longitude:  6.7656314
 ---
 
 После переезда в Дюссельдорф нам выдали книжечки со скидками в разные места города.

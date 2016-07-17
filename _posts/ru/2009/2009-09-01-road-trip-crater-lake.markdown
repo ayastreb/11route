@@ -8,8 +8,9 @@ date:       2009-09-01 12:00:00
 image:      https://content.11route.com/road-trip-crater-lake.jpg
 summary:    Озеро в кратере
 categories: travel usa crater lake
-latitude:   42.9446093
-longitude:  -122.1092454
+location:
+  latitude:   42.9446093
+  longitude:  -122.1092454
 ---
 
 Выехав из <a href="/road-trip">Сан-Франциско</a> мы направились к парку Crater Lake.

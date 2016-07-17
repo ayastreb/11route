@@ -7,14 +7,15 @@ title:      Sintra, Portugal
 date:       2016-04-23 12:00:00
 image:      https://content.11route.com/posts/2016/sintra-portugal/cover-2000.jpg
 summary:    Day trip to Sintra-Cascais National Park.
-categories: 
+categories:
   - portugal
   - natural park
   - castle of the moors
   - palace quinta de regaleira
   - sintra
-latitude:   38.8030055
-longitude:  -9.3836876
+location:
+  latitude:   38.8030055
+  longitude:  -9.3836876
 ---
 
 <section class="text-block">
@@ -88,7 +89,7 @@ The palace and park around it was owned by different people over the time and in
       <a href="//content.11route.com/posts/2016/sintra-portugal/DSC07598-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
         <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sintra-portugal/DSC07598-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Quinta da Regaleira, Portugal" />
       </a>
-    </figure>    
+    </figure>
   </div>
 </section>
 

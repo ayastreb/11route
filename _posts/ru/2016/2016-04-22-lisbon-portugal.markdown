@@ -7,12 +7,13 @@ title:      Лиссабон, Португалия
 date:       2016-04-22 12:00:00
 image:      https://content.11route.com/posts/2016/lisbon-portugal/cover-2000.jpg
 summary:    Прогулка по столице Португалии.
-categories: 
-  - португалия 
+categories:
+  - португалия
   - лиссабон
   - столица
-latitude:   38.7213381
-longitude:  -9.1414872
+location:
+  latitude:   38.7213381
+  longitude:  -9.1414872
 ---
 
 <section class="text-block">
@@ -90,7 +91,7 @@ longitude:  -9.1414872
     <a href="//content.11route.com/posts/2016/lisbon-portugal/DSC07522-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/lisbon-portugal/DSC07522-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lisbon, Portugal" />
     </a>
-  </figure>  
+  </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/lisbon-portugal/DSC07530-2000.jpg" itemprop="contentUrl" data-size="2000x1341">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/lisbon-portugal/DSC07530-1000.jpg" width="1000" height="671" itemprop="thumbnail" alt="Lisbon, Portugal" />
@@ -116,7 +117,7 @@ longitude:  -9.1414872
     </a>
   </figure>
 </section>
-  
+
 <section class="text-block">
 На следующий день погода была лучше и мы еще раз заехали в Лиссабон по дороге к пляжам.
 Город оставил неоднозначные впечатления. Очень много заброшеных и полу-развалившихся домов в самом центре города.

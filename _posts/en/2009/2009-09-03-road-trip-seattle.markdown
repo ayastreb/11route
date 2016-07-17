@@ -8,8 +8,9 @@ date:       2009-09-03 12:00:00
 image:      https://content.11route.com/road-trip-seattle.jpg
 summary:    One day in Seattle
 categories: travel usa seattle
-latitude:   47.6062095
-longitude:  -122.3320708
+location:
+  latitude:   47.6062095
+  longitude:  -122.3320708
 ---
 
 After <a href="/en/road-trip-st-helens" title="Road Trip, St. Helen's">St. Helen's</a> we went to Seattle.

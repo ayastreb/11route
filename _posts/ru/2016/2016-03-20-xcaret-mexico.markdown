@@ -8,8 +8,9 @@ date:       2016-03-20 12:00:00
 image:      https://content.11route.com/xcaret.jpg
 summary:    Экскурсия в природный парк Xcaret
 categories: travel mexico xcaret
-latitude:   20.5809184
-longitude:  -87.1218867
+location:
+  latitude:   20.5809184
+  longitude:  -87.1218867
 ---
 
 Недалеко от нашего отеля находится парк Xcaret (произносится вроде как "Шкарет") - большой комплекс в джунглях на берегу моря, там водится много животных и еще можно поплавать в подземных реках.
@@ -34,10 +35,10 @@ longitude:  -87.1218867
 
 Птичка с раздвоеным хвостом.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412805/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1458/26097412805_107f948fb3_b.jpg" width="1024" height="680" alt="Bird"></a> 
- 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412805/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1458/26097412805_107f948fb3_b.jpg" width="1024" height="680" alt="Bird"></a>
+
 Дятел.
- 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25492647394/in/album-72157664195952094/" title="Woodpecker"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1641/25492647394_2f29d5af97_b.jpg" width="1024" height="680" alt="Woodpecker"></a>
 
 На территории парка есть три реки, по которым можно поплавать в гламурном розовом жилете.

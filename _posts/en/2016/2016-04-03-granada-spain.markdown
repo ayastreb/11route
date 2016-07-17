@@ -8,13 +8,14 @@ date:       2016-04-03 12:00:00
 image:      https://content.11route.com/granada.jpg
 summary:    One day trip to Granda
 categories: travel travel spain
-latitude:   37.1810095
-longitude:  -3.6262912
+location:
+  latitude:   37.1810095
+  longitude:  -3.6262912
 ---
 
 <section class="text-block">
 Last year we've been to <a href="/seville-spain">Seville</a> and this time we decided to go to Granada.
-In Granada, as well as in Seville, there is an old Arab stronghold and gardens called Alhambra de Granada. 
+In Granada, as well as in Seville, there is an old Arab stronghold and gardens called Alhambra de Granada.
 But entry tickets are sold out for the whole month ahead, so we just strolled around the city and enjoyed the views on Alhambra from outside.
 </section>
 

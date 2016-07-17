@@ -8,8 +8,9 @@ date:       2014-06-08 12:00:00
 image:      https://content.11route.com/brussels_cover.jpg
 summary:    Экскурсия в Брюссель
 categories: travel belgium
-latitude:   50.85
-longitude:  4.35
+location:
+  latitude:   50.85
+  longitude:  4.35
 ---
 
 В Брюссель поехали на автобусе Дортмунд-Париж. От Дюссельдорфа до Брюсселя 3,5 часа и около 25 евро в одну сторону.
@@ -27,7 +28,7 @@ longitude:  4.35
 
 <a href="https://www.flickr.com/photos/118782975@N05/14406259422" title="DSC01451 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5586/14406259422_95e819dc24_b.jpg" width="532" height="800" alt="DSC01451"></a>
 
-Станция метро.<br/> 
+Станция метро.<br/>
 Внутреннюю отделку видимо решили оставить на потом - внутри голый бетон и листы фанеры.
 
 <a href="https://www.flickr.com/photos/118782975@N05/14406259252" title="DSC01455 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2932/14406259252_e251e28dab_b.jpg" width="532" height="800" alt="DSC01455"></a>

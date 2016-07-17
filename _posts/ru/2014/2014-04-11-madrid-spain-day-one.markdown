@@ -8,8 +8,9 @@ date:       2014-04-11 12:00:00
 image:      https://content.11route.com/madrid-1.jpg
 summary:    Первый день в Мадриде
 categories: travel spain madrid
-latitude:   40.4166889
-longitude:  -3.7037688
+location:
+  latitude:   40.4166889
+  longitude:  -3.7037688
 ---
 
 Изначально мы планировали провести пасхальный отпуск целиком в Малаге, дешевле всего туда было добраться самолетом Дюссельдорф-Мадрид и дальше на машине.<br/>
@@ -50,7 +51,7 @@ A Nuestra Señora de la Paloma - 56 евро за ночь на двоих, од
 
 Немного отдохнули и пошли гулять, план был приблизительно такой:<br/>
 из отеля на площадь Майор, там обед. Потом в собор Альмудена и королевский дворец.<br/>
-Вечером тапас и в кино на нового Капитана Америка. 
+Вечером тапас и в кино на нового Капитана Америка.
 
 <a href="https://content.11route.com/madrid-map-1.png"><img src="/images/bg.png" data-src="https://content.11route.com/madrid-map-1.png" alt="map-1" width="1000" height="679" /></a>
 

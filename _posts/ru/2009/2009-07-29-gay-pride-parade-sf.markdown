@@ -8,8 +8,9 @@ date:       2009-07-29 12:00:00
 image:      https://content.11route.com/gay-pride.jpg
 summary:    Ежегодный парад в Сан-Франциско
 categories: travel usa san francisco
-latitude:   37.782076381670585
-longitude:  -122.41056364013673
+location:
+  latitude:   37.782076381670585
+  longitude:  -122.41056364013673
 ---
 
 На выходных делать было нечего, решили сходить посмотреть - что ж там за гей парад такой знаменитый.

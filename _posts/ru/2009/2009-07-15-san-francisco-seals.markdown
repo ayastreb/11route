@@ -8,8 +8,9 @@ date:       2009-07-15 12:00:00
 image:      https://content.11route.com/san-francisco.jpg
 summary:    Прогулка по Сан-Франциско
 categories: travel usa san francisco
-latitude:   37.80707987956129
-longitude:  -122.40671255810548
+location:
+  latitude:   37.80707987956129
+  longitude:  -122.40671255810548
 ---
 
 По приезду сразу отправился на прогулку по Сан-Франциско.

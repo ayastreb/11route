@@ -7,12 +7,13 @@ title:      Кашкайш, Португалия
 date:       2016-04-21 12:00:00
 image:      https://content.11route.com/posts/2016/cascais-portugal/cover-2000.jpg
 summary:    Небольшой город Кашкаиш недалеко от Лисабона в Португалии.
-categories: 
-  - португалия 
+categories:
+  - португалия
   - атлантический океан
   - кашкаиш
-latitude:   38.697051
-longitude:  -9.4231573
+location:
+  latitude:   38.697051
+  longitude:  -9.4231573
 ---
 
 <section class="text-block">
@@ -26,7 +27,7 @@ longitude:  -9.4231573
 Трасса недешевая - 23 евро за 350км.
 </section>
 <section class="text-block">
-В самом Кашкайше ничего особо интересного нет, да и погода была пасмурная, 
+В самом Кашкайше ничего особо интересного нет, да и погода была пасмурная,
 но мы все равно пошли прогуляться по набережной Атлантического океана.
 </section>
 
@@ -46,7 +47,7 @@ longitude:  -9.4231573
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07410-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
-</section>  
+</section>
 
 <div class="youtube-video" id="portugal-cascais" data-video-id="nyAzgs4AFRg" width="1000" height="563"></div>
 
@@ -80,7 +81,7 @@ longitude:  -9.4231573
 </section>
 
 <section class="text-block">
-А еще оказывается здесь был снят один из первых в мире фильмов. 
+А еще оказывается здесь был снят один из первых в мире фильмов.
 Назывался он "A Sea Cave Near Lisbon", снят в октябре 1896-го года и длится всего 13 секунд.
 За последние 120 лет технологии немного развились и мне удалось заснять ролик на 33 секунды. Прогрес!
 </section>
@@ -119,7 +120,7 @@ longitude:  -9.4231573
       </a>
     </figure>
   </div>
-  
+
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07730-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07730-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />

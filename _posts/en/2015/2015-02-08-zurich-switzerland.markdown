@@ -8,8 +8,9 @@ date:       2015-02-08 12:00:00
 image:      https://content.11route.com/zurich_cover.jpg
 summary:    On day in Zurich
 categories: travel switzerland
-latitude:   47.3686498
-longitude:  8.5391825
+location:
+  latitude:   47.3686498
+  longitude:  8.5391825
 ---
 
 <section class="text-block">
@@ -25,7 +26,7 @@ Statues.
 
 <a href="https://www.flickr.com/photos/118782975@N05/16681339382" title="DSC03100 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8576/16681339382_1b9482037c_b.jpg" width="1000" height="665" alt="DSC03100"></a>
 
-Streets. In Switzerland streets are awfully clean. 
+Streets. In Switzerland streets are awfully clean.
 
 <a href="https://www.flickr.com/photos/118782975@N05/16681339082" title="DSC03105 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8598/16681339082_d1e5f895fd_b.jpg" width="1000" height="665" alt="DSC03105"></a>
 <a href="https://www.flickr.com/photos/118782975@N05/16682342965" title="DSC03108 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm9.staticflickr.com/8571/16682342965_3c2a4ba11b_b.jpg" width="1000" height="665" alt="DSC03108"></a>

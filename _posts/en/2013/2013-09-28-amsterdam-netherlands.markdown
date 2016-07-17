@@ -8,8 +8,9 @@ date:       2013-09-28 12:00:00
 image:      https://content.11route.com/amsterdam.jpg
 summary:    Trip by train to Amsterdam
 categories: travel netherlands
-latitude:   52.3702157
-longitude:  4.8951678999999
+location:
+  latitude:   52.3702157
+  longitude:  4.8951678999999
 ---
 
 <section class="text-block">
