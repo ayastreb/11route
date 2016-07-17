@@ -50,3 +50,4 @@ redcarpet:
 permalink:    pretty
 sass:
   compressed: true
+gems: [jekyll-maps]
