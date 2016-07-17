@@ -1,4 +1,5 @@
 # Site settings
+source:         "src"
 title:          "ElevenRoute"
 email:          "contact@11route.com"
 author:         "Anatoliy Yastreb"
