@@ -1,30 +1,1359 @@
----
-layout:
-permalink: /sitemap.xml
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {% for post in site.posts %}
-  {% if post.id contains "404" %}{% else %}
+  
+  
   <url>
-    <loc>{{site.url}}{{ post.url }}</loc>
-    {% assign versions=site.posts | where:"ref", post.ref %}
-    {% for version in versions %}
-    <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.url }}" />
-    {% endfor %}
-    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <loc>https://11route.com/florence-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/florence-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/florence-italy" />
+    
+    <lastmod>2016-05-03T15:00:00+03:00</lastmod>
   </url>
-  {% endif %}
-  {% endfor %}
-  {% for page in site.pages %}
-  {% if page.id contains "404" %}{% else %}
+  
+  
+  
   <url>
-    <loc>{{site.url}}{{ page.url }}</loc>
-    {% assign versions=site.pages | where:"ref", page.ref %}
-    {% for version in versions %}
-    <xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{site.url}}{{ version.url }}" />
-    {% endfor %}
+    <loc>https://11route.com/en/florence-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/florence-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/florence-italy" />
+    
+    <lastmod>2016-05-03T15:00:00+03:00</lastmod>
   </url>
-  {% endif %}
-  {% endfor %}
+  
+  
+  
+  <url>
+    <loc>https://11route.com/rome-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/rome-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/rome-italy" />
+    
+    <lastmod>2016-05-01T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/rome-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/rome-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/rome-italy" />
+    
+    <lastmod>2016-05-01T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/valencia-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/valencia-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/valencia-spain" />
+    
+    <lastmod>2016-04-28T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/valencia-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/valencia-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/valencia-spain" />
+    
+    <lastmod>2016-04-28T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/porto-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/porto-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/porto-portugal" />
+    
+    <lastmod>2016-04-25T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/porto-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/porto-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/porto-portugal" />
+    
+    <lastmod>2016-04-25T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/portugal-beaches</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/portugal-beaches" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/portugal-beaches" />
+    
+    <lastmod>2016-04-24T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/portugal-beaches</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/portugal-beaches" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/portugal-beaches" />
+    
+    <lastmod>2016-04-24T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/sintra-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/sintra-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sintra-portugal" />
+    
+    <lastmod>2016-04-23T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/sintra-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/sintra-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sintra-portugal" />
+    
+    <lastmod>2016-04-23T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/lisbon-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/lisbon-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/lisbon-portugal" />
+    
+    <lastmod>2016-04-22T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/lisbon-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/lisbon-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/lisbon-portugal" />
+    
+    <lastmod>2016-04-22T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/cascais-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/cascais-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/cascais-portugal" />
+    
+    <lastmod>2016-04-21T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/cascais-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/cascais-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/cascais-portugal" />
+    
+    <lastmod>2016-04-21T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/menorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/menorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/menorca-spain" />
+    
+    <lastmod>2016-04-16T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/menorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/menorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/menorca-spain" />
+    
+    <lastmod>2016-04-16T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/montserrat-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/montserrat-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/montserrat-spain" />
+    
+    <lastmod>2016-04-12T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/montserrat-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/montserrat-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/montserrat-spain" />
+    
+    <lastmod>2016-04-12T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/sitges-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/sitges-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sitges-spain" />
+    
+    <lastmod>2016-04-11T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/sitges-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/sitges-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sitges-spain" />
+    
+    <lastmod>2016-04-11T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/barcelona-from-above</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/barcelona-from-above" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-from-above" />
+    
+    <lastmod>2016-04-10T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/barcelona-from-above</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/barcelona-from-above" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-from-above" />
+    
+    <lastmod>2016-04-10T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/granada-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/granada-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/granada-spain" />
+    
+    <lastmod>2016-04-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/granada-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/granada-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/granada-spain" />
+    
+    <lastmod>2016-04-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/nerja-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/nerja-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/nerja-spain" />
+    
+    <lastmod>2016-03-30T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/nerja-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/nerja-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/nerja-spain" />
+    
+    <lastmod>2016-03-30T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/benalmadena-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/benalmadena-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/benalmadena-spain" />
+    
+    <lastmod>2016-03-27T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/benalmadena-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/benalmadena-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/benalmadena-spain" />
+    
+    <lastmod>2016-03-27T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/xcaret-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/xcaret-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/xcaret-mexico" />
+    
+    <lastmod>2016-03-20T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/xcaret-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/xcaret-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/xcaret-mexico" />
+    
+    <lastmod>2016-03-20T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/grand-palladium-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/grand-palladium-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/grand-palladium-mexico" />
+    
+    <lastmod>2016-03-01T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/grand-palladium-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/grand-palladium-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/grand-palladium-mexico" />
+    
+    <lastmod>2016-03-01T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/prague-czech-republic</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/prague-czech-republic" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/prague-czech-republic" />
+    
+    <lastmod>2015-12-26T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/prague-czech-republic</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/prague-czech-republic" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/prague-czech-republic" />
+    
+    <lastmod>2015-12-26T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/seville-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/seville-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/seville-spain" />
+    
+    <lastmod>2015-03-29T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/seville-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/seville-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/seville-spain" />
+    
+    <lastmod>2015-03-29T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/zurich-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/zurich-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/zurich-switzerland" />
+    
+    <lastmod>2015-02-08T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/zurich-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/zurich-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/zurich-switzerland" />
+    
+    <lastmod>2015-02-08T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/liege-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/liege-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/liege-belgium" />
+    
+    <lastmod>2014-12-21T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/liege-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/liege-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/liege-belgium" />
+    
+    <lastmod>2014-12-21T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/barcelona-spain-2014</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/barcelona-spain-2014" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain-2014" />
+    
+    <lastmod>2014-09-14T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/barcelona-spain-2014</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/barcelona-spain-2014" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain-2014" />
+    
+    <lastmod>2014-09-14T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/paris-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/paris-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/paris-france" />
+    
+    <lastmod>2014-07-08T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/paris-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/paris-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/paris-france" />
+    
+    <lastmod>2014-07-08T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/brussels-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/brussels-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/brussels-belgium" />
+    
+    <lastmod>2014-06-08T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/brussels-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/brussels-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/brussels-belgium" />
+    
+    <lastmod>2014-06-08T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/blue-lagoon-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/blue-lagoon-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/blue-lagoon-turkey" />
+    
+    <lastmod>2014-05-18T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/blue-lagoon-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/blue-lagoon-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/blue-lagoon-turkey" />
+    
+    <lastmod>2014-05-18T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/madrid-spain-day-two</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/madrid-spain-day-two" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-two" />
+    
+    <lastmod>2014-04-12T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/madrid-spain-day-two</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/madrid-spain-day-two" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-two" />
+    
+    <lastmod>2014-04-12T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/madrid-spain-day-one</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/madrid-spain-day-one" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-one" />
+    
+    <lastmod>2014-04-11T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/madrid-spain-day-one</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/madrid-spain-day-one" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-one" />
+    
+    <lastmod>2014-04-11T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/duesseldorf-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/duesseldorf-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/duesseldorf-germany" />
+    
+    <lastmod>2014-03-30T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/duesseldorf-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/duesseldorf-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/duesseldorf-germany" />
+    
+    <lastmod>2014-03-30T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/apollo-dusseldorf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/apollo-dusseldorf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/apollo-dusseldorf" />
+    
+    <lastmod>2014-03-15T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/apollo-dusseldorf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/apollo-dusseldorf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/apollo-dusseldorf" />
+    
+    <lastmod>2014-03-15T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/amden-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/amden-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amden-switzerland" />
+    
+    <lastmod>2014-03-03T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/amden-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/amden-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amden-switzerland" />
+    
+    <lastmod>2014-03-03T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/bonn-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/bonn-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/bonn-germany" />
+    
+    <lastmod>2014-01-18T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/bonn-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/bonn-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/bonn-germany" />
+    
+    <lastmod>2014-01-18T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/amsterdam-netherlands</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/amsterdam-netherlands" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amsterdam-netherlands" />
+    
+    <lastmod>2013-09-28T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/amsterdam-netherlands</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/amsterdam-netherlands" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amsterdam-netherlands" />
+    
+    <lastmod>2013-09-28T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/palma-de-mallorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/palma-de-mallorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/palma-de-mallorca-spain" />
+    
+    <lastmod>2013-08-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/palma-de-mallorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/palma-de-mallorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/palma-de-mallorca-spain" />
+    
+    <lastmod>2013-08-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/marmaris-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/marmaris-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/marmaris-turkey" />
+    
+    <lastmod>2012-08-18T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/marmaris-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/marmaris-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/marmaris-turkey" />
+    
+    <lastmod>2012-08-18T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/immenstadt-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/immenstadt-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/immenstadt-germany" />
+    
+    <lastmod>2012-08-09T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/immenstadt-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/immenstadt-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/immenstadt-germany" />
+    
+    <lastmod>2012-08-09T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/dali-cadaques-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/dali-cadaques-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/dali-cadaques-spain" />
+    
+    <lastmod>2012-04-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/dali-cadaques-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/dali-cadaques-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/dali-cadaques-spain" />
+    
+    <lastmod>2012-04-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/barcelona-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/barcelona-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain" />
+    
+    <lastmod>2012-04-01T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/barcelona-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/barcelona-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain" />
+    
+    <lastmod>2012-04-01T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-los-angeles</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-los-angeles" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-los-angeles" />
+    
+    <lastmod>2009-09-16T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-los-angeles</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-los-angeles" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-los-angeles" />
+    
+    <lastmod>2009-09-16T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-las-vegas</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-las-vegas" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-las-vegas" />
+    
+    <lastmod>2009-09-10T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-las-vegas</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-las-vegas" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-las-vegas" />
+    
+    <lastmod>2009-09-10T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-grand-canyon</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-grand-canyon" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-grand-canyon" />
+    
+    <lastmod>2009-09-09T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-grand-canyon</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-grand-canyon" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-grand-canyon" />
+    
+    <lastmod>2009-09-09T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-yellowstone</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-yellowstone" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-yellowstone" />
+    
+    <lastmod>2009-09-05T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-yellowstone</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-yellowstone" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-yellowstone" />
+    
+    <lastmod>2009-09-05T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-seattle</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-seattle" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-seattle" />
+    
+    <lastmod>2009-09-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-seattle</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-seattle" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-seattle" />
+    
+    <lastmod>2009-09-03T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-st-helens</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-st-helens" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-st-helens" />
+    
+    <lastmod>2009-09-02T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-st-helens</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-st-helens" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-st-helens" />
+    
+    <lastmod>2009-09-02T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip-crater-lake</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-crater-lake" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-crater-lake" />
+    
+    <lastmod>2009-09-01T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip-crater-lake</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip-crater-lake" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-crater-lake" />
+    
+    <lastmod>2009-09-01T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/road-trip</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip" />
+    
+    <lastmod>2009-08-31T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/road-trip</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/road-trip" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip" />
+    
+    <lastmod>2009-08-31T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/gay-pride-parade-sf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/gay-pride-parade-sf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/gay-pride-parade-sf" />
+    
+    <lastmod>2009-07-29T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/gay-pride-parade-sf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/gay-pride-parade-sf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/gay-pride-parade-sf" />
+    
+    <lastmod>2009-07-29T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/alkatraz</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/alkatraz" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/alkatraz" />
+    
+    <lastmod>2009-07-27T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/alkatraz</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/alkatraz" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/alkatraz" />
+    
+    <lastmod>2009-07-27T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/san-francisco-seals</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/san-francisco-seals" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/san-francisco-seals" />
+    
+    <lastmod>2009-07-15T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/san-francisco-seals</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/san-francisco-seals" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/san-francisco-seals" />
+    
+    <lastmod>2009-07-15T15:00:00+03:00</lastmod>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://11route.com/404.html</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/404.html" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/feed.en.xml</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/feed.xml" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/feed.xml</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/feed.xml" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/ru" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/ru</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/ru" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/map</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/map" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/map</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/map" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/css/pixyll.css</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/css/pixyll.css" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/sitemap.xml" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/sitemap.xml</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/css/pixyll.css" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/sitemap.xml" />
+    
+  </url>
+  
+  
 </urlset>
