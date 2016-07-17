@@ -11,6 +11,15 @@ module.exports = function (grunt) {
     });
 
     grunt.initConfig({
+        jekyll: {
+            server : {
+                src : 'src',
+                dest: '_site',
+                server : true,
+                server_port : 4000,
+                auto : true
+            }
+        },
         buildcontrol: {
             options: {
                 dir: '_site',
@@ -28,8 +37,10 @@ module.exports = function (grunt) {
     });
 
     grunt.registerTask('deploy', [
+        'jekyll',
         'buildcontrol:github'
     ]);
 
+    grunt.loadNpmTasks('grunt-jekyll');
     grunt.loadNpmTasks('grunt-build-control');
 };
