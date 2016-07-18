@@ -11,7 +11,7 @@
     <link rel="canonical" href="https://11route.com/map">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201607171430" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201607181349" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -129,15 +129,13 @@
               var position = new google.maps.LatLng(location.latitude, location.longitude);
               var marker = new google.maps.Marker({
                 position: position,
-                map: map,
-                title: location.title,
-                url: location.url
+                title:    location.title,
+                url:      location.url,
+                map:      map
               });
 
               marker.addListener('click', function () {
-                if (this.url) {
-                  window.location.href = this.url;
-                }
+                window.location.href = this.url
               });
               bounds.extend(position);
 
@@ -155,7 +153,7 @@
 
   window.onload = function () {
     jekyllMaps.loadScript('https://googlemaps.github.io/js-marker-clusterer/src/markerclusterer.js');
-    jekyllMaps.loadScript('http://maps.googleapis.com/maps/api/js?callback=jekyllMaps.initialize');
+    jekyllMaps.loadScript('https://maps.googleapis.com/maps/api/js?callback=jekyllMaps.initialize');
   };
 </script>
 
