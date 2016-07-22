@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ElevenRoute</title>
-    <description>Travel Blog</description>
+    <description>Anatoliy Yastreb&#39;s travel blog. I write here about all the places I visit and share my experiences.</description>
     <link>https://11route.com/</link>
     <atom:link href="https://11route.com/feed.en.xml" rel="self" type="application/rss+xml" />
     
