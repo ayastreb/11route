@@ -6,7 +6,6 @@
     <meta name="description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
     {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ site.feed[page.lang] | prepend:"/" | prepend: site.baseurl }}" />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
@@ -43,15 +42,6 @@
     <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 
-    <!-- Translations -->
-    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-    {% for post in posts %}
-    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | prepend: site.url }}" />
-    {% endfor %}
-    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for page in pages %}
-    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | prepend: site.url }}" />
-    {% endfor %}
     <!-- Icons -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
