@@ -51,4 +51,6 @@ redcarpet:
 permalink:    pretty
 sass:
   compressed: true
-gems: [jekyll-maps]
+gems:
+  - jekyll-maps
+  - jemoji
