@@ -6,7 +6,19 @@ author:         "Anatoliy Yastreb"
 author_twitter: "https://twitter.com/mrHabicht"
 blog_twitter:   "elevenroute"
 blog_github:    "https://github.com/ayastreb/11route"
-description:    "Travel Blog"
+description:    "Anatoliy Yastreb's travel blog. I write here about all the places I visit and share my experiences."
+keywords:
+  - travel blog
+  - photo blog
+  - tourist photos
+  - landscape phots
+  - travel in europe
+  - spain photos
+  - italy photos
+  - germany photos
+  - what to see in europe
+  - interesting places
+  - travel tips
 baseurl:        ""
 url:            "https://11route.com"
 date_format:    "%B %-d, %Y"
