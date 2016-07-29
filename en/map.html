@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>ElevenRoute</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Anatoliy Yastreb&#39;s travel blog. I write here about all the places I visit and share my experiences.">
+    <meta name="description" content="Anatoliy Yastreb's travel blog. I write here about all the places I visit and share my experiences.">
     <meta name="author" content="Anatoliy Yastreb">
     <meta name="keywords" content="travel blog, photo blog, tourist photos, landscape phots, travel in europe, spain photos, italy photos, germany photos, what to see in europe, interesting places, travel tips">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.en.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201607261248" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201607291043" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -26,7 +26,7 @@
     <meta property="og:locale" content="en">
     <meta property="og:type" content="article">
     <meta property="og:title" content="ElevenRoute">
-    <meta property="og:description" content="Anatoliy Yastreb&#39;s travel blog. I write here about all the places I visit and share my experiences.">
+    <meta property="og:description" content="Anatoliy Yastreb's travel blog. I write here about all the places I visit and share my experiences.">
     <meta property="og:url" content="https://11route.com/en/map">
     
     <meta property="og:site_name" content="ElevenRoute">
@@ -103,7 +103,7 @@
         this.options = {
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             center: new google.maps.LatLng(0, 0),
-            zoom: 3
+            zoom: 12
         }
         this.mapReady = true;
         this.render();
@@ -130,10 +130,12 @@
         while (this.data.length > 0) {
             var data = this.data.pop(),
                 bounds = new google.maps.LatLngBounds(),
-                map = new google.maps.Map(document.getElementById(data.id), this.options),
+                options = this.options,
+                map = new google.maps.Map(document.getElementById(data.id), options),
                 markers = data.locations.map(createMarker);
 
             map.fitBounds(bounds);
+            google.maps.event.addListenerOnce(map, 'bounds_changed', onBoundsChanged);
             if (data.useCluster) {
                 this.maps.push({map: map, markers: markers});
                 this.processCluster();
@@ -155,6 +157,12 @@
             });
 
             return marker;
+        }
+
+        function onBoundsChanged() {
+            if (this.getZoom() > options.zoom) {
+                this.setZoom(options.zoom);
+            }
         }
     }
 
@@ -192,9 +200,9 @@
       <a href="/">Home</a>
     </div>
 
-    <div id='7b547a7d-1fb5-48df-bdac-3840fea88d00' style='width:100%;height:100%;'></div>
+    <div id='54f93294-f3f6-4c73-9452-e31b020fef7e' style='width:100%;height:100%;'></div>
 <script type='text/javascript'>
-  jekyllMaps.register('7b547a7d-1fb5-48df-bdac-3840fea88d00', [{"latitude":37.80707987956129,"longitude":-122.40671255810548,"title":"San-Francisco, USA","url":"/en/san-francisco-seals"},{"latitude":37.8266636,"longitude":-122.4230122,"title":"Alkatraz","url":"/en/alkatraz"},{"latitude":37.782076381670585,"longitude":-122.41056364013673,"title":"Gay Pride Parade in San-Francisco","url":"/en/gay-pride-parade-sf"},{"latitude":37.8953689,"longitude":-122.5780709,"title":"Road Trip, The Beginning","url":"/en/road-trip"},{"latitude":42.9446093,"longitude":-122.1092454,"title":"Road Trip, Crater Lake","url":"/en/road-trip-crater-lake"},{"latitude":46.1912,"longitude":-122.1944,"title":"Road Trip, St. Helen's","url":"/en/road-trip-st-helens"},{"latitude":47.6062095,"longitude":-122.3320708,"title":"Road Trip, Seattle","url":"/en/road-trip-seattle"},{"latitude":44.4279628,"longitude":-110.5884552,"title":"Road Trip, Yellowstone","url":"/en/road-trip-yellowstone"},{"latitude":36.2317194,"longitude":-113.0309112,"title":"Road Trip, Grand Canyon","url":"/en/road-trip-grand-canyon"},{"latitude":36.255123,"longitude":-115.2383485,"title":"Road Trip, Las Vegas","url":"/en/road-trip-las-vegas"},{"latitude":34.0522342,"longitude":-118.2436849,"title":"Road Trip, Los Angeles","url":"/en/road-trip-los-angeles"},{"latitude":41.70048573433131,"longitude":2.8406512722167463,"title":"Barcelona and Lloret de Mar, Spain","url":"/en/barcelona-spain"},{"latitude":42.2888975,"longitude":3.277874,"title":"Dali's house in Cadaques, Spain","url":"/en/dali-cadaques-spain"},{"latitude":47.560012,"longitude":10.2210235,"title":"Immenstadt, Germany","url":"/en/immenstadt-germany"},{"latitude":36.8505659,"longitude":28.255586,"title":"Marmaris, Turkey","url":"/en/marmaris-turkey"},{"latitude":39.57119,"longitude":2.6466339999999,"title":"Palma de Mallorca, Spain","url":"/en/palma-de-mallorca-spain"},{"latitude":52.3702157,"longitude":4.8951678999999,"title":"Amsterdam, Netherlands","url":"/en/amsterdam-netherlands"},{"latitude":50.73743,"longitude":7.0982068000001,"title":"Bonn, Germany","url":"/en/bonn-germany"},{"latitude":47.1491606,"longitude":9.141151,"title":"Amden, Switzerland","url":"/en/amden-switzerland"},{"latitude":51.2194428,"longitude":6.7656314,"title":"Apollo, Düsseldorf","url":"/en/apollo-dusseldorf"},{"latitude":51.2277411,"longitude":6.7734556,"title":"Düsseldorf, Germany","url":"/en/duesseldorf-germany"},{"latitude":40.4166889,"longitude":-3.7037688,"title":"Madrid - Day 1","url":"/en/madrid-spain-day-one"},{"latitude":40.4167215,"longitude":-3.7036267,"title":"Madrid - Day 2","url":"/en/madrid-spain-day-two"},{"latitude":36.550041070257,"longitude":29.112797186816,"title":"Blue Lagoon, Turkey","url":"/en/blue-lagoon-turkey"},{"latitude":50.85,"longitude":4.35,"title":"Brussels, Belgium","url":"/en/brussels-belgium"},{"latitude":48.856614,"longitude":2.3522219,"title":"Paris, France","url":"/en/paris-france"},{"latitude":41.3850639,"longitude":2.1734034999999,"title":"Barcelona, Spain","url":"/en/barcelona-spain-2014"},{"latitude":50.6325574,"longitude":5.5796662,"title":"Liege, Belgium","url":"/en/liege-belgium"},{"latitude":47.3686498,"longitude":8.5391825,"title":"Zurich, Switzerland","url":"/en/zurich-switzerland"},{"latitude":37.3890924,"longitude":-5.9844588999999,"title":"Seville, Spain","url":"/en/seville-spain"},{"latitude":50.0855107,"longitude":14.3937384,"title":"Prague, Czech Republic","url":"/en/prague-czech-republic"},{"latitude":20.4435397,"longitude":-87.290246,"title":"Grand Palladium, Мексика","url":"/en/grand-palladium-mexico"},{"latitude":20.5809184,"longitude":-87.1218867,"title":"Xcaret Park, Mexico","url":"/en/xcaret-mexico"},{"latitude":36.5920935,"longitude":-4.564351,"title":"Benalmadena, Spain","url":"/en/benalmadena-spain"},{"latitude":36.7446782,"longitude":-3.8787985,"title":"Nerja, Spain","url":"/en/nerja-spain"},{"latitude":37.1810095,"longitude":-3.6262912,"title":"Granda, Spain","url":"/en/granada-spain"},{"latitude":41.4225152,"longitude":2.1098562,"title":"Barcelona from above","url":"/en/barcelona-from-above"},{"latitude":41.2359192,"longitude":1.7859532,"title":"Sitges, Spain","url":"/en/sitges-spain"},{"latitude":41.591667,"longitude":1.837778,"title":"Montserrat, Spain","url":"/en/montserrat-spain"},{"latitude":39.949121,"longitude":3.9192015,"title":"Menorca, Spain","url":"/en/menorca-spain"},{"latitude":38.697051,"longitude":-9.4231573,"title":"Cascais, Portugal","url":"/en/cascais-portugal"},{"latitude":38.7213381,"longitude":-9.1414872,"title":"Lisbon, Portugal","url":"/en/lisbon-portugal"},{"latitude":38.8030055,"longitude":-9.3836876,"title":"Sintra, Portugal","url":"/en/sintra-portugal"},{"latitude":37.089723,"longitude":-8.4130512,"title":"Portugal beaches","url":"/en/portugal-beaches"},{"latitude":41.1621376,"longitude":-8.6568725,"title":"Porto, Portugal","url":"/en/porto-portugal"},{"latitude":39.469902,"longitude":-0.3768654,"title":"Valencia, Spain","url":"/en/valencia-spain"},{"latitude":41.90272,"longitude":12.496446,"title":"Rome, Italy","url":"/en/rome-italy"},{"latitude":43.7695649,"longitude":11.2554846,"title":"Florence, Italy","url":"/en/florence-italy"},{"latitude":45.440894,"longitude":12.3189683,"title":"Venice, Italy","url":"/en/venice-italy"},{"latitude":46.5324102,"longitude":12.1072922,"title":"Dolomites, Italy","url":"/en/dolomites-italy"},{"latitude":45.440006,"longitude":10.6904433,"title":"Lake Garda, Italy","url":"/en/garda-italy"}], true);
+  jekyllMaps.register('54f93294-f3f6-4c73-9452-e31b020fef7e', [{"latitude":37.80707987956129,"longitude":-122.40671255810548,"title":"San-Francisco, USA","url":"/en/san-francisco-seals"},{"latitude":37.8266636,"longitude":-122.4230122,"title":"Alkatraz","url":"/en/alkatraz"},{"latitude":37.782076381670585,"longitude":-122.41056364013673,"title":"Gay Pride Parade in San-Francisco","url":"/en/gay-pride-parade-sf"},{"latitude":37.8953689,"longitude":-122.5780709,"title":"Road Trip, The Beginning","url":"/en/road-trip"},{"latitude":42.9446093,"longitude":-122.1092454,"title":"Road Trip, Crater Lake","url":"/en/road-trip-crater-lake"},{"latitude":46.1912,"longitude":-122.1944,"title":"Road Trip, St. Helen's","url":"/en/road-trip-st-helens"},{"latitude":47.6062095,"longitude":-122.3320708,"title":"Road Trip, Seattle","url":"/en/road-trip-seattle"},{"latitude":44.4279628,"longitude":-110.5884552,"title":"Road Trip, Yellowstone","url":"/en/road-trip-yellowstone"},{"latitude":36.2317194,"longitude":-113.0309112,"title":"Road Trip, Grand Canyon","url":"/en/road-trip-grand-canyon"},{"latitude":36.255123,"longitude":-115.2383485,"title":"Road Trip, Las Vegas","url":"/en/road-trip-las-vegas"},{"latitude":34.0522342,"longitude":-118.2436849,"title":"Road Trip, Los Angeles","url":"/en/road-trip-los-angeles"},{"latitude":41.70048573433131,"longitude":2.8406512722167463,"title":"Barcelona and Lloret de Mar, Spain","url":"/en/barcelona-spain"},{"latitude":42.2888975,"longitude":3.277874,"title":"Dali's house in Cadaques, Spain","url":"/en/dali-cadaques-spain"},{"latitude":47.560012,"longitude":10.2210235,"title":"Immenstadt, Germany","url":"/en/immenstadt-germany"},{"latitude":36.8505659,"longitude":28.255586,"title":"Marmaris, Turkey","url":"/en/marmaris-turkey"},{"latitude":39.57119,"longitude":2.6466339999999,"title":"Palma de Mallorca, Spain","url":"/en/palma-de-mallorca-spain"},{"latitude":52.3702157,"longitude":4.8951678999999,"title":"Amsterdam, Netherlands","url":"/en/amsterdam-netherlands"},{"latitude":50.73743,"longitude":7.0982068000001,"title":"Bonn, Germany","url":"/en/bonn-germany"},{"latitude":47.1491606,"longitude":9.141151,"title":"Amden, Switzerland","url":"/en/amden-switzerland"},{"latitude":51.2194428,"longitude":6.7656314,"title":"Apollo, Düsseldorf","url":"/en/apollo-dusseldorf"},{"latitude":51.2277411,"longitude":6.7734556,"title":"Düsseldorf, Germany","url":"/en/duesseldorf-germany"},{"latitude":40.4166889,"longitude":-3.7037688,"title":"Madrid - Day 1","url":"/en/madrid-spain-day-one"},{"latitude":40.4167215,"longitude":-3.7036267,"title":"Madrid - Day 2","url":"/en/madrid-spain-day-two"},{"latitude":36.550041070257,"longitude":29.112797186816,"title":"Blue Lagoon, Turkey","url":"/en/blue-lagoon-turkey"},{"latitude":50.85,"longitude":4.35,"title":"Brussels, Belgium","url":"/en/brussels-belgium"},{"latitude":48.856614,"longitude":2.3522219,"title":"Paris, France","url":"/en/paris-france"},{"latitude":41.3850639,"longitude":2.1734034999999,"title":"Barcelona, Spain","url":"/en/barcelona-spain-2014"},{"latitude":50.6325574,"longitude":5.5796662,"title":"Liege, Belgium","url":"/en/liege-belgium"},{"latitude":47.3686498,"longitude":8.5391825,"title":"Zurich, Switzerland","url":"/en/zurich-switzerland"},{"latitude":37.3890924,"longitude":-5.9844588999999,"title":"Seville, Spain","url":"/en/seville-spain"},{"latitude":50.0855107,"longitude":14.3937384,"title":"Prague, Czech Republic","url":"/en/prague-czech-republic"},{"latitude":20.4435397,"longitude":-87.290246,"title":"Grand Palladium, Мексика","url":"/en/grand-palladium-mexico"},{"latitude":20.5809184,"longitude":-87.1218867,"title":"Xcaret Park, Mexico","url":"/en/xcaret-mexico"},{"latitude":36.5920935,"longitude":-4.564351,"title":"Benalmadena, Spain","url":"/en/benalmadena-spain"},{"latitude":36.7446782,"longitude":-3.8787985,"title":"Nerja, Spain","url":"/en/nerja-spain"},{"latitude":37.1810095,"longitude":-3.6262912,"title":"Granda, Spain","url":"/en/granada-spain"},{"latitude":41.4225152,"longitude":2.1098562,"title":"Barcelona from above","url":"/en/barcelona-from-above"},{"latitude":41.2359192,"longitude":1.7859532,"title":"Sitges, Spain","url":"/en/sitges-spain"},{"latitude":41.591667,"longitude":1.837778,"title":"Montserrat, Spain","url":"/en/montserrat-spain"},{"latitude":39.949121,"longitude":3.9192015,"title":"Menorca, Spain","url":"/en/menorca-spain"},{"latitude":38.697051,"longitude":-9.4231573,"title":"Cascais, Portugal","url":"/en/cascais-portugal"},{"latitude":38.7213381,"longitude":-9.1414872,"title":"Lisbon, Portugal","url":"/en/lisbon-portugal"},{"latitude":38.8030055,"longitude":-9.3836876,"title":"Sintra, Portugal","url":"/en/sintra-portugal"},{"latitude":37.089723,"longitude":-8.4130512,"title":"Portugal beaches","url":"/en/portugal-beaches"},{"latitude":41.1621376,"longitude":-8.6568725,"title":"Porto, Portugal","url":"/en/porto-portugal"},{"latitude":39.469902,"longitude":-0.3768654,"title":"Valencia, Spain","url":"/en/valencia-spain"},{"latitude":41.90272,"longitude":12.496446,"title":"Rome, Italy","url":"/en/rome-italy"},{"latitude":43.7695649,"longitude":11.2554846,"title":"Florence, Italy","url":"/en/florence-italy"},{"latitude":45.440894,"longitude":12.3189683,"title":"Venice, Italy","url":"/en/venice-italy"},{"latitude":46.5324102,"longitude":12.1072922,"title":"Dolomites, Italy","url":"/en/dolomites-italy"},{"latitude":45.440006,"longitude":10.6904433,"title":"Lake Garda, Italy","url":"/en/garda-italy"},{"latitude":43.694842,"longitude":7.2628849,"title":"Nice, France","url":"/en/nice-france"}], true);
 </script>
 
 

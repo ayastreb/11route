@@ -2,10 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ElevenRoute</title>
-    <description>Anatoliy Yastreb&#39;s travel blog. I write here about all the places I visit and share my experiences.</description>
+    <description>Anatoliy Yastreb's travel blog. I write here about all the places I visit and share my experiences.</description>
     <link>https://11route.com/</link>
     <atom:link href="https://11route.com/feed.en.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ницца, Франция</title>
+      <description>&lt;section class=&quot;text-block&quot;&gt;
+  Вернув машину в аэропорт Венеции после поездки по Доломитовым Альпам, мы отправились на поезде в Ниццу.
+  Дорога занимает почти весь день - около 8 часов.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+  Приехав в Ниццу вечером, мы остановились в отеле, поужинали и пошли спать.
+  На следующий день утром прошлись по городу. Утром было облачно, но после обеда вышло солнце.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09382-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09382-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09390-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09390-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09477-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09477-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09394-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09394-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09399-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09399-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;По центру города трамвай ездит без проводов, на батарейках.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09404-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09404-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09406-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09406-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Интересная детская площадка.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09408-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09408-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09409-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09409-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09412-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09412-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09473-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09473-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Mon, 09 May 2016 14:00:00 +0200</pubDate>
+      <link>https://11route.com/nice-france</link>
+      <guid isPermaLink="true">https://11route.com/nice-france</guid>
+    </item>
     
     <item>
       <title>Озеро Гарда, Италия</title>
@@ -49,7 +129,7 @@
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 08 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sun, 08 May 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/garda-italy</link>
       <guid isPermaLink="true">https://11route.com/garda-italy</guid>
     </item>
@@ -134,7 +214,7 @@
 &lt;/section&gt;
 
 &lt;section class=&quot;text-block&quot;&gt;
-  На следующее утро мы поехали в соседний город Cortina d&#39;Ampezzo.
+  На следующее утро мы поехали в соседний город Cortina d'Ampezzo.
   Город был немного вымерший, на улицах никого, и только в туристическом центре мы нашли сотрудницу.
   Она выдала нам карту местности и рассказала, что можно посмотруть в округе.
   Мы поехали к какому-то маленькому горному озеру неподалёку.
@@ -293,7 +373,7 @@
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Fri, 06 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Fri, 06 May 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/dolomites-italy</link>
       <guid isPermaLink="true">https://11route.com/dolomites-italy</guid>
     </item>
@@ -543,7 +623,7 @@
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 04 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Wed, 04 May 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/venice-italy</link>
       <guid isPermaLink="true">https://11route.com/venice-italy</guid>
     </item>
@@ -795,7 +875,7 @@
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Tue, 03 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Tue, 03 May 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/florence-italy</link>
       <guid isPermaLink="true">https://11route.com/florence-italy</guid>
     </item>
@@ -1273,7 +1353,7 @@
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 01 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sun, 01 May 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/rome-italy</link>
       <guid isPermaLink="true">https://11route.com/rome-italy</guid>
     </item>
@@ -1536,7 +1616,7 @@
 &lt;/section&gt;
 
 </description>
-      <pubDate>Thu, 28 Apr 2016 15:00:00 +0300</pubDate>
+      <pubDate>Thu, 28 Apr 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/valencia-spain</link>
       <guid isPermaLink="true">https://11route.com/valencia-spain</guid>
     </item>
@@ -1600,7 +1680,7 @@
 &lt;/section&gt;
 
 &lt;p&gt;
-Очень стильный McDonald&#39;s
+Очень стильный McDonald's
 &lt;/p&gt;
 
 &lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
@@ -1761,7 +1841,7 @@
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Mon, 25 Apr 2016 15:00:00 +0300</pubDate>
+      <pubDate>Mon, 25 Apr 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/porto-portugal</link>
       <guid isPermaLink="true">https://11route.com/porto-portugal</guid>
     </item>
@@ -1950,7 +2030,7 @@ Praia do Carvalho - интересны пляж. Вход на него возм
 &lt;/section&gt;
 
 </description>
-      <pubDate>Sun, 24 Apr 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sun, 24 Apr 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/portugal-beaches</link>
       <guid isPermaLink="true">https://11route.com/portugal-beaches</guid>
     </item>
@@ -2108,137 +2188,9 @@ Praia do Carvalho - интересны пляж. Вход на него возм
   &lt;/div&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sat, 23 Apr 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sat, 23 Apr 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/sintra-portugal</link>
       <guid isPermaLink="true">https://11route.com/sintra-portugal</guid>
-    </item>
-    
-    <item>
-      <title>Лиссабон, Португалия</title>
-      <description>&lt;section class=&quot;text-block&quot;&gt;
-Лиссабон - столица и самый большой город Португалии, так же это старейший город Западной Европы.
-В тот день, когда мы собрались в Лиссабон, с погодой нам не повезло - было пасмурно.
-&lt;/section&gt;
-&lt;section class=&quot;text-block&quot;&gt;
-В Лиссабоне действует трамвайная система, открытая еще в 1873 году.
-По туристическим маршрутам в центре города ходят старые трамвайчики, чащего всего забитые до отказа туристами.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07455-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07455-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07460-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1353&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07460-750.jpg&quot; width=&quot;750&quot; height=&quot;507&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07465-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1436x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07465-750.jpg&quot; width=&quot;539&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07467-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07467-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07471-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1393x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07471-750.jpg&quot; width=&quot;523&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07477-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1333x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07477-750.jpg&quot; width=&quot;500&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07478-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1262&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07478-1000.jpg&quot; width=&quot;1000&quot; height=&quot;631&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07496-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07496-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07516-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07516-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07518-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1409x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07518-750.jpg&quot; width=&quot;528&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07519-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1333x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07519-750.jpg&quot; width=&quot;500&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07522-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07522-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07530-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1341&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07530-1000.jpg&quot; width=&quot;1000&quot; height=&quot;671&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-Мост имени 25-го апреля, по виду и цвету похож на мост Золотые Ворота в Сан-Франциско.
-На самом деле он больше похож на другой мост в Сан-Франциско - Бэй-бридж.
-Их строила одна и та же американская компания и они имеют похожую конструкцию.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07534-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07534-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07536-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07536-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-На следующий день погода была лучше и мы еще раз заехали в Лиссабон по дороге к пляжам.
-Город оставил неоднозначные впечатления. Очень много заброшеных и полу-развалившихся домов в самом центре города.
-На некоторых улицах пыльно и грязно, на некоторых делают реставрацию.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07747-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1312&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07747-1000.jpg&quot; width=&quot;1000&quot; height=&quot;656&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07751-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/lisbon-portugal/DSC07751-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Lisbon, Portugal&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Fri, 22 Apr 2016 15:00:00 +0300</pubDate>
-      <link>https://11route.com/lisbon-portugal</link>
-      <guid isPermaLink="true">https://11route.com/lisbon-portugal</guid>
     </item>
     
   </channel>
