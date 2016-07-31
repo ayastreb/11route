@@ -1073,6 +1073,8 @@ blockquote footer {
   font-weight: 100;
   color: #333; }
 
+.post-header img {
+  width: 100%; }
 .post-header .image-gallery img {
   width: 100%;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(50, 50, 50, 0.5);
@@ -1223,6 +1225,10 @@ figcaption {
   padding: 0px 10px 0px 10px; }
   #back a {
     font-size: 13px; }
+
+.map-info-window img {
+  max-width: 250px;
+  border-radius: 5px; }
 
 @media screen and (min-width: 32em) {
   html {
