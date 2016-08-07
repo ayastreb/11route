@@ -65,4 +65,3 @@ sass:
   compressed: true
 gems:
   - jekyll-maps
-  - jemoji
