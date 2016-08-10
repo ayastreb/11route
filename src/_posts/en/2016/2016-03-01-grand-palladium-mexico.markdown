@@ -3,7 +3,7 @@ layout:     post
 permalink:  /en/grand-palladium-mexico
 ref:        grand-palladium-mexico
 lang:       en
-title:      Grand Palladium, Мексика
+title:      Grand Palladium, Mexico
 date:       2016-03-01 12:00:00
 image:      https://content.11route.com/cancun.jpg
 summary:    Lazy vacation in All-Inclusive hotel Grand Palladium, Riviera Maya
