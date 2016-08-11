@@ -1091,7 +1091,7 @@ blockquote footer {
 .post-link .title {
   border: none; }
 
-.post .image-gallery img, .post .post-header img, .post .youtube-video {
+.post .image-gallery figure img, .post .post-header img, .post .youtube-video {
   border: none;
   -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.5);
   -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.5);
