@@ -5,11 +5,6 @@ module.exports = function (grunt) {
     // Time how long tasks take. Can help when optimizing build times
     require('time-grunt')(grunt);
 
-    // Automatically load required grunt tasks
-    require('jit-grunt')(grunt, {
-        useminPrepare: 'grunt-usemin'
-    });
-
     grunt.initConfig({
         jekyll: {
             server : {
