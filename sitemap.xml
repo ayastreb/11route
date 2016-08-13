@@ -3,12 +3,38 @@
   
   
   <url>
+    <loc>https://11route.com/salzburg-austria</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/salzburg-austria" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/salzburg-austria" />
+    
+    <lastmod>2016-07-30T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://11route.com/vienna-austria</loc>
     
     
     <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/vienna-austria" />
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/vienna-austria" />
+    
+    <lastmod>2016-07-30T14:00:00+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/salzburg-austria</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/salzburg-austria" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/salzburg-austria" />
     
     <lastmod>2016-07-30T14:00:00+02:00</lastmod>
   </url>
