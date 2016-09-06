@@ -1,0 +1,11 @@
+@mixin transition($value) {
+  -webkit-transition: $value;
+  -moz-transition: $value;
+  transition: $value;
+}
+
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}

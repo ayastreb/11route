@@ -1,12 +1,11 @@
-<header class="site-header px2 px-responsive">
+<div class="site-header px-responsive">
   <div class="wrap">
-    <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
+    <h1 class="site-name">
+      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
+    </h1>
     <nav class="site-nav">
       {% include navigation.html %}
     </nav>
     <div class="clearfix"></div>
-    {% if site.show_social_icons %}
-    {% include social_links.html %}
-    {% endif %}
   </div>
-</header>
+</div>

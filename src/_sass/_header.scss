@@ -1,51 +1,128 @@
 .site-header {
-  padding-top: 6px;
-  padding-bottom: 6px;
   border-bottom: solid 1px #d7d7d7;
 }
 
+.site-name {
+  margin: 0 0 0 .7rem;
+  color: $dark-gray;
+  cursor: pointer;
+  line-height: 1em;
+}
+
 .site-header a {
-  color: #333;
-  font-size: $h3;
+  color: $dark-gray;
   font-weight: 300;
   background-image: none;
 }
 
 .site-header .site-title {
-  font-size: $h2;
+  font-family: $heading-font-family;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
 }
 
-.site-nav {
-  margin-top: $space-2;
-}
+nav {
+  float: right;
+  margin-top: .33rem;
+  font-family: $heading-font-family;
+  font-size: 18px;
 
-.site-header nav a {
-  color: #666;
-}
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
 
-.site-header nav a:hover,
-.site-header nav a:focus,
-.site-header nav a:active {
-  color: #444;
-  opacity: 1;
-  border-bottom: 2px solid #444;
-}
+  a {
+    color: $dark-gray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
 
-.site-nav a + a {
-  margin-left: 1em;
+    &:hover {
+      color: $blue;
+    }
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+
+  ul {
+    padding: 0;
+    width: 100%;
+    list-style-type: none;
+    width: 20rem;
+    @include mobile {
+      width: 100%;
+    }
+  }
+
+  ul:hover > span {
+    background: $blue;
+  }
+
+  ul {
+    margin-top: 0px;
+  }
+
+  ul li {
+    font-weight: bold;
+    width: 33.3%;
+    float: left;
+    padding: 7px 0;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  ul li:hover {
+    color: #d0332b;
+  }
+
+  ul li.active:nth-child(1) ~ span,
+  ul li.inactive:nth-child(1):hover ~ span {
+    left: 0%;
+  }
+
+  ul li.active:nth-child(2) ~ span,
+  ul li.inactive:nth-child(2):hover ~ span {
+    left: 33.3%;
+  }
+
+  ul li.active:nth-child(3) ~ span,
+  ul li.inactive:nth-child(3):hover ~ span {
+    left: 66.6%;
+  }
+
+  span {
+    position: absolute;
+    bottom: -42px;
+    display: block;
+    width: 33.3%;
+    height: 5px;
+    background: $red;
+    border-radius: 15px;
+    @include mobile {
+      display: none;
+    }
+  }
+
+  ul li, span {
+    @include transition(all .5s ease);
+    position: relative;
+  }
 }
 
 .site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.88;
+  color: $blue;
 }
 
 .site-header {
-  text-align: center;
-}
-
-.site-header .site-nav {
   text-align: center;
 }

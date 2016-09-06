@@ -1,7 +1,29 @@
-<a href="{{ site.baseurl }}/{{ site.navigation.map.url[page.lang] }}">{{ site.navigation.map.label[page.lang] }}</a>
+<ul>
+  {% assign url = page.url|remove:'index.html' %}
+  <li class="{% if url contains '/map' %}active{% else %}inactive{% endif %}">
+    <a href="{{ site.baseurl }}/{{ site.navigation.map.url[page.lang] }}">{{ site.navigation.map.label[page.lang] }}</a>
+  </li>
+  {% if url contains '/map' %}
+  <li class="inactive">
+    <a href="/">English</a>
+  </li>
+  <li class="inactive">
+    <a href="/ru">Русский</a>
+  </li>
+  {% else %}
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+    <li class="{% if url == post.url %}active{% else %}inactive{% endif %}">
+      <a href="{{ post.url }}">{{ site.languages[post.lang] }}</a>
+    </li>
+    {% endfor %}
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+    <li class="{% if url == page.url %}active{% else %}inactive{% endif %}">
+      <a href="{{ page.url }}">{{ site.languages[page.lang] }}</a>
+    </li>
+    {% endfor %}
+  {% endif %}
+  <span></span>
+</ul>
 
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ site.languages[post.lang] }}</a> {% endfor %}
-
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ site.languages[page.lang] }}</a> {% endfor %}

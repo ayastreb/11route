@@ -6,6 +6,11 @@
 .posts .post {
   margin-bottom: 0.75em;
   border-bottom: thin solid #f3f3f3;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 21px;
+  line-height: 1.58;
+  letter-spacing: -.003em;
 }
 
 .posts .post:last-child {
@@ -41,6 +46,9 @@
   margin-top: 0;
   font-weight: 100;
   color: #333;
+  &:hover {
+    color: $blue;
+  }
 }
 
 .post-header {
