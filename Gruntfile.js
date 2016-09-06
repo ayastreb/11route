@@ -1,18 +1,17 @@
 'use strict';
 
 module.exports = function (grunt) {
-
     // Time how long tasks take. Can help when optimizing build times
     require('time-grunt')(grunt);
 
     grunt.initConfig({
-        jekyll: {
-            server : {
-                src : 'src',
-                dest: '_site',
-                server : true,
-                server_port : 4000,
-                auto : true
+        shell: {
+            options: {
+                stdout: true,
+                stderr: true
+            },
+            build: {
+                command: 'bundle exec jekyll build'
             }
         },
         buildcontrol: {
@@ -32,10 +31,10 @@ module.exports = function (grunt) {
     });
 
     grunt.registerTask('deploy', [
-        'jekyll',
+        'shell:build',
         'buildcontrol:github'
     ]);
 
-    grunt.loadNpmTasks('grunt-jekyll');
     grunt.loadNpmTasks('grunt-build-control');
+    grunt.loadNpmTasks('grunt-shell');
 };
