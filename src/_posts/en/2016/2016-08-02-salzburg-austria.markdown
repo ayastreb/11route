@@ -4,7 +4,7 @@ permalink:  /en/salzburg-austria
 ref:        salsburg-austria
 lang:       en
 title:      Salzburg, Austria
-date:       2016-07-30 12:00:00
+date:       2016-08-02 12:00:00
 image:      https://content.11route.com/posts/2016/salzburg-austria/cover-2000.jpg
 summary:    Quick trip to Salzburg.
 categories:
