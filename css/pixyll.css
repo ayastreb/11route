@@ -1273,19 +1273,16 @@ figcaption {
   cursor: not-allowed;
   background-color: #999; }
 
-#container {
-  width: 100%;
-  height: 100%; }
+.map {
+  display: flex;
+  flex-direction: column; }
 
-#back {
-  z-index: 100;
-  position: absolute;
-  margin: 10px 0px 0px 110px;
-  background-color: #f9f9f9;
-  border: 1px #d7d7d7 Solid;
-  padding: 0px 10px 0px 10px; }
-  #back a {
-    font-size: 13px; }
+#container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column; }
+  #container .map-block {
+    flex-grow: 1; }
 
 .map-info-window img {
   max-width: 250px;
