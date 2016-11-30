@@ -45,6 +45,10 @@ feed:
 google_analytics: "UA-48431990-1"
 google_verification:
 
+maps:
+  google:
+    api_key: "AIzaSyCESuhc2nS2LDpp9pU9P1YJsxTAAOoQGE4"
+
 # Optional features
 animated:             true
 show_related_posts:   false
