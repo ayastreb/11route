@@ -8,7 +8,22 @@
     
     <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/tenerife-spain" />
     
-    <lastmod>2016-11-30T12:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/tenerife-spain" />
+    
+    <lastmod>2016-11-30T13:00:00+01:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://11route.com/en/tenerife-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/tenerife-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/tenerife-spain" />
+    
+    <lastmod>2016-11-30T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -21,7 +36,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/warsaw-poland" />
     
-    <lastmod>2016-09-10T13:00:00+01:00</lastmod>
+    <lastmod>2016-09-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -34,7 +49,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/warsaw-poland" />
     
-    <lastmod>2016-09-10T13:00:00+01:00</lastmod>
+    <lastmod>2016-09-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -47,7 +62,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/munich-germany" />
     
-    <lastmod>2016-08-14T13:00:00+01:00</lastmod>
+    <lastmod>2016-08-14T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -60,7 +75,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/munich-germany" />
     
-    <lastmod>2016-08-14T13:00:00+01:00</lastmod>
+    <lastmod>2016-08-14T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -73,7 +88,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/salzburg-austria" />
     
-    <lastmod>2016-08-02T13:00:00+01:00</lastmod>
+    <lastmod>2016-08-02T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -86,7 +101,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/salzburg-austria" />
     
-    <lastmod>2016-08-02T13:00:00+01:00</lastmod>
+    <lastmod>2016-08-02T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -99,7 +114,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/vienna-austria" />
     
-    <lastmod>2016-07-30T13:00:00+01:00</lastmod>
+    <lastmod>2016-07-30T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -112,7 +127,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/vienna-austria" />
     
-    <lastmod>2016-07-30T13:00:00+01:00</lastmod>
+    <lastmod>2016-07-30T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -125,7 +140,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/budapest-hungary" />
     
-    <lastmod>2016-07-27T13:00:00+01:00</lastmod>
+    <lastmod>2016-07-27T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -138,7 +153,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/budapest-hungary" />
     
-    <lastmod>2016-07-27T13:00:00+01:00</lastmod>
+    <lastmod>2016-07-27T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -151,7 +166,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/cannes-france" />
     
-    <lastmod>2016-05-11T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-11T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -164,7 +179,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/cannes-france" />
     
-    <lastmod>2016-05-11T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-11T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -177,7 +192,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/monaco" />
     
-    <lastmod>2016-05-10T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -190,7 +205,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/monaco" />
     
-    <lastmod>2016-05-10T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -203,7 +218,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/nice-france" />
     
-    <lastmod>2016-05-09T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-09T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -216,7 +231,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/nice-france" />
     
-    <lastmod>2016-05-09T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-09T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -229,7 +244,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/garda-italy" />
     
-    <lastmod>2016-05-08T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-08T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -242,7 +257,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/garda-italy" />
     
-    <lastmod>2016-05-08T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-08T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -255,7 +270,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/dolomites-italy" />
     
-    <lastmod>2016-05-06T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-06T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -268,7 +283,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/dolomites-italy" />
     
-    <lastmod>2016-05-06T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-06T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -281,7 +296,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/venice-italy" />
     
-    <lastmod>2016-05-04T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-04T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -294,7 +309,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/venice-italy" />
     
-    <lastmod>2016-05-04T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-04T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -307,7 +322,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/florence-italy" />
     
-    <lastmod>2016-05-03T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -320,7 +335,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/florence-italy" />
     
-    <lastmod>2016-05-03T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -333,7 +348,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/rome-italy" />
     
-    <lastmod>2016-05-01T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-01T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -346,7 +361,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/rome-italy" />
     
-    <lastmod>2016-05-01T13:00:00+01:00</lastmod>
+    <lastmod>2016-05-01T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -359,7 +374,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/valencia-spain" />
     
-    <lastmod>2016-04-28T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-28T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -372,7 +387,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/valencia-spain" />
     
-    <lastmod>2016-04-28T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-28T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -385,7 +400,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/porto-portugal" />
     
-    <lastmod>2016-04-25T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-25T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -398,7 +413,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/porto-portugal" />
     
-    <lastmod>2016-04-25T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-25T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -411,7 +426,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/portugal-beaches" />
     
-    <lastmod>2016-04-24T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-24T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -424,7 +439,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/portugal-beaches" />
     
-    <lastmod>2016-04-24T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-24T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -437,7 +452,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sintra-portugal" />
     
-    <lastmod>2016-04-23T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-23T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -450,7 +465,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sintra-portugal" />
     
-    <lastmod>2016-04-23T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-23T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -463,7 +478,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/lisbon-portugal" />
     
-    <lastmod>2016-04-22T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-22T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -476,7 +491,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/lisbon-portugal" />
     
-    <lastmod>2016-04-22T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-22T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -489,7 +504,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/cascais-portugal" />
     
-    <lastmod>2016-04-21T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-21T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -502,7 +517,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/cascais-portugal" />
     
-    <lastmod>2016-04-21T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-21T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -515,7 +530,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/menorca-spain" />
     
-    <lastmod>2016-04-16T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-16T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -528,7 +543,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/menorca-spain" />
     
-    <lastmod>2016-04-16T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-16T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -541,7 +556,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/montserrat-spain" />
     
-    <lastmod>2016-04-12T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-12T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -554,7 +569,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/montserrat-spain" />
     
-    <lastmod>2016-04-12T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-12T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -567,7 +582,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sitges-spain" />
     
-    <lastmod>2016-04-11T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-11T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -580,7 +595,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/sitges-spain" />
     
-    <lastmod>2016-04-11T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-11T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -593,7 +608,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-from-above" />
     
-    <lastmod>2016-04-10T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -606,7 +621,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-from-above" />
     
-    <lastmod>2016-04-10T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -619,7 +634,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/granada-spain" />
     
-    <lastmod>2016-04-03T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -632,7 +647,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/granada-spain" />
     
-    <lastmod>2016-04-03T13:00:00+01:00</lastmod>
+    <lastmod>2016-04-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -645,7 +660,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/nerja-spain" />
     
-    <lastmod>2016-03-30T13:00:00+01:00</lastmod>
+    <lastmod>2016-03-30T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -658,7 +673,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/nerja-spain" />
     
-    <lastmod>2016-03-30T13:00:00+01:00</lastmod>
+    <lastmod>2016-03-30T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -671,7 +686,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/benalmadena-spain" />
     
-    <lastmod>2016-03-27T13:00:00+01:00</lastmod>
+    <lastmod>2016-03-27T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -684,7 +699,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/benalmadena-spain" />
     
-    <lastmod>2016-03-27T13:00:00+01:00</lastmod>
+    <lastmod>2016-03-27T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -697,7 +712,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/xcaret-mexico" />
     
-    <lastmod>2016-03-20T12:00:00+00:00</lastmod>
+    <lastmod>2016-03-20T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -710,7 +725,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/xcaret-mexico" />
     
-    <lastmod>2016-03-20T12:00:00+00:00</lastmod>
+    <lastmod>2016-03-20T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -723,7 +738,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/grand-palladium-mexico" />
     
-    <lastmod>2016-03-01T12:00:00+00:00</lastmod>
+    <lastmod>2016-03-01T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -736,7 +751,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/grand-palladium-mexico" />
     
-    <lastmod>2016-03-01T12:00:00+00:00</lastmod>
+    <lastmod>2016-03-01T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -749,7 +764,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/prague-czech-republic" />
     
-    <lastmod>2015-12-26T12:00:00+00:00</lastmod>
+    <lastmod>2015-12-26T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -762,7 +777,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/prague-czech-republic" />
     
-    <lastmod>2015-12-26T12:00:00+00:00</lastmod>
+    <lastmod>2015-12-26T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -775,7 +790,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/seville-spain" />
     
-    <lastmod>2015-03-29T13:00:00+01:00</lastmod>
+    <lastmod>2015-03-29T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -788,7 +803,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/seville-spain" />
     
-    <lastmod>2015-03-29T13:00:00+01:00</lastmod>
+    <lastmod>2015-03-29T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -801,7 +816,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/zurich-switzerland" />
     
-    <lastmod>2015-02-08T12:00:00+00:00</lastmod>
+    <lastmod>2015-02-08T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -814,7 +829,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/zurich-switzerland" />
     
-    <lastmod>2015-02-08T12:00:00+00:00</lastmod>
+    <lastmod>2015-02-08T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -827,7 +842,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/liege-belgium" />
     
-    <lastmod>2014-12-21T12:00:00+00:00</lastmod>
+    <lastmod>2014-12-21T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -840,7 +855,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/liege-belgium" />
     
-    <lastmod>2014-12-21T12:00:00+00:00</lastmod>
+    <lastmod>2014-12-21T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -853,7 +868,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain-2014" />
     
-    <lastmod>2014-09-14T13:00:00+01:00</lastmod>
+    <lastmod>2014-09-14T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -866,7 +881,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain-2014" />
     
-    <lastmod>2014-09-14T13:00:00+01:00</lastmod>
+    <lastmod>2014-09-14T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -879,7 +894,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/paris-france" />
     
-    <lastmod>2014-07-08T13:00:00+01:00</lastmod>
+    <lastmod>2014-07-08T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -892,7 +907,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/paris-france" />
     
-    <lastmod>2014-07-08T13:00:00+01:00</lastmod>
+    <lastmod>2014-07-08T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -905,7 +920,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/brussels-belgium" />
     
-    <lastmod>2014-06-08T13:00:00+01:00</lastmod>
+    <lastmod>2014-06-08T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -918,7 +933,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/brussels-belgium" />
     
-    <lastmod>2014-06-08T13:00:00+01:00</lastmod>
+    <lastmod>2014-06-08T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -931,7 +946,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/blue-lagoon-turkey" />
     
-    <lastmod>2014-05-18T13:00:00+01:00</lastmod>
+    <lastmod>2014-05-18T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -944,7 +959,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/blue-lagoon-turkey" />
     
-    <lastmod>2014-05-18T13:00:00+01:00</lastmod>
+    <lastmod>2014-05-18T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -957,7 +972,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-two" />
     
-    <lastmod>2014-04-12T13:00:00+01:00</lastmod>
+    <lastmod>2014-04-12T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -970,7 +985,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-two" />
     
-    <lastmod>2014-04-12T13:00:00+01:00</lastmod>
+    <lastmod>2014-04-12T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -983,7 +998,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-one" />
     
-    <lastmod>2014-04-11T13:00:00+01:00</lastmod>
+    <lastmod>2014-04-11T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -996,7 +1011,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/madrid-spain-day-one" />
     
-    <lastmod>2014-04-11T13:00:00+01:00</lastmod>
+    <lastmod>2014-04-11T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1009,7 +1024,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/duesseldorf-germany" />
     
-    <lastmod>2014-03-30T13:00:00+01:00</lastmod>
+    <lastmod>2014-03-30T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1022,7 +1037,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/duesseldorf-germany" />
     
-    <lastmod>2014-03-30T13:00:00+01:00</lastmod>
+    <lastmod>2014-03-30T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1035,7 +1050,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/apollo-dusseldorf" />
     
-    <lastmod>2014-03-15T12:00:00+00:00</lastmod>
+    <lastmod>2014-03-15T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -1048,7 +1063,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/apollo-dusseldorf" />
     
-    <lastmod>2014-03-15T12:00:00+00:00</lastmod>
+    <lastmod>2014-03-15T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -1061,7 +1076,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amden-switzerland" />
     
-    <lastmod>2014-03-03T12:00:00+00:00</lastmod>
+    <lastmod>2014-03-03T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -1074,7 +1089,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amden-switzerland" />
     
-    <lastmod>2014-03-03T12:00:00+00:00</lastmod>
+    <lastmod>2014-03-03T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -1087,7 +1102,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/bonn-germany" />
     
-    <lastmod>2014-01-18T12:00:00+00:00</lastmod>
+    <lastmod>2014-01-18T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -1100,7 +1115,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/bonn-germany" />
     
-    <lastmod>2014-01-18T12:00:00+00:00</lastmod>
+    <lastmod>2014-01-18T13:00:00+01:00</lastmod>
   </url>
   
   
@@ -1113,7 +1128,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amsterdam-netherlands" />
     
-    <lastmod>2013-09-28T13:00:00+01:00</lastmod>
+    <lastmod>2013-09-28T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1126,7 +1141,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/amsterdam-netherlands" />
     
-    <lastmod>2013-09-28T13:00:00+01:00</lastmod>
+    <lastmod>2013-09-28T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1139,7 +1154,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/palma-de-mallorca-spain" />
     
-    <lastmod>2013-08-03T13:00:00+01:00</lastmod>
+    <lastmod>2013-08-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1152,7 +1167,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/palma-de-mallorca-spain" />
     
-    <lastmod>2013-08-03T13:00:00+01:00</lastmod>
+    <lastmod>2013-08-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1165,7 +1180,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/marmaris-turkey" />
     
-    <lastmod>2012-08-18T13:00:00+01:00</lastmod>
+    <lastmod>2012-08-18T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1178,7 +1193,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/marmaris-turkey" />
     
-    <lastmod>2012-08-18T13:00:00+01:00</lastmod>
+    <lastmod>2012-08-18T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1191,7 +1206,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/immenstadt-germany" />
     
-    <lastmod>2012-08-09T13:00:00+01:00</lastmod>
+    <lastmod>2012-08-09T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1204,7 +1219,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/immenstadt-germany" />
     
-    <lastmod>2012-08-09T13:00:00+01:00</lastmod>
+    <lastmod>2012-08-09T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1217,7 +1232,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/dali-cadaques-spain" />
     
-    <lastmod>2012-04-03T13:00:00+01:00</lastmod>
+    <lastmod>2012-04-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1230,7 +1245,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/dali-cadaques-spain" />
     
-    <lastmod>2012-04-03T13:00:00+01:00</lastmod>
+    <lastmod>2012-04-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1243,7 +1258,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain" />
     
-    <lastmod>2012-04-01T13:00:00+01:00</lastmod>
+    <lastmod>2012-04-01T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1256,7 +1271,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/barcelona-spain" />
     
-    <lastmod>2012-04-01T13:00:00+01:00</lastmod>
+    <lastmod>2012-04-01T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1269,7 +1284,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-los-angeles" />
     
-    <lastmod>2009-09-16T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-16T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1282,7 +1297,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-los-angeles" />
     
-    <lastmod>2009-09-16T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-16T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1295,7 +1310,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-las-vegas" />
     
-    <lastmod>2009-09-10T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1308,7 +1323,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-las-vegas" />
     
-    <lastmod>2009-09-10T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-10T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1321,7 +1336,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-grand-canyon" />
     
-    <lastmod>2009-09-09T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-09T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1334,7 +1349,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-grand-canyon" />
     
-    <lastmod>2009-09-09T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-09T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1347,7 +1362,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-yellowstone" />
     
-    <lastmod>2009-09-05T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-05T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1360,7 +1375,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-yellowstone" />
     
-    <lastmod>2009-09-05T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-05T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1373,7 +1388,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-seattle" />
     
-    <lastmod>2009-09-03T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1386,7 +1401,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-seattle" />
     
-    <lastmod>2009-09-03T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-03T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1399,7 +1414,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-st-helens" />
     
-    <lastmod>2009-09-02T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-02T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1412,7 +1427,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-st-helens" />
     
-    <lastmod>2009-09-02T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-02T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1425,7 +1440,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-crater-lake" />
     
-    <lastmod>2009-09-01T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-01T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1438,7 +1453,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip-crater-lake" />
     
-    <lastmod>2009-09-01T13:00:00+01:00</lastmod>
+    <lastmod>2009-09-01T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1451,7 +1466,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip" />
     
-    <lastmod>2009-08-31T13:00:00+01:00</lastmod>
+    <lastmod>2009-08-31T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1464,7 +1479,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/road-trip" />
     
-    <lastmod>2009-08-31T13:00:00+01:00</lastmod>
+    <lastmod>2009-08-31T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1477,7 +1492,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/gay-pride-parade-sf" />
     
-    <lastmod>2009-07-29T13:00:00+01:00</lastmod>
+    <lastmod>2009-07-29T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1490,7 +1505,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/gay-pride-parade-sf" />
     
-    <lastmod>2009-07-29T13:00:00+01:00</lastmod>
+    <lastmod>2009-07-29T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1503,7 +1518,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/alkatraz" />
     
-    <lastmod>2009-07-27T13:00:00+01:00</lastmod>
+    <lastmod>2009-07-27T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1516,7 +1531,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/alkatraz" />
     
-    <lastmod>2009-07-27T13:00:00+01:00</lastmod>
+    <lastmod>2009-07-27T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1529,7 +1544,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/san-francisco-seals" />
     
-    <lastmod>2009-07-15T13:00:00+01:00</lastmod>
+    <lastmod>2009-07-15T14:00:00+02:00</lastmod>
   </url>
   
   
@@ -1542,7 +1557,7 @@
     
     <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/san-francisco-seals" />
     
-    <lastmod>2009-07-15T13:00:00+01:00</lastmod>
+    <lastmod>2009-07-15T14:00:00+02:00</lastmod>
   </url>
   
   
