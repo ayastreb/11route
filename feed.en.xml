@@ -152,10 +152,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Tenerife, Spain</title>
-      <description>&lt;div id=&quot;3297d98e-7c7c-4e8d-b8f8-5eba89f21095&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;ff8940b0-93f9-4fb6-96cc-bef72cc71a84&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '3297d98e-7c7c-4e8d-b8f8-5eba89f21095',
+    'ff8940b0-93f9-4fb6-96cc-bef72cc71a84',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Tenerife, Spain&quot;,&quot;url&quot;:&quot;/en/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
@@ -660,7 +660,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 30 Nov 2016 13:00:00 +0100</pubDate>
+      <pubDate>Wed, 30 Nov 2016 14:00:00 +0200</pubDate>
       <link>https://11route.com/en/tenerife-spain</link>
       <guid isPermaLink="true">https://11route.com/en/tenerife-spain</guid>
     </item>
@@ -829,7 +829,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sat, 10 Sep 2016 14:00:00 +0200</pubDate>
+      <pubDate>Sat, 10 Sep 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/warsaw-poland</link>
       <guid isPermaLink="true">https://11route.com/en/warsaw-poland</guid>
     </item>
@@ -1037,7 +1037,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 14 Aug 2016 14:00:00 +0200</pubDate>
+      <pubDate>Sun, 14 Aug 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/munich-germany</link>
       <guid isPermaLink="true">https://11route.com/en/munich-germany</guid>
     </item>
@@ -1148,7 +1148,7 @@ if (typeof Object.assign !== 'function') {
   &lt;div class=&quot;youtube-video&quot; id=&quot;music-05&quot; data-video-id=&quot;ls2-sYT-z-A&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Tue, 02 Aug 2016 14:00:00 +0200</pubDate>
+      <pubDate>Tue, 02 Aug 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/salzburg-austria</link>
       <guid isPermaLink="true">https://11route.com/en/salzburg-austria</guid>
     </item>
@@ -1462,7 +1462,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sat, 30 Jul 2016 14:00:00 +0200</pubDate>
+      <pubDate>Sat, 30 Jul 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/vienna-austria</link>
       <guid isPermaLink="true">https://11route.com/en/vienna-austria</guid>
     </item>
@@ -1757,7 +1757,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/div&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 27 Jul 2016 14:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Jul 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/budapest-hungary</link>
       <guid isPermaLink="true">https://11route.com/en/budapest-hungary</guid>
     </item>
@@ -1918,7 +1918,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 11 May 2016 14:00:00 +0200</pubDate>
+      <pubDate>Wed, 11 May 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/cannes-france</link>
       <guid isPermaLink="true">https://11route.com/en/cannes-france</guid>
     </item>
@@ -1977,7 +1977,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Tue, 10 May 2016 14:00:00 +0200</pubDate>
+      <pubDate>Tue, 10 May 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/monaco</link>
       <guid isPermaLink="true">https://11route.com/en/monaco</guid>
     </item>
@@ -2058,7 +2058,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Mon, 09 May 2016 14:00:00 +0200</pubDate>
+      <pubDate>Mon, 09 May 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/nice-france</link>
       <guid isPermaLink="true">https://11route.com/en/nice-france</guid>
     </item>
@@ -2104,7 +2104,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 08 May 2016 14:00:00 +0200</pubDate>
+      <pubDate>Sun, 08 May 2016 15:00:00 +0300</pubDate>
       <link>https://11route.com/en/garda-italy</link>
       <guid isPermaLink="true">https://11route.com/en/garda-italy</guid>
     </item>
