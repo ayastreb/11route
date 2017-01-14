@@ -1,17 +1,17 @@
 ---
 layout:     post
-permalink:  copenhagen-denmark
+permalink:  /en/copenhagen-denmark
 ref:        copenhagen-denmark
-lang:       ru
-title:      Копенгаген, Дания
+lang:       en
+title:      Copenhagen, Denmark
 date:       2016-12-25 12:00:00
 image:      https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg
-summary:    Рождество в Дании.
+summary:    Christmas in Denmark.
 categories:
-  - копенгаген
-  - дания
-  - рождество
-  - буддийский центр
+  - copenhagen
+  - denmark
+  - christmas
+  - buddhist center
 location:
   latitude:  55.6792579
   longitude: 12.5844241
@@ -19,10 +19,10 @@ location:
 {% google_map width="100%" height="400" zoom="9" %}
 
 <section class="text-block">
-  В Копенгаген мы прилетели на рождество. Погода в Дании по прилёту была хорошая, но меняется она здесь по несколько раз в день :smile:
+  We arrived in Copenhagen at Christmas. The weather was good on our arrival, but it changes here several times per day :smile:
 </section>
 <section class="text-block">
-  Утром может быть солнечно, потом за полчаса пройдет дождь с ветром, а вечером шторм с градом и чистое небо ночью.
+  In the morning it could be sunny, then rain for half an hour and a hail storm in the evening. And after that clear starry sky in the night.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -31,19 +31,20 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00174-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>После событий в Берлине на улицах поставили бетонные заграждения и полицейских.</p>
+  <p>After the events in Berlin there are concrete barriers and police on the streets.
+  </p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00178-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00178-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Копенгаген - родина Туборга.</p>
+  <p>Copenhagen - the birthplace of Tuborg.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00188-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00188-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Шведская церковь.</p>
+  <p>Swedish Church.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00193-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00193-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -86,13 +87,13 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00219-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Церковь Фредерика так же известная как Мраморная церковь.</p>
+  <p>Frederik's Church, also known as the Marble Church.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00240-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00240-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Гвардейская стража.</p>
+  <p>Guards.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00243-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00243-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -118,8 +119,7 @@ location:
 </section>
 
 <section class="text-block">
-  Оперный театр Копенгагена - один из новейших и самых дорогих оперных театров в мире.
-  Его строительство обошлось в 500 млн. долларов.
+  Copenhagen Opera House - one of the newest and most expensive opera houses in the world. Its construction cost of 500 million dollars.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -133,7 +133,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00276-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Новая Гавань.</p>
+  <p>New Harbour.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00260-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00260-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -144,7 +144,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00266-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Велосипедно-пешеходный мост.</p>
+  <p>Bicycle-pedestrian bridge.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00270-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00270-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -160,7 +160,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00274-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Королевский Датский Театр.</p>
+  <p>The Royal Danish Theatre.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00283-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00283-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -176,7 +176,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00288-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Жилой комплекс на набережной.</p>
+  <p>Residential complex on the waterfront.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00294-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00294-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -214,7 +214,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00309-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Церковь Спасителя.</p>
+  <p>Church of the Savior.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00316-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
@@ -239,7 +239,7 @@ location:
       </a>
     </figure>
   </div>
-  <p>Круговой мост напоминает корабль.</p>
+  <p>Circular bridge resembles a ship.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00327-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00327-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -257,7 +257,7 @@ location:
       </a>
     </figure>
   </div>
-  <p>Дворец Кристиансборг.</p>
+  <p>Christiansborg Palace.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00338-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00338-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -268,7 +268,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00357-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Ратушная площадь.</p>
+  <p>Town Hall Square.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00366-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00366-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -279,7 +279,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00375-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Погода начала портиться.</p>
+  <p>The weather began to deteriorate.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00376-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00376-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -302,7 +302,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00387-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Розенборг Палас Гарден.</p>
+  <p>Rosenborg Palace Garden.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00389-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00389-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -318,7 +318,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00393-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Дворец Розенборг, здесь жили датские короли.</p>
+  <p>Rosenborg Palace, Danish kings have lived here.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00404-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00404-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -346,7 +346,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00418-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Неподалёку от дворца находится район Нюбудер, здесь в 17-м веке располагались бараки ВМФ Дании.</p>
+  <p>Not far from the palace is the area called Nyubuder, Royal Danish Navy were housed here in the 17th century.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00424-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
@@ -366,8 +366,8 @@ location:
   </figure>
 </section>
 <section class="text-block">
-  К вечеру решил пройтись к главной достопримечательности - Русалочке.<br/>
-  Народу там очень много, все пытаются сделать селфи с русалочкой и лезут прямо в воду.
+  By evening, I decided to walk to the main attractions - the Mermaid.
+  There were a lot of people, all trying to make a selfie with mermaid and almost jumping into the water.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -391,7 +391,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00451-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
     </a>
   </figure>
-  <p>Как только я отошел от русалочки начался шторм с градом.</p>
+  <p>As soon as I walked away from the mermaid a hail storm started.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00453-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/copenhagen-denmark/DSC00453-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Copenhagen, Denmark" />
@@ -400,7 +400,7 @@ location:
 </section>
 
 <section class="text-block">
-  Основной целью нашего визита было посещение медитационного курса в одном из первых центров буддийской школы Карма Кагью в западном мире. Центр был основан в 1972 году. Центр расположен в старинном жилом районе Копенгагена.
+  The main purpose of our trip was to visit the meditation course in one of the first centers of the Karma Kagyu Buddhist school in the western world. The center was founded in 1972. The center is located in a historic residential district of Copenhagen.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -417,7 +417,7 @@ location:
     </figure>
   </div>
   <p>
-    Самая красивая гомпа (комната для медитации) в традиционном стиле.
+    The most beautiful gompa (meditation room) in a traditional style.
   </p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2016/copenhagen-denmark/DSC00500-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
@@ -425,7 +425,7 @@ location:
     </a>
   </figure>
   <p>
-    Рисунки выполнены по всем правилам буддийской живописи.
+    Painting are done according to the rules of Buddhist painting.
   </p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
