@@ -152,10 +152,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Копенгаген, Дания</title>
-      <description>&lt;div id=&quot;27e77b20-0d78-4946-b72f-9740d34f7dd0&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;9a611284-6032-4ef6-9114-960d29b797c8&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '27e77b20-0d78-4946-b72f-9740d34f7dd0',
+    '9a611284-6032-4ef6-9114-960d29b797c8',
     [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Копенгаген, Дания&quot;,&quot;url&quot;:&quot;/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -568,7 +568,7 @@ if (typeof Object.assign !== 'function') {
     &lt;/a&gt;
   &lt;/figure&gt;
   &lt;p&gt;
-    Рисунки выполенны по всем правилам буддийской живописи.
+    Рисунки выполнены по всем правилам буддийской живописи.
   &lt;/p&gt;
   &lt;div class=&quot;image-row&quot;&gt;
     &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
@@ -596,10 +596,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тенерифе, Испания</title>
-      <description>&lt;div id=&quot;1b04e401-9ab8-4565-85b6-2dd9abdce7b0&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;fc4fa73d-847d-4b16-a8cb-5621eb3996be&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '1b04e401-9ab8-4565-85b6-2dd9abdce7b0',
+    'fc4fa73d-847d-4b16-a8cb-5621eb3996be',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Тенерифе, Испания&quot;,&quot;url&quot;:&quot;/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
