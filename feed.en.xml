@@ -151,11 +151,144 @@ if (typeof Object.assign !== 'function') {
     
     
     <item>
-      <title>Copenhagen, Denmark</title>
-      <description>&lt;div id=&quot;28e0077c-3a19-4a63-832b-0b59663bd7e2&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <title>Phi Phi Islands, Thailand</title>
+      <description>&lt;div id=&quot;43dd17b1-6353-48b6-a3bd-87b7f1724a94&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '28e0077c-3a19-4a63-832b-0b59663bd7e2',
+    '43dd17b1-6353-48b6-a3bd-87b7f1724a94',
+    [{&quot;latitude&quot;:7.6549553,&quot;longitude&quot;:98.7631943,&quot;title&quot;:&quot;Phi Phi Islands, Thailand&quot;,&quot;url&quot;:&quot;/en/phi-phi-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg&quot;}],
+    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:12}
+  );
+&lt;/script&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  Not far away from Phuket, where we settled, located Phi Phi islands.
+  That's where we went for a boat trip with a company called Offspray Leisure, they've got best reviews on the Internet.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+  The trip takes about 6-7 hours on a speed boat. Together with us there were about 15 other people, mostly americans :smile:
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01066-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01066-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  Maya Bay has a famous beach, where movie &quot;The Beach&quot; with Di Caprio was filmed.
+  This beach is in fact so famous, that it was too overcrowded. Our guide decided not to stop there and to go further.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01075-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01075-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  For lunch we stopped at a small wild beach where a picnic was set up for us.
+  In the bay of this beach there were tiny baby reef-sharks swimming.
+  Our captain assured everybody that they don't bite people and decided to feed them with some leftovers from the picnic :smile:
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01100-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01100-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01086-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01086-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01098-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01098-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;phi-phi-sharks&quot; data-video-id=&quot;FLd4DV99NUo&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01114-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01114-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;After lunch we visited Vikings Caves where a chinese company harvests swallows' nests to make very expensive soup.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01123-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01123-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+      &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01127-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01127-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  Our next stop should have been Monkey Island. It's actually just a bay at the north of the island where lots of monkeys live.
+  But due to low tide our boat was unable to come close to the beach and it was way overcrowded as well, so we just watched the monkeys from far away and went further.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01136-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01136-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01142-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01142-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  Our last stop was snorkeling at Ko Mai Thon island, not far away from Phuket.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01149-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01149-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01150-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/phi-phi-thailand/DSC01150-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Phi-Phi, Thailand&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;snorkeling-ko-mai-thon&quot; data-video-id=&quot;cOdX-8BF6ns&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  We enjoyed the trip and would definitely recommend to visit Phi-Phi!
+&lt;/section&gt;
+</description>
+      <pubDate>Thu, 09 Feb 2017 19:00:00 +0700</pubDate>
+      <link>https://11route.com/en/phi-phi-thailand</link>
+      <guid isPermaLink="true">https://11route.com/en/phi-phi-thailand</guid>
+    </item>
+    
+    <item>
+      <title>Copenhagen, Denmark</title>
+      <description>&lt;div id=&quot;8079df77-aa7b-4d4d-8b18-df0a3bec9d04&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  jekyllMaps.register(
+    '8079df77-aa7b-4d4d-8b18-df0a3bec9d04',
     [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Copenhagen, Denmark&quot;,&quot;url&quot;:&quot;/en/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -589,17 +722,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 25 Dec 2016 14:00:00 +0200</pubDate>
+      <pubDate>Sun, 25 Dec 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/copenhagen-denmark</link>
       <guid isPermaLink="true">https://11route.com/en/copenhagen-denmark</guid>
     </item>
     
     <item>
       <title>Tenerife, Spain</title>
-      <description>&lt;div id=&quot;aa0e3410-c020-4cc1-aa28-10a31af4074d&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;03da475e-bd50-43e8-95d1-4f1a4a1ee6ab&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'aa0e3410-c020-4cc1-aa28-10a31af4074d',
+    '03da475e-bd50-43e8-95d1-4f1a4a1ee6ab',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Tenerife, Spain&quot;,&quot;url&quot;:&quot;/en/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
@@ -1104,7 +1237,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 30 Nov 2016 14:00:00 +0200</pubDate>
+      <pubDate>Wed, 30 Nov 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/tenerife-spain</link>
       <guid isPermaLink="true">https://11route.com/en/tenerife-spain</guid>
     </item>
@@ -1273,7 +1406,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sat, 10 Sep 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sat, 10 Sep 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/warsaw-poland</link>
       <guid isPermaLink="true">https://11route.com/en/warsaw-poland</guid>
     </item>
@@ -1481,7 +1614,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 14 Aug 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sun, 14 Aug 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/munich-germany</link>
       <guid isPermaLink="true">https://11route.com/en/munich-germany</guid>
     </item>
@@ -1592,7 +1725,7 @@ if (typeof Object.assign !== 'function') {
   &lt;div class=&quot;youtube-video&quot; id=&quot;music-05&quot; data-video-id=&quot;ls2-sYT-z-A&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Tue, 02 Aug 2016 15:00:00 +0300</pubDate>
+      <pubDate>Tue, 02 Aug 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/salzburg-austria</link>
       <guid isPermaLink="true">https://11route.com/en/salzburg-austria</guid>
     </item>
@@ -1906,7 +2039,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sat, 30 Jul 2016 15:00:00 +0300</pubDate>
+      <pubDate>Sat, 30 Jul 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/vienna-austria</link>
       <guid isPermaLink="true">https://11route.com/en/vienna-austria</guid>
     </item>
@@ -2201,7 +2334,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/div&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 27 Jul 2016 15:00:00 +0300</pubDate>
+      <pubDate>Wed, 27 Jul 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/budapest-hungary</link>
       <guid isPermaLink="true">https://11route.com/en/budapest-hungary</guid>
     </item>
@@ -2362,7 +2495,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 11 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Wed, 11 May 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/cannes-france</link>
       <guid isPermaLink="true">https://11route.com/en/cannes-france</guid>
     </item>
@@ -2421,90 +2554,9 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Tue, 10 May 2016 15:00:00 +0300</pubDate>
+      <pubDate>Tue, 10 May 2016 19:00:00 +0700</pubDate>
       <link>https://11route.com/en/monaco</link>
       <guid isPermaLink="true">https://11route.com/en/monaco</guid>
-    </item>
-    
-    <item>
-      <title>Nice, France</title>
-      <description>&lt;section class=&quot;text-block&quot;&gt;
-  After returning our car to Venice Airport we went to Nice by train.
-  The trip is pretty long and takes almost the whole day - around 8 hours in the train.
-&lt;/section&gt;
-&lt;section class=&quot;text-block&quot;&gt;
-  We arrived to Nice in the evening, settled in the hotel and went to sleep after the dinner.
-  On the next day morning we went for a walk around the city.
-  In the morning it was cloudy, but in the afternoon the sun came out.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09382-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09382-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09390-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09390-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09477-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09477-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09394-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09394-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09399-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09399-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;In the city center the are no wires and trams are running on batteries.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09404-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09404-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09406-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09406-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Interesting children playground.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09408-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09408-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09409-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09409-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09412-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09412-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/nice-france/DSC09473-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/nice-france/DSC09473-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Nice, France&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Mon, 09 May 2016 15:00:00 +0300</pubDate>
-      <link>https://11route.com/en/nice-france</link>
-      <guid isPermaLink="true">https://11route.com/en/nice-france</guid>
     </item>
     
   </channel>
