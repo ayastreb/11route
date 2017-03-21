@@ -1,18 +1,18 @@
 ---
 layout:     post
-permalink:  phuket-thailand
+permalink:  /en/phuket-thailand
 ref:        phuket-thailand
-lang:       ru
-title:      Пхукет, Тайланд
+lang:       en
+title:      Phuket, Thailand
 date:       2017-02-01 12:00:00
 image:      https://content.11route.com/posts/2017/phuket-thailand/cover-2000.jpg
-summary:    Зимовка на Пхукете.
+summary:    Spending winter in Thailand.
 categories:
-  - остров пхукет
-  - тайланд
-  - туризм
-  - большой будда
-  - ват чалонг
+  - phuket island
+  - thailand
+  - tourism
+  - big buddha
+  - wat chalong
 location:
   latitude:  7.8480011
   longitude: 98.2932415
@@ -20,8 +20,8 @@ location:
 {% google_map width="100%" height="468" zoom="9" %}
 
 <section class="text-block">
-В Тайланде началось наше путешествие по Азии. Мы поселились на острове Пхукет в городке под названием Карон. В Кароне находится один из лучших пляжей на острове.
-  Мы сняли квартиру-студию в 15 минутах от пляжа с видом на море.
+  We started our Asian trip from Thailand. We settled on Phuket island in a city called Karon. Karon has one of the best beaches on the island.
+  We rented a studio apartment with a sea view 15 minutes away from the beach.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -37,7 +37,7 @@ location:
       </a>
     </figure>
   </div>
-  <p>Пляж в Кароне широкий и длинный, здесь много туристов и сомнительных развлечений.</p>
+  <p>Karon beach is wide and long, there are many tourists and questionable entertainment.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2017/phuket-thailand/DSC00660-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/phuket-thailand/DSC00660-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phuket, Thailand" />
@@ -61,9 +61,9 @@ location:
 </section>
 
 <section class="text-block">
-  Недалеко от нашей квартиры было хорошее кафе с местной кухней.
-  Так же вся улица до пляжа заставлена кафешками и ресторанами, цены и меню везде более менее одинаковые. Очень популярны здесь морепродукты, рис и лапша.
-  Самое популярное местное блюдо это жареный рис в ананасе.
+  Not far away from our apartment we had a nice cafe with local food.
+  Also the whole street down to the beach is covered with cafes and restaurants.
+  Menu and prices are mostly the same in all of them. Seafood, rice and noodles are very popular here. The most famous dish here is fired rice in a pineapple.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -116,7 +116,7 @@ location:
 </section>
 
 <section class="text-block">
-  Мы сняли машину на 4 часа, что бы сделать обзорную экскурсию по острову.
+  We rented a car for 4 hours to make a sightseeing tour.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -125,7 +125,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/phuket-thailand/DSC01153-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phuket, Thailand" />
     </a>
   </figure>
-  <p>Смотровая площадка Ката - в далеке виднеется наш пляж Карон.</p>
+  <p>Kata viewpoint, Karon beach is seen far away.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2017/phuket-thailand/DSC01159-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
@@ -143,7 +143,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/phuket-thailand/DSC01168-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phuket, Thailand" />
     </a>
   </figure>
-  <p>Порт Чалонг, отсюда отправляются почти все экскурсии на соседние острова.</p>
+  <p>Chalong Peer, most of the islands trip are departed from here.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2017/phuket-thailand/DSC01187-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/phuket-thailand/DSC01187-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phuket, Thailand" />
@@ -152,8 +152,7 @@ location:
 </section>
 
 <section class="text-block">
-  Одна из главных достопримечательностей острова - храмовый комплекс Большой Будда.
-  Здесь находится 45-ти метровая мраморная статуя Будды. Строительство ведется на пожертвования и началось в 2000-х годах.
+  One of the main attractions on the island is Big Buddha. The 45 meter tall statue of Buddha stands here. The building started in early 2000-s.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -196,7 +195,7 @@ location:
       </a>
     </figure>
   </div>
-  <p>На территории комплекса живут обезьяны, но к туристам они не подходят.</p>
+  <p>There are monkeys living here, but they don't get close to people.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2017/phuket-thailand/DSC01266-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/phuket-thailand/DSC01266-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phuket, Thailand" />
@@ -205,7 +204,8 @@ location:
 </section>
 
 <section class="text-block">
-  Неподалёку от Будды находится буддийский монастырь Ват Чалонг. Монастырь является основным местом паломничества тайцев на острове.
+  Not far away from Big Buddha there is a buddhist monastery called Wat Chalong.
+  It is very popular among tourist and locals.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -227,7 +227,7 @@ location:
     </figure>
   </div>
   <p>
-    Люди приклеивают кусочки сусального золота к статуям в качестве подношения.
+    People stick pieces of gold leafs to the status as an offering.
   </p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2017/phuket-thailand/DSC01282-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
