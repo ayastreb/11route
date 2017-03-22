@@ -1,16 +1,16 @@
 ---
 layout:     post
-permalink:  ko-mai-thon-thailand
+permalink:  /en/ko-mai-thon-thailand
 ref:        ko-mai-thon-thailand
-lang:       ru
-title:      Остров Май-тон, Тайланд
+lang:       en
+title:      Ko Mai Thon Island, Thailand
 date:       2017-02-19 12:00:00
 image:      https://content.11route.com/posts/2017/ko-mai-thon-thailand/cover-2000.jpg
-summary:    Экскурсия на частный остров.
+summary:    Trip to a private island.
 categories:
-  - остров ко май тон
-  - тайланд
-  - частный остров
+  - koh mai thon
+  - thailand
+  - private island
 location:
   latitude:  7.7617624
   longitude: 98.4770279
@@ -18,12 +18,11 @@ location:
 {% google_map width="100%" height="468" zoom="11" %}
 
 <section class="text-block">
-Остров Май-тон находится недалеко от Пхукета, 15 минут на скоростном катере.
-  Этот остров был подарен королём его нынешнему хозяину, видимо за какие-то выдающиеся заслуги :smile:
-  Хозяин острова решил пускать сюда туристов, но в ограниченных коллисчествах - не больше 200-та человек в день. Попасть сюда можно только с туристической фирмой.
+  Ko Mai Thon is a private island close to Phuket, it's about 15 minutes away by speedboat. This island was gifted by the king to its current owner, probably for some outstanding merit :smile:
+  The owner decided to let tourists in, but in very limited amounts - not more than 200 people per day. You can only get here with a travel company booking.
 </section>
 <section class="text-block">
-  Так же на острове есть отель, но он находится на реконструкции после цунами 2004-го года, и по словам нашего гида, хозяин особенно не спешит с реконструкцией и открывать отель в ближайшее время не собирается.
+  There is also a hotel on the island, but it's closed for renovation after 2004 tsunami. According to our guide, the owner is not very eager to finish the renovations and not going to open the hotel any time soon.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -62,7 +61,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/ko-mai-thon-thailand/DSC01506-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Ko Mai Thon, Thailand" />
     </a>
   </figure>
-  <p>На острове есть небольшая смотровая площадка, отсюда видно Пхукет.</p>
+  <p>There is a viewpoint on top of the island from where you can see Phuket.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="//content.11route.com/posts/2017/ko-mai-thon-thailand/DSC01516-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
@@ -80,7 +79,7 @@ location:
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/ko-mai-thon-thailand/DSC01525-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Ko Mai Thon, Thailand" />
     </a>
   </figure>
-  <p>Ресторан возле пляжа.</p>
+  <p>Restaurant near to the beach.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="//content.11route.com/posts/2017/ko-mai-thon-thailand/DSC01546-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
       <img src="/images/bg.png" data-src="//content.11route.com/posts/2017/ko-mai-thon-thailand/DSC01546-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Ko Mai Thon, Thailand" />
@@ -89,7 +88,7 @@ location:
 </section>
 
 <section class="text-block">
-  В стоимость экскурсии входит обед и бар. На обед пердлагают морепродукты и местную кухню - суп, рис и лапша. В баре можно заказывать смузи, соки, чай или кофе. Все выглядит очень прилично :smile:
+  Lunch and bar is also included in the trip price. Seafood and local cuisine is offered for lunch. You can also order smoothie, juice, tea or coffee in the bar during the day. Everything looks very good :smile:
 </section>
 
 <div class="youtube-video" id="lunch-area" data-video-id="Kc9uEClzMz8" width="1000" height="563"></div>
@@ -103,5 +102,5 @@ location:
 </section>
 
 <section class="text-block">
-  Май-тон это райское место, нам здесь так понравилось, что мы съездили сюда дважды :smile:
+  Ko Mai Thon is a paradise, we liked it so much that we visited it twice :smile:
 </section>
