@@ -152,10 +152,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остров Май-тон, Тайланд</title>
-      <description>&lt;div id=&quot;05ed87d7-dff0-4d44-8420-b128fa93ebd2&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;bd8f5c71-7e58-4e29-82a1-d671e79fa1ee&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '05ed87d7-dff0-4d44-8420-b128fa93ebd2',
+    'bd8f5c71-7e58-4e29-82a1-d671e79fa1ee',
     [{&quot;latitude&quot;:7.7617624,&quot;longitude&quot;:98.4770279,&quot;title&quot;:&quot;Остров Май-тон, Тайланд&quot;,&quot;url&quot;:&quot;/ko-mai-thon-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/ko-mai-thon-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:11}
   );
@@ -164,10 +164,10 @@ if (typeof Object.assign !== 'function') {
 &lt;section class=&quot;text-block&quot;&gt;
 Остров Май-тон находится недалеко от Пхукета, 15 минут на скоростном катере.
   Этот остров был подарен королём его нынешнему хозяину, видимо за какие-то выдающиеся заслуги :smile:
-  Хозяин острова решил пускать сюда туристов, но в ограниченных коллисчествах - не больше 200-та человек в день. Попасть сюда можно только с туристической фирмой.
+  Хозяин острова решил пускать сюда туристов, но в ограниченных коллисчествах - не больше двухсот человек в день. Попасть сюда можно только с туристической фирмой.
 &lt;/section&gt;
 &lt;section class=&quot;text-block&quot;&gt;
-  Так же на острове есть отель, но он находится на реконструкции после цунами 2004-го года, и по словам нашего гида, хозяин особенно не спешит с реконструкцией и открывать отель в ближайшее время не собирается.
+  Так же на острове есть отель, но он находится на реконструкции после цунами 2004-го года и, по словам нашего гида, хозяин особенно не спешит с реконструкцией и открывать отель в ближайшее время не собирается.
 &lt;/section&gt;
 
 &lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
@@ -233,7 +233,7 @@ if (typeof Object.assign !== 'function') {
 &lt;/section&gt;
 
 &lt;section class=&quot;text-block&quot;&gt;
-  В стоимость экскурсии входит обед и бар. На обед пердлагают морепродукты и местную кухню - суп, рис и лапша. В баре можно заказывать смузи, соки, чай или кофе. Все выглядит очень прилично :smile:
+  В стоимость экскурсии входит обед и бар. На обед предлагают морепродукты и местную кухню - суп, рис и лапша. В баре можно заказывать смузи, соки, чай или кофе. Все выглядит очень прилично :smile:
 &lt;/section&gt;
 
 &lt;div class=&quot;youtube-video&quot; id=&quot;lunch-area&quot; data-video-id=&quot;Kc9uEClzMz8&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
@@ -247,7 +247,7 @@ if (typeof Object.assign !== 'function') {
 &lt;/section&gt;
 
 &lt;section class=&quot;text-block&quot;&gt;
-  Май-тон это райское место, нам здесь так понравилось, что мы съездили сюда дважды :smile:
+  Май-тон &amp;mdash; это райское место, нам здесь так понравилось, что мы съездили сюда дважды :smile:
 &lt;/section&gt;
 </description>
       <pubDate>Sun, 19 Feb 2017 13:00:00 +0100</pubDate>
@@ -257,10 +257,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Острова Пхи-Пхи, Тайланд</title>
-      <description>&lt;div id=&quot;f0539968-d3e1-4267-a054-84ec0ea3e4ef&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;0e9825b4-f6b4-4f30-9bba-482dc3afe9a2&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'f0539968-d3e1-4267-a054-84ec0ea3e4ef',
+    '0e9825b4-f6b4-4f30-9bba-482dc3afe9a2',
     [{&quot;latitude&quot;:7.6549553,&quot;longitude&quot;:98.7631943,&quot;title&quot;:&quot;Острова Пхи-Пхи, Тайланд&quot;,&quot;url&quot;:&quot;/phi-phi-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:12}
   );
@@ -388,10 +388,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Пхукет, Тайланд</title>
-      <description>&lt;div id=&quot;79dab99b-1d97-438c-a00d-25be974f54cf&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;88e038ad-2fb1-4b7f-868f-f7e2c17d3a0b&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '79dab99b-1d97-438c-a00d-25be974f54cf',
+    '88e038ad-2fb1-4b7f-868f-f7e2c17d3a0b',
     [{&quot;latitude&quot;:7.8480011,&quot;longitude&quot;:98.2932415,&quot;title&quot;:&quot;Пхукет, Тайланд&quot;,&quot;url&quot;:&quot;/phuket-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phuket-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -650,10 +650,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Копенгаген, Дания</title>
-      <description>&lt;div id=&quot;f75c956a-0535-4a7e-8c3c-e90920d83a4f&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;cfe9ab3b-da9f-4b6a-9eb1-641e1ca48157&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'f75c956a-0535-4a7e-8c3c-e90920d83a4f',
+    'cfe9ab3b-da9f-4b6a-9eb1-641e1ca48157',
     [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Копенгаген, Дания&quot;,&quot;url&quot;:&quot;/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -1094,10 +1094,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тенерифе, Испания</title>
-      <description>&lt;div id=&quot;ed9d16c5-43f2-4bb2-b6f0-dd0a02c6a818&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;b145dfb0-69e4-4951-8f05-2dbfcd0809a4&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ed9d16c5-43f2-4bb2-b6f0-dd0a02c6a818',
+    'b145dfb0-69e4-4951-8f05-2dbfcd0809a4',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Тенерифе, Испания&quot;,&quot;url&quot;:&quot;/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
