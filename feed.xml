@@ -152,10 +152,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Токио, Япония</title>
-      <description>&lt;div id=&quot;83b49141-875b-4a6d-bddb-bb9f0530257a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;382b13db-1bcc-4b7c-81fa-ecb79ffe794f&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '83b49141-875b-4a6d-bddb-bb9f0530257a',
+    '382b13db-1bcc-4b7c-81fa-ecb79ffe794f',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Токио, Япония&quot;,&quot;url&quot;:&quot;/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:5}
   );
@@ -484,10 +484,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тхимпху, Бутан</title>
-      <description>&lt;div id=&quot;fa3eda94-8a9a-4b05-be38-47f9a946831b&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;57d13bcd-b60d-4e18-93f0-d5ea19bf6e07&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'fa3eda94-8a9a-4b05-be38-47f9a946831b',
+    '57d13bcd-b60d-4e18-93f0-d5ea19bf6e07',
     [{&quot;latitude&quot;:27.4663362,&quot;longitude&quot;:89.6362192,&quot;title&quot;:&quot;Тхимпху, Бутан&quot;,&quot;url&quot;:&quot;/thimphu-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/thimphu-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
@@ -708,10 +708,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остров Май-тон, Тайланд</title>
-      <description>&lt;div id=&quot;ddcb07f1-431a-44fb-b4ec-3b47c6f98cfe&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f3717e77-af16-4dbc-924e-877c24d1d7ac&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ddcb07f1-431a-44fb-b4ec-3b47c6f98cfe',
+    'f3717e77-af16-4dbc-924e-877c24d1d7ac',
     [{&quot;latitude&quot;:7.7617624,&quot;longitude&quot;:98.4770279,&quot;title&quot;:&quot;Остров Май-тон, Тайланд&quot;,&quot;url&quot;:&quot;/ko-mai-thon-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/ko-mai-thon-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:11}
   );
@@ -813,10 +813,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Острова Пхи-Пхи, Тайланд</title>
-      <description>&lt;div id=&quot;7b4f92a1-b64d-49b2-99f7-7cb10045fb22&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;bbcc5720-6e1f-4185-88c1-7c3bda1a4256&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '7b4f92a1-b64d-49b2-99f7-7cb10045fb22',
+    'bbcc5720-6e1f-4185-88c1-7c3bda1a4256',
     [{&quot;latitude&quot;:7.6549553,&quot;longitude&quot;:98.7631943,&quot;title&quot;:&quot;Острова Пхи-Пхи, Тайланд&quot;,&quot;url&quot;:&quot;/phi-phi-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:12}
   );
@@ -944,10 +944,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Пхукет, Тайланд</title>
-      <description>&lt;div id=&quot;e4f98cc3-f453-42b1-8d35-b2bd1f881b48&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;61e7c47e-ea31-47c4-bd1c-9c9bc84a2d6c&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e4f98cc3-f453-42b1-8d35-b2bd1f881b48',
+    '61e7c47e-ea31-47c4-bd1c-9c9bc84a2d6c',
     [{&quot;latitude&quot;:7.8480011,&quot;longitude&quot;:98.2932415,&quot;title&quot;:&quot;Пхукет, Тайланд&quot;,&quot;url&quot;:&quot;/phuket-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phuket-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -1206,10 +1206,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Копенгаген, Дания</title>
-      <description>&lt;div id=&quot;80036492-921b-487a-97a6-6633e8790315&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;95344255-999c-4fbd-a353-46ed7b3f2a18&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '80036492-921b-487a-97a6-6633e8790315',
+    '95344255-999c-4fbd-a353-46ed7b3f2a18',
     [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Копенгаген, Дания&quot;,&quot;url&quot;:&quot;/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -1650,10 +1650,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тенерифе, Испания</title>
-      <description>&lt;div id=&quot;0f9b877f-e902-4990-9cca-df242b487e84&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;b3a13214-0035-42b5-a5eb-60a685ef0c05&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '0f9b877f-e902-4990-9cca-df242b487e84',
+    'b3a13214-0035-42b5-a5eb-60a685ef0c05',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Тенерифе, Испания&quot;,&quot;url&quot;:&quot;/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
