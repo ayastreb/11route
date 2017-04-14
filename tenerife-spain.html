@@ -11,7 +11,7 @@
     <meta name="keywords" content="тенерифе, испания, канарские острова, вулкан Тейде">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201704052117" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201704142236" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -152,6 +152,9 @@ var jekyllMaps = (function () {
 
     function createMarker (location) {
       var position = new google.maps.LatLng(location.latitude, location.longitude)
+      bounds.extend(position)
+      if (!mapOptions.showMarker) return false
+
       var marker = new google.maps.Marker({
         position: position,
         title: location.title,
@@ -159,21 +162,21 @@ var jekyllMaps = (function () {
         url: location.url,
         map: map
       })
-
-      bounds.extend(position)
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
 
       return marker
     }
 
     function markerPopup () {
-      var contentString = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var link = 'View'
-      if (this.image.length > 0) {
-        link = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      var contentHtml = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+      var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      if (this.url.length > 0) {
+        var linkText = this.image.length > 0 ? imageHtml : 'View'
+        contentHtml += '<a href="' + this.url + '">' + linkText + '</a></div>'
+      } else if (this.image.length > 0) {
+        contentHtml += imageHtml
       }
-      contentString += '<a href="' + this.url + '">' + link + '</a></div>'
-      infoWindow.setContent(contentString)
+      infoWindow.setContent(contentHtml)
       infoWindow.open(map, this)
     }
   }
@@ -286,12 +289,12 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="b3a13214-0035-42b5-a5eb-60a685ef0c05" style="width:100%;height:400px;"></div>
+    <div id="db5d6396-8aa1-4f99-8fc2-7f07c84b96f4" style="width:100%;height:400px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    'b3a13214-0035-42b5-a5eb-60a685ef0c05',
+    'db5d6396-8aa1-4f99-8fc2-7f07c84b96f4',
     [{"latitude":28.23779,"longitude":-16.842462,"title":"Тенерифе, Испания","url":"/tenerife-spain","image":"https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg"}],
-    {"useCluster":true,"showMarkerPopup":true,"customZoom":8}
+    {"useCluster":true,"showMarker":true,"showMarkerPopup":true,"customZoom":8}
   );
 </script>
 

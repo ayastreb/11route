@@ -67,6 +67,9 @@ var jekyllMaps = (function () {
 
     function createMarker (location) {
       var position = new google.maps.LatLng(location.latitude, location.longitude)
+      bounds.extend(position)
+      if (!mapOptions.showMarker) return false
+
       var marker = new google.maps.Marker({
         position: position,
         title: location.title,
@@ -74,21 +77,21 @@ var jekyllMaps = (function () {
         url: location.url,
         map: map
       })
-
-      bounds.extend(position)
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
 
       return marker
     }
 
     function markerPopup () {
-      var contentString = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var link = 'View'
-      if (this.image.length > 0) {
-        link = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      var contentHtml = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+      var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      if (this.url.length > 0) {
+        var linkText = this.image.length > 0 ? imageHtml : 'View'
+        contentHtml += '<a href="' + this.url + '">' + linkText + '</a></div>'
+      } else if (this.image.length > 0) {
+        contentHtml += imageHtml
       }
-      contentString += '<a href="' + this.url + '">' + link + '</a></div>'
-      infoWindow.setContent(contentString)
+      infoWindow.setContent(contentHtml)
       infoWindow.open(map, this)
     }
   }
@@ -152,12 +155,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Токио, Япония</title>
-      <description>&lt;div id=&quot;382b13db-1bcc-4b7c-81fa-ecb79ffe794f&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e37463af-ba24-46c7-9a64-96edc7a1e98e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '382b13db-1bcc-4b7c-81fa-ecb79ffe794f',
+    'e37463af-ba24-46c7-9a64-96edc7a1e98e',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Токио, Япония&quot;,&quot;url&quot;:&quot;/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:5}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
 &lt;/script&gt;
 
@@ -483,13 +486,162 @@ if (typeof Object.assign !== 'function') {
     </item>
     
     <item>
+      <title>Монастырь Чери, Бутан</title>
+      <description>&lt;section class=&quot;text-block&quot;&gt;
+Следующим пунктом нашей программы был Монастырь Чери или Чагри Дорджеден.
+  Этот монастырь был основан в 1620-м году и размещается на горе в 15-ти километрах от столицы.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+  По дороге к монастырю мы остановились у источника со святой водой Гуру Ринпоче. Здесь так же установлены молитвенные барабаны, которые вращаются потоком воды.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02012-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02012-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02017-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02017-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;prayer-wheel&quot; data-video-id=&quot;IMS39r444kE&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  На машине мы доехали до базоваого лагеря, отсюда до монастыря около 3-х часов пешком. Мы добрались за 3,5 часа :smile:
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02028-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02028-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Мусорный бак просит использовать его и любить его.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02029-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02029-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Статуи Гуру Ринпоче, Будды и Строителя Мостов.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02032-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02032-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02034-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02034-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Большой молитвенный барабан, возле которого отдыхают собаки.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02036-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02036-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Чай перед восхождением.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02038-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02038-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Мы уже на полпути, здесь был небольшой перерыв.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02041-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02041-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;А вот и сам монастырь.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02049-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02049-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Идут ремонтные работы.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02053-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x1954&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02053-1000.jpg&quot; width=&quot;1000&quot; height=&quot;651&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02064-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02064-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Вид на долину внизу.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02077-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02077-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Подношения для духов, сделаны из масла.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02074-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02074-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Вокруг монастыря живут горные козлы.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02086-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02086-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02108-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02108-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  После монастыря мы заехали в музей Simply Bhutan. Здесь показана повседневная жизнь бутанцев. Девушки демонстрировали танец, который раньше исполнялся во время строительства домов, таким образом они утрамбовывали глину. Одна из девушек (вторая слева) не успела доесть момо (местная разновидность пельменей), и пыталась прожевать его во время выступления, чем веселила своих коллег :smile:
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;women-dance&quot; data-video-id=&quot;G5lLD39v8Hk&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;p&gt;Фаллос является в Бутане защитным символом.&lt;br /&gt; Он отгоняет злых духов, его изображения можно увидеть во многих местах.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02157-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02157-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Друкпа Кюнле - известный буддийский учитель.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02161-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02161-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02160-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02160-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Сушеный чили и чеснок.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02167-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/cheri-monastery-bhutan/DSC02167-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Cheri Monastery, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Fri, 24 Feb 2017 21:00:00 +0900</pubDate>
+      <link>https://11route.com/cheri-monastery-bhutan</link>
+      <guid isPermaLink="true">https://11route.com/cheri-monastery-bhutan</guid>
+    </item>
+    
+    <item>
       <title>Тхимпху, Бутан</title>
-      <description>&lt;div id=&quot;57d13bcd-b60d-4e18-93f0-d5ea19bf6e07&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;4aa4789e-a4ee-47d2-9267-f0440a6e6e71&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '57d13bcd-b60d-4e18-93f0-d5ea19bf6e07',
+    '4aa4789e-a4ee-47d2-9267-f0440a6e6e71',
     [{&quot;latitude&quot;:27.4663362,&quot;longitude&quot;:89.6362192,&quot;title&quot;:&quot;Тхимпху, Бутан&quot;,&quot;url&quot;:&quot;/thimphu-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/thimphu-bhutan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
 &lt;/script&gt;
 
@@ -708,12 +860,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остров Май-тон, Тайланд</title>
-      <description>&lt;div id=&quot;f3717e77-af16-4dbc-924e-877c24d1d7ac&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;da09f7a5-a881-43fb-a935-3e211bd68c8f&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'f3717e77-af16-4dbc-924e-877c24d1d7ac',
+    'da09f7a5-a881-43fb-a935-3e211bd68c8f',
     [{&quot;latitude&quot;:7.7617624,&quot;longitude&quot;:98.4770279,&quot;title&quot;:&quot;Остров Май-тон, Тайланд&quot;,&quot;url&quot;:&quot;/ko-mai-thon-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/ko-mai-thon-thailand/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:11}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:11}
   );
 &lt;/script&gt;
 
@@ -813,12 +965,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Острова Пхи-Пхи, Тайланд</title>
-      <description>&lt;div id=&quot;bbcc5720-6e1f-4185-88c1-7c3bda1a4256&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;831fd37a-9f91-4f3b-aff1-395da54f3d1d&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'bbcc5720-6e1f-4185-88c1-7c3bda1a4256',
+    '831fd37a-9f91-4f3b-aff1-395da54f3d1d',
     [{&quot;latitude&quot;:7.6549553,&quot;longitude&quot;:98.7631943,&quot;title&quot;:&quot;Острова Пхи-Пхи, Тайланд&quot;,&quot;url&quot;:&quot;/phi-phi-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:12}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:12}
   );
 &lt;/script&gt;
 
@@ -944,12 +1096,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Пхукет, Тайланд</title>
-      <description>&lt;div id=&quot;61e7c47e-ea31-47c4-bd1c-9c9bc84a2d6c&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;d6464d9f-ac61-49f0-acc4-7dd900a85eb9&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '61e7c47e-ea31-47c4-bd1c-9c9bc84a2d6c',
+    'd6464d9f-ac61-49f0-acc4-7dd900a85eb9',
     [{&quot;latitude&quot;:7.8480011,&quot;longitude&quot;:98.2932415,&quot;title&quot;:&quot;Пхукет, Тайланд&quot;,&quot;url&quot;:&quot;/phuket-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phuket-thailand/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:9}
   );
 &lt;/script&gt;
 
@@ -1206,12 +1358,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Копенгаген, Дания</title>
-      <description>&lt;div id=&quot;95344255-999c-4fbd-a353-46ed7b3f2a18&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;69470377-60f1-458d-bb87-69294ab09ab3&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '95344255-999c-4fbd-a353-46ed7b3f2a18',
+    '69470377-60f1-458d-bb87-69294ab09ab3',
     [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Копенгаген, Дания&quot;,&quot;url&quot;:&quot;/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
 &lt;/script&gt;
 
@@ -1650,12 +1802,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тенерифе, Испания</title>
-      <description>&lt;div id=&quot;b3a13214-0035-42b5-a5eb-60a685ef0c05&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;db5d6396-8aa1-4f99-8fc2-7f07c84b96f4&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'b3a13214-0035-42b5-a5eb-60a685ef0c05',
+    'db5d6396-8aa1-4f99-8fc2-7f07c84b96f4',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Тенерифе, Испания&quot;,&quot;url&quot;:&quot;/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
 &lt;/script&gt;
 
@@ -2533,115 +2685,6 @@ if (typeof Object.assign !== 'function') {
       <pubDate>Sun, 14 Aug 2016 21:00:00 +0900</pubDate>
       <link>https://11route.com/munich-germany</link>
       <guid isPermaLink="true">https://11route.com/munich-germany</guid>
-    </item>
-    
-    <item>
-      <title>Зальцбург, Австрия</title>
-      <description>&lt;section class=&quot;text-block&quot;&gt;
-  Из Вены в Зальцбург мы купили билеты на автобусном сайте FlixBus, приехали к вокзалу (обычно автобусы уезжают от ж/д вокзала) и ждали свой автобус.
-  Но автобус не приехал, т.к. оказалось, что мы купили билеты на поезд :smile:
-  Пришлось покупать еще один билет и ехать на следующем поезде через 2 часа.
-&lt;/section&gt;
-&lt;section class=&quot;text-block&quot;&gt;
-  В Зальцбург мы приехали уже под вечер, времени было немного поэтому мы только прогулялись по центру города.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;p&gt;
-    Какой-то интересный завод.
-  &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00261-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00261-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00272-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00272-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00274-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00274-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00277-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00277-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00284-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00284-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Зальцбург - родина Моцарта, тут все имеет музыкальную тематику.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00285-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00285-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00286-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1333x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00286-1000.jpg&quot; width=&quot;500&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00287-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1333x2000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00287-1000.jpg&quot; width=&quot;500&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  На главной улице мы встретиле музыкантов, играющих классическую музыку.
-  Играют довольно неплохо :smile:
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;div class=&quot;youtube-video&quot; id=&quot;music-01&quot; data-video-id=&quot;lUj7Cgkf6-8&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
-  &lt;p&gt;Дом, в котором родился Моцарт.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00298-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00298-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;youtube-video&quot; id=&quot;music-02&quot; data-video-id=&quot;mrY35eHZQw4&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00303-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00303-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  На площади Моцарта мы встретили еще одних уличных музыкантов - StreetWhispers.
-  Они играют джаз, одной даме настолько понравилось, что она пустилась танцевать :smile:
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;div class=&quot;youtube-video&quot; id=&quot;music-03&quot; data-video-id=&quot;40-IUsQaOD4&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
-  &lt;p&gt;Самый маленький дом в Австрии &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00308-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;1333x2000&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00308-750.jpg&quot; width=&quot;500&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;youtube-video&quot; id=&quot;music-04&quot; data-video-id=&quot;2q1jCK_WhgM&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
-  &lt;p&gt;Целый магазин марципановых конфет Моцарт.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00309-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/salzburg-austria/DSC00309-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Salzburg, Austria&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;youtube-video&quot; id=&quot;music-05&quot; data-video-id=&quot;ls2-sYT-z-A&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Tue, 02 Aug 2016 21:00:00 +0900</pubDate>
-      <link>https://11route.com/salzburg-austria</link>
-      <guid isPermaLink="true">https://11route.com/salzburg-austria</guid>
     </item>
     
   </channel>

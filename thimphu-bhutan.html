@@ -10,7 +10,7 @@
     <meta name="keywords" content="бутан, тхимпху, тхимпху дзонг, ташинчхо дзонг">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201704052117" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201704142236" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -151,6 +151,9 @@ var jekyllMaps = (function () {
 
     function createMarker (location) {
       var position = new google.maps.LatLng(location.latitude, location.longitude)
+      bounds.extend(position)
+      if (!mapOptions.showMarker) return false
+
       var marker = new google.maps.Marker({
         position: position,
         title: location.title,
@@ -158,21 +161,21 @@ var jekyllMaps = (function () {
         url: location.url,
         map: map
       })
-
-      bounds.extend(position)
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
 
       return marker
     }
 
     function markerPopup () {
-      var contentString = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var link = 'View'
-      if (this.image.length > 0) {
-        link = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      var contentHtml = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+      var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      if (this.url.length > 0) {
+        var linkText = this.image.length > 0 ? imageHtml : 'View'
+        contentHtml += '<a href="' + this.url + '">' + linkText + '</a></div>'
+      } else if (this.image.length > 0) {
+        contentHtml += imageHtml
       }
-      contentString += '<a href="' + this.url + '">' + link + '</a></div>'
-      infoWindow.setContent(contentString)
+      infoWindow.setContent(contentHtml)
       infoWindow.open(map, this)
     }
   }
@@ -286,12 +289,12 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="57d13bcd-b60d-4e18-93f0-d5ea19bf6e07" style="width:100%;height:468px;"></div>
+    <div id="4aa4789e-a4ee-47d2-9267-f0440a6e6e71" style="width:100%;height:468px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    '57d13bcd-b60d-4e18-93f0-d5ea19bf6e07',
+    '4aa4789e-a4ee-47d2-9267-f0440a6e6e71',
     [{"latitude":27.4663362,"longitude":89.6362192,"title":"Тхимпху, Бутан","url":"/thimphu-bhutan","image":"https://content.11route.com/posts/2017/thimphu-bhutan/cover-2000.jpg"}],
-    {"useCluster":true,"showMarkerPopup":true,"customZoom":8}
+    {"useCluster":true,"showMarker":true,"showMarkerPopup":false,"customZoom":8}
   );
 </script>
 
