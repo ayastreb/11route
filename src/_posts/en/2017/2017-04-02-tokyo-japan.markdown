@@ -21,7 +21,7 @@ location:
   latitude:  35.6851793
   longitude: 139.7506108
 ---
-{% google_map width="100%" height="568" zoom="5" %}
+{% google_map width="100%" height="568" zoom="5" show_popup="false" %}
 
 <section class="text-block">
   Having rested from the moving and finished with all formalities, we went for a walk around our new home. First we went to the Imperial Palace, which is located in the center of Tokyo in the district of Chiyoda.

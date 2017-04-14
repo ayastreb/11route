@@ -16,7 +16,7 @@ location:
   latitude:  7.6549553
   longitude: 98.7631943
 ---
-{% google_map width="100%" height="668" zoom="12" %}
+{% google_map width="100%" height="668" zoom="12" show_popup="false" %}
 
 <section class="text-block">
   Недалеко от Пхукета, где мы поселились, находятся острова Пхи-Пхи. Туда мы и отправились на экскурсию с компанией Offspray Leisure - у них самые хорошие отзывы в интернете.

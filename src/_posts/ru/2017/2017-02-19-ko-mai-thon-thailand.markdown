@@ -15,7 +15,7 @@ location:
   latitude:  7.7617624
   longitude: 98.4770279
 ---
-{% google_map width="100%" height="468" zoom="11" %}
+{% google_map width="100%" height="468" zoom="11" show_popup="false" %}
 
 <section class="text-block">
 Остров Май-тон находится недалеко от Пхукета, 15 минут на скоростном катере.

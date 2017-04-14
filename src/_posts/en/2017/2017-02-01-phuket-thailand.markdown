@@ -17,7 +17,7 @@ location:
   latitude:  7.8480011
   longitude: 98.2932415
 ---
-{% google_map width="100%" height="468" zoom="9" %}
+{% google_map width="100%" height="468" zoom="9" show_popup="false" %}
 
 <section class="text-block">
   We started our Asian trip from Thailand. We settled on Phuket island in a city called Karon. Karon has one of the best beaches on the island.

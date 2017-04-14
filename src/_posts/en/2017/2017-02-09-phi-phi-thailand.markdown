@@ -16,7 +16,7 @@ location:
   latitude:  7.6549553
   longitude: 98.7631943
 ---
-{% google_map width="100%" height="668" zoom="12" %}
+{% google_map width="100%" height="668" zoom="12" show_popup="false" %}
 
 <section class="text-block">
   Not far away from Phuket, where we settled, located Phi Phi islands.

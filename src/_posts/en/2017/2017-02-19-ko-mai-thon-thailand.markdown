@@ -15,7 +15,7 @@ location:
   latitude:  7.7617624
   longitude: 98.4770279
 ---
-{% google_map width="100%" height="468" zoom="11" %}
+{% google_map width="100%" height="468" zoom="11" show_popup="false" %}
 
 <section class="text-block">
   Ko Mai Thon is a private island close to Phuket, it's about 15 minutes away by speedboat. This island was gifted by the king to its current owner, probably for some outstanding merit :smile:

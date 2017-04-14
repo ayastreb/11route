@@ -16,7 +16,7 @@ location:
   latitude:  27.4663362
   longitude: 89.6362192
 ---
-{% google_map width="100%" height="468" zoom="8" %}
+{% google_map width="100%" height="468" zoom="8" show_popup="false" %}
 
 <section class="text-block">
   Our expedition to Bhutan began early in the morning in Bangkok.
