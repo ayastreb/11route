@@ -155,10 +155,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Токио, Япония</title>
-      <description>&lt;div id=&quot;e37463af-ba24-46c7-9a64-96edc7a1e98e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;ab57d692-307a-499e-a03d-746210bc3741&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e37463af-ba24-46c7-9a64-96edc7a1e98e',
+    'ab57d692-307a-499e-a03d-746210bc3741',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Токио, Япония&quot;,&quot;url&quot;:&quot;/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -486,6 +486,184 @@ if (typeof Object.assign !== 'function') {
     </item>
     
     <item>
+      <title>Пунакха, Бутан</title>
+      <description>&lt;div id=&quot;0ef2066f-ca20-4114-b832-b4117cdfe91c&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  jekyllMaps.register(
+    '0ef2066f-ca20-4114-b832-b4117cdfe91c',
+    [{&quot;latitude&quot;:27.58211,&quot;longitude&quot;:89.8623451,&quot;title&quot;:&quot;Пунакха, Бутан&quot;,&quot;url&quot;:&quot;/punakha-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/punakha-bhutan/cover-2000.jpg&quot;}],
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
+  );
+&lt;/script&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+На следующий день из Тхимпху мы отправились в Пунакху. Недалеко от Пунакхи находится монастырь Чими-Лакханг, построенный по благославлению Друкпы Кюнле.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+  На выезде из города мы остановились, что бы еще раз посмотреть на статую Будды в далеке и самую древнюю крепость в Бутане.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02283-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02283-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02287-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02287-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02294-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02294-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Симток-дзонг &amp;mdash; первый дзонг, который построил Шабдрунг в 1629-м году.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02298-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02298-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;В Бутане почти все грузовики украшены в буддийской тематике.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02309-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02309-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  На перевале нас застал плотный туман, практически ничего не видно.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02314-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02314-1000.jpg&quot; width=&quot;668&quot; height=&quot;1000&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  В монастыре Чими-Лакханг хранится несколько фаллосов, среди которых есть также 25-сантиметровый коричневый деревянный фаллос с серебряной ручкой, привезённый Друкпой Кюнле из Тибета.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+ Фаллосы, и в частности реликвия Друкпы Кюнле, используются для благословения посетителей монастыря, для чего настоятель легонько ударяет просителя по голове реликвией. Такое благословение называется ванг. Бездетные женщины совершают паломничество в Чими-лакханг в надежде обрести детей.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02321-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02321-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Окрестности монастыря.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02331-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02331-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02338-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x1977&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02338-1000.jpg&quot; width=&quot;1000&quot; height=&quot;659&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  Друка Кюнле начал традицию рисовать фаллосы на стенах и крышах домов. Бутанцы считают, что изображение фаллоса отгоняет злых духов и отводит сглаз.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02335-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02335-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02345-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02345-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02350-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02350-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  После монастыря мы отправились в Пунакха-дзонг. Это крепость-монастырь, который является основным зданием в Пунакхе. Длительное время Пунакха была столицей Бутана, а также зимней резиденцией короля, а теперь остаётся зимней резиденцией Дже Кхемпо — главы бутанского буддизма, который с 300 монахами в холодные зимние месяцы перемещается в этот дзонг, находящийся в тёплой климатической зоне.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02356-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02356-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02359-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02359-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02360-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02360-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02379-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02379-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02387-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02387-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02381-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02381-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02396-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02396-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02408-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02408-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02405-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02405-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02423-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/punakha-bhutan/DSC02423-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Sun, 26 Feb 2017 21:00:00 +0900</pubDate>
+      <link>https://11route.com/punakha-bhutan</link>
+      <guid isPermaLink="true">https://11route.com/punakha-bhutan</guid>
+    </item>
+    
+    <item>
       <title>Монастырь Чери, Бутан</title>
       <description>&lt;section class=&quot;text-block&quot;&gt;
 Следующим пунктом нашей программы был Монастырь Чери или Чагри Дорджеден.
@@ -636,10 +814,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тхимпху, Бутан</title>
-      <description>&lt;div id=&quot;4aa4789e-a4ee-47d2-9267-f0440a6e6e71&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e923ca45-7862-4863-92f2-f845efee39c6&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '4aa4789e-a4ee-47d2-9267-f0440a6e6e71',
+    'e923ca45-7862-4863-92f2-f845efee39c6',
     [{&quot;latitude&quot;:27.4663362,&quot;longitude&quot;:89.6362192,&quot;title&quot;:&quot;Тхимпху, Бутан&quot;,&quot;url&quot;:&quot;/thimphu-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/thimphu-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -860,10 +1038,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остров Май-тон, Тайланд</title>
-      <description>&lt;div id=&quot;da09f7a5-a881-43fb-a935-3e211bd68c8f&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;c7f23140-92f4-4194-8063-9f06fb7ec91a&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'da09f7a5-a881-43fb-a935-3e211bd68c8f',
+    'c7f23140-92f4-4194-8063-9f06fb7ec91a',
     [{&quot;latitude&quot;:7.7617624,&quot;longitude&quot;:98.4770279,&quot;title&quot;:&quot;Остров Май-тон, Тайланд&quot;,&quot;url&quot;:&quot;/ko-mai-thon-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/ko-mai-thon-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:11}
   );
@@ -965,10 +1143,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Острова Пхи-Пхи, Тайланд</title>
-      <description>&lt;div id=&quot;831fd37a-9f91-4f3b-aff1-395da54f3d1d&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;1ff45f5f-fa89-4db9-b2ef-e0443b3e165f&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '831fd37a-9f91-4f3b-aff1-395da54f3d1d',
+    '1ff45f5f-fa89-4db9-b2ef-e0443b3e165f',
     [{&quot;latitude&quot;:7.6549553,&quot;longitude&quot;:98.7631943,&quot;title&quot;:&quot;Острова Пхи-Пхи, Тайланд&quot;,&quot;url&quot;:&quot;/phi-phi-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:12}
   );
@@ -1096,10 +1274,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Пхукет, Тайланд</title>
-      <description>&lt;div id=&quot;d6464d9f-ac61-49f0-acc4-7dd900a85eb9&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e4492589-73c1-4add-9adf-5d9deaf4ebbf&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd6464d9f-ac61-49f0-acc4-7dd900a85eb9',
+    'e4492589-73c1-4add-9adf-5d9deaf4ebbf',
     [{&quot;latitude&quot;:7.8480011,&quot;longitude&quot;:98.2932415,&quot;title&quot;:&quot;Пхукет, Тайланд&quot;,&quot;url&quot;:&quot;/phuket-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phuket-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:9}
   );
@@ -1358,10 +1536,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Копенгаген, Дания</title>
-      <description>&lt;div id=&quot;69470377-60f1-458d-bb87-69294ab09ab3&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;63b2ae0a-999c-4294-a1b1-73b0138d8981&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '69470377-60f1-458d-bb87-69294ab09ab3',
+    '63b2ae0a-999c-4294-a1b1-73b0138d8981',
     [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Копенгаген, Дания&quot;,&quot;url&quot;:&quot;/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
   );
@@ -1802,10 +1980,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Тенерифе, Испания</title>
-      <description>&lt;div id=&quot;db5d6396-8aa1-4f99-8fc2-7f07c84b96f4&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;3263033d-ac43-477f-9c40-cebfb724c5ff&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'db5d6396-8aa1-4f99-8fc2-7f07c84b96f4',
+    '3263033d-ac43-477f-9c40-cebfb724c5ff',
     [{&quot;latitude&quot;:28.23779,&quot;longitude&quot;:-16.842462,&quot;title&quot;:&quot;Тенерифе, Испания&quot;,&quot;url&quot;:&quot;/tenerife-spain&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/tenerife-spain/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:8}
   );
@@ -2479,212 +2657,6 @@ if (typeof Object.assign !== 'function') {
       <pubDate>Sat, 10 Sep 2016 21:00:00 +0900</pubDate>
       <link>https://11route.com/warsaw-poland</link>
       <guid isPermaLink="true">https://11route.com/warsaw-poland</guid>
-    </item>
-    
-    <item>
-      <title>Мюнхен, Германия</title>
-      <description>&lt;section class=&quot;text-block&quot;&gt;
-  В Мюнхене мы остановились на пару дней у друзей, которые переехали сюда из Дюссельдорфа.
-  Первым делом мы поехали в Олимпийский парк и музей BMW. В сам музей мы заходить не стали, просто прошлись по бесплатной экспозиции.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00553-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00553-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00528-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00528-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00538-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00538-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00540-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00540-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00543-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00543-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00545-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00545-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00555-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00555-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00558-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00558-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;
-    Электромобиль заряжается от солнечных батарей на автономной станции. Будущее рядом.
-  &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00550-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00550-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00566-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00566-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00570-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00570-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  После музея мы поднялись на башню в Олимпийском парке. На этой башне есть открытая смотровая площадка без окон и сеток, оттуда открывается хороший вид на весь город.
-  В Мюнхене нет многоэтажной застройки и много парков.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00590-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00590-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;
-    Олимпийская деревня, здесь жили спортсмены на Олимпиаде 72-го года.
-  &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00578-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00578-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;
-    Музей BMW и завод, на котором их собирают.
-  &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00579-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00579-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00590-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00590-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00592-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00592-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  На обед зашли в ресторанчик недалеко от вокзала.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00637-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00637-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;
-    В основном традиционная немецкая кухня.
-  &lt;/p&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00616-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00616-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00615-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00615-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00627-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00627-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00623-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00623-750.jpg&quot; width=&quot;750&quot; height=&quot;500&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00635-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00635-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  После обеда прогулялись по старому городу. Тут в Мюнхене нет ничего необычного, как и во многих других европейских городах - ратуша и церкви. Многие здания закрыты на реставрацию.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00648-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00648-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00656-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00656-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00661-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00661-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  На обратном пути прошлись мимо реки. На пляже много людей - загорают, жарят сосиски.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00669-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00669-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00673-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00673-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/munich-germany/DSC00676-2000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2000x1333&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/munich-germany/DSC00676-1000.jpg&quot; width=&quot;1000&quot; height=&quot;667&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Munich, Germany&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Sun, 14 Aug 2016 21:00:00 +0900</pubDate>
-      <link>https://11route.com/munich-germany</link>
-      <guid isPermaLink="true">https://11route.com/munich-germany</guid>
     </item>
     
   </channel>
