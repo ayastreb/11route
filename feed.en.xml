@@ -155,10 +155,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Odaiba, Tokyo</title>
-      <description>&lt;div id=&quot;eff43990-23b0-4bc9-9db5-663a67d492b7&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;64210c55-721b-4649-b981-0cfe49fd3075&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'eff43990-23b0-4bc9-9db5-663a67d492b7',
+    '64210c55-721b-4649-b981-0cfe49fd3075',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Odaiba, Tokyo&quot;,&quot;url&quot;:&quot;/en/odaiba-tokyo&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -417,10 +417,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Tokyo, Japan</title>
-      <description>&lt;div id=&quot;468195c9-0558-49b8-934a-50b0d21f1a9e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;7ecc340c-f539-486f-b2f7-7542ad6ab436&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '468195c9-0558-49b8-934a-50b0d21f1a9e',
+    '7ecc340c-f539-486f-b2f7-7542ad6ab436',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Tokyo, Japan&quot;,&quot;url&quot;:&quot;/en/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -747,11 +747,161 @@ if (typeof Object.assign !== 'function') {
     </item>
     
     <item>
-      <title>Paro, Bhutan</title>
-      <description>&lt;div id=&quot;d5a748b3-528a-435d-a8a3-e1e27440f70c&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <title>Tiger's Nest, Bhutan</title>
+      <description>&lt;div id=&quot;bae834cc-ee87-4393-8ae8-eab3174c63cb&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd5a748b3-528a-435d-a8a3-e1e27440f70c',
+    'bae834cc-ee87-4393-8ae8-eab3174c63cb',
+    [{&quot;latitude&quot;:27.4918542,&quot;longitude&quot;:89.3633987,&quot;title&quot;:&quot;Tiger's Nest, Bhutan&quot;,&quot;url&quot;:&quot;/en/taktsang-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/taktsang-bhutan/cover-2000.jpg&quot;}],
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
+  );
+&lt;/script&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  Final destination of out trip in Bhutan was Taktsang Palphug Monastery, also known as Tiger's Nest. This famous monastery is located near to Paro and hangs on a cliff at altitude of 3120 m above the sea or 700 m above Paro valley.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+  According to the legend, a former wife of an emperor, known as Yeshe Tsogyal, willingly became a disciple of Guru Rinpoche (Padmasambahva) in Tibet. She transformed herself into a tigress and carried the Guru on her back from Tibet to the present location of the Taktsang in Bhutan. In one of the caves here, the Guru then performed meditation and emerged in eight incarnated forms and the place became holy.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02523-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02523-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  The hike from base camp to the monastery takes about 3 hours. It's also possible to rent a horse which will bring you to the middle of the way, but we decided to walk on our own :smile:
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+&lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02527-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02527-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;The monastery could be seem far away.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02543-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02543-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02566-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02566-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02549-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02549-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02597-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02597-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02578-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02578-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02584-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02584-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;p&gt;Tsatsa - traditional relief images, which represent Buddha-forms, stupas or other favorable symbols.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02611-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02611-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;In one of the rest areas we saw local birds, they were not afraid of people.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02663-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02663-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02659-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02659-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02652-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02652-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;p&gt;We're finally here!&lt;/p&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02679-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02679-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02687-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02687-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02718-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02718-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;And going back down.&lt;/p&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02697-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02697-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02723-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02723-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02721-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02721-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;In the forest we met a magpie.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02722-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02722-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;That's it, on the next day we flew to Kathmandu!&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02736-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2017/taktsang-bhutan/DSC02736-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Taktsang, Bhutan&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Tue, 28 Feb 2017 21:00:00 +0900</pubDate>
+      <link>https://11route.com/en/taktsang-bhutan</link>
+      <guid isPermaLink="true">https://11route.com/en/taktsang-bhutan</guid>
+    </item>
+    
+    <item>
+      <title>Paro, Bhutan</title>
+      <description>&lt;div id=&quot;eb8b76b2-ad3d-4702-8909-6d1a4e08fb17&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  jekyllMaps.register(
+    'eb8b76b2-ad3d-4702-8909-6d1a4e08fb17',
     [{&quot;latitude&quot;:27.4280725,&quot;longitude&quot;:89.4152995,&quot;title&quot;:&quot;Paro, Bhutan&quot;,&quot;url&quot;:&quot;/en/paro-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/paro-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -874,10 +1024,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Punakha, Bhutan</title>
-      <description>&lt;div id=&quot;d7fc0972-cae4-47d6-8af7-1e5ca0cdce40&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;841fba38-f8cc-4966-8a99-2fa3dcea93c7&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd7fc0972-cae4-47d6-8af7-1e5ca0cdce40',
+    '841fba38-f8cc-4966-8a99-2fa3dcea93c7',
     [{&quot;latitude&quot;:27.58211,&quot;longitude&quot;:89.8623451,&quot;title&quot;:&quot;Punakha, Bhutan&quot;,&quot;url&quot;:&quot;/en/punakha-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/punakha-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1201,10 +1351,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Thimphi, Bhutan</title>
-      <description>&lt;div id=&quot;627cd247-66a8-4971-8bde-6a5c20679502&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;09a5823f-be2c-4651-ab63-1049ec16bc9a&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '627cd247-66a8-4971-8bde-6a5c20679502',
+    '09a5823f-be2c-4651-ab63-1049ec16bc9a',
     [{&quot;latitude&quot;:27.4663362,&quot;longitude&quot;:89.6362192,&quot;title&quot;:&quot;Thimphi, Bhutan&quot;,&quot;url&quot;:&quot;/en/thimphu-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/thimphu-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1429,10 +1579,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Ko Mai Thon Island, Thailand</title>
-      <description>&lt;div id=&quot;e6aeab75-1999-4279-9c78-7570c39f809b&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;727d62ac-a960-4c03-abbd-cf0fa85e5ad3&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e6aeab75-1999-4279-9c78-7570c39f809b',
+    '727d62ac-a960-4c03-abbd-cf0fa85e5ad3',
     [{&quot;latitude&quot;:7.7617624,&quot;longitude&quot;:98.4770279,&quot;title&quot;:&quot;Ko Mai Thon Island, Thailand&quot;,&quot;url&quot;:&quot;/en/ko-mai-thon-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/ko-mai-thon-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:11}
   );
@@ -1533,10 +1683,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Phi Phi Islands, Thailand</title>
-      <description>&lt;div id=&quot;dc728960-bf83-4345-afa1-7fe5a05ad1d7&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f25af385-b1ce-47f4-836b-841873029479&quot; style=&quot;width:100%;height:668px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'dc728960-bf83-4345-afa1-7fe5a05ad1d7',
+    'f25af385-b1ce-47f4-836b-841873029479',
     [{&quot;latitude&quot;:7.6549553,&quot;longitude&quot;:98.7631943,&quot;title&quot;:&quot;Phi Phi Islands, Thailand&quot;,&quot;url&quot;:&quot;/en/phi-phi-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:12}
   );
@@ -1666,10 +1816,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Phuket, Thailand</title>
-      <description>&lt;div id=&quot;581c5e16-ab21-4bc1-8696-8a02e6ae97fd&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;4519c45c-4cb8-43cd-ac9a-cce8473851e2&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '581c5e16-ab21-4bc1-8696-8a02e6ae97fd',
+    '4519c45c-4cb8-43cd-ac9a-cce8473851e2',
     [{&quot;latitude&quot;:7.8480011,&quot;longitude&quot;:98.2932415,&quot;title&quot;:&quot;Phuket, Thailand&quot;,&quot;url&quot;:&quot;/en/phuket-thailand&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/phuket-thailand/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:9}
   );
@@ -1924,450 +2074,6 @@ if (typeof Object.assign !== 'function') {
       <pubDate>Wed, 01 Feb 2017 21:00:00 +0900</pubDate>
       <link>https://11route.com/en/phuket-thailand</link>
       <guid isPermaLink="true">https://11route.com/en/phuket-thailand</guid>
-    </item>
-    
-    <item>
-      <title>Copenhagen, Denmark</title>
-      <description>&lt;div id=&quot;d044cca4-51f2-47bb-9557-557c1856957c&quot; style=&quot;width:100%;height:400px;&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-  jekyllMaps.register(
-    'd044cca4-51f2-47bb-9557-557c1856957c',
-    [{&quot;latitude&quot;:55.6792579,&quot;longitude&quot;:12.5844241,&quot;title&quot;:&quot;Copenhagen, Denmark&quot;,&quot;url&quot;:&quot;/en/copenhagen-denmark&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2016/copenhagen-denmark/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:true,&quot;customZoom&quot;:9}
-  );
-&lt;/script&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  We arrived in Copenhagen at Christmas. The weather was good on our arrival, but it changes here several times per day :smile:
-&lt;/section&gt;
-&lt;section class=&quot;text-block&quot;&gt;
-  In the morning it could be sunny, then rain for half an hour and a hail storm in the evening. And after that clear starry sky in the night.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00174-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00174-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;After the events in Berlin there are concrete barriers and police on the streets.
-  &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00178-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00178-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Copenhagen - the birthplace of Tuborg.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00188-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00188-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Swedish Church.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00193-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00193-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00196-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00196-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00208-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00208-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00212-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00212-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00202-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00202-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00239-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00239-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00217-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00217-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00219-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00219-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Frederik's Church, also known as the Marble Church.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00240-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00240-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Guards.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00243-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00243-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00246-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00246-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00247-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00247-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00254-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00254-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  Copenhagen Opera House - one of the newest and most expensive opera houses in the world. Its construction cost of 500 million dollars.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00248-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00248-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00276-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00276-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;New Harbour.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00260-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00260-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00266-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00266-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Bicycle-pedestrian bridge.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00270-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00270-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00271-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00271-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00274-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00274-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;The Royal Danish Theatre.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00283-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00283-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00279-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00279-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00288-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00288-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Residential complex on the waterfront.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00294-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00294-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00302-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00302-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00296-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00296-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00300-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00300-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00307-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00307-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00310-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00310-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00309-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00309-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Church of the Savior.&lt;/p&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00316-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00316-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00312-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00312-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00318-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00318-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00343-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00343-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;p&gt;Circular bridge resembles a ship.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00327-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00327-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00329-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00329-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00333-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00333-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;p&gt;Christiansborg Palace.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00338-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00338-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00357-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00357-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Town Hall Square.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00366-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00366-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00375-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00375-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;The weather began to deteriorate.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00376-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00376-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00385-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00385-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00381-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00381-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00387-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00387-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Rosenborg Palace Garden.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00389-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00389-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00391-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00391-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00393-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00393-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Rosenborg Palace, Danish kings have lived here.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00404-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00404-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00406-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00406-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00411-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00411-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00410-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00410-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00418-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00418-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Not far from the palace is the area called Nyubuder, Royal Danish Navy were housed here in the 17th century.&lt;/p&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00424-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00424-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00426-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00426-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00430-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00430-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-&lt;section class=&quot;text-block&quot;&gt;
-  By evening, I decided to walk to the main attractions - the Mermaid.
-  There were a lot of people, all trying to make a selfie with mermaid and almost jumping into the water.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00437-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00437-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00438-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00438-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00440-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00440-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00451-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00451-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;As soon as I walked away from the mermaid a hail storm started.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00453-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00453-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  The main purpose of our trip was to visit the meditation course in one of the first centers of the Karma Kagyu Buddhist school in the western world. The center was founded in 1972. The center is located in a historic residential district of Copenhagen.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00180-750.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00180-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00186-750.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00186-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;p&gt;
-    The most beautiful gompa (meditation room) in a traditional style.
-  &lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00500-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00500-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;
-    Painting are done according to the rules of Buddhist painting.
-  &lt;/p&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00503-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00503-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00514-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00514-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00492-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;//content.11route.com/posts/2016/copenhagen-denmark/DSC00492-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Copenhagen, Denmark&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Sun, 25 Dec 2016 21:00:00 +0900</pubDate>
-      <link>https://11route.com/en/copenhagen-denmark</link>
-      <guid isPermaLink="true">https://11route.com/en/copenhagen-denmark</guid>
     </item>
     
   </channel>
