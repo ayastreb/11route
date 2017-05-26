@@ -3,7 +3,7 @@ layout:     post
 permalink:  /en/thimphu-bhutan
 ref:        thimphu-bhutan
 lang:       en
-title:      Thimphi, Bhutan
+title:      Thimphu, Bhutan
 date:       2017-02-23 12:00:00
 image:      https://content.11route.com/posts/2017/thimphu-bhutan/cover-2000.jpg
 summary:    Trip to the capital of Bhutan.
