@@ -1285,7 +1285,7 @@ figcaption {
     flex-grow: 1; }
 
 .map-info-window img {
-  max-width: 250px;
+  max-width: 250px !important;
   border-radius: 5px; }
 
 @media screen and (min-width: 32em) {
