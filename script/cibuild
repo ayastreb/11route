@@ -13,18 +13,14 @@ set -e
 rm -rf _site
 mkdir _site
 
-# clone local repo to "_site"
-git clone .git --branch gh-pages _site
+# clone remote repo to "_site"
+git clone https://${GH_TOKEN}@github.com/ayastreb/11route.git --branch gh-pages _site
 
 # build with Jekyll into "_site"
 bundle exec jekyll build
 
-# push to local repo
+# push
 cd _site
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push origin gh-pages
-
-# push to remote repo
-git remote add upstream https://${GH_TOKEN}@github.com/ayastreb/11route.git
-git push --quiet upstream gh-pages
