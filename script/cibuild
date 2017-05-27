@@ -21,6 +21,8 @@ bundle exec jekyll build
 
 # push
 cd _site
+git config user.email "anatoliy.yastreb@gmail.com"
+git config user.name "Anatoliy Yastreb"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push origin gh-pages
