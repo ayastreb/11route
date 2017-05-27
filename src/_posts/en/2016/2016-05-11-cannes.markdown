@@ -5,7 +5,7 @@ ref:        cannes-france
 lang:       en
 title:      Cannes, France
 date:       2016-05-11 12:00:00
-image:      https://content.11route.com/posts/2016/cannes-france/cover-2000.jpg
+image:      /images/posts/2016/cannes-france/cover-2000.jpg
 summary:    One day in Cannes during the film festival.
 categories:
   - cannes
@@ -29,24 +29,24 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09494-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09494-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09494-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09494-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09513-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09513-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09513-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09513-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <p>Photographers are taking places.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09516-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09516-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09516-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09516-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09495-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09495-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09495-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09495-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
 </section>
@@ -59,35 +59,35 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09501-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09501-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09501-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09501-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09507-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09507-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09507-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09507-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09508-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09508-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09508-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09508-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <p>Screens are set up on the beach where films from the festival will be played.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09522-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09522-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09522-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09522-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <p>Modern art.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09523-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09523-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09523-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09523-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09526-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09526-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09526-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09526-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
 </section>
@@ -99,44 +99,44 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09527-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09527-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09527-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09527-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/cannes-france/DSC09528-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09528-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
+      <a href="/images/posts/2016/cannes-france/DSC09528-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09528-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/cannes-france/DSC09529-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09529-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
+      <a href="/images/posts/2016/cannes-france/DSC09529-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09529-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
       </a>
     </figure>
   </div>
   <p>Some very good quiche pies and desserts were sold here.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/cannes-france/DSC09530-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09530-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
+      <a href="/images/posts/2016/cannes-france/DSC09530-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09530-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/cannes-france/DSC09532-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09532-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
+      <a href="/images/posts/2016/cannes-france/DSC09532-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09532-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cannes, France" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09536-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09536-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09536-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09536-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <p>Popular french dish - fried zucchini blossoms.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09540-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09540-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09540-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09540-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
 </section>
@@ -147,29 +147,29 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09542-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09542-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09542-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09542-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09564-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09564-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09564-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09564-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09569-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09569-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09569-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09569-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <p>Near Martinez Hotel crowds of fans are waiting for celebrities arrival.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09572-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09572-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09572-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09572-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cannes-france/DSC09575-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cannes-france/DSC09575-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
+    <a href="/images/posts/2016/cannes-france/DSC09575-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cannes-france/DSC09575-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cannes, France" />
     </a>
   </figure>
 </section>

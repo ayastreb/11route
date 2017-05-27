@@ -5,7 +5,7 @@ ref:        menorca-spain
 lang:       en
 title:      Menorca, Spain
 date:       2016-04-16 12:00:00
-image:      https://content.11route.com/posts/2016/menorca-spain/cover-2000-3.jpg
+image:      /images/posts/2016/menorca-spain/cover-2000-3.jpg
 summary:    One week on the beaches of Menorca Island. Menorca's best beaches review. What to see in Menorca.
 categories:
   - spain
@@ -39,8 +39,8 @@ During the landing the plane is flying across almost the whole island and if the
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC06912-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06912-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Menorca Island, Spain" />
+    <a href="/images/posts/2016/menorca-spain/DSC06912-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06912-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Menorca Island, Spain" />
     </a>
   </figure>
 </section>
@@ -55,20 +55,20 @@ It turned out to be a usual lighthouse, nobody around and everything was closed.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC06931-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06931-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC06931-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06931-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC06932-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06932-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC06932-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06932-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC06951-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06951-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC06951-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06951-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Artrutx, Menorca" />
       </a>
     </figure>
   </div>
@@ -82,27 +82,27 @@ There is a small parking next to the beach, but during the high season it may be
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC06968-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06968-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC06968-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06968-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC06954-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06954-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC06954-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06954-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC06956-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06956-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC06956-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06956-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC06962-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06962-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC06962-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06962-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Blanca, Menorca" />
     </a>
   </figure>
 </section>
@@ -120,14 +120,14 @@ Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC06972-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06972-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC06972-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06972-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
     </a>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07165-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07165-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07165-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07165-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
     </a>
   </figure>
 </section>
@@ -137,20 +137,20 @@ Also we noticed a lot of tiny jellyfish (2-3cm in diameter) in the water here.
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC06981-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06981-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC06981-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06981-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC06983-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06983-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC06983-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06983-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC06987-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC06987-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC06987-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC06987-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Turqueta, Menorca" />
     </a>
   </figure>
 </section>
@@ -167,20 +167,20 @@ The trail here goes partially in the pine woods and partially in the open field,
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07156-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07156-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Hiking, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07156-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07156-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Hiking, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07157-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07157-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Hiking, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07157-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07157-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Hiking, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07159-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07159-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Hiking, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07159-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07159-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Hiking, Menorca" />
       </a>
     </figure>
   </div>
@@ -202,13 +202,13 @@ This trail goes up to the peak of the rock and there are stunning views of the b
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07139-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07139-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Macarelleta, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07139-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07139-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Macarelleta, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07141-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07141-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Macarelleta, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07141-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07141-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Macarelleta, Menorca" />
       </a>
     </figure>
   </div>
@@ -216,8 +216,8 @@ This trail goes up to the peak of the rock and there are stunning views of the b
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07146-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07146-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Macarella, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07146-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07146-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Macarella, Menorca" />
     </a>
   </figure>
 </section>
@@ -227,32 +227,32 @@ This trail goes up to the peak of the rock and there are stunning views of the b
 <section class="text-block">
 Right in the center of the island, not far away from the small town called <nobr>Es Mercadal</nobr>, there is the highest mountain on the island.
 From the top of this mountain you can see the whole island.
-Up there there is a church called Mare de Déu del Toro Santuario. There is also a big free parking lot and a few picnic tables with a nice view.
+Up there there is a church called Mare de D??u del Toro Santuario. There is also a big free parking lot and a few picnic tables with a nice view.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07028-4000.jpg" itemprop="contentUrl" data-size="4000x1126">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07028-1000.jpg" width="1000" height="282" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07028-4000.jpg" itemprop="contentUrl" data-size="4000x1126">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07028-1000.jpg" width="1000" height="282" itemprop="thumbnail" alt="Mare de D??u del Toro Santuario, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-          <a href="//content.11route.com/posts/2016/menorca-spain/DSC07021-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-            <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07021-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
+          <a href="/images/posts/2016/menorca-spain/DSC07021-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+            <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07021-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Mare de D??u del Toro Santuario, Menorca" />
           </a>
         </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07013-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07013-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07013-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07013-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Mare de D??u del Toro Santuario, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07009-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07009-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Mare de Déu del Toro Santuario, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07009-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07009-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Mare de D??u del Toro Santuario, Menorca" />
     </a>
   </figure>
 </section>
@@ -270,8 +270,8 @@ The beach is big, pretty and clean, but it has no WC, showers or changing rooms 
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07039-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07039-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07039-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07039-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
     </a>
   </figure>
 </section>
@@ -280,14 +280,14 @@ The beach is big, pretty and clean, but it has no WC, showers or changing rooms 
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07037-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07037-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07037-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07037-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
     </a>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07046-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07046-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07046-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07046-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala Tirant, Menorca" />
     </a>
   </figure>
 </section>
@@ -303,8 +303,8 @@ The landscapes here are almost martian.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07081-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07081-1000.jpg" width="1000" height="558" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07081-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07081-1000.jpg" width="1000" height="558" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
     </a>
   </figure>
 </section>
@@ -314,20 +314,20 @@ The landscapes here are almost martian.
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07085-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07085-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07085-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07085-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07076-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07076-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07076-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07076-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07096-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07096-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07096-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07096-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Playas de Cavalleria, Menorca" />
     </a>
   </figure>
 </section>
@@ -340,20 +340,20 @@ There are a lot of ruins and old military constructions. Menorca was a military 
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07123-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07123-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07123-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07123-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07107-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07107-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07107-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07107-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07109-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07109-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07109-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07109-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Faro de Cavalleria, Menorca" />
       </a>
     </figure>
   </div>
@@ -366,21 +366,21 @@ Not far from our house there is a street called Avinguda des Pont d'en Gil - you
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07279-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07279-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sunset at Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07279-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07279-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sunset at Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07188-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07188-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Sunset at Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07188-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07188-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Sunset at Menorca" />
       </a>
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07202-2000.jpg" itemprop="contentUrl" data-size="2000x1125">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07202-750.jpg" width="750" height="422" itemprop="thumbnail" alt="Sunset at Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07202-2000.jpg" itemprop="contentUrl" data-size="2000x1125">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07202-750.jpg" width="750" height="422" itemprop="thumbnail" alt="Sunset at Menorca" />
       </a>
     </figure>
   </div>
@@ -396,39 +396,39 @@ There are stairs to the water from the patios. It must be fun to jump into the w
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07223-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07223-750.jpg" width="750" height="419" itemprop="thumbnail" alt="Cala Blanes, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07223-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07223-750.jpg" width="750" height="419" itemprop="thumbnail" alt="Cala Blanes, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07233-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07233-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Blanes, Menorca" />
-      </a>
-    </figure>
-  </div>
-
-  <div class="image-row">
-    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07236-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07236-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
-      </a>
-    </figure>
-    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07237-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07237-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07233-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07233-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala Blanes, Menorca" />
       </a>
     </figure>
   </div>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07243-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07243-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07236-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07236-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07245-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07245-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07237-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07237-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
+      </a>
+    </figure>
+  </div>
+
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="/images/posts/2016/menorca-spain/DSC07243-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07243-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
+      </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="/images/posts/2016/menorca-spain/DSC07245-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07245-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cala N'Brut, Menorca" />
       </a>
     </figure>
   </div>
@@ -443,46 +443,46 @@ At Son Saura we met some wild goats walking in the dunes.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07305-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07305-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07305-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07305-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07309-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07309-750.jpg" width="750" height="419" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07309-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07309-750.jpg" width="750" height="419" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07310-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07310-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07310-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07310-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Arenal d'en Castell, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07318-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07318-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07318-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07318-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07323-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07323-750.jpg" width="750" height="419" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07323-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07323-750.jpg" width="750" height="419" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07325-2000.jpg" itemprop="contentUrl" data-size="2000x1510">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07325-750.jpg" width="750" height="566" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07325-2000.jpg" itemprop="contentUrl" data-size="2000x1510">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07325-750.jpg" width="750" height="566" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07331-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07331-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07331-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07331-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Arenal de Son Saura, Menorca" />
     </a>
   </figure>
 </section>
@@ -494,8 +494,8 @@ This lighthouse stands on the rocks, and the waves crashing the rocks, create an
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07349-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07349-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Favarix, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07349-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07349-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Faro de Favarix, Menorca" />
     </a>
   </figure>
 </section>
@@ -517,45 +517,45 @@ The trail goes through the pine tree wood and ends at the beach.
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07354-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07354-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07354-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07354-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07355-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07355-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07355-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07355-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07364-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07364-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07364-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07364-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07366-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07366-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07366-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07366-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07363-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07363-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07363-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07363-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07370-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07370-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07370-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07370-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
     </a>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07376-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07376-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07376-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07376-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Albufera des Grau, Menorca" />
     </a>
   </figure>
 </section>
@@ -568,20 +568,20 @@ Also we walked a bit around Mahon city and found a carrot cake :)
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/menorca-spain/DSC07381-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07381-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala en Porter, Menorca" />
+    <a href="/images/posts/2016/menorca-spain/DSC07381-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07381-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cala en Porter, Menorca" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07402-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07402-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cafe in Mahon, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07402-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07402-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cafe in Mahon, Menorca" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/menorca-spain/DSC07405-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/menorca-spain/DSC07405-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cafe in Mahon, Menorca" />
+      <a href="/images/posts/2016/menorca-spain/DSC07405-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/menorca-spain/DSC07405-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cafe in Mahon, Menorca" />
       </a>
     </figure>
   </div>

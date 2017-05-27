@@ -5,7 +5,7 @@ ref:        monaco
 lang:       en
 title:      Monaco
 date:       2016-05-10 12:00:00
-image:      https://content.11route.com/posts/2016/monaco/cover-2000.jpg
+image:      /images/posts/2016/monaco/cover-2000.jpg
 summary:    Passing through Monaco.
 categories:
   - monaco
@@ -29,43 +29,43 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09420-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09420-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09420-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09420-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09429-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09429-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09429-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09429-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09431-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09431-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09431-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09431-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09435-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09435-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09435-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09435-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09446-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09446-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09446-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09446-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09438-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09438-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09438-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09438-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09462-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09462-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09462-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09462-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/monaco/DSC09468-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/monaco/DSC09468-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
+    <a href="/images/posts/2016/monaco/DSC09468-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/monaco/DSC09468-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Monte Carlo, Monaco" />
     </a>
   </figure>
 </section>

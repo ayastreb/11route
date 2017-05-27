@@ -5,7 +5,7 @@ ref:        salsburg-austria
 lang:       en
 title:      Salzburg, Austria
 date:       2016-08-02 12:00:00
-image:      https://content.11route.com/posts/2016/salzburg-austria/cover-2000.jpg
+image:      /images/posts/2016/salzburg-austria/cover-2000.jpg
 summary:    Quick trip to Salzburg.
 categories:
   - salzburg
@@ -35,45 +35,45 @@ location:
    Interesting factory building.
   </p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00261-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00261-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00261-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00261-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00272-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00272-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00272-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00272-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00274-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00274-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00274-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00274-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00277-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00277-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00277-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00277-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00284-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00284-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00284-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00284-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <p>Salzburg is the birthplace of Mozart, everything here has a music theme.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00285-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00285-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00285-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00285-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00286-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00286-1000.jpg" width="500" height="750" itemprop="thumbnail" alt="Salzburg, Austria" />
+      <a href="/images/posts/2016/salzburg-austria/DSC00286-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00286-1000.jpg" width="500" height="750" itemprop="thumbnail" alt="Salzburg, Austria" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00287-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00287-1000.jpg" width="500" height="750" itemprop="thumbnail" alt="Salzburg, Austria" />
+      <a href="/images/posts/2016/salzburg-austria/DSC00287-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00287-1000.jpg" width="500" height="750" itemprop="thumbnail" alt="Salzburg, Austria" />
       </a>
     </figure>
   </div>
@@ -88,14 +88,14 @@ location:
   <div class="youtube-video" id="music-01" data-video-id="lUj7Cgkf6-8" width="1000" height="563"></div>
   <p>House where Mozart was born.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00298-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00298-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00298-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00298-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <div class="youtube-video" id="music-02" data-video-id="mrY35eHZQw4" width="1000" height="563"></div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00303-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00303-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00303-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00303-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
 </section>
@@ -109,15 +109,15 @@ location:
   <div class="youtube-video" id="music-03" data-video-id="40-IUsQaOD4" width="1000" height="563"></div>
   <p>The smallest house in Austria.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00308-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00308-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00308-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00308-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <div class="youtube-video" id="music-04" data-video-id="2q1jCK_WhgM" width="1000" height="563"></div>
   <p>The whole shop of Mozartkugeln candies.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/salzburg-austria/DSC00309-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/salzburg-austria/DSC00309-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
+    <a href="/images/posts/2016/salzburg-austria/DSC00309-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/salzburg-austria/DSC00309-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Salzburg, Austria" />
     </a>
   </figure>
   <div class="youtube-video" id="music-05" data-video-id="ls2-sYT-z-A" width="1000" height="563"></div>

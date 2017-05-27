@@ -5,7 +5,7 @@ ref:        cascais-portugal
 lang:       en
 title:      Cascais, Portugal
 date:       2016-04-21 12:00:00
-image:      https://content.11route.com/posts/2016/cascais-portugal/cover-2000.jpg
+image:      /images/posts/2016/cascais-portugal/cover-2000.jpg
 summary:    Trip to a small town Cascais not far away from Lisbon in Portugal.
 categories:
   - portugal
@@ -33,18 +33,18 @@ There is not much to see in Cascais and the weather was cloudy, nevertheless we 
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07425-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07425-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07425-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07425-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07452-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07452-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07452-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07452-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07410-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07410-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07410-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07410-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
 </section>
@@ -53,13 +53,13 @@ There is not much to see in Cascais and the weather was cloudy, nevertheless we 
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07424-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07424-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07424-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07424-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07423-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07423-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07423-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07423-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
 </section>
@@ -74,8 +74,8 @@ When we got there the ocean was calm and the roar was not very hellish :)
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07434-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07434-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07434-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07434-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
 </section>
@@ -96,8 +96,8 @@ It was swimming around quite lively.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07443-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07443-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07443-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07443-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
 </section>
@@ -111,20 +111,20 @@ When we got there it was terribly cold and terribly beautiful.
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07717-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07717-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cascais, Portugal" />
+      <a href="/images/posts/2016/cascais-portugal/DSC07717-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07717-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cascais, Portugal" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07721-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07721-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cascais, Portugal" />
+      <a href="/images/posts/2016/cascais-portugal/DSC07721-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07721-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Cascais, Portugal" />
       </a>
     </figure>
   </div>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/cascais-portugal/DSC07730-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/cascais-portugal/DSC07730-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
+    <a href="/images/posts/2016/cascais-portugal/DSC07730-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/cascais-portugal/DSC07730-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Cascais, Portugal" />
     </a>
   </figure>
 </section>

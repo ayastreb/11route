@@ -5,7 +5,7 @@ ref:        florence-italy
 lang:       ru
 title:      Флоренция, Италия
 date:       2016-05-03 12:00:00
-image:      https://content.11route.com/posts/2016/florence-italy/cover-2000.jpg
+image:      /images/posts/2016/florence-italy/cover-2000.jpg
 summary:    Прогулка по Флоренции.
 categories:
   - флоренция
@@ -29,18 +29,18 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08586-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08586-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08586-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08586-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08601-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08601-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08601-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08601-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08604-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08604-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08604-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08604-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
 </section>
@@ -52,30 +52,30 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08612-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08612-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08612-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08612-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08620-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08620-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08620-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08620-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08622-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08622-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08622-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08622-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08625-2000.jpg" itemprop="contentUrl" data-size="1387x2000">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08625-750.jpg" width="520" height="750" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08625-2000.jpg" itemprop="contentUrl" data-size="1387x2000">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08625-750.jpg" width="520" height="750" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08630-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08630-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08630-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08630-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
 </section>
@@ -88,31 +88,31 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08634-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08634-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08634-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08634-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08637-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08637-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08637-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08637-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08650-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08650-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08650-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08650-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08652-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08652-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08652-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08652-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <p>
     Мост Санта-Тринита, считается самым изящным мостом в городе.
   </p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08657-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08657-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08657-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08657-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
 </section>
@@ -124,19 +124,19 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08640-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08640-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08640-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08640-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08641-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08641-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08641-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08641-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08642-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08642-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08642-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08642-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
   </div>
@@ -149,13 +149,13 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08645-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08645-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08645-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08645-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08662-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08662-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08662-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08662-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
 </section>
@@ -168,75 +168,75 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08665-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08665-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08665-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08665-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08668-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08668-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08668-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08668-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08670-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08670-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08670-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08670-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08666-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08666-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08666-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08666-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08687-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08687-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08687-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08687-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <p>Иногда солнце пробивалось сквозь тучи и создавало интересный вид на фоне пасмурного неба.</p>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08678-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08678-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08678-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08678-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08690-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08690-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08690-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08690-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08698-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08698-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08698-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08698-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08723-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08723-1000.jpg" width="1000" height="558" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08723-2000.jpg" itemprop="contentUrl" data-size="2000x1116">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08723-1000.jpg" width="1000" height="558" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08715-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08715-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08715-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08715-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/florence-italy/DSC08736-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08736-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
+      <a href="/images/posts/2016/florence-italy/DSC08736-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08736-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Florence, Italy" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08725-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08725-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08725-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08725-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08739-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08739-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08739-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08739-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
 </section>
@@ -250,13 +250,13 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08743-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08743-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08743-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08743-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/florence-italy/DSC08749-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/florence-italy/DSC08749-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
+    <a href="/images/posts/2016/florence-italy/DSC08749-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="/images/posts/2016/florence-italy/DSC08749-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Florence, Italy" />
     </a>
   </figure>
 </section>

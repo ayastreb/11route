@@ -5,7 +5,7 @@ ref:        sitges-spain
 lang:       ru
 title:      Сиджес, Испания
 date:       2016-04-11 12:00:00
-image:      https://content.11route.com/posts/2016/sitges-spain/cover-2000.jpg
+image:      /images/posts/2016/sitges-spain/cover-2000.jpg
 summary:    Отдых в Сиджесе
 categories: travel travel spain
 location:
@@ -24,20 +24,20 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06378-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06378-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sitges, Spain" />
+    <a href="/images/posts/2016/sitges-spain/DSC06378-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06378-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sitges, Spain" />
     </a>
   </figure>
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06346-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06346-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Sitges, Spain" />
+      <a href="/images/posts/2016/sitges-spain/DSC06346-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06346-750.jpg" width="500" height="750" itemprop="thumbnail" alt="Sitges, Spain" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06379-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06379-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Sitges, Spain" />
+      <a href="/images/posts/2016/sitges-spain/DSC06379-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06379-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Sitges, Spain" />
       </a>
     </figure>
   </div>
@@ -50,25 +50,25 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06357-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06357-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sitges marina" />
+    <a href="/images/posts/2016/sitges-spain/DSC06357-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06357-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Sitges marina" />
     </a>
     <figcaption itemprop="caption description">Лодки на пляже. А еще в Сиджесе много статуй обнаженных женщин и русалок</figcaption>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06350-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06350-500.jpg" width="333" height="500" itemprop="thumbnail" alt="Statue at Sitges" />
+      <a href="/images/posts/2016/sitges-spain/DSC06350-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06350-500.jpg" width="333" height="500" itemprop="thumbnail" alt="Statue at Sitges" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06366-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06366-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Statue at Sitges" />
+      <a href="/images/posts/2016/sitges-spain/DSC06366-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06366-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Statue at Sitges" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06371-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06371-500.jpg" width="333" height="500" itemprop="thumbnail" alt="Statue at Sitges" />
+      <a href="/images/posts/2016/sitges-spain/DSC06371-2000.jpg" itemprop="contentUrl" data-size="1333x2000">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06371-500.jpg" width="333" height="500" itemprop="thumbnail" alt="Statue at Sitges" />
       </a>
     </figure>
   </div>
@@ -83,36 +83,36 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06478-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06478-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at La Terrassa de Sitges" />
+    <a href="/images/posts/2016/sitges-spain/DSC06478-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06478-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at La Terrassa de Sitges" />
     </a>
     <figcaption itemprop="caption description">Delice de volaille @ La Terrassa de Sitges - что-то вроде паштета из гусинной печени с фиговым вареньем</figcaption>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06480-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06480-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Sports Bar, Sitges" />
+    <a href="/images/posts/2016/sitges-spain/DSC06480-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06480-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Sports Bar, Sitges" />
     </a>
     <figcaption itemprop="caption description">Romesco i Julieta @ Sports Bar - мини-бургер с луковым соусом</figcaption>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06485-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06485-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Platos Rotos, Sitges" />
+    <a href="/images/posts/2016/sitges-spain/DSC06485-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06485-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Platos Rotos, Sitges" />
     </a>
     <figcaption itemprop="caption description">Me Marcho Pa' Madrid @ Platos Rotos - несколько видом мяса с овощами и бульоном</figcaption>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06489-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06489-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Tres Quarts, Sitges" />
+    <a href="/images/posts/2016/sitges-spain/DSC06489-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06489-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Tres Quarts, Sitges" />
     </a>
     <figcaption itemprop="caption description">Bikini de Maduixes @ Tres Quarts - сендвич-гриль с ветчиной, сыром, клубникой и йогуртом</figcaption>
   </figure>
 
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06503-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06503-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Taberna Guria, Sitges" />
+    <a href="/images/posts/2016/sitges-spain/DSC06503-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06503-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapa at Taberna Guria, Sitges" />
     </a>
     <figcaption itemprop="caption description">Escabetxat De Perdiu @ Taberna Guria - гусинный паштет с крекерами и сыром</figcaption>
   </figure>
@@ -131,19 +131,19 @@ location:
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06493-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06493-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Tapas at La Taberna Guria, Sitges" />
+      <a href="/images/posts/2016/sitges-spain/DSC06493-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06493-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Tapas at La Taberna Guria, Sitges" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="//content.11route.com/posts/2016/sitges-spain/DSC06506-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-          <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06506-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Tapas at La Taberna Guria, Sitges" />
+      <a href="/images/posts/2016/sitges-spain/DSC06506-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+          <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06506-500.jpg" width="500" height="333" itemprop="thumbnail" alt="Tapas at La Taberna Guria, Sitges" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="//content.11route.com/posts/2016/sitges-spain/DSC06507-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="//content.11route.com/posts/2016/sitges-spain/DSC06507-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapas at La Taberna Guria, Sitges" />
+    <a href="/images/posts/2016/sitges-spain/DSC06507-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="/images/posts/2016/sitges-spain/DSC06507-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Tapas at La Taberna Guria, Sitges" />
     </a>
   </figure>
 </section>
