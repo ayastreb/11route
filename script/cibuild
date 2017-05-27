@@ -23,7 +23,7 @@ cp -R _site/* ../repo
 
 # commit and push generated content to `gh-pages' branch
 cd ../repo
-git checkout gh-pages
+git checkout -f gh-pages
 git config user.email "anatoliy.yastreb@gmail.com"
 git config user.name "Anatoliy Yastreb"
 git add -A .
