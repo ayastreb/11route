@@ -155,10 +155,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Кавагутико, Япония</title>
-      <description>&lt;div id=&quot;b294f105-8aaa-4d86-bbc3-934700f29845&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;5a34ec53-ed82-469c-ab50-350335c9c881&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'b294f105-8aaa-4d86-bbc3-934700f29845',
+    '5a34ec53-ed82-469c-ab50-350335c9c881',
     [{&quot;latitude&quot;:35.4982482,&quot;longitude&quot;:138.7687355,&quot;title&quot;:&quot;Кавагутико, Япония&quot;,&quot;url&quot;:&quot;/kawaguchiko-japan&quot;,&quot;image&quot;:&quot;/images/posts/2017/kawaguchiko-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -302,17 +302,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 23 Apr 2017 21:00:00 +0900</pubDate>
+      <pubDate>Sun, 23 Apr 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/kawaguchiko-japan</link>
       <guid isPermaLink="true">https://11route.com/kawaguchiko-japan</guid>
     </item>
     
     <item>
       <title>Одайба, Токио</title>
-      <description>&lt;div id=&quot;13ec4bb9-ee62-4ca2-8d95-5a6d6a9b672e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f1ce4c68-cf4b-4797-b643-100171f1775e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '13ec4bb9-ee62-4ca2-8d95-5a6d6a9b672e',
+    'f1ce4c68-cf4b-4797-b643-100171f1775e',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Одайба, Токио&quot;,&quot;url&quot;:&quot;/odaiba-tokyo&quot;,&quot;image&quot;:&quot;/images/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -566,17 +566,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Mon, 10 Apr 2017 21:00:00 +0900</pubDate>
+      <pubDate>Mon, 10 Apr 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/odaiba-tokyo</link>
       <guid isPermaLink="true">https://11route.com/odaiba-tokyo</guid>
     </item>
     
     <item>
       <title>Токио, Япония</title>
-      <description>&lt;div id=&quot;f977025a-a39f-4a68-be15-faad538f238f&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;9dde718b-d14c-4c29-8c7d-54bde99c55b5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'f977025a-a39f-4a68-be15-faad538f238f',
+    '9dde718b-d14c-4c29-8c7d-54bde99c55b5',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Токио, Япония&quot;,&quot;url&quot;:&quot;/tokyo-japan&quot;,&quot;image&quot;:&quot;/images/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -898,17 +898,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 02 Apr 2017 21:00:00 +0900</pubDate>
+      <pubDate>Sun, 02 Apr 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/tokyo-japan</link>
       <guid isPermaLink="true">https://11route.com/tokyo-japan</guid>
     </item>
     
     <item>
       <title>Нью-Дели, Индия</title>
-      <description>&lt;div id=&quot;d4996367-c8d1-4e29-8062-7a2be5f2975a&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;7fac3d68-be22-4259-8ab4-b0030873cf9d&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd4996367-c8d1-4e29-8062-7a2be5f2975a',
+    '7fac3d68-be22-4259-8ab4-b0030873cf9d',
     [{&quot;latitude&quot;:28.6139453,&quot;longitude&quot;:77.2089075,&quot;title&quot;:&quot;Нью-Дели, Индия&quot;,&quot;url&quot;:&quot;/new-delhi-india&quot;,&quot;image&quot;:&quot;/images/posts/2017/new-delhi-india/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -1103,17 +1103,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Mon, 13 Mar 2017 21:00:00 +0900</pubDate>
+      <pubDate>Mon, 13 Mar 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/new-delhi-india</link>
       <guid isPermaLink="true">https://11route.com/new-delhi-india</guid>
     </item>
     
     <item>
       <title>Катманду, Непал</title>
-      <description>&lt;div id=&quot;e89f4842-5292-4bad-a453-1ad828f14c08&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e428af18-f5af-40d6-8415-19be69c8eb46&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e89f4842-5292-4bad-a453-1ad828f14c08',
+    'e428af18-f5af-40d6-8415-19be69c8eb46',
     [{&quot;latitude&quot;:27.7172177,&quot;longitude&quot;:85.3239781,&quot;title&quot;:&quot;Катманду, Непал&quot;,&quot;url&quot;:&quot;/kathmandu-nepal&quot;,&quot;image&quot;:&quot;/images/posts/2017/kathmandu-nepal/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1251,17 +1251,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Wed, 01 Mar 2017 21:00:00 +0900</pubDate>
+      <pubDate>Wed, 01 Mar 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/kathmandu-nepal</link>
       <guid isPermaLink="true">https://11route.com/kathmandu-nepal</guid>
     </item>
     
     <item>
       <title>Гнездо Тигрицы, Бутан</title>
-      <description>&lt;div id=&quot;78f52dac-94df-4a21-8d3c-70d8c309d07c&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;0869fc77-0bfa-4542-8c8f-2e2929f467a6&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '78f52dac-94df-4a21-8d3c-70d8c309d07c',
+    '0869fc77-0bfa-4542-8c8f-2e2929f467a6',
     [{&quot;latitude&quot;:27.4918542,&quot;longitude&quot;:89.3633987,&quot;title&quot;:&quot;Гнездо Тигрицы, Бутан&quot;,&quot;url&quot;:&quot;/taktsang-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/taktsang-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1404,17 +1404,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Tue, 28 Feb 2017 21:00:00 +0900</pubDate>
+      <pubDate>Tue, 28 Feb 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/taktsang-bhutan</link>
       <guid isPermaLink="true">https://11route.com/taktsang-bhutan</guid>
     </item>
     
     <item>
       <title>Паро, Бутан</title>
-      <description>&lt;div id=&quot;d786e99b-c6eb-4bf1-b898-3a70b1cab42b&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;5956cb32-d99e-4010-bcb5-49f8269a347f&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd786e99b-c6eb-4bf1-b898-3a70b1cab42b',
+    '5956cb32-d99e-4010-bcb5-49f8269a347f',
     [{&quot;latitude&quot;:27.4280725,&quot;longitude&quot;:89.4152995,&quot;title&quot;:&quot;Паро, Бутан&quot;,&quot;url&quot;:&quot;/paro-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/paro-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1533,17 +1533,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Mon, 27 Feb 2017 21:00:00 +0900</pubDate>
+      <pubDate>Mon, 27 Feb 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/paro-bhutan</link>
       <guid isPermaLink="true">https://11route.com/paro-bhutan</guid>
     </item>
     
     <item>
       <title>Пунакха, Бутан</title>
-      <description>&lt;div id=&quot;ec3ed4fc-adec-4199-9dc9-56092eb45fbb&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;17058905-86c9-4f18-b294-6a83f86e3a74&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ec3ed4fc-adec-4199-9dc9-56092eb45fbb',
+    '17058905-86c9-4f18-b294-6a83f86e3a74',
     [{&quot;latitude&quot;:27.58211,&quot;longitude&quot;:89.8623451,&quot;title&quot;:&quot;Пунакха, Бутан&quot;,&quot;url&quot;:&quot;/punakha-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/punakha-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1711,7 +1711,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Sun, 26 Feb 2017 21:00:00 +0900</pubDate>
+      <pubDate>Sun, 26 Feb 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/punakha-bhutan</link>
       <guid isPermaLink="true">https://11route.com/punakha-bhutan</guid>
     </item>
@@ -1860,17 +1860,17 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Fri, 24 Feb 2017 21:00:00 +0900</pubDate>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/cheri-monastery-bhutan</link>
       <guid isPermaLink="true">https://11route.com/cheri-monastery-bhutan</guid>
     </item>
     
     <item>
       <title>Тхимпху, Бутан</title>
-      <description>&lt;div id=&quot;80d9b910-9a32-4f24-ae5d-71c0a97f84d1&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f96c8483-3521-4b48-85e7-980cbf646f00&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '80d9b910-9a32-4f24-ae5d-71c0a97f84d1',
+    'f96c8483-3521-4b48-85e7-980cbf646f00',
     [{&quot;latitude&quot;:27.4663362,&quot;longitude&quot;:89.6362192,&quot;title&quot;:&quot;Тхимпху, Бутан&quot;,&quot;url&quot;:&quot;/thimphu-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/thimphu-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -2084,7 +2084,7 @@ if (typeof Object.assign !== 'function') {
   &lt;/figure&gt;
 &lt;/section&gt;
 </description>
-      <pubDate>Thu, 23 Feb 2017 21:00:00 +0900</pubDate>
+      <pubDate>Thu, 23 Feb 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/thimphu-bhutan</link>
       <guid isPermaLink="true">https://11route.com/thimphu-bhutan</guid>
     </item>
