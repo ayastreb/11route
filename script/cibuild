@@ -10,19 +10,19 @@ fi
 set -e
 
 # build site with jekyll, by default to `_site' folder
-jekyll build
+bundle exec jekyll build
 
 # cleanup
-rm -rf ../11route.com.gh-pages
+rm -rf ../repo
 
-#clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/ayastreb/11route.git ../11route.com.gh-pages
+#clone `master' branch of the repository using encrypted GH_TOKEN for authentication
+git clone https://${GH_TOKEN}@github.com/ayastreb/11route.git ../repo
 
-# copy generated HTML site to `master' branch
-cp -R _site/* ../11route.com.gh-pages
+# copy generated HTML site
+cp -R _site/* ../repo
 
 # commit and push generated content to `gh-pages' branch
-cd ../11route.com.gh-pages
+cd ../repo
 git checkout gh-pages
 git config user.email "anatoliy.yastreb@gmail.com"
 git config user.name "Anatoliy Yastreb"
