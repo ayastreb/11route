@@ -1,0 +1,7 @@
+language: ruby
+script: "./build.sh"
+branches:
+  only:
+  - master
+rvm:
+- 2.2.3
