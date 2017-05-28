@@ -155,10 +155,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Kawaguchiko, Japan</title>
-      <description>&lt;div id=&quot;beecfbb3-25e8-4332-a0cf-fae4e2a140df&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;b0bce0af-6a9f-4961-a1f5-6546aa4da795&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'beecfbb3-25e8-4332-a0cf-fae4e2a140df',
+    'b0bce0af-6a9f-4961-a1f5-6546aa4da795',
     [{&quot;latitude&quot;:35.4982482,&quot;longitude&quot;:138.7687355,&quot;title&quot;:&quot;Kawaguchiko, Japan&quot;,&quot;url&quot;:&quot;/en/kawaguchiko-japan&quot;,&quot;image&quot;:&quot;/images/posts/2017/kawaguchiko-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -309,10 +309,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Odaiba, Tokyo</title>
-      <description>&lt;div id=&quot;63d6cca8-ae9a-49b5-aae2-16fc5fa03519&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;8e494242-f2ea-4ed4-988a-38cbf524be2c&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '63d6cca8-ae9a-49b5-aae2-16fc5fa03519',
+    '8e494242-f2ea-4ed4-988a-38cbf524be2c',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Odaiba, Tokyo&quot;,&quot;url&quot;:&quot;/en/odaiba-tokyo&quot;,&quot;image&quot;:&quot;/images/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -571,10 +571,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Tokyo, Japan</title>
-      <description>&lt;div id=&quot;957566c6-8144-48c3-aa1b-26f12d6e545d&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;12c2707c-411c-4fe3-9f60-5de08358cd74&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '957566c6-8144-48c3-aa1b-26f12d6e545d',
+    '12c2707c-411c-4fe3-9f60-5de08358cd74',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Tokyo, Japan&quot;,&quot;url&quot;:&quot;/en/tokyo-japan&quot;,&quot;image&quot;:&quot;/images/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -902,10 +902,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>New Delhi, India</title>
-      <description>&lt;div id=&quot;1d7fd902-d1d7-4a73-89d7-cba9af05cdc1&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;c794c3ed-4492-4931-80a0-5a50769b362e&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '1d7fd902-d1d7-4a73-89d7-cba9af05cdc1',
+    'c794c3ed-4492-4931-80a0-5a50769b362e',
     [{&quot;latitude&quot;:28.6139453,&quot;longitude&quot;:77.2089075,&quot;title&quot;:&quot;New Delhi, India&quot;,&quot;url&quot;:&quot;/en/new-delhi-india&quot;,&quot;image&quot;:&quot;/images/posts/2017/new-delhi-india/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -1112,10 +1112,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Kathmandu, Nepal</title>
-      <description>&lt;div id=&quot;35a12ae7-85ed-468f-be03-f1e9db41c80d&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f74214cb-bb55-4b6f-ab52-19132655b615&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '35a12ae7-85ed-468f-be03-f1e9db41c80d',
+    'f74214cb-bb55-4b6f-ab52-19132655b615',
     [{&quot;latitude&quot;:27.7172177,&quot;longitude&quot;:85.3239781,&quot;title&quot;:&quot;Kathmandu, Nepal&quot;,&quot;url&quot;:&quot;/en/kathmandu-nepal&quot;,&quot;image&quot;:&quot;/images/posts/2017/kathmandu-nepal/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1257,10 +1257,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Tiger's Nest, Bhutan</title>
-      <description>&lt;div id=&quot;79bcc2bb-e035-4566-87f0-742bc9a88d1f&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f8db1b6b-9db9-44fb-827c-8499bc13a799&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '79bcc2bb-e035-4566-87f0-742bc9a88d1f',
+    'f8db1b6b-9db9-44fb-827c-8499bc13a799',
     [{&quot;latitude&quot;:27.4918542,&quot;longitude&quot;:89.3633987,&quot;title&quot;:&quot;Tiger's Nest, Bhutan&quot;,&quot;url&quot;:&quot;/en/taktsang-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/taktsang-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1407,10 +1407,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Paro, Bhutan</title>
-      <description>&lt;div id=&quot;8f62c10d-2d25-4a51-abcb-7b78f82357ad&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;cc963ac5-b4de-4f2f-bc55-dff2c3ee5ab7&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '8f62c10d-2d25-4a51-abcb-7b78f82357ad',
+    'cc963ac5-b4de-4f2f-bc55-dff2c3ee5ab7',
     [{&quot;latitude&quot;:27.4280725,&quot;longitude&quot;:89.4152995,&quot;title&quot;:&quot;Paro, Bhutan&quot;,&quot;url&quot;:&quot;/en/paro-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/paro-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1533,10 +1533,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Punakha, Bhutan</title>
-      <description>&lt;div id=&quot;4a5d7813-0536-4029-b756-823cba9e48f4&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;2afe89a3-8048-42a8-9bcf-72795d14e4dc&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '4a5d7813-0536-4029-b756-823cba9e48f4',
+    '2afe89a3-8048-42a8-9bcf-72795d14e4dc',
     [{&quot;latitude&quot;:27.58211,&quot;longitude&quot;:89.8623451,&quot;title&quot;:&quot;Punakha, Bhutan&quot;,&quot;url&quot;:&quot;/en/punakha-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/punakha-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1860,10 +1860,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Thimphu, Bhutan</title>
-      <description>&lt;div id=&quot;fd68b8f9-538f-4adb-9cef-269622cfa22f&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;bbc9d2d2-a137-4c34-a2bc-b45f9e8c51cc&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'fd68b8f9-538f-4adb-9cef-269622cfa22f',
+    'bbc9d2d2-a137-4c34-a2bc-b45f9e8c51cc',
     [{&quot;latitude&quot;:27.4663362,&quot;longitude&quot;:89.6362192,&quot;title&quot;:&quot;Thimphu, Bhutan&quot;,&quot;url&quot;:&quot;/en/thimphu-bhutan&quot;,&quot;image&quot;:&quot;/images/posts/2017/thimphu-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
