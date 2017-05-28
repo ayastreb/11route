@@ -5,7 +5,7 @@ ref:        zurich-switzerland
 lang:       en
 title:      Zurich, Switzerland
 date:       2015-02-08 12:00:00
-image:      https://content.11route.com/zurich_cover.jpg
+image:      /images/posts/2015/zurich-switzerland/cover.jpg
 summary:    On day in Zurich
 categories: travel switzerland
 location:

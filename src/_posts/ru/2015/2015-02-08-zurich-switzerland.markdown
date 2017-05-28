@@ -5,7 +5,7 @@ ref:        zurich-switzerland
 lang:       ru
 title:      Цюрих, Швейцария
 date:       2015-02-08 12:00:00
-image:      https://content.11route.com/zurich_cover.jpg
+image:      /images/posts/2015/zurich-switzerland/cover.jpg
 summary:    Один день в Цюрихе
 categories: travel switzerland
 location:

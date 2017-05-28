@@ -5,7 +5,7 @@ ref:        prague-czech-republic
 lang:       en
 title:      Prague, Czech Republic
 date:       2015-12-26 12:00:00
-image:      https://content.11route.com/prague.jpg
+image:      /images/posts/2015/prague-czech-republic/cover.jpg
 summary:    Christmas eve in Prague
 categories: travel czech
 location:

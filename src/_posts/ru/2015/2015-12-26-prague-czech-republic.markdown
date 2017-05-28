@@ -5,7 +5,7 @@ ref:        prague-czech-republic
 lang:       ru
 title:      Прага, Чехия
 date:       2015-12-26 12:00:00
-image:      https://content.11route.com/prague.jpg
+image:      /images/posts/2015/prague-czech-republic/cover.jpg
 summary:    Рождество в Праге
 categories: travel czech
 location:

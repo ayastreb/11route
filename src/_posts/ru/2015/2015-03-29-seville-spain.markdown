@@ -5,7 +5,7 @@ ref:        seville-spain
 lang:       ru
 title:      Севилья, Испания
 date:       2015-03-29 12:00:00
-image:      https://content.11route.com/sevilla.jpg
+image:      /images/posts/2015/seville-spain/cover.jpg
 summary:    2 дня проездом в Севилье
 categories: travel spain
 location:
