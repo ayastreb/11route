@@ -5,7 +5,7 @@ ref:        barcelona-spain-2014
 lang:       en
 title:      Barcelona, Spain
 date:       2014-09-14 12:00:00
-image:      https://content.11route.com/barcelona-2014.jpg
+image:      /images/posts/2014/barcelona-spain/cover.jpg
 summary:    Vacation in Barcelona
 categories: travel spain barcelona vacation
 location:

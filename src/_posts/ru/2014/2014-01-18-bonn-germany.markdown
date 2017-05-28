@@ -5,7 +5,7 @@ ref:        bonn-germany
 lang:       ru
 title:      Бонн, Германия
 date:       2014-01-18 12:00:00
-image:      https://content.11route.com/bonn.jpg
+image:      /images/posts/2014/bonn-germany/cover.jpg
 summary:    Экскурсия в Бонн
 categories: travel germany
 location:

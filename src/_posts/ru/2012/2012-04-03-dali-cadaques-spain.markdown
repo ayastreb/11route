@@ -5,7 +5,7 @@ ref:        dali-cadaques-spain
 lang:       ru
 title:      Дом Дали - Кадакес, Испания
 date:       2012-04-03 12:00:00
-image:      https://content.11route.com/cadaques.jpg
+image:      /images/posts/2012/dali-cadaques-spain/cover.jpg
 summary:    В дом-музей Дали
 categories: travel germany
 location:

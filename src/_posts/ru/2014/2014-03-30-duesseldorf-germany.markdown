@@ -5,7 +5,7 @@ ref:        duesseldorf-germany
 lang:       ru
 title:      Дюссельдорф, Германия
 date:       2014-03-30 12:00:00
-image:      https://content.11route.com/duesseldorf.jpg
+image:      /images/posts/2014/duesseldorf-germany/cover.jpg
 summary:    Прогулка по Дюссельдорфу
 categories: home germany duesseldorf
 location:

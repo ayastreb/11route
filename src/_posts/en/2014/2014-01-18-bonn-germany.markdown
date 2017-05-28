@@ -5,7 +5,7 @@ ref:        bonn-germany
 lang:       en
 title:      Bonn, Germany
 date:       2014-01-18 12:00:00
-image:      https://content.11route.com/bonn.jpg
+image:      /images/posts/2014/bonn-germany/cover.jpg
 summary:    Day tripp to Bonn
 categories: travel germany
 location:

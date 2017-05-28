@@ -5,7 +5,7 @@ ref:        road-trip-las-vegas
 lang:       ru
 title:      Road Trip, Лас Вегас
 date:       2009-09-10 12:00:00
-image:      https://content.11route.com/road-trip-las-vegas.jpg
+image:      /images/posts/2009/road-trip-las-vegas/cover.jpg
 summary:    Казино Лас-Вегаса
 categories: travel usa las vegas
 location:

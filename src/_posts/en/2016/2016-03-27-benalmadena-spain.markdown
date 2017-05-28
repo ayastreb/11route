@@ -5,7 +5,7 @@ ref:        benalmadena-spain
 lang:       en
 title:      Benalmadena, Spain
 date:       2016-03-27 12:00:00
-image:      https://content.11route.com/benalmadena.jpg
+image:      /images/posts/2016/benalmadena-spain/cover.jpg
 summary:    Trip to a small town of Benalmadena, not far away from Malaga
 categories: travel travel spain
 location:

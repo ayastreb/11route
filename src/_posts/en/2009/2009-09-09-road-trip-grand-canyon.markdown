@@ -5,7 +5,7 @@ ref:        road-trip-grand-canyon
 lang:       en
 title:      Road Trip, Grand Canyon
 date:       2009-09-09 12:00:00
-image:      https://content.11route.com/road-trip-grand-canyon.jpg
+image:      /images/posts/2009/road-trip-grand-canyon/cover.jpg
 summary:    Trip to Grand Canyon
 categories: travel usa grand canyon
 location:

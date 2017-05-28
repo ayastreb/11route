@@ -5,7 +5,7 @@ ref:        nerja-spain
 lang:       en
 title:      Nerja, Spain
 date:       2016-03-30 12:00:00
-image:      https://content.11route.com/nerja.jpg
+image:      /images/posts/2016/nerja-spain/cover.jpg
 summary:    Visiting Nerja in Spain, close to Malaga
 categories: travel travel spain
 location:

@@ -5,7 +5,7 @@ ref:        madrid-spain-day-one
 lang:       ru
 title:      Мадрид - день 1
 date:       2014-04-11 12:00:00
-image:      https://content.11route.com/madrid-1.jpg
+image:      /images/posts/2014/madrid-spain-day-one/cover.jpg
 summary:    Первый день в Мадриде
 categories: travel spain madrid
 location:

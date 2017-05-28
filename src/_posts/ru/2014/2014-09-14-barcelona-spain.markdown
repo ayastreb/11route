@@ -5,7 +5,7 @@ ref:        barcelona-spain-2014
 lang:       ru
 title:      Барселона, Испания
 date:       2014-09-14 12:00:00
-image:      https://content.11route.com/barcelona-2014.jpg
+image:      /images/posts/2014/barcelona-spain/cover.jpg
 summary:    Отпуск в Барселоне
 categories: travel spain barcelona vacation
 location:

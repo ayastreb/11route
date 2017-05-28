@@ -5,7 +5,7 @@ ref:        barcelona-spain
 lang:       ru
 title:      Барселона - Ллорет де Мар, Испания
 date:       2012-04-01 12:00:00
-image:      https://content.11route.com/barcelona.jpg
+image:      /images/posts/2012/barcelona-spain/cover.jpg
 summary:    Отдых в Барселоне и Ллорет-де-Маре
 categories: travel spain
 location:

@@ -5,7 +5,7 @@ ref:        xcaret-mexico
 lang:       ru
 title:      Парк Xcaret, Мексика
 date:       2016-03-20 12:00:00
-image:      https://content.11route.com/xcaret.jpg
+image:      /images/posts/2016/xcaret-mexico/cover.jpg
 summary:    Экскурсия в природный парк Xcaret
 categories: travel mexico xcaret
 location:

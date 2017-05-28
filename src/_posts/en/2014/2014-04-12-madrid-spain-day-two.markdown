@@ -5,7 +5,7 @@ ref:        madrid-spain-day-two
 lang:       en
 title:      Madrid - Day 2
 date:       2014-04-12 12:00:00
-image:      https://content.11route.com/madrid-2.jpg
+image:      /images/posts/2014/madrid-spain-day-two/cover.jpg
 summary:    Second day of our trip to Madrid
 categories: travel spain madrid
 location:

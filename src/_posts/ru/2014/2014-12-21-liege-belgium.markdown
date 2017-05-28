@@ -5,7 +5,7 @@ ref:        liege-belgium
 lang:       ru
 title:      Льеж, Бельгия
 date:       2014-12-21 12:00:00
-image:      https://content.11route.com/liege_cover.jpg
+image:      /images/posts/2014/liege-belgium/cover.jpg
 summary:    На машине в Бельгию
 categories: travel belgium
 location:

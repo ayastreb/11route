@@ -5,7 +5,7 @@ ref:        san-francisco-seals
 lang:       ru
 title:      Сан-Франциско, США
 date:       2009-07-15 12:00:00
-image:      https://content.11route.com/san-francisco.jpg
+image:      /images/posts/2009/san-francisco-seals/cover.jpg
 summary:    Прогулка по Сан-Франциско
 categories: travel usa san francisco
 location:

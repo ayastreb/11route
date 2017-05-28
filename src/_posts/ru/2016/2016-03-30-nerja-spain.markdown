@@ -5,7 +5,7 @@ ref:        nerja-spain
 lang:       ru
 title:      Нерха, Испания
 date:       2016-03-30 12:00:00
-image:      https://content.11route.com/nerja.jpg
+image:      /images/posts/2016/nerja-spain/cover.jpg
 summary:    Экскурсия в Нерху
 categories: travel travel spain
 location:

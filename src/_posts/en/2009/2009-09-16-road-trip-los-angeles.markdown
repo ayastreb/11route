@@ -5,7 +5,7 @@ ref:        road-trip-los-angeles
 lang:       en
 title:      Road Trip, Los Angeles
 date:       2009-09-16 12:00:00
-image:      https://content.11route.com/road-trip-los-angeles.jpg
+image:      /images/posts/2009/road-trip-los-angeles/cover.jpg
 summary:    Final destination - Los Angeles
 categories: travel usa los angeles
 location:

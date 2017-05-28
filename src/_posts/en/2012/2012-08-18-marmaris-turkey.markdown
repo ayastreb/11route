@@ -5,7 +5,7 @@ ref:        marmaris-turkey
 lang:       en
 title:      Marmaris, Turkey
 date:       2012-08-18 12:00:00
-image:      https://content.11route.com/marmaris.jpg
+image:      /images/posts/2012/marmaris-turkey/cover.jpg
 summary:    All-inclusive in Turkey
 categories: travel turkey
 location:

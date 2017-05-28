@@ -5,7 +5,7 @@ ref:        apollo-dusseldorf
 lang:       ru
 title:      Аполло, Дюсельдорф
 date:       2014-03-15 12:00:00
-image:      https://content.11route.com/apollo-theatre.jpg
+image:      /images/posts/2014/apollo-dusseldorf/cover.jpg
 summary:    Вечер в кабаре Аполло
 categories: home germany duesseldorf
 location:

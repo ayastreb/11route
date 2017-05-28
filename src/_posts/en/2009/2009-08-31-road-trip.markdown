@@ -5,7 +5,7 @@ ref:        road-trip
 lang:       en
 title:      Road Trip, The Beginning
 date:       2009-08-31 12:00:00
-image:      https://content.11route.com/road-trip.jpg
+image:      /images/posts/2009/road-trip/cover.jpg
 summary:    The beginning of my three-weeks road trip across the western United States
 categories: travel usa san francisco
 location:

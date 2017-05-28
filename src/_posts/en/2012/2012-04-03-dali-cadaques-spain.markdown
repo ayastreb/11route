@@ -5,7 +5,7 @@ ref:        dali-cadaques-spain
 lang:       en
 title:      Dali's house in Cadaques, Spain
 date:       2012-04-03 12:00:00
-image:      https://content.11route.com/cadaques.jpg
+image:      /images/posts/2012/dali-cadaques-spain/cover.jpg
 summary:    Visit to the Dali's house-museum
 categories: travel germany
 location:

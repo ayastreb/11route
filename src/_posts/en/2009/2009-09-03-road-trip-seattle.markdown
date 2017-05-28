@@ -5,7 +5,7 @@ ref:        road-trip-seattle
 lang:       en
 title:      Road Trip, Seattle
 date:       2009-09-03 12:00:00
-image:      https://content.11route.com/road-trip-seattle.jpg
+image:      /images/posts/2009/road-trip-seattle/cover.jpg
 summary:    One day in Seattle
 categories: travel usa seattle
 location:

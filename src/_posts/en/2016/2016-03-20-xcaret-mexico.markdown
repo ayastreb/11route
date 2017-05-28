@@ -5,7 +5,7 @@ ref:        xcaret-mexico
 lang:       en
 title:      Xcaret Park, Mexico
 date:       2016-03-20 12:00:00
-image:      https://content.11route.com/xcaret.jpg
+image:      /images/posts/2016/xcaret-mexico/cover.jpg
 summary:    Visiting Xcaret Natural Park in Riviera Maya
 categories: travel mexico xcaret
 location:

@@ -5,7 +5,7 @@ ref:        paris-france
 lang:       en
 title:      Paris, France
 date:       2014-07-08 12:00:00
-image:      https://content.11route.com/paris_cover.jpg
+image:      /images/posts/2014/paris-france/cover.jpg
 summary:    Vacation in Paris
 categories: travel france paris
 location:

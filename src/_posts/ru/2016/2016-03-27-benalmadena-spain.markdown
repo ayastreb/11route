@@ -5,7 +5,7 @@ ref:        benalmadena-spain
 lang:       ru
 title:      Бенальмадена, Испания
 date:       2016-03-27 12:00:00
-image:      https://content.11route.com/benalmadena.jpg
+image:      /images/posts/2016/benalmadena-spain/cover.jpg
 summary:    Небольшой городок рядом с Малагой
 categories: travel travel spain
 location:

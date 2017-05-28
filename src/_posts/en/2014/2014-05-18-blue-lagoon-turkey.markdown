@@ -5,7 +5,7 @@ ref:        blue-lagoon-turkey
 lang:       en
 title:      Blue Lagoon, Turkey
 date:       2014-05-18 12:00:00
-image:      https://content.11route.com/blue_lagoon.jpg
+image:      /images/posts/2014/blue-lagoon-turkey/cover.jpg
 summary:    A little bit of Turkey.
 categories: travel turkey
 location:

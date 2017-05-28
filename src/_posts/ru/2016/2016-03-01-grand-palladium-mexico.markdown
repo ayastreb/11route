@@ -5,7 +5,7 @@ ref:        grand-palladium-mexico
 lang:       ru
 title:      Grand Palladium, Мексика
 date:       2016-03-01 12:00:00
-image:      https://content.11route.com/cancun.jpg
+image:      /images/posts/2016/grand-palladium-mexico/cover.jpg
 summary:    Отпуск в Ривьере Майа
 categories: travel mexico cancun
 location:

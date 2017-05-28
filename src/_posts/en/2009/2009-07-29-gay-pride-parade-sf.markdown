@@ -5,7 +5,7 @@ ref:        gay-pride-parade-sf
 lang:       en
 title:      Gay Pride Parade in San-Francisco
 date:       2009-07-29 12:00:00
-image:      https://content.11route.com/gay-pride.jpg
+image:      /images/posts/2009/gay-pride-parade-sf/cover.jpg
 summary:    Annual gay pride parade in San-Francisco, 2009
 categories: travel usa san francisco
 location:

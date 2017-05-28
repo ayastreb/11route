@@ -5,7 +5,7 @@ ref:        road-trip
 lang:       ru
 title:      Road Trip, начало
 date:       2009-08-31 12:00:00
-image:      https://content.11route.com/road-trip.jpg
+image:      /images/posts/2009/road-trip/cover.jpg
 summary:    Начало поездки
 categories: travel usa san francisco
 location:

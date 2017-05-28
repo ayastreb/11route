@@ -5,7 +5,7 @@ ref:        brussels-belgium
 lang:       ru
 title:      Брюссель, Бельгия
 date:       2014-06-08 12:00:00
-image:      https://content.11route.com/brussels_cover.jpg
+image:      /images/posts/2014/brussels-belgium/cover.jpg
 summary:    Экскурсия в Брюссель
 categories: travel belgium
 location:

@@ -5,7 +5,7 @@ ref:        palma-de-mallorca-spain
 lang:       en
 title:      Palma de Mallorca, Spain
 date:       2013-08-03 12:00:00
-image:      https://content.11route.com/mallorca.jpg
+image:      /images/posts/2013/palma-de-mallorca-spain/cover.jpg
 summary:    Weekend on Mallorca
 categories: travel spain palma de mallorca
 location:

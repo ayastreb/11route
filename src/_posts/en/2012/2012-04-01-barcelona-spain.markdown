@@ -5,7 +5,7 @@ ref:        barcelona-spain
 lang:       en
 title:      Barcelona and Lloret de Mar, Spain
 date:       2012-04-01 12:00:00
-image:      https://content.11route.com/barcelona.jpg
+image:      /images/posts/2012/barcelona-spain/cover.jpg
 summary:    Vacation in Barcelona and Lloret de Mar
 categories: travel spain
 location:

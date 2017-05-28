@@ -5,7 +5,7 @@ ref:        san-francisco-seals
 lang:       en
 title:      San-Francisco, USA
 date:       2009-07-15 12:00:00
-image:      https://content.11route.com/san-francisco.jpg
+image:      /images/posts/2009/san-francisco-seals/cover.jpg
 summary:    A walk around San-Francisco
 categories: travel usa san francisco
 location:

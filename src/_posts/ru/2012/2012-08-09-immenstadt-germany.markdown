@@ -5,7 +5,7 @@ ref:        immenstadt-germany
 lang:       ru
 title:      Имменштадт, Германия
 date:       2012-08-09 12:00:00
-image:      https://content.11route.com/immenstadt.jpg
+image:      /images/posts/2012/immenstadt-germany/cover.jpg
 summary:    Прогулка в Альпах
 categories: travel germany
 location:

@@ -5,7 +5,7 @@ ref:        amsterdam-netherlands
 lang:       ru
 title:      Амстердам, Голландия
 date:       2013-09-28 12:00:00
-image:      https://content.11route.com/amsterdam.jpg
+image:      /images/posts/2013/amsterdam-netherlands/cover.jpg
 summary:    В Амстердам на поезде
 categories: travel netherlands
 location:

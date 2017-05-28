@@ -5,7 +5,7 @@ ref:        granada-spain
 lang:       en
 title:      Granda, Spain
 date:       2016-04-03 12:00:00
-image:      https://content.11route.com/granada.jpg
+image:      /images/posts/2016/granada-spain/cover.jpg
 summary:    One day trip to Granda
 categories: travel travel spain
 location:

@@ -5,7 +5,7 @@ ref:        amden-switzerland
 lang:       ru
 title:      Амден, Швейцария
 date:       2014-03-03 12:00:00
-image:      https://content.11route.com/amden.jpg
+image:      /images/posts/2014/amden-switzerland/cover.jpg
 summary:    В горах Швейцарии...
 categories: travel switzerland
 location:

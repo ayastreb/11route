@@ -5,7 +5,7 @@ ref:        road-trip-st-helens
 lang:       en
 title:      Road Trip, St. Helen's
 date:       2009-09-02 12:00:00
-image:      https://content.11route.com/road-trip-st-helens.jpg
+image:      /images/posts/2009/road-trip-st-helens/cover.jpg
 summary:    Volcano St. Helen's
 categories: travel usa st helens
 location:

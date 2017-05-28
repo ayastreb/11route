@@ -5,7 +5,7 @@ ref:        liege-belgium
 lang:       en
 title:      Liege, Belgium
 date:       2014-12-21 12:00:00
-image:      https://content.11route.com/liege_cover.jpg
+image:      /images/posts/2014/liege-belgium/cover.jpg
 summary:    Short trip by car to Liege, Belgium
 categories: travel belgium
 location:

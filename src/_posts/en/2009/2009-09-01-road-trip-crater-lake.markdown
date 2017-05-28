@@ -5,7 +5,7 @@ ref:        road-trip-crater-lake
 lang:       en
 title:      Road Trip, Crater Lake
 date:       2009-09-01 12:00:00
-image:      https://content.11route.com/road-trip-crater-lake.jpg
+image:      /images/posts/2009/road-trip-crater-lake/cover.jpg
 summary:    Lake in the volcano crater
 categories: travel usa crater lake
 location:

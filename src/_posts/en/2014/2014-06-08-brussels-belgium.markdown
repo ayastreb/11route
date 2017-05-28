@@ -5,7 +5,7 @@ ref:        brussels-belgium
 lang:       en
 title:      Brussels, Belgium
 date:       2014-06-08 12:00:00
-image:      https://content.11route.com/brussels_cover.jpg
+image:      /images/posts/2014/brussels-belgium/cover.jpg
 summary:    Trip to Brussels by train
 categories: travel belgium
 location:

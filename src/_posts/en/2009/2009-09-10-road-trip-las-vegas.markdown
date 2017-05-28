@@ -5,7 +5,7 @@ ref:        road-trip-las-vegas
 lang:       en
 title:      Road Trip, Las Vegas
 date:       2009-09-10 12:00:00
-image:      https://content.11route.com/road-trip-las-vegas.jpg
+image:      /images/posts/2009/road-trip-las-vegas/cover.jpg
 summary:    Casinos of Las Vegas
 categories: travel usa las vegas
 location:

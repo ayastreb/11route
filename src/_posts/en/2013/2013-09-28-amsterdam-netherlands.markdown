@@ -5,7 +5,7 @@ ref:        amsterdam-netherlands
 lang:       en
 title:      Amsterdam, Netherlands
 date:       2013-09-28 12:00:00
-image:      https://content.11route.com/amsterdam.jpg
+image:      /images/posts/2013/amsterdam-netherlands/cover.jpg
 summary:    Trip by train to Amsterdam
 categories: travel netherlands
 location:

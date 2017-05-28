@@ -5,7 +5,7 @@ ref:        road-trip-yellowstone
 lang:       ru
 title:      Road Trip, Йеллоустоун
 date:       2009-09-05 12:00:00
-image:      https://content.11route.com/road-trip-yellowstone.jpg
+image:      /images/posts/2009/road-trip-yellowstone/cover.jpg
 summary:    Национальный заповедник Йеллоустоун
 categories: travel usa yellowstone
 location:
