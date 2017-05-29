@@ -18,56 +18,126 @@ location:
   It was closed because it was too expensive to run and now it's only tourists here.
 </section>
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877916913/" title="DSC02068 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7322/12877916913_fa84057f51_b.jpg" width="1000" height="669" alt="DSC02068"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877916913_618904ec2b_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877916913_fa84057f51_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02068" />
+  </a>
+</figure>
+
 
 Guard tower.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12878246524/" title="DSC02069 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7294/12878246524_9baa1d8856_b.jpg" width="1000" height="626" alt="DSC02069"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12878246524_8e49727d58_o.jpg" itemprop="contentUrl" data-size="1600x1002">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12878246524_9baa1d8856_b.jpg" width="1024" height="641" itemprop="thumbnail" alt="DSC02069" />
+  </a>
+</figure>
+
 
 Warden's house.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877832035/" title="DSC02074 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7299/12877832035_4d7c509a53_b.jpg" width="535" height="800" alt="DSC02074"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877832035_5e8411b9e3_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877832035_4d7c509a53_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02074" />
+  </a>
+</figure>
+
 
 Shoes are placed accurately before the shower.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877833905/" title="DSC02083 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3795/12877833905_42ac0c82d5_b.jpg" width="1000" height="669" alt="DSC02083"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877833905_be050d0405_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877833905_42ac0c82d5_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02083" />
+  </a>
+</figure>
+
 
 One bedroom apartment.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12878251344/" title="DSC02090 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7388/12878251344_9576541423_b.jpg" width="535" height="800" alt="DSC02090"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12878251344_930fc4dabd_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12878251344_9576541423_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02090" />
+  </a>
+</figure>
+
 
 Cells.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877838345/" title="DSC02107 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3814/12877838345_9632606c07_b.jpg" width="1000" height="669" alt="DSC02107"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877838345_1a84401157_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877838345_9632606c07_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02107" />
+  </a>
+</figure>
+
 
 Famous guys.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877926623/" title="DSC02114 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2875/12877926623_4da5134efc_b.jpg" width="1000" height="669" alt="DSC02114"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877926623_7115bde4c1_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877926623_4da5134efc_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02114" />
+  </a>
+</figure>
+
 
 View from cell's  window, freedom is so close!
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877840985/" title="DSC02132 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7448/12877840985_899ea8fd6a_b.jpg" width="1000" height="669" alt="DSC02132"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877840985_d37e1864d7_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877840985_899ea8fd6a_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02132" />
+  </a>
+</figure>
+
 
 Control room.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12878257914/" title="DSC02139-001 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7447/12878257914_57be3e6462_b.jpg" width="1000" height="669" alt="DSC02139-001"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12878257914_49875d42e8_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12878257914_57be3e6462_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02139-001" />
+  </a>
+</figure>
+
 
 Inner yard.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877844795/" title="DSC02143 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7403/12877844795_ca39451ddf_b.jpg" width="1000" height="669" alt="DSC02143"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877844795_baaf027d89_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877844795_ca39451ddf_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02143" />
+  </a>
+</figure>
+
 
 Frank Morris's papier mache head which he left so that guards won't notice his escape.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12878262474/" title="DSC02145 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2843/12878262474_cac1ec126d_b.jpg" width="535" height="800" alt="DSC02145"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12878262474_88b4fb89ce_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12878262474_cac1ec126d_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02145" />
+  </a>
+</figure>
+
 
 And the hole through which he escaped.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877935003/" title="DSC02147 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7315/12877935003_61c1763dcf_b.jpg" width="535" height="800" alt="DSC02147"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877935003_ed98b734b8_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877935003_61c1763dcf_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02147" />
+  </a>
+</figure>
+
 
 On the other side.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12877937673/" title="DSC02150 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7327/12877937673_d743c46b55_b.jpg" width="659" height="800" alt="DSC02150"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12877937673_5afb245685_o.jpg" itemprop="contentUrl" data-size="1318x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12877937673_d743c46b55_b.jpg" width="844" height="1024" itemprop="thumbnail" alt="DSC02150" />
+  </a>
+</figure>
+
 
 Daily menu.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12878268204/" title="DSC02156 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3734/12878268204_333865ebb2_b.jpg" width="1000" height="669" alt="DSC02156"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/alkatraz/12878268204_a505da7033_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/alkatraz/12878268204_333865ebb2_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02156" />
+  </a>
+</figure>
+

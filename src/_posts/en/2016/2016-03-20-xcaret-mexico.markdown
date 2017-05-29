@@ -20,15 +20,30 @@ There lives a lot of animals and you can also swim in underground rivers.
 
 Parrots are greeting us on the entrance.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26031068851/in/album-72157664195952094/" title="Parrots"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1588/26031068851_9669be3e8f_b.jpg" width="1024" height="680" alt="Parrots"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26031068851_9c5480a5f3_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26031068851_9669be3e8f_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Parrots" />
+  </a>
+</figure>
+
 
 There are a lot of parrots here, actually. They are sitting on almost every corner.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25824571560/in/album-72157664195952094/" title="Parrots"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1610/25824571560_62f98b1b96_b.jpg" width="1024" height="680" alt="Parrots"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/25824571560_b4068c4e7c_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/25824571560_62f98b1b96_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Parrots" />
+  </a>
+</figure>
+
 
 Green parrots are eating something.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25494807503/in/album-72157664195952094/" title="Green parrots"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1594/25494807503_e10448c2b2_b.jpg" width="1024" height="680" alt="Green parrots"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/25494807503_51a8a3181f_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/25494807503_e10448c2b2_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Green parrots" />
+  </a>
+</figure>
+
 
 <section class="text-block">
 What's interesting is that all parrots are free and sitting outside, when all the other birds are closed in special aviary.
@@ -36,47 +51,102 @@ Probably parrots don't want to leave :)
 </section>
 
 Bird, looks like a turkey.
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26071476996/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1519/26071476996_849fe37969_b.jpg" width="1024" height="680" alt="Bird"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26071476996_4573efcd1d_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26071476996_849fe37969_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Bird" />
+  </a>
+</figure>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412805/in/album-72157664195952094/" title="Bird"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1458/26097412805_107f948fb3_b.jpg" width="1024" height="680" alt="Bird"></a>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26097412805_109c45716b_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26097412805_107f948fb3_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Bird" />
+  </a>
+</figure>
+
 
 Woodpecker.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25492647394/in/album-72157664195952094/" title="Woodpecker"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1641/25492647394_2f29d5af97_b.jpg" width="1024" height="680" alt="Woodpecker"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/25492647394_3d222930dd_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/25492647394_2f29d5af97_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Woodpecker" />
+  </a>
+</figure>
+
 
 <section class="text-block">
 There are three rivers in the park where you can swim in the stylish pink life-west.
 One of them is completely underground, the rest are mixed.
 </section>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26031068171/in/album-72157664195952094/" title="Swimming river"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1694/26031068171_347fff3971_b.jpg" width="1024" height="680" alt="Swimming river"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26031068171_d2891ca6b7_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26031068171_347fff3971_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Swimming river" />
+  </a>
+</figure>
+
 
 Mountain lion is hiding in the trees.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26004882292/in/album-72157664195952094/" title="Mountain lion in the trees"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1464/26004882292_56cb9a0da9_b.jpg" width="1024" height="680" alt="Mountain lion in the trees"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26004882292_eb72e42402_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26004882292_56cb9a0da9_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Mountain lion in the trees" />
+  </a>
+</figure>
+
 
 Manatees are swimming in the big pool. For an additional fee you can swim with them, but there were no volounters.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25824567710/in/album-72157664195952094/" title="Manatee"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1699/25824567710_9eda5f51bb_b.jpg" width="1024" height="680" alt="Manatee"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/25824567710_a56fa64de1_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/25824567710_9eda5f51bb_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Manatee" />
+  </a>
+</figure>
+
 
 Sea turtle in the aquarium.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097410645/in/album-72157664195952094/" title="Sea turtle"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1549/26097410645_35835385f7_b.jpg" width="1024" height="680" alt="Sea turtle"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26097410645_a2ac615040_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26097410645_35835385f7_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Sea turtle" />
+  </a>
+</figure>
+
 
 And more turtles in the bay. As far as I understood - they are breeding these turtles here in the park.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25492643974/in/album-72157664195952094/" title="Many turtles"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1608/25492643974_95d4e583d0_b.jpg" width="1024" height="680" alt="Many turtles"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/25492643974_a43824b2c1_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/25492643974_95d4e583d0_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Many turtles" />
+  </a>
+</figure>
+
 
 Stingrays. You can swim with them too, for additional fee.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097410265/in/album-72157664195952094/" title="Stingrays"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1699/26097410265_4dba9aa239_b.jpg" width="1024" height="680" alt="Stingrays"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26097410265_3be5cbfce7_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26097410265_4dba9aa239_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Stingrays" />
+  </a>
+</figure>
+
 
 And sharks. Yes, it's possible to swim with them too. But again, no volounteers :)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/25494803963/in/album-72157664195952094/" title="Nurse sharks"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1591/25494803963_86bf530892_b.jpg" width="1024" height="680" alt="Nurse sharks"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/25494803963_88a6c9f1da_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/25494803963_86bf530892_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Nurse sharks" />
+  </a>
+</figure>
+
 
 Raccoons are sleeping.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26071473316/in/album-72157664195952094/" title="Sleeping raccoon"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1696/26071473316_8a51a1585a_b.jpg" width="1024" height="680" alt="Sleeping raccoon"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26071473316_22182c5144_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26071473316_8a51a1585a_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Sleeping raccoon" />
+  </a>
+</figure>
+
 
 <section class="text-block">
 There is also a butterflies park there - a special closed building where the temperature is high and it's very wet.
@@ -85,13 +155,33 @@ But apparently butterflies like that kind of weather :)
 
 Butterflies are feed fruits and asked not to be touched.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26031064821/in/album-72157664195952094/" title="Eating butterflies"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1478/26031064821_d704fe19ff_b.jpg" width="1024" height="680" alt="Eating butterflies"></a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26097412485/in/album-72157664195952094/" title="Eating butterfly"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1505/26097412485_65c65e3cb4_b.jpg" width="1024" height="680" alt="Eating butterfly"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26031064821_4cdd21ed1a_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26031064821_d704fe19ff_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Eating butterflies" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26097412485_4fe617082d_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26097412485_65c65e3cb4_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Eating butterfly" />
+  </a>
+</figure>
+
 
 There are flocks of them flying around, but I didn't manage to catch on in the fly on my camera.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26004882732/in/album-72157664195952094/" title="Butterfly"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1612/26004882732_91f50c3cf0_b.jpg" width="1024" height="680" alt="Butterfly"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26004882732_cbfebf8eeb_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26004882732_91f50c3cf0_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Butterfly" />
+  </a>
+</figure>
+
 
 And in the end we took a ride in a small boat in another river.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/118782975@N05/26004880322/in/album-72157664195952094/" title="Boat in the river"><img src="/images/bg.png" data-src="https://farm2.staticflickr.com/1635/26004880322_a9970e2259_b.jpg" width="1024" height="680" alt="Boat in the river"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2016/xcaret-mexico/26004880322_58e441db98_o.jpg" itemprop="contentUrl" data-size="1600x1063">
+    <img src="/images/bg.png" data-src="/images/posts/2016/xcaret-mexico/26004880322_a9970e2259_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="Boat in the river" />
+  </a>
+</figure>
+

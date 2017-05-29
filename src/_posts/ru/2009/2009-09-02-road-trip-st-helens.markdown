@@ -17,7 +17,12 @@ location:
 
 По пути - река Коламбия.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836157595/" title="DSC02521 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7423/12836157595_cb88b25297_b.jpg" width="1000" height="669" alt="DSC02521"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836157595_ac3e0170b7_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836157595_cb88b25297_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02521" />
+  </a>
+</figure>
+
 
 Следующей остановкой был вулкан Святая Елена. Известен он тем, что в 1980 знатно извергся.<br/>
 Википедия имеет по этому поводу такую картинку:
@@ -28,30 +33,65 @@ location:
 
 Окаменелый лес.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836549114/" title="DSC02531 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/8/7401/12836549114_792eb3a0b2_b.jpg" width="1000" height="669" alt="DSC02531"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836549114_a612520285_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836549114_792eb3a0b2_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02531" />
+  </a>
+</figure>
+
 
 Для масштаба с Фордом.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836534764/" title="DSC02535 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2866/12836534764_1a3e73b1a4_b.jpg" width="535" height="800" alt="DSC02535"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836534764_9fd375d024_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836534764_1a3e73b1a4_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02535" />
+  </a>
+</figure>
+
 
 По направлению деревьев можно понять, в какую сторону дул ветер в тот день.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836114815/" title="DSC02536 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3731/12836114815_9208febb2e_b.jpg" width="1000" height="669" alt="DSC02536"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836114815_bb485d000f_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836114815_9208febb2e_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02536" />
+  </a>
+</figure>
+
 
 Смытые с гор деревья все еще плавают в озере.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836195393/" title="DSC02539 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7454/12836195393_c48d156690_b.jpg" width="1000" height="669" alt="DSC02539"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836195393_7584e42136_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836195393_c48d156690_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02539" />
+  </a>
+</figure>
+
 
 Мимо пролетел какой-то зверь.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836540724/" title="DSC02551 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/8/7371/12836540724_3d11662d00_b.jpg" width="1000" height="669" alt="DSC02551"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836540724_ee200bc905_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836540724_3d11662d00_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02551" />
+  </a>
+</figure>
+
 
 А из вулкана переодически выходят облачка пара. Он еще жив.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836542764/" title="DSC02558 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://c2.staticflickr.com/8/7344/12836542764_d6f9d4f53b_b.jpg" width="1000" height="669" alt="DSC02558"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836542764_61b5179718_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836542764_d6f9d4f53b_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02558" />
+  </a>
+</figure>
+
 
 Вот такой нелегкий путь на смотровую площадку.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12836132815/" title="DSC02566 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7301/12836132815_bae368a5c7_b.jpg" width="535" height="800" alt="DSC02566"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/road-trip-st-helens/12836132815_dee86888e0_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip-st-helens/12836132815_bae368a5c7_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02566" />
+  </a>
+</figure>
+
 
 Едем дальше - в <a href="/road-trip-seattle" title="Road Trip, Сиэтл">Сиэтл</a>!

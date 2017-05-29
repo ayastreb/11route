@@ -21,13 +21,33 @@ location:
 
 Cleopatra Island.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12861964693/" title="2012-08-18 13.09.55 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7402/12861964693_cd502af4ff_b.jpg" width="1000" height="748" alt="2012-08-18 13.09.55"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/12862590144/" title="2012-08-18 13.03.37 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7351/12862590144_72e6c28196_b.jpg" width="598" height="800" alt="2012-08-18 13.03.37"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2012/marmaris-turkey/12861964693_7629395017_o.jpg" itemprop="contentUrl" data-size="2592x1936">
+    <img src="/images/bg.png" data-src="/images/posts/2012/marmaris-turkey/12861964693_cd502af4ff_b.jpg" width="1024" height="765" itemprop="thumbnail" alt="2012-08-18 13.09.55" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2012/marmaris-turkey/12862590144_f4afea9f8b_o.jpg" itemprop="contentUrl" data-size="1936x2592">
+    <img src="/images/bg.png" data-src="/images/posts/2012/marmaris-turkey/12862590144_72e6c28196_b.jpg" width="765" height="1024" itemprop="thumbnail" alt="2012-08-18 13.03.37" />
+  </a>
+</figure>
+
 
 Marmaris View.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12862602984/" title="2012-08-14 09.33.42 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7422/12862602984_08059cd931_b.jpg" width="598" height="800" alt="2012-08-14 09.33.42"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2012/marmaris-turkey/12862602984_df1d241aeb_o.jpg" itemprop="contentUrl" data-size="1936x2592">
+    <img src="/images/bg.png" data-src="/images/posts/2012/marmaris-turkey/12862602984_08059cd931_b.jpg" width="765" height="1024" itemprop="thumbnail" alt="2012-08-14 09.33.42" />
+  </a>
+</figure>
+
 
 Souvenir shop on the gas station.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12862619504/" title="2012-08-14 08.59.34 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3668/12862619504_b49afb1063_b.jpg" width="598" height="800" alt="2012-08-14 08.59.34"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2012/marmaris-turkey/12862619504_a16c2353e7_o.jpg" itemprop="contentUrl" data-size="1936x2592">
+    <img src="/images/bg.png" data-src="/images/posts/2012/marmaris-turkey/12862619504_b49afb1063_b.jpg" width="765" height="1024" itemprop="thumbnail" alt="2012-08-14 08.59.34" />
+  </a>
+</figure>
+

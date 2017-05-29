@@ -21,10 +21,30 @@ location:
 
 Началось шоу выступлением женщин с зонтиками.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164392514/" title="DSC00219 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7143/13164392514_ffc01c1400_b.jpg" width="1000" height="694" alt="DSC00219"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164392184/" title="DSC00224 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3818/13164392184_53b32a541a_b.jpg" width="1000" height="665" alt="DSC00224"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164391724/" title="DSC00225 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3803/13164391724_10578f78fd_b.jpg" width="1000" height="665" alt="DSC00225"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164119455/" title="DSC00227 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2116/13164119455_5bdc194e8d_b.jpg" width="1000" height="665" alt="DSC00227"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164392514_72c0e7b7a9_o.jpg" itemprop="contentUrl" data-size="1600x1109">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164392514_ffc01c1400_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00219" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164392184_dd06e1c63f_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164392184_53b32a541a_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00224" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164391724_ce2070431d_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164391724_10578f78fd_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00225" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164119455_14fe5282db_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164119455_5bdc194e8d_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00227" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/p8VbO9bKZOo" frameborder="0" allowfullscreen></iframe>
@@ -32,7 +52,12 @@ location:
 
 Потом выступала атлетичная тетя-акробат.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164383524/" title="DSC00234 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2027/13164383524_4174b2c4bd_b.jpg" width="1000" height="691" alt="DSC00234"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164383524_3d8cd2f165_o.jpg" itemprop="contentUrl" data-size="1600x1107">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164383524_4174b2c4bd_b.jpg" width="1024" height="708" itemprop="thumbnail" alt="DSC00234" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/5df8Gut5FDc" frameborder="0" allowfullscreen></iframe>
@@ -40,25 +65,75 @@ location:
 
 Господа ведущие.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164119155/" title="DSC00239 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7141/13164119155_93a214d101_b.jpg" width="1000" height="665" alt="DSC00239"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164119155_91467f8b48_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164119155_93a214d101_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00239" />
+  </a>
+</figure>
+
 
 Джеймс бонд с поклонницами.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164228653/" title="DSC00240 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2729/13164228653_8b02cb723a_b.jpg" width="1000" height="694" alt="DSC00240"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164390004/" title="DSC00242 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7359/13164390004_5be2c76bf5_b.jpg" width="1000" height="665" alt="DSC00242"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164228653_bb3fce7015_o.jpg" itemprop="contentUrl" data-size="1600x1110">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164228653_8b02cb723a_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00240" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164390004_59fa0fb6c5_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164390004_5be2c76bf5_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00242" />
+  </a>
+</figure>
+
 
 Дальше была русская парочка, которые переоделись раз 10 за 5 минут.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164227673/" title="DSC00253 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3828/13164227673_149d78e20f_b.jpg" width="1000" height="694" alt="DSC00253"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164227373/" title="DSC00260 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3832/13164227373_059654e451_b.jpg" width="1000" height="665" alt="DSC00260"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164388604/" title="DSC00262 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7271/13164388604_14d981abe2_b.jpg" width="1000" height="665" alt="DSC00262"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164226503/" title="DSC00273 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2665/13164226503_8136ff16bb_b.jpg" width="1000" height="665" alt="DSC00273"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164387874/" title="DSC00277 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2499/13164387874_40da48139b_b.jpg" width="1000" height="665" alt="DSC00277"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164115935/" title="DSC00279 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3814/13164115935_0838329cff_b.jpg" width="1000" height="665" alt="DSC00279"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164227673_302f62352d_o.jpg" itemprop="contentUrl" data-size="1600x1110">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164227673_149d78e20f_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00253" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164227373_3bfd7602fa_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164227373_059654e451_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00260" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164388604_dd6d71e424_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164388604_14d981abe2_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00262" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164226503_dccdb7100f_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164226503_8136ff16bb_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00273" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164387874_757a48ef85_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164387874_40da48139b_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00277" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164115935_eaf1bcb926_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164115935_0838329cff_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00279" />
+  </a>
+</figure>
+
 
 Танцы.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164387214/" title="DSC00294 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7299/13164387214_06b8c6ff8a_b.jpg" width="1000" height="665" alt="DSC00294"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164387214_9653879434_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164387214_06b8c6ff8a_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00294" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/B2JjVC-ffjo" frameborder="0" allowfullscreen></iframe>
@@ -66,7 +141,12 @@ location:
 
 Песни.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164115465/" title="DSC00301 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7337/13164115465_87010a533d_b.jpg" width="1000" height="665" alt="DSC00301"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164115465_b02509c3ac_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164115465_87010a533d_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00301" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/Pqd5L0vg4Qk" frameborder="0" allowfullscreen></iframe>
@@ -80,7 +160,12 @@ location:
 
 Жонглёр.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164115185/" title="DSC00307 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2581/13164115185_1f87dfa569_b.jpg" width="1000" height="665" alt="DSC00307"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164115185_71e01fdac6_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164115185_1f87dfa569_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00307" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/TLVCaMwAJfQ" frameborder="0" allowfullscreen></iframe>
@@ -88,11 +173,21 @@ location:
 
 Гвардейцы ее величества.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164224783/" title="DSC00312 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3805/13164224783_a490fb8f8c_b.jpg" width="1000" height="665" alt="DSC00312"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164224783_6e618597c3_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164224783_a490fb8f8c_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00312" />
+  </a>
+</figure>
+
 
 Девушка с шарами на диване.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164224543/" title="DSC00360 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2742/13164224543_e2a1d400e9_b.jpg" width="1000" height="665" alt="DSC00360"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164224543_83dd4c126a_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164224543_e2a1d400e9_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00360" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/8zYcRJ3q01Q" frameborder="0" allowfullscreen></iframe>
@@ -106,16 +201,36 @@ location:
 
 Школьницы.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164224053/" title="DSC00380 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3702/13164224053_ce957dbe6a_b.jpg" width="1000" height="665" alt="DSC00380"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164224053_d2119af8c1_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164224053_ce957dbe6a_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00380" />
+  </a>
+</figure>
+
 
 Панки-акробаты.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164113725/" title="DSC00382 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7396/13164113725_296a8618b4_b.jpg" width="1000" height="665" alt="DSC00382"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164113725_291f0d3624_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164113725_296a8618b4_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00382" />
+  </a>
+</figure>
+
 
 Мужик вертел свою девушку ногами как хотел.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164113285/" title="DSC00391 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2647/13164113285_e88733636e_b.jpg" width="1000" height="665" alt="DSC00391"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13164384344/" title="DSC00392 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7270/13164384344_e8d047197f_b.jpg" width="1000" height="665" alt="DSC00392"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164113285_2691e6ac21_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164113285_e88733636e_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00391" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164384344_20882d34f4_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164384344_e8d047197f_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00392" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/Oi7_DAcWMUM" frameborder="0" allowfullscreen></iframe>
@@ -123,7 +238,12 @@ location:
 
 Ведущие и дудочки.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164384084/" title="DSC00427 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7446/13164384084_b27784dd95_b.jpg" width="1000" height="665" alt="DSC00427"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164384084_60f93f9729_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164384084_b27784dd95_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00427" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/oO_bwxbMPpI" frameborder="0" allowfullscreen></iframe>
@@ -131,7 +251,12 @@ location:
 
 Финальная песенка.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164383844/" title="DSC00431 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3770/13164383844_995acd1bb2_b.jpg" width="1000" height="665" alt="DSC00431"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164383844_2c385bff7a_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164383844_995acd1bb2_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00431" />
+  </a>
+</figure>
+
 
 <div class="youtube-container">
 <iframe class="video" src="//www.youtube.com/embed/a7ZqtI0ELFU" frameborder="0" allowfullscreen></iframe>
@@ -139,7 +264,12 @@ location:
 
 Вот и все!
 
-<a href="https://www.flickr.com/photos/118782975@N05/13164111585/" title="DSC00443 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7057/13164111585_d32bd992fb_b.jpg" width="1000" height="665" alt="DSC00443"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/apollo-dusseldorf/13164111585_9e1bfb7bdf_o.jpg" itemprop="contentUrl" data-size="1600x1064">
+    <img src="/images/bg.png" data-src="/images/posts/2014/apollo-dusseldorf/13164111585_d32bd992fb_b.jpg" width="1024" height="681" itemprop="thumbnail" alt="DSC00443" />
+  </a>
+</figure>
+
 
 Не зря сходили, в общем.
 

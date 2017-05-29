@@ -19,24 +19,54 @@ location:
 
 Вид на Рейн.
 
-<a title="Панорама на Рейне" href="https://www.flickr.com/photos/118782975@N05/12817352623/"><img alt="DSC00040" src="https://c2.staticflickr.com/4/3688/12817352623_54e3b16165_b.jpg" width="1000" height="176" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/bonn-germany/12817352623_dfc0ca210d_o.jpg" itemprop="contentUrl" data-size="7421x1306">
+    <img src="/images/bg.png" data-src="/images/posts/2014/bonn-germany/12817352623_54e3b16165_b.jpg" width="1024" height="180" itemprop="thumbnail" alt="DSC00040" />
+  </a>
+</figure>
+
 
 Рейнский Боннский университет Фридриха Вильгельма. Часть здания на фото выглядит впечатляющее, как и просторный парк перед ним. Ведомые любопытством мы заглянули в отделение философского факультета и к своему удивлению ознакомились с расписанием отделений египтологии, греческой античной литературы, тибетологии... К слову, студенческий взнос приблизительно 250 € за семестр. Если бы у меня было несклько жизней, я бы с удовольствием выучилась на кафедре тибетологии.
 
-<a title="Боннский университет" href="https://www.flickr.com/photos/118782975@N05/12817409703/"><img alt="DSC00033" src="https://c2.staticflickr.com/6/5521/12817409703_a23ff2b636_b.jpg" width="1000" height="664" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/bonn-germany/12817409703_132394c5ae_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/bonn-germany/12817409703_a23ff2b636_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00033" />
+  </a>
+</figure>
+
 
 Он же.
 
-<a title="Боннский университет" href="https://www.flickr.com/photos/118782975@N05/12794609654/"><img alt="DSC00035" src="https://farm4.staticflickr.com/3804/12794609654_b384216919_b.jpg" width="1000" height="246" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/bonn-germany/12794609654_2780221849_o.jpg" itemprop="contentUrl" data-size="6607x1628">
+    <img src="/images/bg.png" data-src="/images/posts/2014/bonn-germany/12794609654_b384216919_b.jpg" width="1024" height="252" itemprop="thumbnail" alt="DSC00035" />
+  </a>
+</figure>
+
 
 Машины проезжают прямо через здание.
 
-<a title="Боннский университет" href="https://www.flickr.com/photos/118782975@N05/12817709184/"><img alt="DSC00039" src="https://farm8.staticflickr.com/7405/12817709184_9b31e40585_b.jpg" width="1000" height="622" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/bonn-germany/12817709184_8bf0c6088f_o.jpg" itemprop="contentUrl" data-size="4490x2794">
+    <img src="/images/bg.png" data-src="/images/posts/2014/bonn-germany/12817709184_9b31e40585_b.jpg" width="1024" height="637" itemprop="thumbnail" alt="DSC00039" />
+  </a>
+</figure>
+
 
 Остатки былой роскоши.
 
-<a title="Крепость" href="https://www.flickr.com/photos/118782975@N05/12817679974/"><img alt="DSC00024" src="https://c2.staticflickr.com/8/7293/12817679974_65b20193db_b.jpg" width="1000" height="664" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/bonn-germany/12817679974_137584c9b8_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/bonn-germany/12817679974_65b20193db_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00024" />
+  </a>
+</figure>
+
 
 Бонн Мюнстер. 11-13вв. Старина.
 
-<a title="Церковь" href="https://www.flickr.com/photos/118782975@N05/12794189875/"><img alt="DSC00027" src="https://c2.staticflickr.com/4/3718/12794189875_83ec263d79_b.jpg" width="823" height="1024" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/bonn-germany/12794189875_5e291e3ca7_o.jpg" itemprop="contentUrl" data-size="3242x4033">
+    <img src="/images/bg.png" data-src="/images/posts/2014/bonn-germany/12794189875_83ec263d79_b.jpg" width="823" height="1024" itemprop="thumbnail" alt="DSC00027" />
+  </a>
+</figure>
+

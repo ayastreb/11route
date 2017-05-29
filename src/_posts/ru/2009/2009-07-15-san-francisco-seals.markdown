@@ -15,53 +15,123 @@ location:
 
 По приезду сразу отправился на прогулку по Сан-Франциско.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876120513/" title="DSC01135 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3741/12876120513_638c363c95_b.jpg" width="1000" height="622" alt="DSC01135"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876120513_937db0c5de_o.jpg" itemprop="contentUrl" data-size="1024x637">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876120513_638c363c95_b.jpg" width="1024" height="637" itemprop="thumbnail" alt="DSC01135" />
+  </a>
+</figure>
+
 
 Интересные скульптуры.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876459854/" title="DSC01140 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2808/12876459854_4c56841e3e_b.jpg" width="1000" height="670" alt="DSC01140"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876459854_fcd0045c27_o.jpg" itemprop="contentUrl" data-size="1024x686">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876459854_4c56841e3e_b.jpg" width="1024" height="686" itemprop="thumbnail" alt="DSC01140" />
+  </a>
+</figure>
+
 
 Порт Сан-Франциско.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876462754/" title="DSC01149 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3823/12876462754_8dbf716200_b.jpg" width="1000" height="749" alt="DSC01149"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876462754_c9bd517d6c_o.jpg" itemprop="contentUrl" data-size="1024x767">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876462754_8dbf716200_b.jpg" width="1024" height="767" itemprop="thumbnail" alt="DSC01149" />
+  </a>
+</figure>
+
 
 Небоскрёбы.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876470854/" title="DSC01252 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3768/12876470854_48142a54e7_b.jpg" width="535" height="800" alt="DSC01252"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876470854_f3511e207c_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876470854_48142a54e7_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC01252" />
+  </a>
+</figure>
+
 
 Садовод 80+ левела.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876474664/" title="DSC01255 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7452/12876474664_fc14964346_b.jpg" width="1000" height="669" alt="DSC01255"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876474664_fbbca2ca74_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876474664_fc14964346_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01255" />
+  </a>
+</figure>
+
 
 Пешеходный переход.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876478904/" title="DSC01262 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2824/12876478904_be2956c92b_b.jpg" width="1000" height="669" alt="DSC01262"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876478904_1b5b129ae4_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876478904_be2956c92b_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01262" />
+  </a>
+</figure>
+
 
 А дальше я пошел на Пирс 39, где живут тюлени.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876056345/" title="DSC01267 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7368/12876056345_7ea58eae40_b.jpg" width="1000" height="669" alt="DSC01267"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876056345_e1619db741_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876056345_7ea58eae40_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01267" />
+  </a>
+</figure>
+
 
 Их там много.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876145923/" title="DSC01276 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7292/12876145923_46df44b517_b.jpg" width="1000" height="669" alt="DSC01276"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876145923_47639b6662_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876145923_46df44b517_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01276" />
+  </a>
+</figure>
+
 
 Очень много.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876054585/" title="DSC01280 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2837/12876054585_a7d48b4daa_b.jpg" width="1000" height="669" alt="DSC01280"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/12876150653/" title="DSC01281 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7440/12876150653_c72e12af3f_b.jpg" width="1000" height="669" alt="DSC01281"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876054585_44014ec72a_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876054585_a7d48b4daa_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01280" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876150653_758cba291b_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876150653_c72e12af3f_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01281" />
+  </a>
+</figure>
+
 
 Недалеко Алькатрас.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876151463/" title="DSC01284 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3736/12876151463_0d6c45610e_b.jpg" width="1000" height="670" alt="DSC01284"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876151463_f34a702570_o.jpg" itemprop="contentUrl" data-size="1600x1074">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876151463_0d6c45610e_b.jpg" width="1024" height="687" itemprop="thumbnail" alt="DSC01284" />
+  </a>
+</figure>
+
 
 И Ломбарт стриит. Самая крутая и гнутая улица в мире.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876063405/" title="DSC01296 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3686/12876063405_6a9b103d06_b.jpg" width="1000" height="669" alt="DSC01296"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876063405_6440068834_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876063405_6a9b103d06_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01296" />
+  </a>
+</figure>
+
 
 Поток туристов там не пересыхает никогда.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876159183/" title="DSC01306 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3757/12876159183_02fe0e9fb3_b.jpg" width="1000" height="669" alt="DSC01306"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876159183_2b4096cc4d_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876159183_02fe0e9fb3_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01306" />
+  </a>
+</figure>
+
 
 Coit Tower.
 
-<a href="https://www.flickr.com/photos/118782975@N05/12876491444/" title="DSC01303 by elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7416/12876491444_388fff8953_b.jpg" width="1000" height="669" alt="DSC01303"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2009/san-francisco-seals/12876491444_4d061053cf_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="/images/posts/2009/san-francisco-seals/12876491444_388fff8953_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC01303" />
+  </a>
+</figure>
+

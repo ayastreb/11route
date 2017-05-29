@@ -23,15 +23,30 @@ But later we decided to stay in Madrid for a few days and see it.
 At about 1 PM we landed in Madrid-Barajas, terminal 4 - one of the biggest airport terminals in the world.
 </section>
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846944864" title="DSC00725 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7370/13846944864_59df386259_b.jpg" width="1000" height="664" alt="DSC00725"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846944864_2ae8684373_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846944864_59df386259_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00725" />
+  </a>
+</figure>
+
 
 Luggage belts.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846587883" title="DSC00732 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2858/13846587883_a3df20bb7e_b.jpg" width="1000" height="694" alt="DSC00732"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846587883_608eb9eae5_o.jpg" itemprop="contentUrl" data-size="4058x2812">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846587883_a3df20bb7e_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00732" />
+  </a>
+</figure>
+
 
 Strange constructions.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846586853" title="DSC00735 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7113/13846586853_1a96c0b86f_b.jpg" width="1000" height="664" alt="DSC00735"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846586853_9340f8f13c_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846586853_1a96c0b86f_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00735" />
+  </a>
+</figure>
+
 
 <section class="text-block">
 Because we decided to stay in Madrid so late it was cheaper to leave the rental car on a parking lot near to the airport instead of changing the booking.
@@ -44,10 +59,20 @@ In Madrid parking costs around 25-30 EUR per day. And we couldn't find a cheap h
 </section>
 
 Our room in the hotel in the city center.
-<a href="https://www.flickr.com/photos/118782975@N05/13846572815" title="DSC00740 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7379/13846572815_81128aa295_b.jpg" width="1000" height="664" alt="DSC00740"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846572815_7e716be91e_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846572815_81128aa295_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00740" />
+  </a>
+</figure>
+
 
 View from the windows.
-<a href="https://www.flickr.com/photos/118782975@N05/13846571265" title="DSC00741 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3760/13846571265_39fe6c27de_b.jpg" width="1000" height="664" alt="DSC00741"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846571265_565ac8272f_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846571265_39fe6c27de_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00741" />
+  </a>
+</figure>
+
 
 <section class="text-block">
 After a bit of rest in the hotel we went for a walk.
@@ -56,96 +81,265 @@ from hotel to Plaza Major, lunch there. Then visit Almudena Cathedral and Royal 
 Tapas in the evening and new Captain America moview at night.
 </section>
 
-<a href="https://content.11route.com/madrid-map-1.png"><img src="/images/bg.png" data-src="https://content.11route.com/madrid-map-1.png" alt="map-1" width="1000" height="679" /></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/madrid-map-1.png" itemprop="contentUrl" data-size="800x543">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/madrid-map-1.png" alt="map-1" width="1000" height="679" />
+  </a>
+</figure>
 
 Plaza Mayor.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846936664" title="DSC00751 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2935/13846936664_ebcc5f6b46_b.jpg" width="1000" height="664" alt="DSC00751"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846936664_1da1d8dc53_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846936664_ebcc5f6b46_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00751" />
+  </a>
+</figure>
+
 
 There were a lot of cafes and restaurants on the square, we chose the one whith most people - Museo del Jamon.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846932314" title="DSC00761 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3818/13846932314_fae0ec3a83_b.jpg" width="1000" height="664" alt="DSC00761"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846932314_f042d1db32_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846932314_fae0ec3a83_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00761" />
+  </a>
+</figure>
+
 
 Tiny dog.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846934704" title="DSC00759 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2937/13846934704_0b023a3d85_b.jpg" width="1000" height="664" alt="DSC00759"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846561455" title="DSC00763 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7359/13846561455_ce263e2d68_b.jpg" width="531" height="800" alt="DSC00763"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846934704_057f708989_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846934704_0b023a3d85_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00759" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846561455_b902577dc6_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846561455_ce263e2d68_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00763" />
+  </a>
+</figure>
+
 
 Street name plates.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846572903" title="DSC00768 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3790/13846572903_6caeb1764c_b.jpg" width="531" height="800" alt="DSC00768"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846342425" title="DSC00786 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7187/13846342425_1b0a187033_b.jpg" width="1000" height="664" alt="DSC00786"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846572903_5c3a633bf2_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846572903_6caeb1764c_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00768" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846342425_6fa6c0b54f_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846342425_1b0a187033_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00786" />
+  </a>
+</figure>
+
 
 San Miguel Church.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846570553" title="DSC00770 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm6.staticflickr.com/5563/13846570553_656613a9f2_b.jpg" width="552" height="800" alt="DSC00770"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846925104" title="DSC00773 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3706/13846925104_5b5a56be31_b.jpg" width="1000" height="694" alt="DSC00773"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846570553_50d76a5368_o.jpg" itemprop="contentUrl" data-size="2246x3252">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846570553_656613a9f2_b.jpg" width="707" height="1024" itemprop="thumbnail" alt="DSC00770" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846925104_ec43a4024d_o.jpg" itemprop="contentUrl" data-size="3734x2591">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846925104_5b5a56be31_b.jpg" width="1024" height="711" itemprop="thumbnail" alt="DSC00773" />
+  </a>
+</figure>
+
 
 Scrum Pub for the people who love Agile methodologies.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846923444" title="DSC00775 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2820/13846923444_94db7bffd6_b.jpg" width="1000" height="694" alt="DSC00775"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846923444_c0550df5a9_o.jpg" itemprop="contentUrl" data-size="3821x2652">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846923444_94db7bffd6_b.jpg" width="1024" height="711" itemprop="thumbnail" alt="DSC00775" />
+  </a>
+</figure>
+
 
 Sacramento Church.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846922484" title="DSC00778 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2859/13846922484_6af5185b4e_b.jpg" width="1000" height="694" alt="DSC00778"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846922484_9bd981f180_o.jpg" itemprop="contentUrl" data-size="4262x2955">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846922484_6af5185b4e_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00778" />
+  </a>
+</figure>
+
 
 Almudena Cathedral is next to the royal armory.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846552315" title="DSC00784 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2811/13846552315_ded3c29731_b.jpg" width="1000" height="694" alt="DSC00784"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846563323" title="DSC00787 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7375/13846563323_f9f099a346_b.jpg" width="1000" height="694" alt="DSC00787"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846552315_92ea6a6031_o.jpg" itemprop="contentUrl" data-size="4233x2935">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846552315_ded3c29731_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00784" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846563323_ee5b354f0a_o.jpg" itemprop="contentUrl" data-size="4377x3033">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846563323_f9f099a346_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00787" />
+  </a>
+</figure>
+
 
 Grandiose building.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846914654" title="DSC00792 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7262/13846914654_ed6050e1f6_b.jpg" width="531" height="800" alt="DSC00792"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846542445" title="DSC00794 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3813/13846542445_450a53feff_b.jpg" width="531" height="800" alt="DSC00794"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846914654_1d57c18e61_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846914654_ed6050e1f6_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00792" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846542445_965db502c1_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846542445_450a53feff_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00794" />
+  </a>
+</figure>
+
 
 Stained-glass windows.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846908274" title="DSC00795 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3675/13846908274_ae927ea542_b.jpg" width="531" height="800" alt="DSC00795"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846903284" title="DSC00811 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7080/13846903284_99b9294380_b.jpg" width="531" height="800" alt="DSC00811"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846907024" title="DSC00807 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3688/13846907024_64e03cebd2_b.jpg" width="531" height="800" alt="DSC00807"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846549723" title="DSC00808 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3694/13846549723_f21c7532ce_b.jpg" width="1000" height="664" alt="DSC00808"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846545533" title="DSC00820 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2872/13846545533_b41ffe9c6c_b.jpg" width="1000" height="694" alt="DSC00820"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846908274_fa9a1a1a8b_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846908274_ae927ea542_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00795" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846903284_14811218da_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846903284_99b9294380_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00811" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846907024_2493051a16_o.jpg" itemprop="contentUrl" data-size="3264x4912">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846907024_64e03cebd2_b.jpg" width="680" height="1024" itemprop="thumbnail" alt="DSC00807" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846549723_a3092878cb_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846549723_f21c7532ce_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00808" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846545533_a6eea2b3a8_o.jpg" itemprop="contentUrl" data-size="4211x2920">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846545533_b41ffe9c6c_b.jpg" width="1024" height="710" itemprop="thumbnail" alt="DSC00820" />
+  </a>
+</figure>
+
 
 Next to the cathedral is the royal palace - Palacio Real de Madrid.
 It is the official residence of the spanish royalty, but Juan Carlos I does not live there at the moment.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846535005" title="DSC00817 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3740/13846535005_b7897ccd36_b.jpg" width="1000" height="691" alt="DSC00817"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846544293" title="DSC00822 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3720/13846544293_44aec8654f_b.jpg" width="1000" height="664" alt="DSC00822"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846542013" title="DSC00828 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3681/13846542013_580042859f_b.jpg" width="1000" height="664" alt="DSC00828"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846535005_75586d7909_o.jpg" itemprop="contentUrl" data-size="4133x2862">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846535005_b7897ccd36_b.jpg" width="1024" height="709" itemprop="thumbnail" alt="DSC00817" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846544293_fb556fb98d_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846544293_44aec8654f_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00822" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846542013_9980a5325e_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846542013_580042859f_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00828" />
+  </a>
+</figure>
+
 
 Entree fee is 10 EUR, there are a lot of fancy rooms, rococo-baroque, all the stuff. But it is not allowed to take pictures inside.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846526635" title="DSC00838 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2917/13846526635_786c9d30ff_b.jpg" width="1000" height="664" alt="DSC00838"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846540433" title="DSC00836 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3666/13846540433_3b6dd1a9b9_b.jpg" width="1000" height="664" alt="DSC00836"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846526635_4b18d86cba_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846526635_786c9d30ff_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00838" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846540433_0ef972fb17_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846540433_3b6dd1a9b9_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00836" />
+  </a>
+</figure>
+
 
 Palace park.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846889364" title="DSC00849 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3795/13846889364_e33f62d57c_b.jpg" width="1000" height="691" alt="DSC00849"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846889364_27e349941d_o.jpg" itemprop="contentUrl" data-size="4053x2806">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846889364_e33f62d57c_b.jpg" width="1024" height="709" itemprop="thumbnail" alt="DSC00849" />
+  </a>
+</figure>
+
 
 Royal bench.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846521405" title="DSC00851 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2828/13846521405_979e315f9e_b.jpg" width="1000" height="664" alt="DSC00851"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846521405_782779947f_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846521405_979e315f9e_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00851" />
+  </a>
+</figure>
+
 
 Spaniards are taking a break on the benches.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846525133" title="DSC00870 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2863/13846525133_0ac2b8db98_b.jpg" width="1000" height="664" alt="DSC00870"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846525133_9f93642514_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846525133_0ac2b8db98_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00870" />
+  </a>
+</figure>
+
 
 Skinny dog is running around.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846519605" title="DSC00857 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm3.staticflickr.com/2872/13846519605_c763d192be_b.jpg" width="1000" height="691" alt="DSC00857"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846519605_e0e9c0b436_o.jpg" itemprop="contentUrl" data-size="4394x3043">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846519605_c763d192be_b.jpg" width="1024" height="709" itemprop="thumbnail" alt="DSC00857" />
+  </a>
+</figure>
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846529183" title="DSC00859 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7349/13846529183_5e4fd6fcdb_b.jpg" width="1000" height="664" alt="DSC00859"></a>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846529183_1bc90026fa_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846529183_5e4fd6fcdb_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00859" />
+  </a>
+</figure>
+
 
 Opera house.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846527153" title="DSC00867 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3798/13846527153_03894618a9_b.jpg" width="1000" height="664" alt="DSC00867"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846527153_dee072d6be_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846527153_03894618a9_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00867" />
+  </a>
+</figure>
+
 
 Small fountain.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846875274" title="DSC00882 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7322/13846875274_5913d087f7_b.jpg" width="1000" height="664" alt="DSC00882"></a>
-<a href="https://www.flickr.com/photos/118782975@N05/13846873574" title="DSC00885 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm4.staticflickr.com/3750/13846873574_47e70aabea_b.jpg" width="1000" height="664" alt="DSC00885"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846875274_53244c2f77_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846875274_5913d087f7_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00882" />
+  </a>
+</figure>
+
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846873574_572dc94cfa_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846873574_47e70aabea_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00885" />
+  </a>
+</figure>
+
 
 Lots of green.
 
-<a href="https://www.flickr.com/photos/118782975@N05/13846871684" title="DSC00890 by Elevenroute, on Flickr"><img src="/images/bg.png" data-src="https://farm8.staticflickr.com/7042/13846871684_51ea17a05f_b.jpg" width="1000" height="664" alt="DSC00890"></a>
+<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+  <a href="/images/posts/2014/madrid-spain-day-one/13846871684_ace0c101e2_o.jpg" itemprop="contentUrl" data-size="4912x3264">
+    <img src="/images/bg.png" data-src="/images/posts/2014/madrid-spain-day-one/13846871684_51ea17a05f_b.jpg" width="1024" height="680" itemprop="thumbnail" alt="DSC00890" />
+  </a>
+</figure>
+
