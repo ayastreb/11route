@@ -208,7 +208,7 @@ location:
 </section>
 
 <section class="text-block">
-На следующий мы пошли осматривать водопады.
+На следующий день мы пошли осматривать водопады.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
