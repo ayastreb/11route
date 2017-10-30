@@ -5,7 +5,7 @@ ref:        garda-italy
 lang:       ru
 title:      Озеро Гарда, Италия
 date:       2016-05-08 12:00:00
-image:      /images/posts/2016/garda-italy/cover-2000.jpg
+image:      https://content.11route.com/posts/2016/garda-italy/cover-2000.jpg
 summary:    Небольшой рассказ о Гарде.
 categories:
   - италия
@@ -36,23 +36,23 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/garda-italy/DSC09365-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/garda-italy/DSC09365-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
+    <a href="https://content.11route.com/posts/2016/garda-italy/DSC09365-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/garda-italy/DSC09365-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/garda-italy/DSC09369-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/garda-italy/DSC09369-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
+    <a href="https://content.11route.com/posts/2016/garda-italy/DSC09369-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/garda-italy/DSC09369-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/garda-italy/DSC09371-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/garda-italy/DSC09371-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
+    <a href="https://content.11route.com/posts/2016/garda-italy/DSC09371-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/garda-italy/DSC09371-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/garda-italy/DSC09375-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/garda-italy/DSC09375-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
+    <a href="https://content.11route.com/posts/2016/garda-italy/DSC09375-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/garda-italy/DSC09375-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Lake Garda, Italy" />
     </a>
   </figure>
 </section>

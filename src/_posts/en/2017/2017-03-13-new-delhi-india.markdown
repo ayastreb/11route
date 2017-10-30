@@ -5,7 +5,7 @@ ref:        new-delhi-india
 lang:       en
 title:      New Delhi, India
 date:       2017-03-13 12:00:00
-image:      /images/posts/2017/new-delhi-india/cover-2000.jpg
+image:      https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg
 summary:    Walking in the capital of India.
 categories:
   - india
@@ -48,43 +48,43 @@ It's a gated community where wealthy indians are living.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02898-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02898-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02898-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02898-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02904-3000.jpg" itemprop="contentUrl" data-size="3000x2116">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02904-1000.jpg" width="1000" height="705" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02904-3000.jpg" itemprop="contentUrl" data-size="3000x2116">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02904-1000.jpg" width="1000" height="705" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02914-3000.jpg" itemprop="contentUrl" data-size="3000x2176">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02914-1000.jpg" width="1000" height="725" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02914-3000.jpg" itemprop="contentUrl" data-size="3000x2176">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02914-1000.jpg" width="1000" height="725" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02918-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02918-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02918-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02918-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02959-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02959-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02959-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02959-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02966-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02966-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02966-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02966-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02976-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02976-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02976-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02976-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02991-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02991-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02991-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02991-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
 </section>
@@ -97,39 +97,39 @@ It's a gated community where wealthy indians are living.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC02993-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC02993-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC02993-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC02993-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03002-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03002-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03002-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03002-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03005-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03005-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03005-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03005-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03013-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03013-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03013-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03013-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03017-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03017-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03017-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03017-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/new-delhi-india/DSC03021-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03021-750.jpg" width="750" height="501" itemprop="thumbnail" alt="New Delhi, India" />
+      <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03021-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03021-750.jpg" width="750" height="501" itemprop="thumbnail" alt="New Delhi, India" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/new-delhi-india/DSC03025-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
-        <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03025-750.jpg" width="501" height="750" itemprop="thumbnail" alt="New Delhi, India" />
+      <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03025-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03025-750.jpg" width="501" height="750" itemprop="thumbnail" alt="New Delhi, India" />
       </a>
     </figure>
   </div>
@@ -147,46 +147,46 @@ It's a gated community where wealthy indians are living.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03055-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03055-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03055-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03055-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <p>Pools around the temple cool it down in summer heat.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03068-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03068-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03068-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03068-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <p>There are solar panels in the garden.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03059-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03059-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03059-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03059-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03079-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03079-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03079-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03079-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03080-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03080-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03080-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03080-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03084-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03084-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03084-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03084-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/new-delhi-india/DSC03091-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03091-750.jpg" width="750" height="501" itemprop="thumbnail" alt="New Delhi, India" />
+      <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03091-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03091-750.jpg" width="750" height="501" itemprop="thumbnail" alt="New Delhi, India" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/new-delhi-india/DSC03092-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03092-750.jpg" width="750" height="501" itemprop="thumbnail" alt="New Delhi, India" />
+      <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03092-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03092-750.jpg" width="750" height="501" itemprop="thumbnail" alt="New Delhi, India" />
       </a>
     </figure>
   </div>
@@ -200,18 +200,18 @@ It's a gated community where wealthy indians are living.
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03098-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03098-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03098-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03098-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03114-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03114-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03114-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03114-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/new-delhi-india/DSC03115-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/new-delhi-india/DSC03115-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
+    <a href="https://content.11route.com/posts/2017/new-delhi-india/DSC03115-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/new-delhi-india/DSC03115-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="New Delhi, India" />
     </a>
   </figure>
 </section>

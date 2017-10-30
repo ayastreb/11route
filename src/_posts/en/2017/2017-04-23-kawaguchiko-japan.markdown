@@ -5,7 +5,7 @@ ref:        kawaguchiko-japan
 lang:       en
 title:      Kawaguchiko, Japan
 date:       2017-04-23 12:00:00
-image:      /images/posts/2017/kawaguchiko-japan/cover-2000.jpg
+image:      https://content.11route.com/posts/2017/kawaguchiko-japan/cover-2000.jpg
 summary:    A trip to mount Fuji.
 categories:
   - fuji
@@ -30,87 +30,87 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04498-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04498-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04498-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04498-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <p>This sculpture is made by some famous Japanese artist when he was 101 years old.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04504-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04504-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04504-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04504-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <p>We couldn't miss the cheese-cake cafe.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04512-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04512-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04512-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04512-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <p>You can rent such boat and enjoy the lake.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04515-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04515-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04515-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04515-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04543-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04543-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04543-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04543-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04546-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04546-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04546-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04546-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04576-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04576-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04576-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04576-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04587-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04587-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04587-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04587-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04595-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04595-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04595-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04595-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04620-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04620-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04620-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04620-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04622-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04622-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04622-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04622-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04624-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04624-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04624-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04624-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04627-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04627-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04627-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04627-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04640-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04640-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04640-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04640-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04660-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04660-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04660-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04660-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <p>After a long walk we went to the onsen - a Japanese hot spring.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04663-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04663-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04663-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04663-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
 </section>
@@ -122,37 +122,37 @@ location:
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/kawaguchiko-japan/DSC04678-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04678-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Tokyo, Japan" />
+      <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04678-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04678-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Tokyo, Japan" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/kawaguchiko-japan/DSC04686-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
-        <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04686-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Tokyo, Japan" />
+      <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04686-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04686-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Tokyo, Japan" />
       </a>
     </figure>
   </div>
   <p>There are so many people that you need to wait in line to take a picture :smile:</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04687-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04687-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04687-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04687-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <p>But the view is worth it!</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04696-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04696-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04696-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04696-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04731-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04731-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04731-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04731-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
   <p>Afterwards we hiked a bit in the park and went home to Tokyo.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kawaguchiko-japan/DSC04750-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kawaguchiko-japan/DSC04750-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
+    <a href="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04750-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kawaguchiko-japan/DSC04750-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Tokyo, Japan" />
     </a>
   </figure>
 </section>

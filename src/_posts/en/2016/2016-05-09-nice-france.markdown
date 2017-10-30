@@ -5,7 +5,7 @@ ref:        nice-france
 lang:       en
 title:      Nice, France
 date:       2016-05-09 12:00:00
-image:      /images/posts/2016/nice-france/cover-2000.jpg
+image:      https://content.11route.com/posts/2016/nice-france/cover-2000.jpg
 summary:    One day in Nice.
 categories:
   - france
@@ -29,64 +29,64 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09382-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09382-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09382-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09382-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2016/nice-france/DSC09390-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09390-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
+      <a href="https://content.11route.com/posts/2016/nice-france/DSC09390-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09390-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2016/nice-france/DSC09477-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09477-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
+      <a href="https://content.11route.com/posts/2016/nice-france/DSC09477-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09477-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09394-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09394-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09394-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09394-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09399-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09399-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09399-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09399-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
   <p>In the city center the are no wires and trams are running on batteries.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09404-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09404-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09404-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09404-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09406-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09406-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09406-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09406-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
   <p>Interesting children playground.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09408-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09408-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09408-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09408-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2016/nice-france/DSC09409-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09409-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
+      <a href="https://content.11route.com/posts/2016/nice-france/DSC09409-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09409-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2016/nice-france/DSC09412-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-        <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09412-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
+      <a href="https://content.11route.com/posts/2016/nice-france/DSC09412-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09412-750.jpg" width="750" height="500" itemprop="thumbnail" alt="Nice, France" />
       </a>
     </figure>
   </div>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2016/nice-france/DSC09473-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
-      <img src="/images/bg.png" data-src="/images/posts/2016/nice-france/DSC09473-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
+    <a href="https://content.11route.com/posts/2016/nice-france/DSC09473-2000.jpg" itemprop="contentUrl" data-size="2000x1333">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2016/nice-france/DSC09473-1000.jpg" width="1000" height="667" itemprop="thumbnail" alt="Nice, France" />
     </a>
   </figure>
 </section>

@@ -5,7 +5,7 @@ ref:        phi-phi-thailand
 lang:       en
 title:      Phi Phi Islands, Thailand
 date:       2017-02-09 12:00:00
-image:      /images/posts/2017/phi-phi-thailand/cover-2000.jpg
+image:      https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg
 summary:    snorkeling at Phi Phi Islands.
 categories:
   - phi phi island
@@ -28,8 +28,8 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01066-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01066-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01066-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01066-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
 </section>
@@ -41,8 +41,8 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01075-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01075-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01075-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01075-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
 </section>
@@ -55,19 +55,19 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01100-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01100-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01100-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01100-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/phi-phi-thailand/DSC01086-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01086-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+      <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01086-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01086-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/phi-phi-thailand/DSC01098-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01098-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+      <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01098-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01098-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
       </a>
     </figure>
   </div>
@@ -77,19 +77,19 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01114-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01114-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01114-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01114-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
   <p>After lunch we visited Vikings Caves where a chinese company harvests swallows' nests to make very expensive soup.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/phi-phi-thailand/DSC01123-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01123-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+      <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01123-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01123-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
       </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01127-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01127-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01127-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01127-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
 </section>
@@ -101,13 +101,13 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01136-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01136-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01136-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01136-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01142-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01142-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01142-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01142-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
 </section>
@@ -118,13 +118,13 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01149-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01149-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01149-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01149-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/phi-phi-thailand/DSC01150-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/phi-phi-thailand/DSC01150-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
+    <a href="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01150-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/phi-phi-thailand/DSC01150-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Phi-Phi, Thailand" />
     </a>
   </figure>
 </section>

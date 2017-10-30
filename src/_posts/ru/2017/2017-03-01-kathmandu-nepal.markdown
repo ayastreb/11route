@@ -5,7 +5,7 @@ ref:        kathmandu-nepal
 lang:       ru
 title:      Катманду, Непал
 date:       2017-03-01 12:00:00
-image:      /images/posts/2017/kathmandu-nepal/cover-2000.jpg
+image:      https://content.11route.com/posts/2017/kathmandu-nepal/cover-2000.jpg
 summary:    Прогулка по столице Непала.
 categories:
   - непал
@@ -35,8 +35,8 @@ location:
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <div style="text-align: center;">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/kathmandu-nepal/DSC02801-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
-        <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02801-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+      <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02801-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02801-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Kathmandu, Nepal" />
       </a>
     </figure>
   </div>
@@ -50,18 +50,18 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02750-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02750-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02750-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02750-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02759-3000.jpg" itemprop="contentUrl" data-size="3000x2322">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02759-1000.jpg" width="1000" height="774" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02759-3000.jpg" itemprop="contentUrl" data-size="3000x2322">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02759-1000.jpg" width="1000" height="774" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02775-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02775-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02775-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02775-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
 </section>
@@ -76,14 +76,14 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02776-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02776-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02776-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02776-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <p>Вечером монахи зажигают лампады в качестве подношения.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02779-3000.jpg" itemprop="contentUrl" data-size="3000x2113">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02779-1000.jpg" width="1000" height="704" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02779-3000.jpg" itemprop="contentUrl" data-size="3000x2113">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02779-1000.jpg" width="1000" height="704" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
 </section>
@@ -95,29 +95,29 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02789-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02789-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02789-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02789-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02788-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02788-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02788-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02788-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02782-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02782-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02782-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02782-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/kathmandu-nepal/DSC02783-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02783-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+      <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02783-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02783-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Kathmandu, Nepal" />
       </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="/images/posts/2017/kathmandu-nepal/DSC02784-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-        <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02784-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+      <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02784-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02784-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Kathmandu, Nepal" />
       </a>
     </figure>
   </div>
@@ -135,19 +135,19 @@ location:
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02816-3000.jpg" itemprop="contentUrl" data-size="3000x2176">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02816-1000.jpg" width="1000" height="725" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02816-3000.jpg" itemprop="contentUrl" data-size="3000x2176">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02816-1000.jpg" width="1000" height="725" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02825-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02825-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02825-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02825-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
   <p>Традиционная еда в Непале - момо - местная разновидность пельменей. Это была наша основная еда на обед и ужин.</p>
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <a href="/images/posts/2017/kathmandu-nepal/DSC02828-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
-      <img src="/images/bg.png" data-src="/images/posts/2017/kathmandu-nepal/DSC02828-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
+    <a href="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02828-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2017/kathmandu-nepal/DSC02828-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Kathmandu, Nepal" />
     </a>
   </figure>
 </section>

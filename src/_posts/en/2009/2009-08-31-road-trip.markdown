@@ -5,7 +5,7 @@ ref:        road-trip
 lang:       en
 title:      Road Trip, The Beginning
 date:       2009-08-31 12:00:00
-image:      /images/posts/2009/road-trip/cover.jpg
+image:      https://content.11route.com/posts/2009/road-trip/cover.jpg
 summary:    The beginning of my three-weeks road trip across the western United States
 categories: travel usa san francisco
 location:
@@ -20,8 +20,8 @@ location:
 </section>
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-  <a href="/images/posts/2009/road-trip/12836490394_4dc333a24c_o.jpg" itemprop="contentUrl" data-size="1600x1071">
-    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip/12836490394_c218bb917a_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02369" />
+  <a href="https://content.11route.com/posts/2009/road-trip/12836490394_4dc333a24c_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="https://content.11route.com/posts/2009/road-trip/12836490394_c218bb917a_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02369" />
   </a>
 </figure>
 
@@ -29,8 +29,8 @@ location:
 Some huge trees are growing there.
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-  <a href="/images/posts/2009/road-trip/12836151273_e1e1aea3ec_o.jpg" itemprop="contentUrl" data-size="1071x1600">
-    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip/12836151273_3aac06fe95_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02375" />
+  <a href="https://content.11route.com/posts/2009/road-trip/12836151273_e1e1aea3ec_o.jpg" itemprop="contentUrl" data-size="1071x1600">
+    <img src="/images/bg.png" data-src="https://content.11route.com/posts/2009/road-trip/12836151273_3aac06fe95_b.jpg" width="685" height="1024" itemprop="thumbnail" alt="DSC02375" />
   </a>
 </figure>
 
@@ -38,8 +38,8 @@ Some huge trees are growing there.
 Stopped on the beach.
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-  <a href="/images/posts/2009/road-trip/12836601384_8c9f7a112e_o.jpg" itemprop="contentUrl" data-size="1600x1071">
-    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip/12836601384_5af7173cf0_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02382" />
+  <a href="https://content.11route.com/posts/2009/road-trip/12836601384_8c9f7a112e_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="https://content.11route.com/posts/2009/road-trip/12836601384_5af7173cf0_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02382" />
   </a>
 </figure>
 
@@ -47,8 +47,8 @@ Stopped on the beach.
 It was too cold to swim, but the view is nice.
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-  <a href="/images/posts/2009/road-trip/12836507624_248436dc24_o.jpg" itemprop="contentUrl" data-size="1600x1071">
-    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip/12836507624_144bc956b1_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02388" />
+  <a href="https://content.11route.com/posts/2009/road-trip/12836507624_248436dc24_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="https://content.11route.com/posts/2009/road-trip/12836507624_144bc956b1_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02388" />
   </a>
 </figure>
 
@@ -56,8 +56,8 @@ It was too cold to swim, but the view is nice.
 Stopped overnight in a motel near Medford, OR.
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-  <a href="/images/posts/2009/road-trip/12836161673_7b287b76b5_o.jpg" itemprop="contentUrl" data-size="1600x1071">
-    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip/12836161673_98c4e15870_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02400" />
+  <a href="https://content.11route.com/posts/2009/road-trip/12836161673_7b287b76b5_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="https://content.11route.com/posts/2009/road-trip/12836161673_98c4e15870_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02400" />
   </a>
 </figure>
 
@@ -65,8 +65,8 @@ Stopped overnight in a motel near Medford, OR.
 The next day we moved on.
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-  <a href="/images/posts/2009/road-trip/12836249693_2d6a50d0ff_o.jpg" itemprop="contentUrl" data-size="1600x1071">
-    <img src="/images/bg.png" data-src="/images/posts/2009/road-trip/12836249693_c2736c713c_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02402" />
+  <a href="https://content.11route.com/posts/2009/road-trip/12836249693_2d6a50d0ff_o.jpg" itemprop="contentUrl" data-size="1600x1071">
+    <img src="/images/bg.png" data-src="https://content.11route.com/posts/2009/road-trip/12836249693_c2736c713c_b.jpg" width="1024" height="685" itemprop="thumbnail" alt="DSC02402" />
   </a>
 </figure>
 
