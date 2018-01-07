@@ -1,7 +1,9 @@
 <footer class="center">
   <div class="measure">
     <small>
-      © {{ site.time | date: '%Y' }} by <a href="{{ site.author_twitter }}" target="_blank">{{ site.author }}</a><br/>
+      © {{ site.time | date: '%Y' }} by
+      <a href="{{ site.author_url }}" target="_blank">{{ site.author }}</a>
+      <br/>
       <a href="mailto:{{ site.email }}" target="_blank">{{ site.navigation.contact[page.lang] }}</a>
       <a href="{{ site.blog_github }}" target="_blank">GitHub</a>
     </small>
