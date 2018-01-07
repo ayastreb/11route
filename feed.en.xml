@@ -154,11 +154,242 @@ if (typeof Object.assign !== 'function') {
     
     
     <item>
-      <title>Austin, Texas</title>
-      <description>&lt;div id=&quot;e25ff406-6d08-41b4-8020-8b54e9b5a99b&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <title>Denver, Colorado</title>
+      <description>&lt;div id=&quot;7277532e-dcb7-4bac-9e73-bcb5d4c8bdb5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e25ff406-6d08-41b4-8020-8b54e9b5a99b',
+    '7277532e-dcb7-4bac-9e73-bcb5d4c8bdb5',
+    [{&quot;latitude&quot;:39.7409662,&quot;longitude&quot;:-105.0001597,&quot;title&quot;:&quot;Denver, Colorado&quot;,&quot;url&quot;:&quot;/en/denver-colorado&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg&quot;}],
+    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+  );
+&lt;/script&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  After Austin we went to Colorado, where spent a couple of days in Denver.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07334-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07334-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;They have a free bus running on the main street here, taking people from one mall to another.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07338-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07338-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07339-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07339-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07340-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07340-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Christmass market, almost like in Germany.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07343-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07343-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Walk around an empty prak.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07358-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07358-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07365-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07365-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Met some well-fed squirells here.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07354-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07354-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07356-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07356-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07359-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07359-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  In Denver we visited botanical garden as well.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07369-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07369-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07371-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07371-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07378-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07378-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07382-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07382-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07392-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07392-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;There are christmass lights all over the trees and bushes.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07402-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07402-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07411-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07411-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07416-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07416-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;p&gt;Japanese garden, but it's not very exciting for us 😀&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07421-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07421-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Someone has a memorial bench in the garden.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07423-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07423-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07431-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07431-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;Modern art.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07435-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07435-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  From Denver we went to Rocky Mountains, in a town called Estes-Park.&lt;br /&gt;
+  The nature is great here and deers are walking just in fron of the houses.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07443-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07443-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07440-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07440-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07450-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07450-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07467-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07467-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07477-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07477-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07495-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07495-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;rabbit&quot; data-video-id=&quot;7PBTajXSV2E&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07502-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07502-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07548-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07548-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07561-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07561-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;elk&quot; data-video-id=&quot;I6NqIgEo8XQ&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07570-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07570-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07573-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/denver-colorado/DSC07573-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Denver, Colorado&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Wed, 22 Nov 2017 12:00:00 +0000</pubDate>
+      <link>https://11route.com/en/denver-colorado</link>
+      <guid isPermaLink="true">https://11route.com/en/denver-colorado</guid>
+    </item>
+    
+    <item>
+      <title>Austin, Texas</title>
+      <description>&lt;div id=&quot;efb81beb-f228-4146-ae13-016420388154&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  jekyllMaps.register(
+    'efb81beb-f228-4146-ae13-016420388154',
     [{&quot;latitude&quot;:30.2653813,&quot;longitude&quot;:-97.7428643,&quot;title&quot;:&quot;Austin, Texas&quot;,&quot;url&quot;:&quot;/en/austin-texas&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/austin-texas/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -260,10 +491,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Nikko, Japan</title>
-      <description>&lt;div id=&quot;1917a0d9-a4dd-412f-a823-da1e5c8a80da&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;2bfda429-e0f5-44f2-96ea-77a30645aa33&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '1917a0d9-a4dd-412f-a823-da1e5c8a80da',
+    '2bfda429-e0f5-44f2-96ea-77a30645aa33',
     [{&quot;latitude&quot;:36.7439076,&quot;longitude&quot;:139.4582734,&quot;title&quot;:&quot;Nikko, Japan&quot;,&quot;url&quot;:&quot;/en/nikko-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -695,10 +926,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Kawaguchiko, Japan</title>
-      <description>&lt;div id=&quot;2503c1bb-9912-47d6-88b9-7ad8005dc03d&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f485069b-0745-4abf-bc93-391aac65c656&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '2503c1bb-9912-47d6-88b9-7ad8005dc03d',
+    'f485069b-0745-4abf-bc93-391aac65c656',
     [{&quot;latitude&quot;:35.4982482,&quot;longitude&quot;:138.7687355,&quot;title&quot;:&quot;Kawaguchiko, Japan&quot;,&quot;url&quot;:&quot;/en/kawaguchiko-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/kawaguchiko-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -849,10 +1080,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Odaiba, Tokyo</title>
-      <description>&lt;div id=&quot;1811ee22-a3b0-499d-be00-c71c89dd87d0&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;4188a9db-eb79-4903-be5e-61b86e9412d7&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '1811ee22-a3b0-499d-be00-c71c89dd87d0',
+    '4188a9db-eb79-4903-be5e-61b86e9412d7',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Odaiba, Tokyo&quot;,&quot;url&quot;:&quot;/en/odaiba-tokyo&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
@@ -1111,10 +1342,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Tokyo, Japan</title>
-      <description>&lt;div id=&quot;70ceebe7-fc1f-4f1a-8397-c437c2feb5f8&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;c6496e35-7028-4977-89d1-095b24d92459&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '70ceebe7-fc1f-4f1a-8397-c437c2feb5f8',
+    'c6496e35-7028-4977-89d1-095b24d92459',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Tokyo, Japan&quot;,&quot;url&quot;:&quot;/en/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -1442,10 +1673,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>New Delhi, India</title>
-      <description>&lt;div id=&quot;3e1a9481-5fbe-4d6f-9cb4-9f2ce2d0073b&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;ca46a455-abb6-43b1-a69d-164a02f01766&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '3e1a9481-5fbe-4d6f-9cb4-9f2ce2d0073b',
+    'ca46a455-abb6-43b1-a69d-164a02f01766',
     [{&quot;latitude&quot;:28.6139453,&quot;longitude&quot;:77.2089075,&quot;title&quot;:&quot;New Delhi, India&quot;,&quot;url&quot;:&quot;/en/new-delhi-india&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
@@ -1652,10 +1883,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Kathmandu, Nepal</title>
-      <description>&lt;div id=&quot;99b53729-7a5e-4150-bc2a-407177e46720&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;bdaa0c3b-a232-46bd-8b0b-c6a4579a561e&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '99b53729-7a5e-4150-bc2a-407177e46720',
+    'bdaa0c3b-a232-46bd-8b0b-c6a4579a561e',
     [{&quot;latitude&quot;:27.7172177,&quot;longitude&quot;:85.3239781,&quot;title&quot;:&quot;Kathmandu, Nepal&quot;,&quot;url&quot;:&quot;/en/kathmandu-nepal&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/kathmandu-nepal/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1797,10 +2028,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Tiger's Nest, Bhutan</title>
-      <description>&lt;div id=&quot;7d6bca4e-7064-41ce-8df3-25a24eeb1b1d&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;0dfd8a0f-e2a5-4435-b8c5-fae553614cc3&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '7d6bca4e-7064-41ce-8df3-25a24eeb1b1d',
+    '0dfd8a0f-e2a5-4435-b8c5-fae553614cc3',
     [{&quot;latitude&quot;:27.4918542,&quot;longitude&quot;:89.3633987,&quot;title&quot;:&quot;Tiger's Nest, Bhutan&quot;,&quot;url&quot;:&quot;/en/taktsang-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/taktsang-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -1947,10 +2178,10 @@ It's a gated community where wealthy indians are living.
     
     <item>
       <title>Paro, Bhutan</title>
-      <description>&lt;div id=&quot;594aab02-c4be-406a-8b2b-08b86110b82d&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;a6ac7a46-0fcd-43c8-a741-6a610f6ddce6&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '594aab02-c4be-406a-8b2b-08b86110b82d',
+    'a6ac7a46-0fcd-43c8-a741-6a610f6ddce6',
     [{&quot;latitude&quot;:27.4280725,&quot;longitude&quot;:89.4152995,&quot;title&quot;:&quot;Paro, Bhutan&quot;,&quot;url&quot;:&quot;/en/paro-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/paro-bhutan/cover-2000.jpg&quot;}],
     {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
   );
@@ -2069,181 +2300,6 @@ It's a gated community where wealthy indians are living.
       <pubDate>Mon, 27 Feb 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/en/paro-bhutan</link>
       <guid isPermaLink="true">https://11route.com/en/paro-bhutan</guid>
-    </item>
-    
-    <item>
-      <title>Punakha, Bhutan</title>
-      <description>&lt;div id=&quot;69fe5e08-5a66-458e-af85-da8ba631f1da&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-  jekyllMaps.register(
-    '69fe5e08-5a66-458e-af85-da8ba631f1da',
-    [{&quot;latitude&quot;:27.58211,&quot;longitude&quot;:89.8623451,&quot;title&quot;:&quot;Punakha, Bhutan&quot;,&quot;url&quot;:&quot;/en/punakha-bhutan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/punakha-bhutan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:8}
-  );
-&lt;/script&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  On the next day we went from Thimphu to Punakha. Not far away from Punakha there is Chimi Lhakhang monastery built on the site blessed by Drukpa Kunley.
-  On our way out of Thimphu we stopped to see the Big Buddha statue once more.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02283-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02283-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02287-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02287-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02294-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02294-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Simtokha-dzong &amp;mdash; the first dzong which was built by Zhabdrung in 1629.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02298-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02298-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Most of the trucks in Bhutan are decorated in Buddhist style.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02309-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02309-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  On the mountain pass there was a thick fog, you could almost see nothing.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;div style=&quot;text-align: center;&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02314-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02314-1000.jpg&quot; width=&quot;668&quot; height=&quot;1000&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  The Chimi Lhakhang monastery is the repository of the original wooden symbol of phallus that Kunley brought from Tibet. This wooden phallus is decorated with a silver handle and is used to bless people who visit the monastery on pilgrimage, particularly women seeking blessings to beget children.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02321-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02321-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Surroundings of the monastery.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02331-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02331-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02338-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x1977&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02338-1000.jpg&quot; width=&quot;1000&quot; height=&quot;659&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  All houses in the village have paintings of phalluses on their exterior walls.
-  Traditionally symbols of an erect penis in Bhutan have been intended to drive away the evil eye and malicious gossip.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02335-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02335-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02345-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02345-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02350-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02350-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  After visiting the monastery we went to Punkha-dzong. It is a monastery, fortress and an administrative center of Punakha District. Punakha Dzong was the administrative centre and the seat of the Government of Bhutan until 1955, when the capital was moved to Thimphu.
-  Due to the warmer climate in the region, the head of the clergy of Bhutan with his entourage of monks spend the winter in this dzong.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02356-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02356-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02359-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02359-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02360-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02360-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02379-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02379-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02387-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02387-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02381-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02381-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02396-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02396-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02408-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02408-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02405-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02405-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02423-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/punakha-bhutan/DSC02423-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Punakha, Bhutan&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Sun, 26 Feb 2017 12:00:00 +0000</pubDate>
-      <link>https://11route.com/en/punakha-bhutan</link>
-      <guid isPermaLink="true">https://11route.com/en/punakha-bhutan</guid>
     </item>
     
   </channel>
