@@ -2,7 +2,7 @@
   /* global google */
 /* global MarkerClusterer */
 // eslint-disable-next-line no-unused-vars
-var jekyllMaps = (function () {
+var jekyllMaps = (function() {
   'use strict'
   var clusterSettings = {}
   var clusterReady = false
@@ -20,7 +20,7 @@ var jekyllMaps = (function () {
   /**
    * Setup Google Maps options and call renderer.
    */
-  function initializeMap () {
+  function initializeMap() {
     options = {
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       center: new google.maps.LatLng(0, 0)
@@ -36,7 +36,7 @@ var jekyllMaps = (function () {
    * @param Array locations
    * @param Object settings
    */
-  function register (id, locations, options) {
+  function register(id, locations, options) {
     data.push({ id: id, locations: locations, options: options })
     render()
   }
@@ -44,19 +44,22 @@ var jekyllMaps = (function () {
   /**
    * Render maps data if Google Maps API is loaded.
    */
-  function render () {
+  function render() {
     if (!mapReady) return
 
     while (data.length > 0) {
       var item = data.pop()
       var bounds = new google.maps.LatLngBounds()
       var mapOptions = Object.assign({}, options, item.options)
-      var map = new google.maps.Map(document.getElementById(item.id), mapOptions)
+      var map = new google.maps.Map(
+        document.getElementById(item.id),
+        mapOptions
+      )
       var infoWindow = new google.maps.InfoWindow()
       var markers = item.locations.map(createMarker)
 
       map.fitBounds(bounds)
-      google.maps.event.addListenerOnce(map, 'bounds_changed', function() {
+      google.maps.event.addListenerOnce(map, 'idle', function() {
         if (this.customZoom) this.setZoom(this.customZoom)
       })
       if (mapOptions.useCluster) {
@@ -65,8 +68,11 @@ var jekyllMaps = (function () {
       }
     }
 
-    function createMarker (location) {
-      var position = new google.maps.LatLng(location.latitude, location.longitude)
+    function createMarker(location) {
+      var position = new google.maps.LatLng(
+        location.latitude,
+        location.longitude
+      )
       bounds.extend(position)
       if (!mapOptions.showMarker) return false
 
@@ -74,7 +80,7 @@ var jekyllMaps = (function () {
         position: position,
         title: location.title,
         image: location.image,
-        url: location.url,
+        url: location.url.length > 0 ? mapOptions.baseUrl + location.url : '',
         map: map
       })
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
@@ -82,8 +88,9 @@ var jekyllMaps = (function () {
       return marker
     }
 
-    function markerPopup () {
-      var contentHtml = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+    function markerPopup() {
+      var contentHtml =
+        '<div class="map-info-window"><h5>' + this.title + '</h5>'
       var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
       if (this.url.length > 0) {
         var linkText = this.image.length > 0 ? imageHtml : 'View'
@@ -96,13 +103,13 @@ var jekyllMaps = (function () {
     }
   }
 
-  function initializeCluster (settings) {
+  function initializeCluster(settings) {
     clusterReady = true
     clusterSettings = settings || {}
     processCluster()
   }
 
-  function processCluster () {
+  function processCluster() {
     if (!clusterReady) return
 
     while (maps.length > 0) {
@@ -110,14 +117,15 @@ var jekyllMaps = (function () {
       // eslint-disable-next-line no-new
       new MarkerClusterer(obj.map, obj.markers, {
         gridSize: clusterSettings.grid_size || 25,
-        imagePath: 'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
+        imagePath:
+          'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
       })
     }
   }
-}())
+})()
 /* Object.assign polyfill */
 if (typeof Object.assign !== 'function') {
-  Object.assign = function (target) {
+  Object.assign = function(target) {
     'use strict'
     if (target == null) {
       throw new TypeError('Cannot convert undefined or null to object')
@@ -125,11 +133,11 @@ if (typeof Object.assign !== 'function') {
 
     target = Object(target)
     for (var index = 1; index < arguments.length; index++) {
-      var source = arguments[ index ]
+      var source = arguments[index]
       if (source != null) {
         for (var key in source) {
           if (Object.prototype.hasOwnProperty.call(source, key)) {
-            target[ key ] = source[ key ]
+            target[key] = source[key]
           }
         }
       }
@@ -155,12 +163,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Шанхай, Китай</title>
-      <description>&lt;div id=&quot;43099ab4-14df-4b7d-b1b9-fe4b4ec45808&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;88eae205-6308-4946-ac3b-0d329df222bd&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '43099ab4-14df-4b7d-b1b9-fe4b4ec45808',
+    '88eae205-6308-4946-ac3b-0d329df222bd',
     [{&quot;latitude&quot;:31.2303452,&quot;longitude&quot;:121.4716832,&quot;title&quot;:&quot;Шанхай, Китай&quot;,&quot;url&quot;:&quot;/shanghai-china&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/shanghai-china/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -397,12 +405,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Сан-Франциско, Калифорния</title>
-      <description>&lt;div id=&quot;53c62ae7-a3e4-4b64-bb4b-ac277509074a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e07c84ed-a08f-4ebe-9fe1-923b774f43c6&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '53c62ae7-a3e4-4b64-bb4b-ac277509074a',
+    'e07c84ed-a08f-4ebe-9fe1-923b774f43c6',
     [{&quot;latitude&quot;:37.7757954,&quot;longitude&quot;:-122.4347574,&quot;title&quot;:&quot;Сан-Франциско, Калифорния&quot;,&quot;url&quot;:&quot;/san-francisco-ca&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/san-francisco-ca/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -707,12 +715,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Сиэттл, Вашингтон</title>
-      <description>&lt;div id=&quot;3c39e06a-12ae-4b5d-ac41-617e0d74cad4&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;988676a3-053b-44e1-b3e9-b930c217c4e5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '3c39e06a-12ae-4b5d-ac41-617e0d74cad4',
+    '988676a3-053b-44e1-b3e9-b930c217c4e5',
     [{&quot;latitude&quot;:47.6062965,&quot;longitude&quot;:-122.3370089,&quot;title&quot;:&quot;Сиэттл, Вашингтон&quot;,&quot;url&quot;:&quot;/seattle-washington&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/seattle-washington/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:14}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:14}
   );
 &lt;/script&gt;
 
@@ -930,12 +938,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Денвер, Колорадо</title>
-      <description>&lt;div id=&quot;86a413e8-299a-4fe6-b8d3-ce1466b06bb2&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;6f79a0e4-f370-4ac6-b192-aea3b532eb1e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '86a413e8-299a-4fe6-b8d3-ce1466b06bb2',
+    '6f79a0e4-f370-4ac6-b192-aea3b532eb1e',
     [{&quot;latitude&quot;:39.7409662,&quot;longitude&quot;:-105.0001597,&quot;title&quot;:&quot;Денвер, Колорадо&quot;,&quot;url&quot;:&quot;/denver-colorado&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1161,12 +1169,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остин, Техас</title>
-      <description>&lt;div id=&quot;75b9f8ca-6c40-4d4f-8151-0122783cc82a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;26201b97-9e20-4874-869a-21a05ada5059&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '75b9f8ca-6c40-4d4f-8151-0122783cc82a',
+    '26201b97-9e20-4874-869a-21a05ada5059',
     [{&quot;latitude&quot;:30.2653813,&quot;longitude&quot;:-97.7428643,&quot;title&quot;:&quot;Остин, Техас&quot;,&quot;url&quot;:&quot;/austin-texas&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/austin-texas/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1266,12 +1274,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Никко, Япония</title>
-      <description>&lt;div id=&quot;0c751a9e-4c45-4935-b045-02d7e28c0a42&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;9d9ef398-5ac2-4755-b7f2-364df963f2b9&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '0c751a9e-4c45-4935-b045-02d7e28c0a42',
+    '9d9ef398-5ac2-4755-b7f2-364df963f2b9',
     [{&quot;latitude&quot;:36.7439076,&quot;longitude&quot;:139.4582734,&quot;title&quot;:&quot;Никко, Япония&quot;,&quot;url&quot;:&quot;/nikko-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1700,12 +1708,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Кавагутико, Япония</title>
-      <description>&lt;div id=&quot;61f36574-3ffd-40af-9de4-e541c35ed30a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;03a5ba84-82c4-49e9-94b1-a99bba5f67b0&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '61f36574-3ffd-40af-9de4-e541c35ed30a',
+    '03a5ba84-82c4-49e9-94b1-a99bba5f67b0',
     [{&quot;latitude&quot;:35.4982482,&quot;longitude&quot;:138.7687355,&quot;title&quot;:&quot;Кавагутико, Япония&quot;,&quot;url&quot;:&quot;/kawaguchiko-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/kawaguchiko-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1854,12 +1862,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Одайба, Токио</title>
-      <description>&lt;div id=&quot;7287a3b0-7eef-46c8-82de-2dd4db51641a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;57e22533-2102-4775-b1cc-862cb007317a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '7287a3b0-7eef-46c8-82de-2dd4db51641a',
+    '57e22533-2102-4775-b1cc-862cb007317a',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Одайба, Токио&quot;,&quot;url&quot;:&quot;/odaiba-tokyo&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -2118,12 +2126,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Токио, Япония</title>
-      <description>&lt;div id=&quot;30db2915-21e1-4b9c-8aee-1e5d46b7c2a3&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;419b5529-3ae3-443e-ba74-08d68e42bd9e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '30db2915-21e1-4b9c-8aee-1e5d46b7c2a3',
+    '419b5529-3ae3-443e-ba74-08d68e42bd9e',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Токио, Япония&quot;,&quot;url&quot;:&quot;/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
 &lt;/script&gt;
 
@@ -2450,12 +2458,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Нью-Дели, Индия</title>
-      <description>&lt;div id=&quot;fd3dab11-c4d2-4759-84cf-b0976b32a6e4&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f63a59dd-0b8e-45da-8ef2-fc2c546c1bb3&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'fd3dab11-c4d2-4759-84cf-b0976b32a6e4',
+    'f63a59dd-0b8e-45da-8ef2-fc2c546c1bb3',
     [{&quot;latitude&quot;:28.6139453,&quot;longitude&quot;:77.2089075,&quot;title&quot;:&quot;Нью-Дели, Индия&quot;,&quot;url&quot;:&quot;/new-delhi-india&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
 &lt;/script&gt;
 

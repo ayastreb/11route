@@ -2,7 +2,7 @@
   /* global google */
 /* global MarkerClusterer */
 // eslint-disable-next-line no-unused-vars
-var jekyllMaps = (function () {
+var jekyllMaps = (function() {
   'use strict'
   var clusterSettings = {}
   var clusterReady = false
@@ -20,7 +20,7 @@ var jekyllMaps = (function () {
   /**
    * Setup Google Maps options and call renderer.
    */
-  function initializeMap () {
+  function initializeMap() {
     options = {
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       center: new google.maps.LatLng(0, 0)
@@ -36,7 +36,7 @@ var jekyllMaps = (function () {
    * @param Array locations
    * @param Object settings
    */
-  function register (id, locations, options) {
+  function register(id, locations, options) {
     data.push({ id: id, locations: locations, options: options })
     render()
   }
@@ -44,19 +44,22 @@ var jekyllMaps = (function () {
   /**
    * Render maps data if Google Maps API is loaded.
    */
-  function render () {
+  function render() {
     if (!mapReady) return
 
     while (data.length > 0) {
       var item = data.pop()
       var bounds = new google.maps.LatLngBounds()
       var mapOptions = Object.assign({}, options, item.options)
-      var map = new google.maps.Map(document.getElementById(item.id), mapOptions)
+      var map = new google.maps.Map(
+        document.getElementById(item.id),
+        mapOptions
+      )
       var infoWindow = new google.maps.InfoWindow()
       var markers = item.locations.map(createMarker)
 
       map.fitBounds(bounds)
-      google.maps.event.addListenerOnce(map, 'bounds_changed', function() {
+      google.maps.event.addListenerOnce(map, 'idle', function() {
         if (this.customZoom) this.setZoom(this.customZoom)
       })
       if (mapOptions.useCluster) {
@@ -65,8 +68,11 @@ var jekyllMaps = (function () {
       }
     }
 
-    function createMarker (location) {
-      var position = new google.maps.LatLng(location.latitude, location.longitude)
+    function createMarker(location) {
+      var position = new google.maps.LatLng(
+        location.latitude,
+        location.longitude
+      )
       bounds.extend(position)
       if (!mapOptions.showMarker) return false
 
@@ -74,7 +80,7 @@ var jekyllMaps = (function () {
         position: position,
         title: location.title,
         image: location.image,
-        url: location.url,
+        url: location.url.length > 0 ? mapOptions.baseUrl + location.url : '',
         map: map
       })
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
@@ -82,8 +88,9 @@ var jekyllMaps = (function () {
       return marker
     }
 
-    function markerPopup () {
-      var contentHtml = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+    function markerPopup() {
+      var contentHtml =
+        '<div class="map-info-window"><h5>' + this.title + '</h5>'
       var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
       if (this.url.length > 0) {
         var linkText = this.image.length > 0 ? imageHtml : 'View'
@@ -96,13 +103,13 @@ var jekyllMaps = (function () {
     }
   }
 
-  function initializeCluster (settings) {
+  function initializeCluster(settings) {
     clusterReady = true
     clusterSettings = settings || {}
     processCluster()
   }
 
-  function processCluster () {
+  function processCluster() {
     if (!clusterReady) return
 
     while (maps.length > 0) {
@@ -110,14 +117,15 @@ var jekyllMaps = (function () {
       // eslint-disable-next-line no-new
       new MarkerClusterer(obj.map, obj.markers, {
         gridSize: clusterSettings.grid_size || 25,
-        imagePath: 'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
+        imagePath:
+          'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
       })
     }
   }
-}())
+})()
 /* Object.assign polyfill */
 if (typeof Object.assign !== 'function') {
-  Object.assign = function (target) {
+  Object.assign = function(target) {
     'use strict'
     if (target == null) {
       throw new TypeError('Cannot convert undefined or null to object')
@@ -125,11 +133,11 @@ if (typeof Object.assign !== 'function') {
 
     target = Object(target)
     for (var index = 1; index < arguments.length; index++) {
-      var source = arguments[ index ]
+      var source = arguments[index]
       if (source != null) {
         for (var key in source) {
           if (Object.prototype.hasOwnProperty.call(source, key)) {
-            target[ key ] = source[ key ]
+            target[key] = source[key]
           }
         }
       }
@@ -155,12 +163,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Shanghai, China</title>
-      <description>&lt;div id=&quot;79bd13ee-9b19-4e1b-904c-366bf5a11cda&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;532f57c3-3fc8-41bf-94bf-0adffaa18788&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '79bd13ee-9b19-4e1b-904c-366bf5a11cda',
+    '532f57c3-3fc8-41bf-94bf-0adffaa18788',
     [{&quot;latitude&quot;:31.2303452,&quot;longitude&quot;:121.4716832,&quot;title&quot;:&quot;Shanghai, China&quot;,&quot;url&quot;:&quot;/en/shanghai-china&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/shanghai-china/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -398,12 +406,12 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>San Francisco, California</title>
-      <description>&lt;div id=&quot;64922ca4-17bf-4e83-9cf7-208c6bde168d&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;ce758c11-4dfb-486a-81bc-e7cfb26affb8&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '64922ca4-17bf-4e83-9cf7-208c6bde168d',
+    'ce758c11-4dfb-486a-81bc-e7cfb26affb8',
     [{&quot;latitude&quot;:37.7757954,&quot;longitude&quot;:-122.4347574,&quot;title&quot;:&quot;San Francisco, California&quot;,&quot;url&quot;:&quot;/en/san-francisco-ca&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/san-francisco-ca/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -708,12 +716,12 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Seattle, Washington</title>
-      <description>&lt;div id=&quot;c25e2a69-19bc-4639-b83a-0cc2df4bad17&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;9d900987-4014-40e5-a849-12d2c318489b&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'c25e2a69-19bc-4639-b83a-0cc2df4bad17',
+    '9d900987-4014-40e5-a849-12d2c318489b',
     [{&quot;latitude&quot;:47.6062965,&quot;longitude&quot;:-122.3370089,&quot;title&quot;:&quot;Seattle, Washington&quot;,&quot;url&quot;:&quot;/en/seattle-washington&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/seattle-washington/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:14}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:14}
   );
 &lt;/script&gt;
 
@@ -932,12 +940,12 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Denver, Colorado</title>
-      <description>&lt;div id=&quot;14fea588-5fdd-4cbc-ba98-a54626d07759&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;96b5baee-7e55-4066-b7fa-50c004e808d9&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '14fea588-5fdd-4cbc-ba98-a54626d07759',
+    '96b5baee-7e55-4066-b7fa-50c004e808d9',
     [{&quot;latitude&quot;:39.7409662,&quot;longitude&quot;:-105.0001597,&quot;title&quot;:&quot;Denver, Colorado&quot;,&quot;url&quot;:&quot;/en/denver-colorado&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1163,12 +1171,12 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Austin, Texas</title>
-      <description>&lt;div id=&quot;dff2c766-4b37-4a92-99b3-b67a1c1d30be&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;20ada04c-b059-461a-a50c-34b075dce014&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'dff2c766-4b37-4a92-99b3-b67a1c1d30be',
+    '20ada04c-b059-461a-a50c-34b075dce014',
     [{&quot;latitude&quot;:30.2653813,&quot;longitude&quot;:-97.7428643,&quot;title&quot;:&quot;Austin, Texas&quot;,&quot;url&quot;:&quot;/en/austin-texas&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/austin-texas/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1268,12 +1276,12 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Nikko, Japan</title>
-      <description>&lt;div id=&quot;de179c6e-d327-4abe-9629-62796985d7c0&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;ed29094a-35ea-421f-adf9-93d61f701ca6&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'de179c6e-d327-4abe-9629-62796985d7c0',
+    'ed29094a-35ea-421f-adf9-93d61f701ca6',
     [{&quot;latitude&quot;:36.7439076,&quot;longitude&quot;:139.4582734,&quot;title&quot;:&quot;Nikko, Japan&quot;,&quot;url&quot;:&quot;/en/nikko-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1703,12 +1711,12 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Kawaguchiko, Japan</title>
-      <description>&lt;div id=&quot;14e6c0a9-c5ae-490a-9c78-83aaba13292c&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e76d725d-611a-4c18-9715-4b242d13b740&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '14e6c0a9-c5ae-490a-9c78-83aaba13292c',
+    'e76d725d-611a-4c18-9715-4b242d13b740',
     [{&quot;latitude&quot;:35.4982482,&quot;longitude&quot;:138.7687355,&quot;title&quot;:&quot;Kawaguchiko, Japan&quot;,&quot;url&quot;:&quot;/en/kawaguchiko-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/kawaguchiko-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -1857,12 +1865,12 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Odaiba, Tokyo</title>
-      <description>&lt;div id=&quot;cb7d3c1f-1b12-4877-91ab-003b79737705&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;3cd8c173-b403-4483-98bb-78c6ccb3b40a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'cb7d3c1f-1b12-4877-91ab-003b79737705',
+    '3cd8c173-b403-4483-98bb-78c6ccb3b40a',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Odaiba, Tokyo&quot;,&quot;url&quot;:&quot;/en/odaiba-tokyo&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:13}
   );
 &lt;/script&gt;
 
@@ -2119,12 +2127,12 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Tokyo, Japan</title>
-      <description>&lt;div id=&quot;93657b08-0483-42a1-bd3f-479764105e0a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;3d84cc10-c86a-425f-b65c-ec9f94464658&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '93657b08-0483-42a1-bd3f-479764105e0a',
+    '3d84cc10-c86a-425f-b65c-ec9f94464658',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Tokyo, Japan&quot;,&quot;url&quot;:&quot;/en/tokyo-japan&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
 &lt;/script&gt;
 
@@ -2450,12 +2458,12 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>New Delhi, India</title>
-      <description>&lt;div id=&quot;842813e8-549c-4ec2-ad6b-accf94bedba2&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;aee2ffd3-c343-4c44-b395-fd9c85a7331c&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '842813e8-549c-4ec2-ad6b-accf94bedba2',
+    'aee2ffd3-c343-4c44-b395-fd9c85a7331c',
     [{&quot;latitude&quot;:28.6139453,&quot;longitude&quot;:77.2089075,&quot;title&quot;:&quot;New Delhi, India&quot;,&quot;url&quot;:&quot;/en/new-delhi-india&quot;,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg&quot;}],
-    {&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;customZoom&quot;:5}
   );
 &lt;/script&gt;
 

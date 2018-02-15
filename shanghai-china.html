@@ -10,7 +10,7 @@
     <meta name="keywords" content="шанхай, китай">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201801090528" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201802150335" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -86,7 +86,7 @@
   /* global google */
 /* global MarkerClusterer */
 // eslint-disable-next-line no-unused-vars
-var jekyllMaps = (function () {
+var jekyllMaps = (function() {
   'use strict'
   var clusterSettings = {}
   var clusterReady = false
@@ -104,7 +104,7 @@ var jekyllMaps = (function () {
   /**
    * Setup Google Maps options and call renderer.
    */
-  function initializeMap () {
+  function initializeMap() {
     options = {
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       center: new google.maps.LatLng(0, 0)
@@ -120,7 +120,7 @@ var jekyllMaps = (function () {
    * @param Array locations
    * @param Object settings
    */
-  function register (id, locations, options) {
+  function register(id, locations, options) {
     data.push({ id: id, locations: locations, options: options })
     render()
   }
@@ -128,19 +128,22 @@ var jekyllMaps = (function () {
   /**
    * Render maps data if Google Maps API is loaded.
    */
-  function render () {
+  function render() {
     if (!mapReady) return
 
     while (data.length > 0) {
       var item = data.pop()
       var bounds = new google.maps.LatLngBounds()
       var mapOptions = Object.assign({}, options, item.options)
-      var map = new google.maps.Map(document.getElementById(item.id), mapOptions)
+      var map = new google.maps.Map(
+        document.getElementById(item.id),
+        mapOptions
+      )
       var infoWindow = new google.maps.InfoWindow()
       var markers = item.locations.map(createMarker)
 
       map.fitBounds(bounds)
-      google.maps.event.addListenerOnce(map, 'bounds_changed', function() {
+      google.maps.event.addListenerOnce(map, 'idle', function() {
         if (this.customZoom) this.setZoom(this.customZoom)
       })
       if (mapOptions.useCluster) {
@@ -149,8 +152,11 @@ var jekyllMaps = (function () {
       }
     }
 
-    function createMarker (location) {
-      var position = new google.maps.LatLng(location.latitude, location.longitude)
+    function createMarker(location) {
+      var position = new google.maps.LatLng(
+        location.latitude,
+        location.longitude
+      )
       bounds.extend(position)
       if (!mapOptions.showMarker) return false
 
@@ -158,7 +164,7 @@ var jekyllMaps = (function () {
         position: position,
         title: location.title,
         image: location.image,
-        url: location.url,
+        url: location.url.length > 0 ? mapOptions.baseUrl + location.url : '',
         map: map
       })
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
@@ -166,8 +172,9 @@ var jekyllMaps = (function () {
       return marker
     }
 
-    function markerPopup () {
-      var contentHtml = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+    function markerPopup() {
+      var contentHtml =
+        '<div class="map-info-window"><h5>' + this.title + '</h5>'
       var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
       if (this.url.length > 0) {
         var linkText = this.image.length > 0 ? imageHtml : 'View'
@@ -180,13 +187,13 @@ var jekyllMaps = (function () {
     }
   }
 
-  function initializeCluster (settings) {
+  function initializeCluster(settings) {
     clusterReady = true
     clusterSettings = settings || {}
     processCluster()
   }
 
-  function processCluster () {
+  function processCluster() {
     if (!clusterReady) return
 
     while (maps.length > 0) {
@@ -194,14 +201,15 @@ var jekyllMaps = (function () {
       // eslint-disable-next-line no-new
       new MarkerClusterer(obj.map, obj.markers, {
         gridSize: clusterSettings.grid_size || 25,
-        imagePath: 'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
+        imagePath:
+          'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
       })
     }
   }
-}())
+})()
 /* Object.assign polyfill */
 if (typeof Object.assign !== 'function') {
-  Object.assign = function (target) {
+  Object.assign = function(target) {
     'use strict'
     if (target == null) {
       throw new TypeError('Cannot convert undefined or null to object')
@@ -209,11 +217,11 @@ if (typeof Object.assign !== 'function') {
 
     target = Object(target)
     for (var index = 1; index < arguments.length; index++) {
-      var source = arguments[ index ]
+      var source = arguments[index]
       if (source != null) {
         for (var key in source) {
           if (Object.prototype.hasOwnProperty.call(source, key)) {
-            target[ key ] = source[ key ]
+            target[key] = source[key]
           }
         }
       }
@@ -289,12 +297,12 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="43099ab4-14df-4b7d-b1b9-fe4b4ec45808" style="width:100%;height:568px;"></div>
+    <div id="88eae205-6308-4946-ac3b-0d329df222bd" style="width:100%;height:568px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    '43099ab4-14df-4b7d-b1b9-fe4b4ec45808',
+    '88eae205-6308-4946-ac3b-0d329df222bd',
     [{"latitude":31.2303452,"longitude":121.4716832,"title":"Шанхай, Китай","url":"/shanghai-china","image":"https://content.11route.com/posts/2017/shanghai-china/cover-2000.jpg"}],
-    {"useCluster":true,"showMarker":true,"showMarkerPopup":false,"customZoom":13}
+    {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"customZoom":13}
   );
 </script>
 
