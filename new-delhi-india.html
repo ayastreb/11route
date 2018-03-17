@@ -11,7 +11,7 @@
     <meta name="keywords" content="индия, дели, нью-дели, лоди парк, холи, врата индии, парламент индии, храм лотоса">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201802150431" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201803170349" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -165,7 +165,9 @@ var jekyllMaps = (function() {
         position: position,
         title: location.title,
         image: location.image,
-        url: location.url.length > 0 ? mapOptions.baseUrl + location.url : '',
+        icon: location.icon || mapOptions.markerIcon,
+        url: markerUrl(mapOptions.baseUrl, location.url),
+        url_text: location.url_text,
         map: map
       })
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
@@ -173,17 +175,25 @@ var jekyllMaps = (function() {
       return marker
     }
 
+    function markerUrl(baseUrl, url) {
+      if (/^(https?|\/\/)/.test(url)) return url
+
+      return url.length > 0 ? baseUrl + url : ''
+    }
+
     function markerPopup() {
-      var contentHtml =
-        '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      var content = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+      var imageTag =
+        this.image.length > 0 &&
+        '<img src="' + this.image + '" alt="' + this.title + '"/>'
       if (this.url.length > 0) {
-        var linkText = this.image.length > 0 ? imageHtml : 'View'
-        contentHtml += '<a href="' + this.url + '">' + linkText + '</a></div>'
-      } else if (this.image.length > 0) {
-        contentHtml += imageHtml
+        var linkContent = imageTag || this.url_text || 'View'
+        content += '<a href="' + this.url + '">' + linkContent + '</a>'
+      } else if (imageTag) {
+        content += imageTag
       }
-      infoWindow.setContent(contentHtml)
+      content += '</div>'
+      infoWindow.setContent(content)
       infoWindow.open(map, this)
     }
   }
@@ -297,12 +307,12 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="c3cffce0-cfb4-48b5-b9a1-9b085de905d1" style="width:100%;height:468px;"></div>
+    <div id="bfba2b5f-792b-4d9f-8527-881c386ec594" style="width:100%;height:468px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    'c3cffce0-cfb4-48b5-b9a1-9b085de905d1',
-    [{"latitude":28.6139453,"longitude":77.2089075,"title":"Нью-Дели, Индия","url":"/new-delhi-india","image":"https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg"}],
-    {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"customZoom":5}
+    'bfba2b5f-792b-4d9f-8527-881c386ec594',
+    [{"latitude":28.6139453,"longitude":77.2089075,"title":"Нью-Дели, Индия","icon":null,"url":"/new-delhi-india","url_text":null,"image":"https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg"}],
+    {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"markerIcon":null,"customZoom":5}
   );
 </script>
 

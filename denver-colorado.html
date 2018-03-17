@@ -10,7 +10,7 @@
     <meta name="keywords" content="денвер, колорадо, америка, скалистые горы">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201802150431" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201803170349" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -164,7 +164,9 @@ var jekyllMaps = (function() {
         position: position,
         title: location.title,
         image: location.image,
-        url: location.url.length > 0 ? mapOptions.baseUrl + location.url : '',
+        icon: location.icon || mapOptions.markerIcon,
+        url: markerUrl(mapOptions.baseUrl, location.url),
+        url_text: location.url_text,
         map: map
       })
       if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
@@ -172,17 +174,25 @@ var jekyllMaps = (function() {
       return marker
     }
 
+    function markerUrl(baseUrl, url) {
+      if (/^(https?|\/\/)/.test(url)) return url
+
+      return url.length > 0 ? baseUrl + url : ''
+    }
+
     function markerPopup() {
-      var contentHtml =
-        '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var imageHtml = '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      var content = '<div class="map-info-window"><h5>' + this.title + '</h5>'
+      var imageTag =
+        this.image.length > 0 &&
+        '<img src="' + this.image + '" alt="' + this.title + '"/>'
       if (this.url.length > 0) {
-        var linkText = this.image.length > 0 ? imageHtml : 'View'
-        contentHtml += '<a href="' + this.url + '">' + linkText + '</a></div>'
-      } else if (this.image.length > 0) {
-        contentHtml += imageHtml
+        var linkContent = imageTag || this.url_text || 'View'
+        content += '<a href="' + this.url + '">' + linkContent + '</a>'
+      } else if (imageTag) {
+        content += imageTag
       }
-      infoWindow.setContent(contentHtml)
+      content += '</div>'
+      infoWindow.setContent(content)
       infoWindow.open(map, this)
     }
   }
@@ -297,12 +307,12 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="72947fd6-70ae-45db-83c1-42c559017104" style="width:100%;height:568px;"></div>
+    <div id="e1e06916-4d2c-4954-99fb-e62ac4f29d7a" style="width:100%;height:568px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    '72947fd6-70ae-45db-83c1-42c559017104',
-    [{"latitude":39.7409662,"longitude":-105.0001597,"title":"Денвер, Колорадо","url":"/denver-colorado","image":"https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg"}],
-    {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"customZoom":13}
+    'e1e06916-4d2c-4954-99fb-e62ac4f29d7a',
+    [{"latitude":39.7409662,"longitude":-105.0001597,"title":"Денвер, Колорадо","icon":null,"url":"/denver-colorado","url_text":null,"image":"https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg"}],
+    {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"markerIcon":null,"customZoom":13}
   );
 </script>
 
