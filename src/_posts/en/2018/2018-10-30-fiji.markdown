@@ -1,0 +1,188 @@
+---
+layout: post
+permalink: /en/fiji
+ref: fiji
+lang: en
+title: Fiji
+date: 2018-10-30 12:00:00
+image: https://content.11route.com/posts/2018/fiji/cover-2000.jpg
+summary: Vacation in Pacific Paradise
+categories:
+  - fiji
+  - blue lagoon resort
+  - yatule resort
+location:
+  latitude: -16.9140935
+  longitude: 177.3870058
+---
+
+{% google_map width="100%" height="568" zoom="10" show_popup="false" %}
+
+<section class="text-block">
+  We spent first 3 days on the main island, Viti Levu, in a resort called Yatule.
+  It has a nice long white beach, but unfortunately the sea was rough and there were big waves the whole time we stayed there.
+</section>
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09049-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09049-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09045-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09045-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09035-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09035-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09097-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09097-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09056-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09056-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09062-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09062-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09100-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09100-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+  </div>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09071-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09071-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+</section>
+
+<section class="text-block">
+  After Yatule we went to our main destination - Blue Lagoon Beach Resort. It's located on the Nacula island in the chain of Yasawa islands to the north of main island. The transfer boat takes about 4.5 hours and it stops at many other resorts on the way.
+</section>
+<section class="text-block">
+  The weather at Blue Lagoon was better and there were no waves, probably because it's a lagoon :)
+</section>
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09135-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09135-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09112-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09112-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09137-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09137-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>  
+  <p>Villas have open air bathroom</p>
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09268-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09268-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09138-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09138-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+  </div>  
+  <p>Dive boat which takes people to daily activities.</p>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09139-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09139-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure> 
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09148-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09148-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09212-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09212-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09198-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09198-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+  </div>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09254-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09254-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09271-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09271-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09274-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09274-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="https://content.11route.com/posts/2018/fiji/DSC09287-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09287-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Fiji" />
+      </a>
+    </figure>
+  </div>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09282-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09282-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09293-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09293-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09298-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09298-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09308-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09308-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+  <p>The reef in front of the resort is a great place to snorkel.</p>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09349-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09349-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+</section>
+
+<div class="youtube-video" id="fiji-snorkel" data-video-id="fD_A1ENzr30" width="1000" height="563"></div>
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2018/fiji/DSC09365-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2018/fiji/DSC09365-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Fiji" />
+    </a>
+  </figure>
+</section>
