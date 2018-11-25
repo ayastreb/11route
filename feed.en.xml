@@ -172,11 +172,196 @@ if (typeof Object.assign !== 'function') {
     
     
     <item>
-      <title>Shanghai, China</title>
-      <description>&lt;div id=&quot;16a06956-7b8c-4f6c-ae77-b542eb7b9170&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <title>Fiji</title>
+      <description>&lt;div id=&quot;c1313737-1f93-4ea0-9488-820b1deb31b7&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '16a06956-7b8c-4f6c-ae77-b542eb7b9170',
+    'c1313737-1f93-4ea0-9488-820b1deb31b7',
+    [{&quot;latitude&quot;:-16.9140935,&quot;longitude&quot;:177.3870058,&quot;title&quot;:&quot;Fiji&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/fiji&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2018/fiji/cover-2000.jpg&quot;}],
+    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
+  );
+&lt;/script&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  We spent first 3 days on the main island, Viti Levu, in a resort called Yatule.
+  It has a nice long white beach, but unfortunately the sea was rough and there were big waves the whole time we stayed there.
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09049-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09049-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09045-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09045-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09035-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09035-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09097-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09097-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09056-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09056-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09062-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09062-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09100-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09100-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09071-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09071-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;text-block&quot;&gt;
+  After Yatule we went to our main destination - Blue Lagoon Beach Resort. It's located on the Nacula island in the chain of Yasawa islands to the north of main island. The transfer boat takes about 4.5 hours and it stops at many other resorts on the way.
+&lt;/section&gt;
+&lt;section class=&quot;text-block&quot;&gt;
+  The weather at Blue Lagoon was better and there were no waves, probably because it's a lagoon :)
+&lt;/section&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09135-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09135-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09112-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09112-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09137-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09137-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;  
+  &lt;p&gt;Villas have open air bathroom&lt;/p&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09268-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09268-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09138-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09138-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;  
+  &lt;p&gt;Dive boat which takes people to daily activities.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09139-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09139-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt; 
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09148-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09148-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09212-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09212-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09198-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09198-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09254-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09254-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09271-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09271-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;div class=&quot;image-row&quot;&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09274-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09274-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+      &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09287-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
+        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09287-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09282-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09282-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09293-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09293-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09298-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09298-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09308-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09308-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;The reef in front of the resort is a great place to snorkel.&lt;/p&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09349-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09349-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+
+&lt;div class=&quot;youtube-video&quot; id=&quot;fiji-snorkel&quot; data-video-id=&quot;fD_A1ENzr30&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
+
+&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+    &lt;a href=&quot;https://content.11route.com/posts/2018/fiji/DSC09365-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
+      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2018/fiji/DSC09365-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Fiji&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Tue, 30 Oct 2018 12:00:00 +0000</pubDate>
+      <link>https://11route.com/en/fiji</link>
+      <guid isPermaLink="true">https://11route.com/en/fiji</guid>
+    </item>
+    
+    <item>
+      <title>Shanghai, China</title>
+      <description>&lt;div id=&quot;891e5d44-c6c3-47c5-9956-ffdf31f72bbd&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  jekyllMaps.register(
+    '891e5d44-c6c3-47c5-9956-ffdf31f72bbd',
     [{&quot;latitude&quot;:31.2303452,&quot;longitude&quot;:121.4716832,&quot;title&quot;:&quot;Shanghai, China&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/shanghai-china&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/shanghai-china/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -416,10 +601,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>San Francisco, California</title>
-      <description>&lt;div id=&quot;e6e94212-08f9-432c-92b3-e6f225347ce4&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;63117bd6-0d71-4d66-bb51-9c4e6d22e744&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e6e94212-08f9-432c-92b3-e6f225347ce4',
+    '63117bd6-0d71-4d66-bb51-9c4e6d22e744',
     [{&quot;latitude&quot;:37.7757954,&quot;longitude&quot;:-122.4347574,&quot;title&quot;:&quot;San Francisco, California&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/san-francisco-ca&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/san-francisco-ca/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -726,10 +911,10 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Seattle, Washington</title>
-      <description>&lt;div id=&quot;4a7ce38b-0ce3-4564-ab60-4084538fe79c&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;d2dee436-47ef-4576-aaa3-ee8751f5e563&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '4a7ce38b-0ce3-4564-ab60-4084538fe79c',
+    'd2dee436-47ef-4576-aaa3-ee8751f5e563',
     [{&quot;latitude&quot;:47.6062965,&quot;longitude&quot;:-122.3370089,&quot;title&quot;:&quot;Seattle, Washington&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/seattle-washington&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/seattle-washington/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:14}
   );
@@ -950,10 +1135,10 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Denver, Colorado</title>
-      <description>&lt;div id=&quot;ab91c117-eaa4-4fd7-a59e-06786a696c86&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;80b3a54d-f51b-4049-88e5-2ab99612d0eb&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ab91c117-eaa4-4fd7-a59e-06786a696c86',
+    '80b3a54d-f51b-4049-88e5-2ab99612d0eb',
     [{&quot;latitude&quot;:39.7409662,&quot;longitude&quot;:-105.0001597,&quot;title&quot;:&quot;Denver, Colorado&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/denver-colorado&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1181,10 +1366,10 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Austin, Texas</title>
-      <description>&lt;div id=&quot;98f700df-004e-46e6-878e-0e7a9e5de5a3&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;40c637ac-20cf-4107-89b2-edf00e468f6d&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '98f700df-004e-46e6-878e-0e7a9e5de5a3',
+    '40c637ac-20cf-4107-89b2-edf00e468f6d',
     [{&quot;latitude&quot;:30.2653813,&quot;longitude&quot;:-97.7428643,&quot;title&quot;:&quot;Austin, Texas&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/austin-texas&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/austin-texas/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1286,10 +1471,10 @@ On the next day it was much more sun and we decided to ride a tour boat around t
     
     <item>
       <title>Nikko, Japan</title>
-      <description>&lt;div id=&quot;8b910192-1718-4c12-a060-b78221448978&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;65f149af-a0b2-4530-a503-2df86391c5d2&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '8b910192-1718-4c12-a060-b78221448978',
+    '65f149af-a0b2-4530-a503-2df86391c5d2',
     [{&quot;latitude&quot;:36.7439076,&quot;longitude&quot;:139.4582734,&quot;title&quot;:&quot;Nikko, Japan&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/nikko-japan&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1721,10 +1906,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Kawaguchiko, Japan</title>
-      <description>&lt;div id=&quot;ed892d9a-57f1-41d1-816e-f68e0c852a73&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;b0453976-97c9-4f40-81e5-9fc949b368d6&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ed892d9a-57f1-41d1-816e-f68e0c852a73',
+    'b0453976-97c9-4f40-81e5-9fc949b368d6',
     [{&quot;latitude&quot;:35.4982482,&quot;longitude&quot;:138.7687355,&quot;title&quot;:&quot;Kawaguchiko, Japan&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/kawaguchiko-japan&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/kawaguchiko-japan/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1875,10 +2060,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Odaiba, Tokyo</title>
-      <description>&lt;div id=&quot;9058df32-cbd7-4fff-8d4a-79c42b8d5aca&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;48cbc1e9-db10-4d63-9d00-8e3bf0ba1176&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '9058df32-cbd7-4fff-8d4a-79c42b8d5aca',
+    '48cbc1e9-db10-4d63-9d00-8e3bf0ba1176',
     [{&quot;latitude&quot;:35.6234004,&quot;longitude&quot;:139.7745537,&quot;title&quot;:&quot;Odaiba, Tokyo&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/odaiba-tokyo&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/odaiba-tokyo/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -2137,10 +2322,10 @@ In the evening the weather got worse and it started to rain, but we were already
     
     <item>
       <title>Tokyo, Japan</title>
-      <description>&lt;div id=&quot;7ebb426c-7903-4458-b73c-e71c05fa7c1f&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;1b045703-7825-4d8a-9eb2-c5140519049c&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '7ebb426c-7903-4458-b73c-e71c05fa7c1f',
+    '1b045703-7825-4d8a-9eb2-c5140519049c',
     [{&quot;latitude&quot;:35.6851793,&quot;longitude&quot;:139.7506108,&quot;title&quot;:&quot;Tokyo, Japan&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/tokyo-japan&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/tokyo-japan/cover-2000.jpg&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:5}
   );
@@ -2464,216 +2649,6 @@ In the evening the weather got worse and it started to rain, but we were already
       <pubDate>Sun, 02 Apr 2017 12:00:00 +0000</pubDate>
       <link>https://11route.com/en/tokyo-japan</link>
       <guid isPermaLink="true">https://11route.com/en/tokyo-japan</guid>
-    </item>
-    
-    <item>
-      <title>New Delhi, India</title>
-      <description>&lt;div id=&quot;4f3029b1-d486-49d1-9fff-60302929a2b6&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-  jekyllMaps.register(
-    '4f3029b1-d486-49d1-9fff-60302929a2b6',
-    [{&quot;latitude&quot;:28.6139453,&quot;longitude&quot;:77.2089075,&quot;title&quot;:&quot;New Delhi, India&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/new-delhi-india&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/new-delhi-india/cover-2000.jpg&quot;}],
-    {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:5}
-  );
-&lt;/script&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-After Kathmandu we arrived to New Delhi, from where we flew back to Germany later.
-Having heard a lot of scary stories about terrible living conditions in India,
- we decided to book a hotel a bit more expensive in a bit more fancier part of town :smile:&lt;br /&gt;
- After all Delhi turned out to be a nice city, compared to Kathmandu it was far ahead.
-&lt;/section&gt;
-&lt;section class=&quot;text-block&quot;&gt;
-We've settled in the south part of town in the neighborhood called Hauz Khas.
-It's a gated community where wealthy indians are living.
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  This year on March 13th a Holi festival was held in India. It is also known as a festival of colours.
-  Everyone has a day off this day and throws paint at each other :smile:
-  The owner of our hotel advised us not to go to crowded places if we didn't wanted to get painted.
-  It's impossible to wash out the paint from your clothes.&lt;br /&gt;
-  I've put my worst clothes and went to visit some not-crowded places :smile:
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  First I went to Lodi Gardens. It's a small beautiful park in Delhi with architecture from 15th century.
-  There were not a lot of people here and nobody was throwing any paint :smile:
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02898-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02898-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02904-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2116&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02904-1000.jpg&quot; width=&quot;1000&quot; height=&quot;705&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02914-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2176&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02914-1000.jpg&quot; width=&quot;1000&quot; height=&quot;725&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02918-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02918-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02959-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02959-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02966-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02966-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02976-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02976-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02991-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02991-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  After that I went to India's Gate - a war memorial to Indian Army soldiers who died in first world war.
-  Here were a bit more people and I got painted by some kids running around :smile:
-  From here I walked to the Parliament, but it was closed for visitors.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02993-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC02993-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03002-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03002-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03005-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03005-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03013-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03013-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03017-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03017-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03021-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03021-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03025-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2004x3000&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03025-750.jpg&quot; width=&quot;501&quot; height=&quot;750&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  Traffic in Delhi is packed, but not as chaotic as in Kathmandu.
-&lt;/section&gt;
-
-&lt;div class=&quot;youtube-video&quot; id=&quot;traffic&quot; data-video-id=&quot;fUcLVHlRRME&quot; width=&quot;1000&quot; height=&quot;563&quot;&gt;&lt;/div&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  In a couple of days I've also visited Lotus Temple - the main temple of Bahai religion in India.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03055-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03055-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;Pools around the temple cool it down in summer heat.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03068-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03068-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;p&gt;There are solar panels in the garden.&lt;/p&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03059-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03059-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03079-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03079-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03080-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03080-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03084-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03084-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;div class=&quot;image-row&quot;&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03091-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03091-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-    &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-      &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03092-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-        &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03092-750.jpg&quot; width=&quot;750&quot; height=&quot;501&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section class=&quot;text-block&quot;&gt;
-  Not far away from our hotel, next to a park was a place called Social Cafe.
-  It's a place where fancy rich locals go for a night out or a dinner.
-  They have pretty good food here.
-&lt;/section&gt;
-
-&lt;section class=&quot;image-gallery&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03098-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03098-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03114-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03114-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-  &lt;figure itemprop=&quot;associatedMedia&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-    &lt;a href=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03115-3000.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;3000x2004&quot;&gt;
-      &lt;img src=&quot;/images/bg.png&quot; data-src=&quot;https://content.11route.com/posts/2017/new-delhi-india/DSC03115-1000.jpg&quot; width=&quot;1000&quot; height=&quot;668&quot; itemprop=&quot;thumbnail&quot; alt=&quot;New Delhi, India&quot; /&gt;
-    &lt;/a&gt;
-  &lt;/figure&gt;
-&lt;/section&gt;
-</description>
-      <pubDate>Mon, 13 Mar 2017 12:00:00 +0000</pubDate>
-      <link>https://11route.com/en/new-delhi-india</link>
-      <guid isPermaLink="true">https://11route.com/en/new-delhi-india</guid>
     </item>
     
   </channel>
