@@ -10,7 +10,7 @@
     <meta name="keywords" content="осень в японии, никко, водопады никко, озеро тюдзэнзи">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201811250834" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201907070940" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -164,6 +164,7 @@ var jekyllMaps = (function() {
         position: position,
         title: location.title,
         image: location.image,
+        popup_html: location.popup_html,
         icon: location.icon || mapOptions.markerIcon,
         url: markerUrl(mapOptions.baseUrl, location.url),
         url_text: location.url_text,
@@ -182,14 +183,19 @@ var jekyllMaps = (function() {
 
     function markerPopup() {
       var content = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var imageTag =
-        this.image.length > 0 &&
-        '<img src="' + this.image + '" alt="' + this.title + '"/>'
-      if (this.url.length > 0) {
-        var linkContent = imageTag || this.url_text || 'View'
-        content += '<a href="' + this.url + '">' + linkContent + '</a>'
-      } else if (imageTag) {
-        content += imageTag
+      if (this.popup_html.length > 0) {
+        content += this.popup_html
+      }
+      else {
+        var imageTag =
+          this.image.length > 0 &&
+          '<img src="' + this.image + '" alt="' + this.title + '"/>'
+        if (this.url.length > 0) {
+          var linkContent = imageTag || this.url_text || 'View'
+          content += '<a href="' + this.url + '">' + linkContent + '</a>'
+        } else if (imageTag) {
+          content += imageTag
+        }
       }
       content += '</div>'
       infoWindow.setContent(content)
@@ -307,11 +313,11 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="46e2a986-b069-43a0-bae9-5469218bd4b5" style="width:100%;height:568px;"></div>
+    <div id="26fb6d1a-bfce-4372-ae49-2d77564abeb9" style="width:100%;height:568px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    '46e2a986-b069-43a0-bae9-5469218bd4b5',
-    [{"latitude":36.7439076,"longitude":139.4582734,"title":"Никко, Япония","icon":null,"url":"/nikko-japan","url_text":null,"image":"https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg"}],
+    '26fb6d1a-bfce-4372-ae49-2d77564abeb9',
+    [{"latitude":36.7439076,"longitude":139.4582734,"title":"Никко, Япония","icon":null,"url":"/nikko-japan","url_text":null,"image":"https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg","popup_html":""}],
     {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"markerIcon":null,"customZoom":13}
   );
 </script>
@@ -862,7 +868,7 @@ if (typeof Object.assign !== 'function') {
 <footer class="center">
   <div class="measure">
     <small>
-      © 2018 by
+      © 2019 by
       <a href="https://ayastreb.me" target="_blank">Anatoliy Yastreb</a>
       <br/>
       <a href="mailto:contact@11route.com" target="_blank">Контакт</a>

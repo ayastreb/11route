@@ -2195,6 +2195,24 @@
     <loc>https://11route.com/css/pixyll.css</loc>
     
     
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/404.html" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/feed.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/ru" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/map" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/css/pixyll.css" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/sitemap.xml" />
+    
   </url>
   
   
@@ -2202,6 +2220,24 @@
   <url>
     <loc>https://11route.com/sitemap.xml</loc>
     
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/404.html" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/feed.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/ru" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://11route.com/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="https://11route.com/map" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/css/pixyll.css" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://11route.com/sitemap.xml" />
     
   </url>
   

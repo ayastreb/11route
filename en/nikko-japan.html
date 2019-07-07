@@ -10,7 +10,7 @@
     <meta name="keywords" content="autumn in Japan, fall leaves, nikko, waterfalls, chuzenji lake">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.en.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201811250834" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201907070940" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -164,6 +164,7 @@ var jekyllMaps = (function() {
         position: position,
         title: location.title,
         image: location.image,
+        popup_html: location.popup_html,
         icon: location.icon || mapOptions.markerIcon,
         url: markerUrl(mapOptions.baseUrl, location.url),
         url_text: location.url_text,
@@ -182,14 +183,19 @@ var jekyllMaps = (function() {
 
     function markerPopup() {
       var content = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var imageTag =
-        this.image.length > 0 &&
-        '<img src="' + this.image + '" alt="' + this.title + '"/>'
-      if (this.url.length > 0) {
-        var linkContent = imageTag || this.url_text || 'View'
-        content += '<a href="' + this.url + '">' + linkContent + '</a>'
-      } else if (imageTag) {
-        content += imageTag
+      if (this.popup_html.length > 0) {
+        content += this.popup_html
+      }
+      else {
+        var imageTag =
+          this.image.length > 0 &&
+          '<img src="' + this.image + '" alt="' + this.title + '"/>'
+        if (this.url.length > 0) {
+          var linkContent = imageTag || this.url_text || 'View'
+          content += '<a href="' + this.url + '">' + linkContent + '</a>'
+        } else if (imageTag) {
+          content += imageTag
+        }
       }
       content += '</div>'
       infoWindow.setContent(content)
@@ -307,11 +313,11 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="65f149af-a0b2-4530-a503-2df86391c5d2" style="width:100%;height:568px;"></div>
+    <div id="58a0d203-148b-4d7f-b912-3a3fef678419" style="width:100%;height:568px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    '65f149af-a0b2-4530-a503-2df86391c5d2',
-    [{"latitude":36.7439076,"longitude":139.4582734,"title":"Nikko, Japan","icon":null,"url":"/en/nikko-japan","url_text":null,"image":"https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg"}],
+    '58a0d203-148b-4d7f-b912-3a3fef678419',
+    [{"latitude":36.7439076,"longitude":139.4582734,"title":"Nikko, Japan","icon":null,"url":"/en/nikko-japan","url_text":null,"image":"https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg","popup_html":""}],
     {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"markerIcon":null,"customZoom":13}
   );
 </script>
@@ -863,7 +869,7 @@ In the evening the weather got worse and it started to rain, but we were already
 <footer class="center">
   <div class="measure">
     <small>
-      © 2018 by
+      © 2019 by
       <a href="https://ayastreb.me" target="_blank">Anatoliy Yastreb</a>
       <br/>
       <a href="mailto:contact@11route.com" target="_blank">Contact</a>

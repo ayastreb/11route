@@ -10,7 +10,7 @@
     <meta name="keywords" content="остров пхи пхи, тайланд, снорклинг, акулы">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ElevenRoute" href="/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/pixyll.css?201811250834" type="text/css">
+    <link rel="stylesheet" href="/css/pixyll.css?201907070940" type="text/css">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="stylesheet" href="/css/default-skin/default-skin.css">
 
@@ -164,6 +164,7 @@ var jekyllMaps = (function() {
         position: position,
         title: location.title,
         image: location.image,
+        popup_html: location.popup_html,
         icon: location.icon || mapOptions.markerIcon,
         url: markerUrl(mapOptions.baseUrl, location.url),
         url_text: location.url_text,
@@ -182,14 +183,19 @@ var jekyllMaps = (function() {
 
     function markerPopup() {
       var content = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var imageTag =
-        this.image.length > 0 &&
-        '<img src="' + this.image + '" alt="' + this.title + '"/>'
-      if (this.url.length > 0) {
-        var linkContent = imageTag || this.url_text || 'View'
-        content += '<a href="' + this.url + '">' + linkContent + '</a>'
-      } else if (imageTag) {
-        content += imageTag
+      if (this.popup_html.length > 0) {
+        content += this.popup_html
+      }
+      else {
+        var imageTag =
+          this.image.length > 0 &&
+          '<img src="' + this.image + '" alt="' + this.title + '"/>'
+        if (this.url.length > 0) {
+          var linkContent = imageTag || this.url_text || 'View'
+          content += '<a href="' + this.url + '">' + linkContent + '</a>'
+        } else if (imageTag) {
+          content += imageTag
+        }
       }
       content += '</div>'
       infoWindow.setContent(content)
@@ -307,11 +313,11 @@ if (typeof Object.assign !== 'function') {
 
 <div class="measure">
   <article class="post-content">
-    <div id="cfe2cccc-930e-4177-a93d-0ca6f196e72c" style="width:100%;height:668px;"></div>
+    <div id="9ee50aea-5334-4edf-bde4-2a0b558087d3" style="width:100%;height:668px;"></div>
 <script type="text/javascript">
   jekyllMaps.register(
-    'cfe2cccc-930e-4177-a93d-0ca6f196e72c',
-    [{"latitude":7.6549553,"longitude":98.7631943,"title":"Острова Пхи-Пхи, Тайланд","icon":null,"url":"/phi-phi-thailand","url_text":null,"image":"https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg"}],
+    '9ee50aea-5334-4edf-bde4-2a0b558087d3',
+    [{"latitude":7.6549553,"longitude":98.7631943,"title":"Острова Пхи-Пхи, Тайланд","icon":null,"url":"/phi-phi-thailand","url_text":null,"image":"https://content.11route.com/posts/2017/phi-phi-thailand/cover-2000.jpg","popup_html":""}],
     {"baseUrl":"","useCluster":true,"showMarker":true,"showMarkerPopup":false,"markerIcon":null,"customZoom":12}
   );
 </script>
@@ -559,7 +565,7 @@ if (typeof Object.assign !== 'function') {
 <footer class="center">
   <div class="measure">
     <small>
-      © 2018 by
+      © 2019 by
       <a href="https://ayastreb.me" target="_blank">Anatoliy Yastreb</a>
       <br/>
       <a href="mailto:contact@11route.com" target="_blank">Контакт</a>
