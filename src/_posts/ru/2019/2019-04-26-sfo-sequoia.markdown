@@ -1,16 +1,16 @@
 ---
 layout: post
-permalink: /en/sfo-sequoia
+permalink: /sfo-sequoia
 ref: sfo-sequoia
-lang: en
-title: Highway 1 & Sequoia National Park
+lang: ru
+title: Трасса №1 & Национальный парк Севойя
 date: 2019-04-26 12:00:00
 image: https://content.11route.com/posts/2019/sfo-sequoia/cover-2000.jpg
 summary: Road trip along Highway 1
 categories:
-  - pacific coast
-  - highway 1
-  - sequoia national park
+  - тихий океан
+  - трасса 101
+  - национальный парк секвойя
 location:
   latitude: 36.4863943
   longitude: -118.5853411
@@ -19,12 +19,13 @@ location:
 {% google_map width="100%" height="568" zoom="10" show_popup="false" %}
 
 <section class="text-block">
-  Our California road-trip started in San-Francisco.
-  We rented a car for 11 days and headed south to Sequoia National Park.
+  Наш авто-пробег по Калифорнии начался в Сан-Франциско. 
+  Мы сняли машину на 11 дней и направились на юг к национальному парку Секвойя.
 </section>
 <section class="text-block">
-  Our route was on the scenic Highway 1, but the weather wasn't great this day, so most of the time we spent in a thick fog.
+  Дорога пролегала по живописному хайвею №1 - но погода в этот день была не самая лучшая, и большую часть пути мы провели в густом тумане.
 </section>
+
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -60,9 +61,8 @@ location:
 </section>
 
 <section class="text-block">
-  There is a beach near to San-Simeon, where a lot of elephant seals live.
-  We saw them during a period called molting. During this time the seals haul to the beach to shed their outer layer skin.
-  This process takes about a month, during this time they just lay on a beach and do not consume any food.
+  Возле городка Сан-Симеон находится пляж, на котором поселились морские слоны. Мы застали их в период линьки - раз в году морские слоны меняют верхний слой кожи, этот процес занимает около месяц.
+  Все это время они лежат на пляже и ничего не едят.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -104,14 +104,13 @@ location:
 </section>
 
 <section class="text-block">
-  By the evening we arrived to our hotel, but it turned out that Booking.com canceled our reservation and we didn't get a notice, since we didn't have any internet.
-  We had to find a new place and drive there.
+  К ночи мы добрались до нашего отеля возле парка, но оказалось, что Booking.com отменил наше бронирование - в пути у нас небыло интернета, и узнали мы об этом только на стойке отеля.
+  Пришлось срочно искать новое место и ехать туда.
 </section>
 
 <section class="text-block">
-  In the morning we went to Sequoia National Park. This park is famous for its giant sequoia trees.
-  General Sherman - the biggest tree on Earth (by volume) - is locaed here.
-  Along General Sherman neighbours are another 5 of 10 biggest trees in the world.
+  Утром мы отправились в национальный парк Секвойя. Знаменит этот парк тем, что здесь растут гигантские севойи.
+  Здесь находится Генерал Шерман - самое большое по объему древесины дерево на Земле, а по соседству с ним растут еще 5 из 10 самых больших деревьев в мире.
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -151,9 +150,8 @@ location:
 </section>
 
 <section class="text-block">
-  General Sherman. Height: 83.8 m (274.9 ft), Circumference at ground: 31.3 m (102.6 ft),
-  weight: 1910 metric tons, estimated age: 2300-2700 years.
-  But it's not even the oldes tree in this park, there are some trees that are around 3500 years old! 
+  Генерал Шерман. Высота - 83.8 метра, длина окружности на уровне земли - 31.3 метра, масса - 1910 тонн, возвраст - около 2300-2700 лет.
+  И это еще на самое старое дерево в этом парке, некоторым деревьям около 3500 лет. 
 </section>
 
 <section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
