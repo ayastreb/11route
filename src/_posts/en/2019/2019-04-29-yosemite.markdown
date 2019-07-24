@@ -1,0 +1,125 @@
+---
+layout: post
+permalink: /en/yosemite
+ref: yosemite
+lang: en
+title: Yosemite National Park
+date: 2019-04-29 12:00:00
+image: https://content.11route.com/posts/2019/yosemite/cover-2000.jpg
+summary: Yosemite National Park
+categories:
+  - Yosemite National Park
+location:
+  latitude: 37.7452619
+  longitude: -119.6004065
+---
+
+{% google_map width="100%" height="568" zoom="10" show_popup="false" %}
+
+<section class="text-block">
+  Our next stop was Yosemite National Park to the north of Sequoia National Park.
+  The most visited place in the park is Yosemite Valley: around 4-5 million visitors per year.
+  We arrived on Saturday morning and all the parking places were already full,
+  so we had to drive in circles for about an hour looking for a place to park.
+</section>
+
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09770-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09770-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Yosemite" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09786-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09786-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Yosemite" />
+        </a>
+    </figure>
+  </div>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09792-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09792-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09793-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09793-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09797-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09797-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09803-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09803-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09805-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09805-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+</section>
+
+<section class="text-block">
+  In the late spring, the snow starts to melt in the higher mountains and powers the waterfalls.
+  The Merced river running through the park was flooded and some areas were closed.
+</section>
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09813-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09813-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09820-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09820-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09831-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09831-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Yosemite" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09828-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09828-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Yosemite" />
+        </a>
+    </figure>
+  </div>
+
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09835-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09835-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Yosemite" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09843-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09843-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Yosemite" />
+        </a>
+    </figure>
+  </div>
+
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09864-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09864-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09822-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09822-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/yosemite/DSC09884-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/yosemite/DSC09884-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Yosemite" />
+    </a>
+  </figure>
+</section>
