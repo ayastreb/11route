@@ -1,0 +1,196 @@
+---
+layout: post
+permalink: /tahoe
+ref: tahoe
+lang: ru
+title: Озеро Тахо
+date: 2019-05-02 12:00:00
+image: https://content.11route.com/posts/2019/tahoe/cover-2000.jpg
+summary: Озеро Тахо
+categories:
+  - озеро тахо
+location:
+  latitude: 38.9545561
+  longitude: -119.9472496
+---
+
+{% google_map width="100%" height="568" zoom="10" show_popup="false" %}
+
+<section class="text-block">
+  После Йосемите мы направились к озеру Тахо - самому большому горному озеру в северной америке.
+  Оно находится в горах Сьера-Невада на высоте 1,900м на границе штатов Калифорния и Невада.
+  Зимой здесь популярный горнолыжный курорт, а летом - место пляжного отдыха.
+  Мы попали сюда в межсезонье, туристов было мало, а цены на отели очень доступные.
+</section>
+
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00016-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00016-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00030-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00030-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00023-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00023-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+  </div>
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00025-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00025-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00035-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00035-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+  </div>
+  
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00043-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00043-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00054-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00054-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00059-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00059-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+  </div>
+
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00063-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00063-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00069-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00069-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC00065-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00065-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+  </div>
+  
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00071-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00071-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00076-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00076-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00080-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00080-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00090-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00090-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC09905-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09905-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC09932-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09932-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC09943-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09943-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+
+  <div class="image-row">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09979-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09979-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="https://content.11route.com/posts/2019/yosemite/DSC09953-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+          <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09953-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
+        </a>
+    </figure>
+  </div>
+</section>
+
+<section class="text-block">
+  Изначально мы арендовали кабриолет BMW, но через пару дней у него сломалась крыша - перестала закрываться.
+  Пришлось ехать в Сакраменто, где нам его заменили на Dodge Challenger - уже не кабриолет :)
+</section>
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00094-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00094-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00099-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00099-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00114-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00114-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00007-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00007-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC00008-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00008-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+</section>
+
+<section class="text-block">
+  В лесу возле озера мы нашли интересное растение - называется снежный цветок, или саркодес по-научному.
+  Оказалось, что это растение-паразит, ворует питательные элементы у корней деревьев.
+</section>
+
+<section class="image-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <a href="https://content.11route.com/posts/2019/tahoe/DSC09988-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+      <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09988-1000.jpg" width="1000" height="668" itemprop="thumbnail" alt="Lake Tahoe" />
+    </a>
+  </figure>
+</section>
