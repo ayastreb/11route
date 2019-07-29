@@ -179,17 +179,17 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Озеро Тахо</title>
-      <description>&lt;div id=&quot;897f2f5f-1fa7-40cb-810d-a13deb439b34&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;489dd226-ed6d-4384-9bd0-8e4608de3803&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '897f2f5f-1fa7-40cb-810d-a13deb439b34',
+    '489dd226-ed6d-4384-9bd0-8e4608de3803',
     [{&quot;latitude&quot;:38.9545561,&quot;longitude&quot;:-119.9472496,&quot;title&quot;:&quot;Озеро Тахо&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/tahoe&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/tahoe/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
 &lt;/script&gt;
 
 &lt;section class=&quot;text-block&quot;&gt;
-  После Йосемите мы направились к озеру Тахо - самому большому горному озеру в северной америке.
+  После Йосемите мы направились к озеру Тахо - самому большому горному озеру в северной Америке.
   Оно находится в горах Сьера-Невада на высоте 1,900м на границе штатов Калифорния и Невада.
   Зимой здесь популярный горнолыжный курорт, а летом - место пляжного отдыха.
   Мы попали сюда в межсезонье, туристов было мало, а цены на отели очень доступные.
@@ -373,10 +373,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Национальный парк Йосемите</title>
-      <description>&lt;div id=&quot;ffe01bdf-62af-4f22-b75b-763223aca408&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;1261686e-37b7-4d43-aa2c-d1a5a072fdd5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ffe01bdf-62af-4f22-b75b-763223aca408',
+    '1261686e-37b7-4d43-aa2c-d1a5a072fdd5',
     [{&quot;latitude&quot;:37.7452619,&quot;longitude&quot;:-119.6004065,&quot;title&quot;:&quot;Национальный парк Йосемите&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/yosemite&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/yosemite/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -495,10 +495,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Трасса №1 &amp; Национальный парк Севойя</title>
-      <description>&lt;div id=&quot;0c7d4445-31ac-46c7-b8af-9c7d6cdf2a4b&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;a2e35eb9-3e7b-4dea-9005-04a52b492832&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '0c7d4445-31ac-46c7-b8af-9c7d6cdf2a4b',
+    'a2e35eb9-3e7b-4dea-9005-04a52b492832',
     [{&quot;latitude&quot;:36.4863943,&quot;longitude&quot;:-118.5853411,&quot;title&quot;:&quot;Трасса №1 &amp; Национальный парк Севойя&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/sfo-sequoia&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/sfo-sequoia/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -752,10 +752,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Фиджи</title>
-      <description>&lt;div id=&quot;10d5be1e-43c9-4c65-9516-4c1fa47fa574&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;1e6eeed3-dd60-4ba6-ac90-6188a1fddf59&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '10d5be1e-43c9-4c65-9516-4c1fa47fa574',
+    '1e6eeed3-dd60-4ba6-ac90-6188a1fddf59',
     [{&quot;latitude&quot;:-16.9140935,&quot;longitude&quot;:177.3870058,&quot;title&quot;:&quot;Фиджи&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/fiji&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2018/fiji/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -936,10 +936,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Шанхай, Китай</title>
-      <description>&lt;div id=&quot;d7d0ca7c-354d-44bd-8cfe-e0933d5cc5b5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f9296aaf-20ed-4e74-9202-752b380f31d3&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd7d0ca7c-354d-44bd-8cfe-e0933d5cc5b5',
+    'f9296aaf-20ed-4e74-9202-752b380f31d3',
     [{&quot;latitude&quot;:31.2303452,&quot;longitude&quot;:121.4716832,&quot;title&quot;:&quot;Шанхай, Китай&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/shanghai-china&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/shanghai-china/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1178,10 +1178,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Сан-Франциско, Калифорния</title>
-      <description>&lt;div id=&quot;47cbdb91-66ee-43ed-bdab-74fb6e9df92a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;203eba4d-8008-4894-8cd4-10de63f28e86&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '47cbdb91-66ee-43ed-bdab-74fb6e9df92a',
+    '203eba4d-8008-4894-8cd4-10de63f28e86',
     [{&quot;latitude&quot;:37.7757954,&quot;longitude&quot;:-122.4347574,&quot;title&quot;:&quot;Сан-Франциско, Калифорния&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/san-francisco-ca&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/san-francisco-ca/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1488,10 +1488,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Сиэттл, Вашингтон</title>
-      <description>&lt;div id=&quot;77ae8289-2dcd-4150-8cbb-abcff53a693b&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;2cf2473a-8749-47a0-ae98-f8fd487f4d3f&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '77ae8289-2dcd-4150-8cbb-abcff53a693b',
+    '2cf2473a-8749-47a0-ae98-f8fd487f4d3f',
     [{&quot;latitude&quot;:47.6062965,&quot;longitude&quot;:-122.3370089,&quot;title&quot;:&quot;Сиэттл, Вашингтон&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/seattle-washington&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/seattle-washington/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:14}
   );
@@ -1711,10 +1711,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Денвер, Колорадо</title>
-      <description>&lt;div id=&quot;a7385dd0-9cc1-4d3a-af20-73eb420eb4c3&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;b90a8eef-50a5-462f-a927-cd3ada28ab08&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'a7385dd0-9cc1-4d3a-af20-73eb420eb4c3',
+    'b90a8eef-50a5-462f-a927-cd3ada28ab08',
     [{&quot;latitude&quot;:39.7409662,&quot;longitude&quot;:-105.0001597,&quot;title&quot;:&quot;Денвер, Колорадо&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/denver-colorado&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1942,10 +1942,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остин, Техас</title>
-      <description>&lt;div id=&quot;e35f8ea5-f18c-4aba-b634-adbfe870c863&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;203d13a9-c43d-48fb-a29d-536deb731426&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e35f8ea5-f18c-4aba-b634-adbfe870c863',
+    '203d13a9-c43d-48fb-a29d-536deb731426',
     [{&quot;latitude&quot;:30.2653813,&quot;longitude&quot;:-97.7428643,&quot;title&quot;:&quot;Остин, Техас&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/austin-texas&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/austin-texas/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -2047,10 +2047,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Никко, Япония</title>
-      <description>&lt;div id=&quot;5fcf4c80-c999-4531-b980-81869e1c7ac2&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;06de4254-2cd0-4fc5-8814-9bf6950dfbc0&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '5fcf4c80-c999-4531-b980-81869e1c7ac2',
+    '06de4254-2cd0-4fc5-8814-9bf6950dfbc0',
     [{&quot;latitude&quot;:36.7439076,&quot;longitude&quot;:139.4582734,&quot;title&quot;:&quot;Никко, Япония&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/nikko-japan&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/nikko-japan/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
