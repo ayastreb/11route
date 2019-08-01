@@ -34,24 +34,24 @@ location:
   
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00030-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00030-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00030-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00023-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00023-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00023-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
   </div>
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00025-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00025-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00025-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00035-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00035-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00035-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
@@ -65,12 +65,12 @@ location:
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00054-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00054-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00054-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00059-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00059-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00059-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
@@ -84,12 +84,12 @@ location:
   
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00069-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00069-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00069-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC00065-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC00065-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC00065-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
@@ -136,12 +136,12 @@ location:
 
   <div class="image-row">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC09979-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC09979-3000.jpg" itemprop="contentUrl" data-size="3000x2004">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09979-750.jpg" width="750" height="501" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="https://content.11route.com/posts/2019/yosemite/DSC09953-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
+        <a href="https://content.11route.com/posts/2019/tahoe/DSC09953-3000.jpg" itemprop="contentUrl" data-size="2004x3000">
           <img src="/images/bg.png" data-src="https://content.11route.com/posts/2019/tahoe/DSC09953-750.jpg" width="501" height="750" itemprop="thumbnail" alt="Lake Tahoe" />
         </a>
     </figure>
