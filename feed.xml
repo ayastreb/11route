@@ -179,10 +179,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Зоопарк Сан-Франциско</title>
-      <description>&lt;div id=&quot;b400adb5-8fa8-4df5-85f2-55a7cfdb0c5a&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;3fe6584e-4998-4ea2-83e7-b62afc82aa1e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'b400adb5-8fa8-4df5-85f2-55a7cfdb0c5a',
+    '3fe6584e-4998-4ea2-83e7-b62afc82aa1e',
     [{&quot;latitude&quot;:37.7331894,&quot;longitude&quot;:-122.506402,&quot;title&quot;:&quot;Зоопарк Сан-Франциско&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/sfo-zoo&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/sfo-zoo/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:15}
   );
@@ -428,10 +428,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Озеро Тахо</title>
-      <description>&lt;div id=&quot;a92f48f7-351c-46b9-9a31-bf5ef7e050d9&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;cf7f366d-30e7-4901-8c66-a91b4c011b1e&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'a92f48f7-351c-46b9-9a31-bf5ef7e050d9',
+    'cf7f366d-30e7-4901-8c66-a91b4c011b1e',
     [{&quot;latitude&quot;:38.9545561,&quot;longitude&quot;:-119.9472496,&quot;title&quot;:&quot;Озеро Тахо&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/tahoe&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/tahoe/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -622,10 +622,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Национальный парк Йосемите</title>
-      <description>&lt;div id=&quot;ce983a72-d4b1-4642-8d30-1fb07992b212&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;a57b5a84-44ed-41c1-8be0-cd546c85fe4f&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'ce983a72-d4b1-4642-8d30-1fb07992b212',
+    'a57b5a84-44ed-41c1-8be0-cd546c85fe4f',
     [{&quot;latitude&quot;:37.7452619,&quot;longitude&quot;:-119.6004065,&quot;title&quot;:&quot;Национальный парк Йосемите&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/yosemite&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/yosemite/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -744,10 +744,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Трасса №1 &amp; Национальный парк Севойя</title>
-      <description>&lt;div id=&quot;d9713467-c536-4c0a-840e-cf4c09a744d5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;045b1105-9325-4a1f-b730-4983016ef288&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd9713467-c536-4c0a-840e-cf4c09a744d5',
+    '045b1105-9325-4a1f-b730-4983016ef288',
     [{&quot;latitude&quot;:36.4863943,&quot;longitude&quot;:-118.5853411,&quot;title&quot;:&quot;Трасса №1 &amp; Национальный парк Севойя&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/sfo-sequoia&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2019/sfo-sequoia/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -1001,10 +1001,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Фиджи</title>
-      <description>&lt;div id=&quot;d2fd5c3b-401c-4f10-aea6-e5d95da29c94&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;d0515776-b174-46e7-9f4f-b6a81a44491d&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'd2fd5c3b-401c-4f10-aea6-e5d95da29c94',
+    'd0515776-b174-46e7-9f4f-b6a81a44491d',
     [{&quot;latitude&quot;:-16.9140935,&quot;longitude&quot;:177.3870058,&quot;title&quot;:&quot;Фиджи&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/fiji&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2018/fiji/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:10}
   );
@@ -1185,10 +1185,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Шанхай, Китай</title>
-      <description>&lt;div id=&quot;96039def-1607-4f6a-81a5-cd940f07d4d1&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;63551c66-1ea4-4728-8a6a-8a9a5db364f5&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '96039def-1607-4f6a-81a5-cd940f07d4d1',
+    '63551c66-1ea4-4728-8a6a-8a9a5db364f5',
     [{&quot;latitude&quot;:31.2303452,&quot;longitude&quot;:121.4716832,&quot;title&quot;:&quot;Шанхай, Китай&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/shanghai-china&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/shanghai-china/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1427,10 +1427,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Сан-Франциско, Калифорния</title>
-      <description>&lt;div id=&quot;274dfd3a-d967-440a-a9ea-8a8160c5f195&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;ffde6683-edf6-480b-9f4c-d73424c9e844&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '274dfd3a-d967-440a-a9ea-8a8160c5f195',
+    'ffde6683-edf6-480b-9f4c-d73424c9e844',
     [{&quot;latitude&quot;:37.7757954,&quot;longitude&quot;:-122.4347574,&quot;title&quot;:&quot;Сан-Франциско, Калифорния&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/san-francisco-ca&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/san-francisco-ca/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -1737,10 +1737,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Сиэттл, Вашингтон</title>
-      <description>&lt;div id=&quot;577df624-9703-4677-970b-9237a32491de&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;4aa9a3ae-0442-4b35-950b-d08a08c4dd57&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '577df624-9703-4677-970b-9237a32491de',
+    '4aa9a3ae-0442-4b35-950b-d08a08c4dd57',
     [{&quot;latitude&quot;:47.6062965,&quot;longitude&quot;:-122.3370089,&quot;title&quot;:&quot;Сиэттл, Вашингтон&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/seattle-washington&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/seattle-washington/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:14}
   );
@@ -1960,10 +1960,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Денвер, Колорадо</title>
-      <description>&lt;div id=&quot;91d361e1-0aaf-4841-b91d-a4238a3fbc30&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f10ed3d0-2fb4-4b2a-b8fb-412d5d876cb4&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '91d361e1-0aaf-4841-b91d-a4238a3fbc30',
+    'f10ed3d0-2fb4-4b2a-b8fb-412d5d876cb4',
     [{&quot;latitude&quot;:39.7409662,&quot;longitude&quot;:-105.0001597,&quot;title&quot;:&quot;Денвер, Колорадо&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/denver-colorado&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/denver-colorado/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
@@ -2191,10 +2191,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Остин, Техас</title>
-      <description>&lt;div id=&quot;c734f384-f154-4261-adb2-5ef06fc50343&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;e6fa3181-0bbe-42b1-a233-35cced8cf68d&quot; style=&quot;width:100%;height:568px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'c734f384-f154-4261-adb2-5ef06fc50343',
+    'e6fa3181-0bbe-42b1-a233-35cced8cf68d',
     [{&quot;latitude&quot;:30.2653813,&quot;longitude&quot;:-97.7428643,&quot;title&quot;:&quot;Остин, Техас&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/austin-texas&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/austin-texas/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:13}
   );
